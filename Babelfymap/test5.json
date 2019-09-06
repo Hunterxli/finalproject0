@@ -1,0 +1,412 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 2,
+                "text": "The",
+                "isEntity": false
+            },
+            {
+                "start": 4,
+                "end": 5,
+                "text": "``",
+                "isEntity": false
+            },
+            {
+                "start": 7,
+                "end": 16,
+                "text": "Black Rain",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 7,
+                    "end": 16
+                },
+                "babelSynsetID": "bn:03002301n",
+                "DBpediaURL": "http://dbpedia.org/resource/The_Last_Wave",
+                "BabelNetURL": "http://babelnet.org/rdf/s03002301n",
+                "score": 1.0,
+                "coherenceScore": 0.75,
+                "globalScore": 0.11842105263157894,
+                "source": "BABELFY"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": "''",
+                "isEntity": false
+            },
+            {
+                "start": 21,
+                "end": 22,
+                "text": "is",
+                "isEntity": false
+            },
+            {
+                "start": 24,
+                "end": 24,
+                "text": "a",
+                "isEntity": false
+            },
+            {
+                "start": 26,
+                "end": 33,
+                "text": "metaphor",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 26,
+                    "end": 33
+                },
+                "babelSynsetID": "bn:00054578n",
+                "DBpediaURL": "http://dbpedia.org/resource/Metaphor",
+                "BabelNetURL": "http://babelnet.org/rdf/s00054578n",
+                "score": 1.0,
+                "coherenceScore": 0.75,
+                "globalScore": 0.11842105263157894,
+                "source": "BABELFY"
+            },
+            {
+                "start": 35,
+                "end": 37,
+                "text": "for",
+                "isEntity": false
+            },
+            {
+                "start": 39,
+                "end": 41,
+                "text": "oil",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 39,
+                    "end": 41
+                },
+                "babelSynsetID": "bn:00024112n",
+                "DBpediaURL": "http://dbpedia.org/resource/Petroleum",
+                "BabelNetURL": "http://babelnet.org/rdf/s00024112n",
+                "score": 0.9333333333333333,
+                "coherenceScore": 1.0,
+                "globalScore": 0.3684210526315789,
+                "source": "BABELFY"
+            },
+            {
+                "start": 43,
+                "end": 43,
+                "text": ".",
+                "isEntity": false
+            }
+        ],
+        [
+            {
+                "start": 0,
+                "end": 2,
+                "text": "The",
+                "isEntity": false
+            },
+            {
+                "start": 4,
+                "end": 7,
+                "text": "song",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 4,
+                    "end": 7
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 0.8163265306122449,
+                "coherenceScore": 0.7142857142857143,
+                "globalScore": 0.13114754098360656,
+                "source": "BABELFY"
+            },
+            {
+                "start": 9,
+                "end": 17,
+                "text": "expresses",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 9,
+                    "end": 17
+                },
+                "babelSynsetID": "bn:00087778v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00087778v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 19,
+                "end": 22,
+                "text": "Ozzy",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 19,
+                    "end": 22
+                },
+                "babelSynsetID": "bn:00274720n",
+                "DBpediaURL": "http://dbpedia.org/resource/Ozzy_(album)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00274720n",
+                "score": 1.0,
+                "coherenceScore": 0.14285714285714285,
+                "globalScore": 0.003278688524590164,
+                "source": "BABELFY"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "text": "'s",
+                "isEntity": false
+            },
+            {
+                "start": 27,
+                "end": 34,
+                "text": "feelings",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 27,
+                    "end": 34
+                },
+                "babelSynsetID": "bn:00033963n",
+                "DBpediaURL": "http://dbpedia.org/resource/Feeling",
+                "BabelNetURL": "http://babelnet.org/rdf/s00033963n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 36,
+                "end": 40,
+                "text": "about",
+                "isEntity": false
+            },
+            {
+                "start": 42,
+                "end": 44,
+                "text": "the",
+                "isEntity": false
+            },
+            {
+                "start": 46,
+                "end": 56,
+                "text": "war in Iraq",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 46,
+                    "end": 56
+                },
+                "babelSynsetID": "bn:01293603n",
+                "DBpediaURL": "http://dbpedia.org/resource/2003_invasion_of_Iraq",
+                "BabelNetURL": "http://babelnet.org/rdf/s01293603n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 58,
+                "end": 57,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 59,
+                "end": 59,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 60,
+                "end": 62,
+                "text": "and",
+                "isEntity": false
+            },
+            {
+                "start": 64,
+                "end": 66,
+                "text": "how",
+                "isEntity": false
+            },
+            {
+                "start": 68,
+                "end": 69,
+                "text": "it",
+                "isEntity": false
+            },
+            {
+                "start": 71,
+                "end": 73,
+                "text": "was",
+                "isEntity": false
+            },
+            {
+                "start": 75,
+                "end": 83,
+                "text": "motivated",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 16,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 75,
+                    "end": 83
+                },
+                "babelSynsetID": "bn:00082313v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00082313v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 85,
+                "end": 86,
+                "text": "by",
+                "isEntity": false
+            },
+            {
+                "start": 88,
+                "end": 90,
+                "text": "oil",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 18,
+                    "end": 18
+                },
+                "charFragment": {
+                    "start": 88,
+                    "end": 90
+                },
+                "babelSynsetID": "bn:00024112n",
+                "DBpediaURL": "http://dbpedia.org/resource/Petroleum",
+                "BabelNetURL": "http://babelnet.org/rdf/s00024112n",
+                "score": 0.9565217391304348,
+                "coherenceScore": 0.5714285714285714,
+                "globalScore": 0.14426229508196722,
+                "source": "BABELFY"
+            },
+            {
+                "start": 92,
+                "end": 92,
+                "text": ".",
+                "isEntity": false
+            }
+        ],
+        [
+            {
+                "start": 0,
+                "end": 4,
+                "text": "-LRB-",
+                "isEntity": false
+            },
+            {
+                "start": 6,
+                "end": 11,
+                "text": "thanks",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 6,
+                    "end": 11
+                },
+                "babelSynsetID": "bn:00076768n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00076768n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 13,
+                "end": 12,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 14,
+                "end": 14,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 15,
+                "end": 18,
+                "text": "Sean",
+                "isEntity": false
+            },
+            {
+                "start": 20,
+                "end": 20,
+                "text": "-",
+                "isEntity": false
+            },
+            {
+                "start": 22,
+                "end": 33,
+                "text": "Detroit , MI",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 22,
+                    "end": 33
+                },
+                "babelSynsetID": "bn:00026672n",
+                "DBpediaURL": "http://dbpedia.org/resource/Motown",
+                "BabelNetURL": "http://babelnet.org/rdf/s00026672n",
+                "score": 1.0,
+                "coherenceScore": 1.0,
+                "globalScore": 0.2828282828282828,
+                "source": "BABELFY"
+            },
+            {
+                "start": 35,
+                "end": 39,
+                "text": "-RRB-",
+                "isEntity": false
+            }
+        ]
+    ]
+}
