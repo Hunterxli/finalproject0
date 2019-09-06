@@ -61,17 +61,10 @@ def extraction_Words():
 	for i in range(x):
 		result = wn.morphy(finalwords[i], wn.NOUN)
 		#result2 = wn.morphy(finalwords[i], wn.VERB)
-		print(result)
+		print("Keyword:" + str(result))
 		if result != None:
-			print(wn.synsets(finalwords[i]))
-			
-			word = wn.synset(finalwords[i] +'.n.01')
-			#word = wn.synset(finalwords[i] +'.n.01').lemma_names()
-			
-	
-			print("hypernyms")
-			print (word.hypernyms())
-			print("synonyms")
+			#print(wn.synsets(finalwords[i]))
+			print("synonyms:")
 			synonyms = []
 			for syn in wn.synsets(finalwords[i]):
 				for l in syn.lemmas():
