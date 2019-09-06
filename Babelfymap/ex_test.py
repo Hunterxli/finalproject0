@@ -8,7 +8,6 @@ entity = []
 dbpedia = []
 finalwords = []
 finaldbpedia = []
-k = 2
 number = 2
 
 
@@ -77,7 +76,7 @@ def extraction_Words():
 #extraction_Words()
 
 
-while number < 3:
+while number <= 3:
 	find_Words()
 	extraction_Words()
 	number += 1
