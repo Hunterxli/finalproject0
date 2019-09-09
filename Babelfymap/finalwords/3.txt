@@ -1,0 +1,7 @@
+Frontman
+Charlie Fink
+lyrics:lyric,words,language,lyric,lyric_poem,lyric
+Last Night on Earth
+heavily
+influenced
+poetry:poetry,poesy,verse,poetry

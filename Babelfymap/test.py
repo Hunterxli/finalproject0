@@ -53,10 +53,11 @@ def find_Words():
 		for i, value in enumerate(entity):
 			if value == True:
 				print(words[i] + ":" + str(entity[i]))
+				finalwords.append(words[i])
 		for i, value in enumerate(dbpedia):
 			if value != '':
 				finaldbpedia.append(dbpedia[i])
-				finalwords.append(words[i])
+				#finalwords.append(words[i])
 				print(words[i] + ":" + str(dbpedia[i]))
 		print(finalwords)
 		print(finaldbpedia)
@@ -66,10 +67,12 @@ def find_Words():
 #find_Words()
 
 
-def extraction_Words():
+def expand_Words():
 	i = 0
 	print(len(finalwords))
 	x = len(finalwords)
+	with open("finalwords/%s.txt" %(number),"w") as f:
+		f.truncate()
 	for i in range(x):
 		result = wn.morphy(finalwords[i], wn.NOUN)
 		#result2 = wn.morphy(finalwords[i], wn.VERB)
@@ -83,16 +86,24 @@ def extraction_Words():
 					synonyms.append(l.name())
 			print(set(synonyms))
 			print("\n")
+			with open("finalwords/%s.txt" %(number),"a+") as f:
+				f.write(finalwords[i] + ':')
+				synonyms = ",".join(synonyms)
+				f.write(synonyms + '\n')
 		else:
 			print("No synonyms.")
 			print("\n")
+			with open("finalwords/%s.txt" %(number),"a+") as f:
+				
+				f.write(finalwords[i] + '\n')
+			
 
 #extraction_Words()
 
 
 while number <= 3:
 	find_Words()
-	extraction_Words()
+	expand_Words()
 	number += 1
 		
 
