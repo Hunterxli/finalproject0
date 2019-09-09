@@ -1,0 +1,1723 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 2,
+                "text": "The",
+                "isEntity": false
+            },
+            {
+                "start": 4,
+                "end": 10,
+                "text": "origins",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 4,
+                    "end": 10
+                },
+                "babelSynsetID": "bn:00009635n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00009635n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 12,
+                "end": 13,
+                "text": "of",
+                "isEntity": false
+            },
+            {
+                "start": 15,
+                "end": 18,
+                "text": "this",
+                "isEntity": false
+            },
+            {
+                "start": 20,
+                "end": 24,
+                "text": "moody",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 20,
+                    "end": 24
+                },
+                "babelSynsetID": "bn:14406386n",
+                "DBpediaURL": "http://dbpedia.org/resource/Moody_(album)",
+                "BabelNetURL": "http://babelnet.org/rdf/s14406386n",
+                "score": 1.0,
+                "coherenceScore": 0.25,
+                "globalScore": 0.00819672131147541,
+                "source": "BABELFY"
+            },
+            {
+                "start": 26,
+                "end": 25,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 27,
+                "end": 27,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 28,
+                "end": 37,
+                "text": "electronic",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 28,
+                    "end": 37
+                },
+                "babelSynsetID": "bn:00102099a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00102099a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 39,
+                "end": 44,
+                "text": "ballad",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 39,
+                    "end": 44
+                },
+                "babelSynsetID": "bn:00008154n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00008154n",
+                "score": 1.0,
+                "coherenceScore": 0.25,
+                "globalScore": 0.00819672131147541,
+                "source": "BABELFY"
+            },
+            {
+                "start": 46,
+                "end": 49,
+                "text": "were",
+                "isEntity": false
+            },
+            {
+                "start": 51,
+                "end": 51,
+                "text": "a",
+                "isEntity": false
+            },
+            {
+                "start": 53,
+                "end": 60,
+                "text": "rejected",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 53,
+                    "end": 60
+                },
+                "babelSynsetID": "bn:00092723v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00092723v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 62,
+                "end": 65,
+                "text": "demo",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 62,
+                    "end": 65
+                },
+                "babelSynsetID": "bn:00026144n",
+                "DBpediaURL": "http://dbpedia.org/resource/Demo_(computer_programming)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00026144n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 67,
+                "end": 70,
+                "text": "that",
+                "isEntity": false
+            },
+            {
+                "start": 72,
+                "end": 74,
+                "text": "had",
+                "isEntity": false
+            },
+            {
+                "start": 76,
+                "end": 78,
+                "text": "one",
+                "isEntity": false
+            },
+            {
+                "start": 80,
+                "end": 85,
+                "text": "little",
+                "isEntity": false
+            },
+            {
+                "start": 87,
+                "end": 90,
+                "text": "part",
+                "isEntity": false
+            },
+            {
+                "start": 92,
+                "end": 96,
+                "text": "which",
+                "isEntity": false
+            },
+            {
+                "start": 98,
+                "end": 100,
+                "text": "the",
+                "isEntity": false
+            },
+            {
+                "start": 102,
+                "end": 105,
+                "text": "band",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 19,
+                    "end": 19
+                },
+                "charFragment": {
+                    "start": 102,
+                    "end": 105
+                },
+                "babelSynsetID": "bn:00068051n",
+                "DBpediaURL": "http://dbpedia.org/resource/Musical_ensemble",
+                "BabelNetURL": "http://babelnet.org/rdf/s00068051n",
+                "score": 0.8360655737704918,
+                "coherenceScore": 0.75,
+                "globalScore": 0.4180327868852459,
+                "source": "BABELFY"
+            },
+            {
+                "start": 107,
+                "end": 111,
+                "text": "liked",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 20,
+                    "end": 20
+                },
+                "charFragment": {
+                    "start": 107,
+                    "end": 111
+                },
+                "babelSynsetID": "bn:00084526v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00084526v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 113,
+                "end": 113,
+                "text": ".",
+                "isEntity": false
+            }
+        ],
+        [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "``",
+                "isEntity": false
+            },
+            {
+                "start": 3,
+                "end": 6,
+                "text": "Some",
+                "isEntity": false
+            },
+            {
+                "start": 8,
+                "end": 12,
+                "text": "songs",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 8,
+                    "end": 12
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 0.7786259541984732,
+                "coherenceScore": 0.4,
+                "globalScore": 0.17,
+                "source": "BABELFY"
+            },
+            {
+                "start": 14,
+                "end": 15,
+                "text": "we",
+                "isEntity": false
+            },
+            {
+                "start": 17,
+                "end": 19,
+                "text": "'ll",
+                "isEntity": false
+            },
+            {
+                "start": 21,
+                "end": 32,
+                "text": "come up with",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 21,
+                    "end": 32
+                },
+                "babelSynsetID": "bn:13667333v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s13667333v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 34,
+                "end": 38,
+                "text": "demos",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 34,
+                    "end": 38
+                },
+                "babelSynsetID": "bn:00026144n",
+                "DBpediaURL": "http://dbpedia.org/resource/Demo_(computer_programming)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00026144n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 40,
+                "end": 39,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 41,
+                "end": 41,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 42,
+                "end": 44,
+                "text": "and",
+                "isEntity": false
+            },
+            {
+                "start": 46,
+                "end": 49,
+                "text": "they",
+                "isEntity": false
+            },
+            {
+                "start": 51,
+                "end": 52,
+                "text": "wo",
+                "isEntity": false
+            },
+            {
+                "start": 54,
+                "end": 56,
+                "text": "n't",
+                "isEntity": false
+            },
+            {
+                "start": 58,
+                "end": 61,
+                "text": "ever",
+                "isEntity": false
+            },
+            {
+                "start": 63,
+                "end": 71,
+                "text": "turn into",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 16,
+                    "end": 17
+                },
+                "charFragment": {
+                    "start": 63,
+                    "end": 71
+                },
+                "babelSynsetID": "bn:13672054v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s13672054v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 73,
+                "end": 80,
+                "text": "anything",
+                "isEntity": false
+            },
+            {
+                "start": 82,
+                "end": 84,
+                "text": "...",
+                "isEntity": false
+            },
+            {
+                "start": 86,
+                "end": 87,
+                "text": "we",
+                "isEntity": false
+            },
+            {
+                "start": 89,
+                "end": 91,
+                "text": "'ll",
+                "isEntity": false
+            },
+            {
+                "start": 93,
+                "end": 96,
+                "text": "hear",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 22,
+                    "end": 22
+                },
+                "charFragment": {
+                    "start": 93,
+                    "end": 96
+                },
+                "babelSynsetID": "bn:00089277v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00089277v",
+                "score": 1.0,
+                "coherenceScore": 0.06666666666666667,
+                "globalScore": 0.0016666666666666668,
+                "source": "BABELFY"
+            },
+            {
+                "start": 98,
+                "end": 101,
+                "text": "them",
+                "isEntity": false
+            },
+            {
+                "start": 103,
+                "end": 102,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 104,
+                "end": 104,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 105,
+                "end": 107,
+                "text": "and",
+                "isEntity": false
+            },
+            {
+                "start": 109,
+                "end": 110,
+                "text": "we",
+                "isEntity": false
+            },
+            {
+                "start": 112,
+                "end": 114,
+                "text": "'ll",
+                "isEntity": false
+            },
+            {
+                "start": 116,
+                "end": 119,
+                "text": "know",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 28,
+                    "end": 28
+                },
+                "charFragment": {
+                    "start": 116,
+                    "end": 119
+                },
+                "babelSynsetID": "bn:00085261v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00085261v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 121,
+                "end": 124,
+                "text": "they",
+                "isEntity": false
+            },
+            {
+                "start": 126,
+                "end": 128,
+                "text": "'re",
+                "isEntity": false
+            },
+            {
+                "start": 130,
+                "end": 132,
+                "text": "not",
+                "isEntity": false
+            },
+            {
+                "start": 134,
+                "end": 137,
+                "text": "ever",
+                "isEntity": false
+            },
+            {
+                "start": 139,
+                "end": 143,
+                "text": "going",
+                "isEntity": false
+            },
+            {
+                "start": 145,
+                "end": 146,
+                "text": "to",
+                "isEntity": false
+            },
+            {
+                "start": 148,
+                "end": 149,
+                "text": "be",
+                "isEntity": false
+            },
+            {
+                "start": 151,
+                "end": 151,
+                "text": "a",
+                "isEntity": false
+            },
+            {
+                "start": 153,
+                "end": 157,
+                "text": "great",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 37,
+                    "end": 37
+                },
+                "charFragment": {
+                    "start": 153,
+                    "end": 157
+                },
+                "babelSynsetID": "bn:00103779a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00103779a",
+                "score": 1.0,
+                "coherenceScore": 0.13333333333333333,
+                "globalScore": 0.006666666666666667,
+                "source": "BABELFY"
+            },
+            {
+                "start": 159,
+                "end": 162,
+                "text": "song",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 38,
+                    "end": 38
+                },
+                "charFragment": {
+                    "start": 159,
+                    "end": 162
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 0.9152542372881356,
+                "coherenceScore": 0.4,
+                "globalScore": 0.27,
+                "source": "BABELFY"
+            },
+            {
+                "start": 164,
+                "end": 165,
+                "text": "on",
+                "isEntity": false
+            },
+            {
+                "start": 167,
+                "end": 171,
+                "text": "their",
+                "isEntity": false
+            },
+            {
+                "start": 173,
+                "end": 175,
+                "text": "own",
+                "isEntity": false
+            },
+            {
+                "start": 177,
+                "end": 176,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 178,
+                "end": 178,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 179,
+                "end": 180,
+                "text": "''",
+                "isEntity": false
+            },
+            {
+                "start": 182,
+                "end": 193,
+                "text": "Mike Shinoda",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 43,
+                    "end": 44
+                },
+                "charFragment": {
+                    "start": 182,
+                    "end": 193
+                },
+                "babelSynsetID": "bn:00663917n",
+                "DBpediaURL": "http://dbpedia.org/resource/Mike_Shinoda",
+                "BabelNetURL": "http://babelnet.org/rdf/s00663917n",
+                "score": 1.0,
+                "coherenceScore": 0.3333333333333333,
+                "globalScore": 0.041666666666666664,
+                "source": "BABELFY"
+            },
+            {
+                "start": 195,
+                "end": 198,
+                "text": "told",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 45,
+                    "end": 45
+                },
+                "charFragment": {
+                    "start": 195,
+                    "end": 198
+                },
+                "babelSynsetID": "bn:00093287v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00093287v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 200,
+                "end": 202,
+                "text": "MTV",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 46,
+                    "end": 46
+                },
+                "charFragment": {
+                    "start": 200,
+                    "end": 202
+                },
+                "babelSynsetID": "bn:01145422n",
+                "DBpediaURL": "http://dbpedia.org/resource/MTV",
+                "BabelNetURL": "http://babelnet.org/rdf/s01145422n",
+                "score": 0.9,
+                "coherenceScore": 0.4,
+                "globalScore": 0.09,
+                "source": "BABELFY"
+            },
+            {
+                "start": 204,
+                "end": 207,
+                "text": "News",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 47,
+                    "end": 47
+                },
+                "charFragment": {
+                    "start": 204,
+                    "end": 207
+                },
+                "babelSynsetID": "bn:00057546n",
+                "DBpediaURL": "http://dbpedia.org/resource/News",
+                "BabelNetURL": "http://babelnet.org/rdf/s00057546n",
+                "score": 0.8,
+                "coherenceScore": 0.13333333333333333,
+                "globalScore": 0.006666666666666667,
+                "source": "BABELFY"
+            },
+            {
+                "start": 209,
+                "end": 209,
+                "text": ".",
+                "isEntity": false
+            }
+        ],
+        [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "``",
+                "isEntity": false
+            },
+            {
+                "start": 3,
+                "end": 5,
+                "text": "But",
+                "isEntity": false
+            },
+            {
+                "start": 7,
+                "end": 11,
+                "text": "there",
+                "isEntity": false
+            },
+            {
+                "start": 13,
+                "end": 15,
+                "text": "may",
+                "isEntity": false
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "text": "be",
+                "isEntity": false
+            },
+            {
+                "start": 20,
+                "end": 20,
+                "text": "a",
+                "isEntity": false
+            },
+            {
+                "start": 22,
+                "end": 28,
+                "text": "section",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 22,
+                    "end": 28
+                },
+                "babelSynsetID": "bn:00070190n",
+                "DBpediaURL": "http://dbpedia.org/resource/Section_(music)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00070190n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "text": "of",
+                "isEntity": false
+            },
+            {
+                "start": 33,
+                "end": 34,
+                "text": "it",
+                "isEntity": false
+            },
+            {
+                "start": 36,
+                "end": 35,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 37,
+                "end": 37,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 38,
+                "end": 38,
+                "text": "a",
+                "isEntity": false
+            },
+            {
+                "start": 40,
+                "end": 45,
+                "text": "little",
+                "isEntity": false
+            },
+            {
+                "start": 47,
+                "end": 53,
+                "text": "glimmer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 47,
+                    "end": 53
+                },
+                "babelSynsetID": "bn:00040637n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00040637n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 55,
+                "end": 56,
+                "text": "of",
+                "isEntity": false
+            },
+            {
+                "start": 58,
+                "end": 61,
+                "text": "cool",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 58,
+                    "end": 61
+                },
+                "babelSynsetID": "bn:00100441a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00100441a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 63,
+                "end": 71,
+                "text": "something",
+                "isEntity": false
+            },
+            {
+                "start": 73,
+                "end": 74,
+                "text": "in",
+                "isEntity": false
+            },
+            {
+                "start": 76,
+                "end": 77,
+                "text": "it",
+                "isEntity": false
+            },
+            {
+                "start": 79,
+                "end": 78,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 80,
+                "end": 80,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 81,
+                "end": 83,
+                "text": "and",
+                "isEntity": false
+            },
+            {
+                "start": 85,
+                "end": 87,
+                "text": "the",
+                "isEntity": false
+            },
+            {
+                "start": 89,
+                "end": 92,
+                "text": "song",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 21,
+                    "end": 21
+                },
+                "charFragment": {
+                    "start": 89,
+                    "end": 92
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 0.9705882352941176,
+                "coherenceScore": 1.0,
+                "globalScore": 0.6346153846153846,
+                "source": "BABELFY"
+            },
+            {
+                "start": 94,
+                "end": 94,
+                "text": "`",
+                "isEntity": false
+            },
+            {
+                "start": 96,
+                "end": 100,
+                "text": "Until",
+                "isEntity": false
+            },
+            {
+                "start": 102,
+                "end": 103,
+                "text": "It",
+                "isEntity": false
+            },
+            {
+                "start": 105,
+                "end": 110,
+                "text": "Breaks",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 25,
+                    "end": 25
+                },
+                "charFragment": {
+                    "start": 105,
+                    "end": 110
+                },
+                "babelSynsetID": "bn:00012896n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00012896n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 112,
+                "end": 112,
+                "text": "'",
+                "isEntity": false
+            },
+            {
+                "start": 114,
+                "end": 115,
+                "text": "is",
+                "isEntity": false
+            },
+            {
+                "start": 117,
+                "end": 121,
+                "text": "built",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 27,
+                    "end": 27
+                },
+                "charFragment": {
+                    "start": 117,
+                    "end": 121
+                },
+                "babelSynsetID": "bn:00084203v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00084203v",
+                "score": 1.0,
+                "coherenceScore": 0.3333333333333333,
+                "globalScore": 0.019230769230769232,
+                "source": "BABELFY"
+            },
+            {
+                "start": 123,
+                "end": 126,
+                "text": "from",
+                "isEntity": false
+            },
+            {
+                "start": 128,
+                "end": 131,
+                "text": "just",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 29,
+                    "end": 29
+                },
+                "charFragment": {
+                    "start": 128,
+                    "end": 131
+                },
+                "babelSynsetID": "bn:00114626r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00114626r",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 133,
+                "end": 137,
+                "text": "those",
+                "isEntity": false
+            },
+            {
+                "start": 139,
+                "end": 139,
+                "text": ".",
+                "isEntity": false
+            }
+        ],
+        [
+            {
+                "start": 0,
+                "end": 4,
+                "text": "There",
+                "isEntity": false
+            },
+            {
+                "start": 6,
+                "end": 9,
+                "text": "were",
+                "isEntity": false
+            },
+            {
+                "start": 11,
+                "end": 14,
+                "text": "like",
+                "isEntity": false
+            },
+            {
+                "start": 16,
+                "end": 19,
+                "text": "four",
+                "isEntity": false
+            },
+            {
+                "start": 21,
+                "end": 25,
+                "text": "demos",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 21,
+                    "end": 25
+                },
+                "babelSynsetID": "bn:00026144n",
+                "DBpediaURL": "http://dbpedia.org/resource/Demo_(computer_programming)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00026144n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 27,
+                "end": 30,
+                "text": "that",
+                "isEntity": false
+            },
+            {
+                "start": 32,
+                "end": 33,
+                "text": "we",
+                "isEntity": false
+            },
+            {
+                "start": 35,
+                "end": 37,
+                "text": "had",
+                "isEntity": false
+            },
+            {
+                "start": 39,
+                "end": 42,
+                "text": "made",
+                "isEntity": false
+            },
+            {
+                "start": 44,
+                "end": 47,
+                "text": "that",
+                "isEntity": false
+            },
+            {
+                "start": 49,
+                "end": 52,
+                "text": "were",
+                "isEntity": false
+            },
+            {
+                "start": 54,
+                "end": 56,
+                "text": "n't",
+                "isEntity": false
+            },
+            {
+                "start": 58,
+                "end": 62,
+                "text": "going",
+                "isEntity": false
+            },
+            {
+                "start": 64,
+                "end": 71,
+                "text": "anywhere",
+                "isEntity": false
+            },
+            {
+                "start": 73,
+                "end": 84,
+                "text": "individually",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 15
+                },
+                "charFragment": {
+                    "start": 73,
+                    "end": 84
+                },
+                "babelSynsetID": "bn:00115904r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00115904r",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 86,
+                "end": 85,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 87,
+                "end": 87,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 88,
+                "end": 90,
+                "text": "but",
+                "isEntity": false
+            },
+            {
+                "start": 92,
+                "end": 95,
+                "text": "when",
+                "isEntity": false
+            },
+            {
+                "start": 97,
+                "end": 99,
+                "text": "you",
+                "isEntity": false
+            },
+            {
+                "start": 101,
+                "end": 103,
+                "text": "put",
+                "isEntity": false
+            },
+            {
+                "start": 105,
+                "end": 108,
+                "text": "them",
+                "isEntity": false
+            },
+            {
+                "start": 110,
+                "end": 112,
+                "text": "all",
+                "isEntity": false
+            },
+            {
+                "start": 114,
+                "end": 121,
+                "text": "together",
+                "isEntity": false
+            },
+            {
+                "start": 123,
+                "end": 122,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 124,
+                "end": 124,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 125,
+                "end": 128,
+                "text": "they",
+                "isEntity": false
+            },
+            {
+                "start": 130,
+                "end": 133,
+                "text": "make",
+                "isEntity": false
+            },
+            {
+                "start": 135,
+                "end": 143,
+                "text": "something",
+                "isEntity": false
+            },
+            {
+                "start": 145,
+                "end": 150,
+                "text": "really",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 28,
+                    "end": 28
+                },
+                "charFragment": {
+                    "start": 145,
+                    "end": 150
+                },
+                "babelSynsetID": "bn:00115504r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00115504r",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 152,
+                "end": 162,
+                "text": "interesting",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 29,
+                    "end": 29
+                },
+                "charFragment": {
+                    "start": 152,
+                    "end": 162
+                },
+                "babelSynsetID": "bn:00089814v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00089814v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 164,
+                "end": 164,
+                "text": ".",
+                "isEntity": false
+            }
+        ],
+        [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "It",
+                "isEntity": false
+            },
+            {
+                "start": 3,
+                "end": 4,
+                "text": "'s",
+                "isEntity": false
+            },
+            {
+                "start": 6,
+                "end": 13,
+                "text": "supposed",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 6,
+                    "end": 13
+                },
+                "babelSynsetID": "bn:00083370v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00083370v",
+                "score": 1.0,
+                "coherenceScore": 0.16666666666666666,
+                "globalScore": 0.09090909090909091,
+                "source": "BABELFY"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "to",
+                "isEntity": false
+            },
+            {
+                "start": 18,
+                "end": 21,
+                "text": "feel",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 18,
+                    "end": 21
+                },
+                "babelSynsetID": "bn:00087864v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00087864v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 23,
+                "end": 28,
+                "text": "really",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 23,
+                    "end": 28
+                },
+                "babelSynsetID": "bn:00115504r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00115504r",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 30,
+                "end": 36,
+                "text": "jarring",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 30,
+                    "end": 36
+                },
+                "babelSynsetID": "bn:00089947v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00089947v",
+                "score": 1.0,
+                "coherenceScore": 0.16666666666666666,
+                "globalScore": 0.045454545454545456,
+                "source": "BABELFY"
+            },
+            {
+                "start": 38,
+                "end": 40,
+                "text": "and",
+                "isEntity": false
+            },
+            {
+                "start": 42,
+                "end": 46,
+                "text": "weird",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 42,
+                    "end": 46
+                },
+                "babelSynsetID": "bn:00102076a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00102076a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 48,
+                "end": 47,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 49,
+                "end": 49,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 50,
+                "end": 52,
+                "text": "and",
+                "isEntity": false
+            },
+            {
+                "start": 54,
+                "end": 56,
+                "text": "for",
+                "isEntity": false
+            },
+            {
+                "start": 58,
+                "end": 59,
+                "text": "me",
+                "isEntity": false
+            },
+            {
+                "start": 61,
+                "end": 62,
+                "text": "it",
+                "isEntity": false
+            },
+            {
+                "start": 64,
+                "end": 66,
+                "text": "was",
+                "isEntity": false
+            },
+            {
+                "start": 68,
+                "end": 68,
+                "text": "a",
+                "isEntity": false
+            },
+            {
+                "start": 70,
+                "end": 75,
+                "text": "really",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 16,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 70,
+                    "end": 75
+                },
+                "babelSynsetID": "bn:00115504r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00115504r",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 77,
+                "end": 79,
+                "text": "fun",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 17
+                },
+                "charFragment": {
+                    "start": 77,
+                    "end": 79
+                },
+                "babelSynsetID": "bn:00036813n",
+                "DBpediaURL": "http://dbpedia.org/resource/Fun",
+                "BabelNetURL": "http://babelnet.org/rdf/s00036813n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 81,
+                "end": 84,
+                "text": "song",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 18,
+                    "end": 18
+                },
+                "charFragment": {
+                    "start": 81,
+                    "end": 84
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 1.0,
+                "coherenceScore": 0.16666666666666666,
+                "globalScore": 0.09090909090909091,
+                "source": "BABELFY"
+            },
+            {
+                "start": 86,
+                "end": 87,
+                "text": "to",
+                "isEntity": false
+            },
+            {
+                "start": 89,
+                "end": 92,
+                "text": "make",
+                "isEntity": false
+            },
+            {
+                "start": 94,
+                "end": 94,
+                "text": ".",
+                "isEntity": false
+            },
+            {
+                "start": 96,
+                "end": 97,
+                "text": "''",
+                "isEntity": false
+            }
+        ],
+        [
+            {
+                "start": 0,
+                "end": 8,
+                "text": "Guitarist",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 8
+                },
+                "babelSynsetID": "bn:00042152n",
+                "DBpediaURL": "http://dbpedia.org/resource/Guitarist",
+                "BabelNetURL": "http://babelnet.org/rdf/s00042152n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 10,
+                "end": 20,
+                "text": "Brad Delson",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 10,
+                    "end": 20
+                },
+                "babelSynsetID": "bn:00663937n",
+                "DBpediaURL": "http://dbpedia.org/resource/Brad_Delson",
+                "BabelNetURL": "http://babelnet.org/rdf/s00663937n",
+                "score": 1.0,
+                "coherenceScore": 0.5,
+                "globalScore": 0.0975609756097561,
+                "source": "BABELFY"
+            },
+            {
+                "start": 22,
+                "end": 29,
+                "text": "provides",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 22,
+                    "end": 29
+                },
+                "babelSynsetID": "bn:00084692v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00084692v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 31,
+                "end": 31,
+                "text": "a",
+                "isEntity": false
+            },
+            {
+                "start": 33,
+                "end": 36,
+                "text": "rare",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 33,
+                    "end": 36
+                },
+                "babelSynsetID": "bn:00109440a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00109440a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 38,
+                "end": 42,
+                "text": "vocal",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 38,
+                    "end": 42
+                },
+                "babelSynsetID": "bn:00080173n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00080173n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 44,
+                "end": 45,
+                "text": "on",
+                "isEntity": false
+            },
+            {
+                "start": 47,
+                "end": 50,
+                "text": "this",
+                "isEntity": false
+            },
+            {
+                "start": 52,
+                "end": 55,
+                "text": "song",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 52,
+                    "end": 55
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 0.7272727272727273,
+                "coherenceScore": 0.5,
+                "globalScore": 0.1951219512195122,
+                "source": "BABELFY"
+            },
+            {
+                "start": 57,
+                "end": 57,
+                "text": ".",
+                "isEntity": false
+            }
+        ]
+    ]
+}

@@ -1,0 +1,444 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 3,
+                "text": "song",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 3
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 0.9512195121951219,
+                "coherenceScore": 0.5306122448979592,
+                "globalScore": 0.05024928575429948,
+                "source": "BABELFY"
+            },
+            {
+                "start": 5,
+                "end": 12,
+                "text": "features",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 5,
+                    "end": 12
+                },
+                "babelSynsetID": "bn:00017761n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00017761n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 14,
+                "end": 22,
+                "text": "cleveland",
+                "isEntity": false
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "text": "rapper",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 24,
+                    "end": 29
+                },
+                "babelSynsetID": "bn:00066191n",
+                "DBpediaURL": "http://dbpedia.org/resource/Rapping",
+                "BabelNetURL": "http://babelnet.org/rdf/s00066191n",
+                "score": 0.9738387613454351,
+                "coherenceScore": 0.6530612244897959,
+                "globalScore": 0.051089574813735925,
+                "source": "BABELFY"
+            },
+            {
+                "start": 31,
+                "end": 38,
+                "text": "kid cudi",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 31,
+                    "end": 38
+                },
+                "babelSynsetID": "bn:01228762n",
+                "DBpediaURL": "http://dbpedia.org/resource/Kid_Cudi",
+                "BabelNetURL": "http://babelnet.org/rdf/s01228762n",
+                "score": 1.0,
+                "coherenceScore": 0.24489795918367346,
+                "globalScore": 0.005377849980393255,
+                "source": "BABELFY"
+            },
+            {
+                "start": 35,
+                "end": 41,
+                "text": "cudi,50",
+                "isEntity": false
+            },
+            {
+                "start": 43,
+                "end": 51,
+                "text": "northeast",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 43,
+                    "end": 51
+                },
+                "babelSynsetID": "bn:00057102n",
+                "DBpediaURL": "http://dbpedia.org/resource/Cardinal_direction",
+                "BabelNetURL": "http://babelnet.org/rdf/s00057102n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 53,
+                "end": 56,
+                "text": "11th",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 53,
+                    "end": 56
+                },
+                "babelSynsetID": "bn:00095904a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00095904a",
+                "score": 1.0,
+                "coherenceScore": 0.02040816326530612,
+                "globalScore": 2.8009635314548205e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 58,
+                "end": 63,
+                "text": "street",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 58,
+                    "end": 63
+                },
+                "babelSynsetID": "bn:00074595n",
+                "DBpediaURL": "http://dbpedia.org/resource/Street",
+                "BabelNetURL": "http://babelnet.org/rdf/s00074595n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 65,
+                "end": 75,
+                "text": "miami,david",
+                "isEntity": false
+            },
+            {
+                "start": 71,
+                "end": 82,
+                "text": "david guetta",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 71,
+                    "end": 82
+                },
+                "babelSynsetID": "bn:02171579n",
+                "DBpediaURL": "http://dbpedia.org/resource/David_Guetta",
+                "BabelNetURL": "http://babelnet.org/rdf/s02171579n",
+                "score": 1.0,
+                "coherenceScore": 0.42857142857142855,
+                "globalScore": 0.02058708195619293,
+                "source": "BABELFY"
+            },
+            {
+                "start": 84,
+                "end": 90,
+                "text": "walking",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 84,
+                    "end": 90
+                },
+                "babelSynsetID": "bn:00095597v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00095597v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 92,
+                "end": 102,
+                "text": "along,dance",
+                "isEntity": false
+            },
+            {
+                "start": 104,
+                "end": 111,
+                "text": "producer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 18,
+                    "end": 18
+                },
+                "charFragment": {
+                    "start": 104,
+                    "end": 111
+                },
+                "babelSynsetID": "bn:03326757n",
+                "DBpediaURL": "http://dbpedia.org/resource/Record_producer",
+                "BabelNetURL": "http://babelnet.org/rdf/s03326757n",
+                "score": 0.9246231155778895,
+                "coherenceScore": 0.46938775510204084,
+                "globalScore": 0.025768864489384348,
+                "source": "BABELFY"
+            },
+            {
+                "start": 113,
+                "end": 124,
+                "text": "david guetta",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 19,
+                    "end": 20
+                },
+                "charFragment": {
+                    "start": 113,
+                    "end": 124
+                },
+                "babelSynsetID": "bn:02171579n",
+                "DBpediaURL": "http://dbpedia.org/resource/David_Guetta",
+                "BabelNetURL": "http://babelnet.org/rdf/s02171579n",
+                "score": 1.0,
+                "coherenceScore": 0.42857142857142855,
+                "globalScore": 0.02058708195619293,
+                "source": "BABELFY"
+            },
+            {
+                "start": 119,
+                "end": 130,
+                "text": "guetta,shows",
+                "isEntity": false
+            },
+            {
+                "start": 132,
+                "end": 139,
+                "text": "kid cudi",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 23,
+                    "end": 24
+                },
+                "charFragment": {
+                    "start": 132,
+                    "end": 139
+                },
+                "babelSynsetID": "bn:01228762n",
+                "DBpediaURL": "http://dbpedia.org/resource/Kid_Cudi",
+                "BabelNetURL": "http://babelnet.org/rdf/s01228762n",
+                "score": 1.0,
+                "coherenceScore": 0.24489795918367346,
+                "globalScore": 0.005377849980393255,
+                "source": "BABELFY"
+            },
+            {
+                "start": 136,
+                "end": 147,
+                "text": "cudi,partial",
+                "isEntity": false
+            },
+            {
+                "start": 141,
+                "end": 154,
+                "text": "partial nudity",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 26,
+                    "end": 27
+                },
+                "charFragment": {
+                    "start": 141,
+                    "end": 154
+                },
+                "babelSynsetID": "bn:00056748n",
+                "DBpediaURL": "http://dbpedia.org/resource/Nudity",
+                "BabelNetURL": "http://babelnet.org/rdf/s00056748n",
+                "score": 1.0,
+                "coherenceScore": 0.22448979591836735,
+                "globalScore": 0.004313483838440424,
+                "source": "BABELFY"
+            },
+            {
+                "start": 149,
+                "end": 158,
+                "text": "nudity,one",
+                "isEntity": false
+            },
+            {
+                "start": 160,
+                "end": 168,
+                "text": "love,near",
+                "isEntity": false
+            },
+            {
+                "start": 170,
+                "end": 182,
+                "text": "midtown,music",
+                "isEntity": false
+            },
+            {
+                "start": 178,
+                "end": 188,
+                "text": "music video",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 35,
+                    "end": 36
+                },
+                "charFragment": {
+                    "start": 178,
+                    "end": 188
+                },
+                "babelSynsetID": "bn:03793240n",
+                "DBpediaURL": "http://dbpedia.org/resource/Music_video",
+                "BabelNetURL": "http://babelnet.org/rdf/s03793240n",
+                "score": 1.0,
+                "coherenceScore": 0.6530612244897959,
+                "globalScore": 0.057363733124194724,
+                "source": "BABELFY"
+            },
+            {
+                "start": 184,
+                "end": 195,
+                "text": "video,french",
+                "isEntity": false
+            },
+            {
+                "start": 197,
+                "end": 205,
+                "text": "dj,fourth",
+                "isEntity": false
+            },
+            {
+                "start": 207,
+                "end": 215,
+                "text": "single,fl",
+                "isEntity": false
+            },
+            {
+                "start": 217,
+                "end": 230,
+                "text": "33132,explicit",
+                "isEntity": false
+            },
+            {
+                "start": 232,
+                "end": 244,
+                "text": "language,club",
+                "isEntity": false
+            },
+            {
+                "start": 241,
+                "end": 251,
+                "text": "club scenes",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 50,
+                    "end": 51
+                },
+                "charFragment": {
+                    "start": 241,
+                    "end": 251
+                },
+                "babelSynsetID": "bn:00014419n",
+                "DBpediaURL": "http://dbpedia.org/resource/Nightclub",
+                "BabelNetURL": "http://babelnet.org/rdf/s00014419n",
+                "score": 1.0,
+                "coherenceScore": 0.4897959183673469,
+                "globalScore": 0.022183631169122177,
+                "source": "BABELFY"
+            },
+            {
+                "start": 246,
+                "end": 256,
+                "text": "scenes,club",
+                "isEntity": false
+            },
+            {
+                "start": 258,
+                "end": 272,
+                "text": "banger,biscayne",
+                "isEntity": false
+            },
+            {
+                "start": 265,
+                "end": 282,
+                "text": "biscayne boulevard",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 56,
+                    "end": 57
+                },
+                "charFragment": {
+                    "start": 265,
+                    "end": 282
+                },
+                "babelSynsetID": "bn:03473898n",
+                "DBpediaURL": "http://dbpedia.org/resource/U.S._Route_1_in_Florida",
+                "BabelNetURL": "http://babelnet.org/rdf/s03473898n",
+                "score": 1.0,
+                "coherenceScore": 0.08163265306122448,
+                "globalScore": 0.0004481541650327713,
+                "source": "BABELFY"
+            },
+            {
+                "start": 274,
+                "end": 337,
+                "text": "boulevard,song,features,miami,nocturnal,lrb,filmed,electro,album",
+                "isEntity": false
+            }
+        ]
+    ]
+}

@@ -1,0 +1,252 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 7,
+                "text": "brooklyn",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 7
+                },
+                "babelSynsetID": "bn:00013347n",
+                "DBpediaURL": "http://dbpedia.org/resource/Brooklyn",
+                "BabelNetURL": "http://babelnet.org/rdf/s00013347n",
+                "score": 0.7142857142857143,
+                "coherenceScore": 0.09615384615384616,
+                "globalScore": 0.0004432938506277041,
+                "source": "BABELFY"
+            },
+            {
+                "start": 9,
+                "end": 15,
+                "text": "quintet",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 9,
+                    "end": 15
+                },
+                "babelSynsetID": "bn:00065731n",
+                "DBpediaURL": "http://dbpedia.org/resource/Quintet",
+                "BabelNetURL": "http://babelnet.org/rdf/s00065731n",
+                "score": 0.7477876106194691,
+                "coherenceScore": 0.25,
+                "globalScore": 0.005993332860486559,
+                "source": "BABELFY"
+            },
+            {
+                "start": 17,
+                "end": 23,
+                "text": "friends",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 17,
+                    "end": 23
+                },
+                "babelSynsetID": "bn:00036538n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00036538n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 25,
+                "end": 33,
+                "text": "may,genre",
+                "isEntity": false
+            },
+            {
+                "start": 35,
+                "end": 37,
+                "text": ".``",
+                "isEntity": false
+            },
+            {
+                "start": 39,
+                "end": 41,
+                "text": "one",
+                "isEntity": false
+            },
+            {
+                "start": 43,
+                "end": 50,
+                "text": "thing,''",
+                "isEntity": false
+            },
+            {
+                "start": 52,
+                "end": 55,
+                "text": "said",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 52,
+                    "end": 55
+                },
+                "babelSynsetID": "bn:00093287v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00093287v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 57,
+                "end": 64,
+                "text": "samantha",
+                "isEntity": false
+            },
+            {
+                "start": 66,
+                "end": 83,
+                "text": "urbani,independent",
+                "isEntity": false
+            },
+            {
+                "start": 85,
+                "end": 96,
+                "text": ".``,thinking",
+                "isEntity": false
+            },
+            {
+                "start": 98,
+                "end": 109,
+                "text": "persons,sexy",
+                "isEntity": false
+            },
+            {
+                "start": 111,
+                "end": 121,
+                "text": "come,really",
+                "isEntity": false
+            },
+            {
+                "start": 123,
+                "end": 130,
+                "text": "cool,pop",
+                "isEntity": false
+            },
+            {
+                "start": 128,
+                "end": 136,
+                "text": "pop music",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 28,
+                    "end": 29
+                },
+                "charFragment": {
+                    "start": 128,
+                    "end": 136
+                },
+                "babelSynsetID": "bn:00063557n",
+                "DBpediaURL": "http://dbpedia.org/resource/Pop_music",
+                "BabelNetURL": "http://babelnet.org/rdf/s00063557n",
+                "score": 0.978494623655914,
+                "coherenceScore": 0.6730769230769231,
+                "globalScore": 0.07261153273281792,
+                "source": "BABELFY"
+            },
+            {
+                "start": 132,
+                "end": 140,
+                "text": "music,pop",
+                "isEntity": false
+            },
+            {
+                "start": 138,
+                "end": 145,
+                "text": "pop band",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 31,
+                    "end": 32
+                },
+                "charFragment": {
+                    "start": 138,
+                    "end": 145
+                },
+                "babelSynsetID": "bn:00068051n",
+                "DBpediaURL": "http://dbpedia.org/resource/Musical_ensemble",
+                "BabelNetURL": "http://babelnet.org/rdf/s00068051n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 142,
+                "end": 150,
+                "text": "band,many",
+                "isEntity": false
+            },
+            {
+                "start": 152,
+                "end": 165,
+                "text": "others,lyrical",
+                "isEntity": false
+            },
+            {
+                "start": 167,
+                "end": 182,
+                "text": "content,jubilant",
+                "isEntity": false
+            },
+            {
+                "start": 184,
+                "end": 199,
+                "text": "positivity,human",
+                "isEntity": false
+            },
+            {
+                "start": 201,
+                "end": 218,
+                "text": "feelings,energised",
+                "isEntity": false
+            },
+            {
+                "start": 220,
+                "end": 232,
+                "text": "dancing,dance",
+                "isEntity": false
+            },
+            {
+                "start": 234,
+                "end": 248,
+                "text": "songs,cathartic",
+                "isEntity": false
+            },
+            {
+                "start": 250,
+                "end": 263,
+                "text": "movement,dance",
+                "isEntity": false
+            },
+            {
+                "start": 265,
+                "end": 432,
+                "text": "song,'',song,thoughtful,think,spectrum,sense,sadness,reach,ons,negativity,message,lot,level,joy,ideas,hope,ghosts,empowerment,death,create,called,awareness,anticipating",
+                "isEntity": false
+            }
+        ]
+    ]
+}

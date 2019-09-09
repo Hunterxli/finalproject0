@@ -1,0 +1,114 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 8,
+                "text": "charlotte",
+                "isEntity": false
+            },
+            {
+                "start": 10,
+                "end": 22,
+                "text": "radio station",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 10,
+                    "end": 22
+                },
+                "babelSynsetID": "bn:00065923n",
+                "DBpediaURL": "http://dbpedia.org/resource/Radio_broadcasting",
+                "BabelNetURL": "http://babelnet.org/rdf/s00065923n",
+                "score": 0.8235294117647058,
+                "coherenceScore": 0.18181818181818182,
+                "globalScore": 0.005685664004331934,
+                "source": "BABELFY"
+            },
+            {
+                "start": 24,
+                "end": 36,
+                "text": "wsoc,producer",
+                "isEntity": false
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "text": "jeremy",
+                "isEntity": false
+            },
+            {
+                "start": 45,
+                "end": 57,
+                "text": "strover,whole",
+                "isEntity": false
+            },
+            {
+                "start": 59,
+                "end": 70,
+                "text": "lot,remember",
+                "isEntity": false
+            },
+            {
+                "start": 72,
+                "end": 88,
+                "text": "thinking,opposite",
+                "isEntity": false
+            },
+            {
+                "start": 90,
+                "end": 98,
+                "text": "sex,moore",
+                "isEntity": false
+            },
+            {
+                "start": 100,
+                "end": 110,
+                "text": "penned,love",
+                "isEntity": false
+            },
+            {
+                "start": 107,
+                "end": 116,
+                "text": "love songs",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 21,
+                    "end": 22
+                },
+                "charFragment": {
+                    "start": 107,
+                    "end": 116
+                },
+                "babelSynsetID": "bn:00052128n",
+                "DBpediaURL": "http://dbpedia.org/resource/Love_song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00052128n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 112,
+                "end": 122,
+                "text": "songs,first",
+                "isEntity": false
+            },
+            {
+                "start": 124,
+                "end": 137,
+                "text": "time,everybody",
+                "isEntity": false
+            },
+            {
+                "start": 139,
+                "end": 223,
+                "text": "knows,wrote,truck,tried,told,song,put,prodded,potentially,n,fun,chevy,bed,album,``,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

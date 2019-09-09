@@ -1,0 +1,318 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 3,
+                "text": "also",
+                "isEntity": false
+            },
+            {
+                "start": 5,
+                "end": 9,
+                "text": "wrote",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 5,
+                    "end": 9
+                },
+                "babelSynsetID": "bn:00085489v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00085489v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 11,
+                "end": 15,
+                "text": "leann",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 11,
+                    "end": 15
+                },
+                "babelSynsetID": "bn:00357537n",
+                "DBpediaURL": "http://dbpedia.org/resource/Leanne",
+                "BabelNetURL": "http://babelnet.org/rdf/s00357537n",
+                "score": 1.0,
+                "coherenceScore": 0.2,
+                "globalScore": 0.004291269947700148,
+                "source": "BABELFY"
+            },
+            {
+                "start": 17,
+                "end": 27,
+                "text": "rimes,movie",
+                "isEntity": false
+            },
+            {
+                "start": 29,
+                "end": 39,
+                "text": "coyote ugly",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 29,
+                    "end": 39
+                },
+                "babelSynsetID": "bn:01682395n",
+                "DBpediaURL": "http://dbpedia.org/resource/Coyote_Ugly_(film)",
+                "BabelNetURL": "http://babelnet.org/rdf/s01682395n",
+                "score": 0.9818181818181818,
+                "coherenceScore": 0.3,
+                "globalScore": 0.014483036073487998,
+                "source": "BABELFY"
+            },
+            {
+                "start": 36,
+                "end": 47,
+                "text": "ugly,highest",
+                "isEntity": false
+            },
+            {
+                "start": 49,
+                "end": 55,
+                "text": "selling",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 49,
+                    "end": 55
+                },
+                "babelSynsetID": "bn:00093472v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00093472v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 57,
+                "end": 70,
+                "text": "single,biggest",
+                "isEntity": false
+            },
+            {
+                "start": 72,
+                "end": 74,
+                "text": "hit",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 72,
+                    "end": 74
+                },
+                "babelSynsetID": "bn:00044274n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00044274n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 76,
+                "end": 81,
+                "text": "``,.``",
+                "isEntity": false
+            },
+            {
+                "start": 83,
+                "end": 84,
+                "text": "ca",
+                "isEntity": false
+            },
+            {
+                "start": 86,
+                "end": 89,
+                "text": "n,us",
+                "isEntity": false
+            },
+            {
+                "start": 91,
+                "end": 97,
+                "text": "country",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 23,
+                    "end": 23
+                },
+                "charFragment": {
+                    "start": 91,
+                    "end": 97
+                },
+                "babelSynsetID": "bn:00023236n",
+                "DBpediaURL": "http://dbpedia.org/resource/State_(polity)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00023236n",
+                "score": 0.7117585848074922,
+                "coherenceScore": 0.6,
+                "globalScore": 0.09172589513209066,
+                "source": "BABELFY"
+            },
+            {
+                "start": 99,
+                "end": 114,
+                "text": "charts,moonlight",
+                "isEntity": false
+            },
+            {
+                "start": 116,
+                "end": 117,
+                "text": "''",
+                "isEntity": false
+            },
+            {
+                "start": 119,
+                "end": 131,
+                "text": "reached,leann",
+                "isEntity": false
+            },
+            {
+                "start": 133,
+                "end": 142,
+                "text": "rimes,also",
+                "isEntity": false
+            },
+            {
+                "start": 144,
+                "end": 156,
+                "text": "topped,trevor",
+                "isEntity": false
+            },
+            {
+                "start": 151,
+                "end": 161,
+                "text": "trevor horn",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 35,
+                    "end": 36
+                },
+                "charFragment": {
+                    "start": 151,
+                    "end": 161
+                },
+                "babelSynsetID": "bn:01001201n",
+                "DBpediaURL": "http://dbpedia.org/resource/Trevor_Horn",
+                "BabelNetURL": "http://babelnet.org/rdf/s01001201n",
+                "score": 1.0,
+                "coherenceScore": 0.225,
+                "globalScore": 0.006034598363953332,
+                "source": "BABELFY"
+            },
+            {
+                "start": 158,
+                "end": 166,
+                "text": "horn,part",
+                "isEntity": false
+            },
+            {
+                "start": 168,
+                "end": 178,
+                "text": "playing,new",
+                "isEntity": false
+            },
+            {
+                "start": 176,
+                "end": 186,
+                "text": "new zealand",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 41,
+                    "end": 42
+                },
+                "charFragment": {
+                    "start": 176,
+                    "end": 186
+                },
+                "babelSynsetID": "bn:00057517n",
+                "DBpediaURL": "http://dbpedia.org/resource/New_Zealand",
+                "BabelNetURL": "http://babelnet.org/rdf/s00057517n",
+                "score": 0.9456869009584664,
+                "coherenceScore": 0.4,
+                "globalScore": 0.03969424701622636,
+                "source": "BABELFY"
+            },
+            {
+                "start": 180,
+                "end": 192,
+                "text": "zealand,diane",
+                "isEntity": false
+            },
+            {
+                "start": 188,
+                "end": 199,
+                "text": "diane warren",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 44,
+                    "end": 45
+                },
+                "charFragment": {
+                    "start": 188,
+                    "end": 199
+                },
+                "babelSynsetID": "bn:03483657n",
+                "DBpediaURL": "http://dbpedia.org/resource/Diane_Warren",
+                "BabelNetURL": "http://babelnet.org/rdf/s03483657n",
+                "score": 1.0,
+                "coherenceScore": 0.25,
+                "globalScore": 0.011398685798578516,
+                "source": "BABELFY"
+            },
+            {
+                "start": 194,
+                "end": 205,
+                "text": "warren,dance",
+                "isEntity": false
+            },
+            {
+                "start": 201,
+                "end": 212,
+                "text": "dance number",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 47,
+                    "end": 48
+                },
+                "charFragment": {
+                    "start": 201,
+                    "end": 212
+                },
+                "babelSynsetID": "bn:02815137n",
+                "DBpediaURL": "http://dbpedia.org/resource/Dance_Number",
+                "BabelNetURL": "http://babelnet.org/rdf/s02815137n",
+                "score": 1.0,
+                "coherenceScore": 0.05,
+                "globalScore": 0.00026820437173125924,
+                "source": "BABELFY"
+            },
+            {
+                "start": 207,
+                "end": 329,
+                "text": "number,charts,'',topped,written,uk,rime,produced,netherlands,live,fight,featured,despite,closer,background,australia,2001,1",
+                "isEntity": false
+            }
+        ]
+    ]
+}

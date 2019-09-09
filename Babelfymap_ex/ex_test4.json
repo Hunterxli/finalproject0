@@ -1,0 +1,471 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 4,
+                "text": "every",
+                "isEntity": false
+            },
+            {
+                "start": 6,
+                "end": 9,
+                "text": "song",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 6,
+                    "end": 9
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 0.9806763285024155,
+                "coherenceScore": 0.5147058823529411,
+                "globalScore": 0.05043311194660218,
+                "source": "BABELFY"
+            },
+            {
+                "start": 11,
+                "end": 15,
+                "text": "sound",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 11,
+                    "end": 15
+                },
+                "babelSynsetID": "bn:00000986n",
+                "DBpediaURL": "http://dbpedia.org/resource/Acoustic_wave",
+                "BabelNetURL": "http://babelnet.org/rdf/s00000986n",
+                "score": 0.7450693937180424,
+                "coherenceScore": 0.29411764705882354,
+                "globalScore": 0.0168938503072362,
+                "source": "BABELFY"
+            },
+            {
+                "start": 17,
+                "end": 20,
+                "text": "like",
+                "isEntity": false
+            },
+            {
+                "start": 22,
+                "end": 26,
+                "text": "drake",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 22,
+                    "end": 26
+                },
+                "babelSynsetID": "bn:16915747n",
+                "DBpediaURL": "http://dbpedia.org/resource/Drake_(rapper)",
+                "BabelNetURL": "http://babelnet.org/rdf/s16915747n",
+                "score": 0.7220630372492837,
+                "coherenceScore": 0.17647058823529413,
+                "globalScore": 0.004173774781787767,
+                "source": "BABELFY"
+            },
+            {
+                "start": 28,
+                "end": 36,
+                "text": "featuring",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 28,
+                    "end": 36
+                },
+                "babelSynsetID": "bn:00088078v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00088078v",
+                "score": 0.7368421052631579,
+                "coherenceScore": 0.058823529411764705,
+                "globalScore": 0.00046375275353197407,
+                "source": "BABELFY"
+            },
+            {
+                "start": 38,
+                "end": 48,
+                "text": "drake,video",
+                "isEntity": false
+            },
+            {
+                "start": 50,
+                "end": 57,
+                "text": "features",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 50,
+                    "end": 57
+                },
+                "babelSynsetID": "bn:00017761n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00017761n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 59,
+                "end": 63,
+                "text": "drake",
+                "isEntity": false
+            },
+            {
+                "start": 65,
+                "end": 80,
+                "text": "wandering,vinylz",
+                "isEntity": false
+            },
+            {
+                "start": 82,
+                "end": 89,
+                "text": "produced",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 82,
+                    "end": 89
+                },
+                "babelSynsetID": "bn:00084082v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00084082v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 91,
+                "end": 93,
+                "text": "cut",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 15
+                },
+                "charFragment": {
+                    "start": 91,
+                    "end": 93
+                },
+                "babelSynsetID": "bn:00024599n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00024599n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 95,
+                "end": 107,
+                "text": "finds,getting",
+                "isEntity": false
+            },
+            {
+                "start": 109,
+                "end": 113,
+                "text": "upset",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 19,
+                    "end": 19
+                },
+                "charFragment": {
+                    "start": 109,
+                    "end": 113
+                },
+                "babelSynsetID": "bn:00098916a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00098916a",
+                "score": 1.0,
+                "coherenceScore": 0.014705882352941176,
+                "globalScore": 1.6562598340427645e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 115,
+                "end": 117,
+                "text": "one",
+                "isEntity": false
+            },
+            {
+                "start": 119,
+                "end": 128,
+                "text": "night,well",
+                "isEntity": false
+            },
+            {
+                "start": 130,
+                "end": 134,
+                "text": "every",
+                "isEntity": false
+            },
+            {
+                "start": 136,
+                "end": 145,
+                "text": "time,first",
+                "isEntity": false
+            },
+            {
+                "start": 147,
+                "end": 157,
+                "text": "viral video",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 28,
+                    "end": 29
+                },
+                "charFragment": {
+                    "start": 147,
+                    "end": 157
+                },
+                "babelSynsetID": "bn:03197248n",
+                "DBpediaURL": "http://dbpedia.org/resource/Viral_video",
+                "BabelNetURL": "http://babelnet.org/rdf/s03197248n",
+                "score": 1.0,
+                "coherenceScore": 0.10294117647058823,
+                "globalScore": 0.0012753200722129287,
+                "source": "BABELFY"
+            },
+            {
+                "start": 153,
+                "end": 160,
+                "text": "video,''",
+                "isEntity": false
+            },
+            {
+                "start": 162,
+                "end": 166,
+                "text": "drake",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 31,
+                    "end": 31
+                },
+                "charFragment": {
+                    "start": 162,
+                    "end": 166
+                },
+                "babelSynsetID": "bn:16915747n",
+                "DBpediaURL": "http://dbpedia.org/resource/Drake_(rapper)",
+                "BabelNetURL": "http://babelnet.org/rdf/s16915747n",
+                "score": 0.7220630372492837,
+                "coherenceScore": 0.17647058823529413,
+                "globalScore": 0.004173774781787767,
+                "source": "BABELFY"
+            },
+            {
+                "start": 168,
+                "end": 179,
+                "text": "penned,style",
+                "isEntity": false
+            },
+            {
+                "start": 181,
+                "end": 183,
+                "text": ".``",
+                "isEntity": false
+            },
+            {
+                "start": 185,
+                "end": 196,
+                "text": "give,toronto",
+                "isEntity": false
+            },
+            {
+                "start": 198,
+                "end": 199,
+                "text": "mc",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 40,
+                    "end": 40
+                },
+                "charFragment": {
+                    "start": 198,
+                    "end": 199
+                },
+                "babelSynsetID": "bn:00066191n",
+                "DBpediaURL": "http://dbpedia.org/resource/Rapping",
+                "BabelNetURL": "http://babelnet.org/rdf/s00066191n",
+                "score": 0.8482320222487088,
+                "coherenceScore": 0.5147058823529411,
+                "globalScore": 0.03536114745681303,
+                "source": "BABELFY"
+            },
+            {
+                "start": 201,
+                "end": 213,
+                "text": "spitting,tune",
+                "isEntity": false
+            },
+            {
+                "start": 215,
+                "end": 216,
+                "text": "``",
+                "isEntity": false
+            },
+            {
+                "start": 218,
+                "end": 222,
+                "text": "5,one",
+                "isEntity": false
+            },
+            {
+                "start": 224,
+                "end": 231,
+                "text": "hand,new",
+                "isEntity": false
+            },
+            {
+                "start": 229,
+                "end": 235,
+                "text": "new cut",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 50,
+                    "end": 51
+                },
+                "charFragment": {
+                    "start": 229,
+                    "end": 235
+                },
+                "babelSynsetID": "bn:16087132n",
+                "DBpediaURL": "http://dbpedia.org/resource/New_Cut,_Bristol",
+                "BabelNetURL": "http://babelnet.org/rdf/s16087132n",
+                "score": 1.0,
+                "coherenceScore": 0.029411764705882353,
+                "globalScore": 6.625039336171058e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 233,
+                "end": 240,
+                "text": "cut,raps",
+                "isEntity": false
+            },
+            {
+                "start": 242,
+                "end": 255,
+                "text": ".``,drake,time",
+                "isEntity": false
+            },
+            {
+                "start": 257,
+                "end": 271,
+                "text": "especially,time",
+                "isEntity": false
+            },
+            {
+                "start": 273,
+                "end": 286,
+                "text": "around,toronto",
+                "isEntity": false
+            },
+            {
+                "start": 288,
+                "end": 295,
+                "text": "'',still",
+                "isEntity": false
+            },
+            {
+                "start": 297,
+                "end": 314,
+                "text": "known,song,rappers",
+                "isEntity": false
+            },
+            {
+                "start": 316,
+                "end": 329,
+                "text": "copying,rapper",
+                "isEntity": false
+            },
+            {
+                "start": 331,
+                "end": 340,
+                "text": "tweeted,pr",
+                "isEntity": false
+            },
+            {
+                "start": 342,
+                "end": 351,
+                "text": "stuntin,ni",
+                "isEntity": false
+            },
+            {
+                "start": 353,
+                "end": 365,
+                "text": "--,like,later",
+                "isEntity": false
+            },
+            {
+                "start": 367,
+                "end": 383,
+                "text": "track,immediately",
+                "isEntity": false
+            },
+            {
+                "start": 385,
+                "end": 390,
+                "text": "put,``",
+                "isEntity": false
+            },
+            {
+                "start": 392,
+                "end": 399,
+                "text": "9am,home",
+                "isEntity": false
+            },
+            {
+                "start": 396,
+                "end": 404,
+                "text": "home city",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 95,
+                    "end": 96
+                },
+                "charFragment": {
+                    "start": 396,
+                    "end": 404
+                },
+                "babelSynsetID": "bn:02449284n",
+                "DBpediaURL": "http://dbpedia.org/resource/Home,_Kansas",
+                "BabelNetURL": "http://babelnet.org/rdf/s02449284n",
+                "score": 1.0,
+                "coherenceScore": 0.029411764705882353,
+                "globalScore": 0.00019875118008513175,
+                "source": "BABELFY"
+            },
+            {
+                "start": 401,
+                "end": 564,
+                "text": "city,toronto,``,5,'',city,verse,titled,thank,sequel,music,movement,might,meeting,lot,look,internet,hook,friends,even,ends,drink,dallas,completing,club,boi,blunt,1da",
+                "isEntity": false
+            }
+        ]
+    ]
+}

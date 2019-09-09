@@ -1,0 +1,231 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 3,
+                "text": "deep",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 3
+                },
+                "babelSynsetID": "bn:00101043a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00101043a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 5,
+                "end": 12,
+                "text": "feelings",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 5,
+                    "end": 12
+                },
+                "babelSynsetID": "bn:00033963n",
+                "DBpediaURL": "http://dbpedia.org/resource/Feeling",
+                "BabelNetURL": "http://babelnet.org/rdf/s00033963n",
+                "score": 0.775623268698061,
+                "coherenceScore": 0.3225806451612903,
+                "globalScore": 0.0417785735601313,
+                "source": "BABELFY"
+            },
+            {
+                "start": 14,
+                "end": 20,
+                "text": "towards",
+                "isEntity": false
+            },
+            {
+                "start": 22,
+                "end": 33,
+                "text": "someone else",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 22,
+                    "end": 33
+                },
+                "babelSynsetID": "bn:14727401n",
+                "DBpediaURL": "http://dbpedia.org/resource/Bangerz",
+                "BabelNetURL": "http://babelnet.org/rdf/s14727401n",
+                "score": 0.927536231884058,
+                "coherenceScore": 0.25806451612903225,
+                "globalScore": 0.009549388242315727,
+                "source": "BABELFY"
+            },
+            {
+                "start": 30,
+                "end": 40,
+                "text": "else,lyrics",
+                "isEntity": false
+            },
+            {
+                "start": 42,
+                "end": 48,
+                "text": "lucidly",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 42,
+                    "end": 48
+                },
+                "babelSynsetID": "bn:00116131r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00116131r",
+                "score": 1.0,
+                "coherenceScore": 0.03225806451612903,
+                "globalScore": 0.0002984183825723665,
+                "source": "BABELFY"
+            },
+            {
+                "start": 50,
+                "end": 56,
+                "text": "explain",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 50,
+                    "end": 56
+                },
+                "babelSynsetID": "bn:00087869v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00087869v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 58,
+                "end": 69,
+                "text": "someone,real",
+                "isEntity": false
+            },
+            {
+                "start": 71,
+                "end": 72,
+                "text": ".-",
+                "isEntity": false
+            },
+            {
+                "start": 74,
+                "end": 81,
+                "text": "lrb,rock",
+                "isEntity": false
+            },
+            {
+                "start": 78,
+                "end": 88,
+                "text": "rock ballad",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 16,
+                    "end": 17
+                },
+                "charFragment": {
+                    "start": 78,
+                    "end": 88
+                },
+                "babelSynsetID": "bn:00008153n",
+                "DBpediaURL": "http://dbpedia.org/resource/Ballad",
+                "BabelNetURL": "http://babelnet.org/rdf/s00008153n",
+                "score": 1.0,
+                "coherenceScore": 0.25806451612903225,
+                "globalScore": 0.02029245001492092,
+                "source": "BABELFY"
+            },
+            {
+                "start": 83,
+                "end": 97,
+                "text": "ballad,powerful",
+                "isEntity": false
+            },
+            {
+                "start": 99,
+                "end": 113,
+                "text": "meaning,passion",
+                "isEntity": false
+            },
+            {
+                "start": 115,
+                "end": 122,
+                "text": "...,last",
+                "isEntity": false
+            },
+            {
+                "start": 124,
+                "end": 136,
+                "text": "forever,first",
+                "isEntity": false
+            },
+            {
+                "start": 138,
+                "end": 148,
+                "text": "album,clear",
+                "isEntity": false
+            },
+            {
+                "start": 150,
+                "end": 165,
+                "text": "description,also",
+                "isEntity": false
+            },
+            {
+                "start": 167,
+                "end": 179,
+                "text": "portrays,true",
+                "isEntity": false
+            },
+            {
+                "start": 176,
+                "end": 184,
+                "text": "true love",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 37,
+                    "end": 38
+                },
+                "charFragment": {
+                    "start": 176,
+                    "end": 184
+                },
+                "babelSynsetID": "bn:00052121n",
+                "DBpediaURL": "http://dbpedia.org/resource/Love",
+                "BabelNetURL": "http://babelnet.org/rdf/s00052121n",
+                "score": 0.8789308176100629,
+                "coherenceScore": 0.41935483870967744,
+                "globalScore": 0.08340793792897643,
+                "source": "BABELFY"
+            },
+            {
+                "start": 181,
+                "end": 280,
+                "text": "love,true,love,thanks,sorrow,shares,secretive,safetysuit,rrb,oikz,life,infuses,happiness,edmonton,ab",
+                "isEntity": false
+            }
+        ]
+    ]
+}

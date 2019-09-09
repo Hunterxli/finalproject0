@@ -1,0 +1,219 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 4,
+                "text": "whose",
+                "isEntity": false
+            },
+            {
+                "start": 6,
+                "end": 12,
+                "text": "members",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 6,
+                    "end": 12
+                },
+                "babelSynsetID": "bn:00034004n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00034004n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 14,
+                "end": 21,
+                "text": "included",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 14,
+                    "end": 21
+                },
+                "babelSynsetID": "bn:00082370v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00082370v",
+                "score": 0.8,
+                "coherenceScore": 0.05714285714285714,
+                "globalScore": 0.00031508467900748325,
+                "source": "BABELFY"
+            },
+            {
+                "start": 23,
+                "end": 28,
+                "text": "future",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 23,
+                    "end": 28
+                },
+                "babelSynsetID": "bn:00103449a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00103449a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 30,
+                "end": 40,
+                "text": "black grape",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 30,
+                    "end": 40
+                },
+                "babelSynsetID": "bn:03540444n",
+                "DBpediaURL": "http://dbpedia.org/resource/Black_Grape",
+                "BabelNetURL": "http://babelnet.org/rdf/s03540444n",
+                "score": 1.0,
+                "coherenceScore": 0.22857142857142856,
+                "globalScore": 0.0069318629381646315,
+                "source": "BABELFY"
+            },
+            {
+                "start": 42,
+                "end": 47,
+                "text": "member",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 42,
+                    "end": 47
+                },
+                "babelSynsetID": "bn:00034004n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00034004n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 49,
+                "end": 64,
+                "text": "kermit,mancunian",
+                "isEntity": false
+            },
+            {
+                "start": 66,
+                "end": 74,
+                "text": "rap group",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 66,
+                    "end": 74
+                },
+                "babelSynsetID": "bn:00044202n",
+                "DBpediaURL": "http://dbpedia.org/resource/Hip_hop_music",
+                "BabelNetURL": "http://babelnet.org/rdf/s00044202n",
+                "score": 0.9988439306358381,
+                "coherenceScore": 0.5142857142857142,
+                "globalScore": 0.06805829066561639,
+                "source": "BABELFY"
+            },
+            {
+                "start": 76,
+                "end": 81,
+                "text": "broken",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 76,
+                    "end": 81
+                },
+                "babelSynsetID": "bn:00098910a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00098910a",
+                "score": 1.0,
+                "coherenceScore": 0.05714285714285714,
+                "globalScore": 0.00031508467900748325,
+                "source": "BABELFY"
+            },
+            {
+                "start": 83,
+                "end": 92,
+                "text": "glass,song",
+                "isEntity": false
+            },
+            {
+                "start": 94,
+                "end": 97,
+                "text": "also",
+                "isEntity": false
+            },
+            {
+                "start": 99,
+                "end": 113,
+                "text": "samples,touring",
+                "isEntity": false
+            },
+            {
+                "start": 115,
+                "end": 127,
+                "text": "round,singing",
+                "isEntity": false
+            },
+            {
+                "start": 129,
+                "end": 140,
+                "text": "songs,making",
+                "isEntity": false
+            },
+            {
+                "start": 142,
+                "end": 149,
+                "text": "lots,hop",
+                "isEntity": false
+            },
+            {
+                "start": 151,
+                "end": 161,
+                "text": "single,1984",
+                "isEntity": false
+            },
+            {
+                "start": 163,
+                "end": 168,
+                "text": "hip,``",
+                "isEntity": false
+            },
+            {
+                "start": 170,
+                "end": 265,
+                "text": "style,song,``,world,train,time,streets,sampled,rrb,rappers,one,money,lyric,lrb,girls,dreaming,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

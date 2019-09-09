@@ -1,0 +1,360 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "''",
+                "isEntity": false
+            },
+            {
+                "start": 3,
+                "end": 14,
+                "text": "mike shinoda",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 3,
+                    "end": 14
+                },
+                "babelSynsetID": "bn:00663917n",
+                "DBpediaURL": "http://dbpedia.org/resource/Mike_Shinoda",
+                "BabelNetURL": "http://babelnet.org/rdf/s00663917n",
+                "score": 1.0,
+                "coherenceScore": 0.2558139534883721,
+                "globalScore": 0.009588842074676739,
+                "source": "BABELFY"
+            },
+            {
+                "start": 16,
+                "end": 19,
+                "text": "told",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 16,
+                    "end": 19
+                },
+                "babelSynsetID": "bn:00091011v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00091011v",
+                "score": 0.8596491228070176,
+                "coherenceScore": 0.16279069767441862,
+                "globalScore": 0.0035594944065087896,
+                "source": "BABELFY"
+            },
+            {
+                "start": 21,
+                "end": 23,
+                "text": "mtv",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 21,
+                    "end": 23
+                },
+                "babelSynsetID": "bn:01145422n",
+                "DBpediaURL": "http://dbpedia.org/resource/MTV",
+                "BabelNetURL": "http://babelnet.org/rdf/s01145422n",
+                "score": 0.9842105263157894,
+                "coherenceScore": 0.3953488372093023,
+                "globalScore": 0.027168385878250764,
+                "source": "BABELFY"
+            },
+            {
+                "start": 25,
+                "end": 28,
+                "text": "news",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 25,
+                    "end": 28
+                },
+                "babelSynsetID": "bn:00047028n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00047028n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 30,
+                "end": 35,
+                "text": ".``,''",
+                "isEntity": false
+            },
+            {
+                "start": 37,
+                "end": 45,
+                "text": "guitarist",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 37,
+                    "end": 45
+                },
+                "babelSynsetID": "bn:00042152n",
+                "DBpediaURL": "http://dbpedia.org/resource/Guitarist",
+                "BabelNetURL": "http://babelnet.org/rdf/s00042152n",
+                "score": 0.9034749034749034,
+                "coherenceScore": 0.3023255813953488,
+                "globalScore": 0.01699840185965422,
+                "source": "BABELFY"
+            },
+            {
+                "start": 47,
+                "end": 57,
+                "text": "brad delson",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 47,
+                    "end": 57
+                },
+                "babelSynsetID": "bn:00663937n",
+                "DBpediaURL": "http://dbpedia.org/resource/Brad_Delson",
+                "BabelNetURL": "http://babelnet.org/rdf/s00663937n",
+                "score": 1.0,
+                "coherenceScore": 0.11627906976744186,
+                "globalScore": 0.002179282289699259,
+                "source": "BABELFY"
+            },
+            {
+                "start": 59,
+                "end": 71,
+                "text": "provides,make",
+                "isEntity": false
+            },
+            {
+                "start": 73,
+                "end": 81,
+                "text": "something",
+                "isEntity": false
+            },
+            {
+                "start": 83,
+                "end": 88,
+                "text": "really",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 15
+                },
+                "charFragment": {
+                    "start": 83,
+                    "end": 88
+                },
+                "babelSynsetID": "bn:00115504r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00115504r",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 90,
+                "end": 105,
+                "text": "interesting,band",
+                "isEntity": false
+            },
+            {
+                "start": 107,
+                "end": 111,
+                "text": "liked",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 19,
+                    "end": 19
+                },
+                "charFragment": {
+                    "start": 107,
+                    "end": 111
+                },
+                "babelSynsetID": "bn:00084526v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00084526v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 113,
+                "end": 120,
+                "text": ".``,feel",
+                "isEntity": false
+            },
+            {
+                "start": 122,
+                "end": 127,
+                "text": "really",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 24,
+                    "end": 24
+                },
+                "charFragment": {
+                    "start": 122,
+                    "end": 127
+                },
+                "babelSynsetID": "bn:00115504r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00115504r",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 129,
+                "end": 139,
+                "text": "jarring,one",
+                "isEntity": false
+            },
+            {
+                "start": 141,
+                "end": 146,
+                "text": "little",
+                "isEntity": false
+            },
+            {
+                "start": 148,
+                "end": 157,
+                "text": "part,going",
+                "isEntity": false
+            },
+            {
+                "start": 159,
+                "end": 166,
+                "text": "anywhere",
+                "isEntity": false
+            },
+            {
+                "start": 168,
+                "end": 186,
+                "text": "individually,really",
+                "isEntity": false
+            },
+            {
+                "start": 188,
+                "end": 190,
+                "text": "fun",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 36,
+                    "end": 36
+                },
+                "charFragment": {
+                    "start": 188,
+                    "end": 190
+                },
+                "babelSynsetID": "bn:00036813n",
+                "DBpediaURL": "http://dbpedia.org/resource/Fun",
+                "BabelNetURL": "http://babelnet.org/rdf/s00036813n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 192,
+                "end": 200,
+                "text": "song,like",
+                "isEntity": false
+            },
+            {
+                "start": 202,
+                "end": 205,
+                "text": "four",
+                "isEntity": false
+            },
+            {
+                "start": 207,
+                "end": 216,
+                "text": "demos,cool",
+                "isEntity": false
+            },
+            {
+                "start": 218,
+                "end": 233,
+                "text": "something,little",
+                "isEntity": false
+            },
+            {
+                "start": 235,
+                "end": 246,
+                "text": "glimmer,ever",
+                "isEntity": false
+            },
+            {
+                "start": 248,
+                "end": 261,
+                "text": "going,rejected",
+                "isEntity": false
+            },
+            {
+                "start": 263,
+                "end": 271,
+                "text": "demo,rare",
+                "isEntity": false
+            },
+            {
+                "start": 273,
+                "end": 283,
+                "text": "vocal,great",
+                "isEntity": false
+            },
+            {
+                "start": 285,
+                "end": 293,
+                "text": "song,ever",
+                "isEntity": false
+            },
+            {
+                "start": 295,
+                "end": 309,
+                "text": "turn,electronic",
+                "isEntity": false
+            },
+            {
+                "start": 311,
+                "end": 325,
+                "text": "ballad,anything",
+                "isEntity": false
+            },
+            {
+                "start": 327,
+                "end": 332,
+                "text": "...,wo",
+                "isEntity": false
+            },
+            {
+                "start": 334,
+                "end": 445,
+                "text": "n,make,song,demos,n,weird,together,supposed,songs,section,put,origins,moody,may,made,know,hear,come,built,breaks",
+                "isEntity": false
+            }
+        ]
+    ]
+}

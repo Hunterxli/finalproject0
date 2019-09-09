@@ -1,0 +1,159 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 4,
+                "text": "women",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 4
+                },
+                "babelSynsetID": "bn:00001530n",
+                "DBpediaURL": "http://dbpedia.org/resource/Woman",
+                "BabelNetURL": "http://babelnet.org/rdf/s00001530n",
+                "score": 0.8914728682170543,
+                "coherenceScore": 0.4,
+                "globalScore": 0.07676902536715621,
+                "source": "BABELFY"
+            },
+            {
+                "start": 6,
+                "end": 13,
+                "text": "overseas",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 6,
+                    "end": 13
+                },
+                "babelSynsetID": "bn:00096185a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00096185a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 15,
+                "end": 30,
+                "text": "fighting,trivial",
+                "isEntity": false
+            },
+            {
+                "start": 32,
+                "end": 36,
+                "text": "bulls",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 32,
+                    "end": 36
+                },
+                "babelSynsetID": "bn:00013774n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00013774n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 38,
+                "end": 50,
+                "text": "--,mainstream",
+                "isEntity": false
+            },
+            {
+                "start": 52,
+                "end": 61,
+                "text": "news media",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 52,
+                    "end": 61
+                },
+                "babelSynsetID": "bn:00048459n",
+                "DBpediaURL": "http://dbpedia.org/resource/News_media",
+                "BabelNetURL": "http://babelnet.org/rdf/s00048459n",
+                "score": 0.9090909090909091,
+                "coherenceScore": 0.08,
+                "globalScore": 0.0033377837116154874,
+                "source": "BABELFY"
+            },
+            {
+                "start": 57,
+                "end": 72,
+                "text": "media,courageous",
+                "isEntity": false
+            },
+            {
+                "start": 74,
+                "end": 82,
+                "text": "young men",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 74,
+                    "end": 82
+                },
+                "babelSynsetID": "bn:00081950n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00081950n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 80,
+                "end": 90,
+                "text": "men,myspace",
+                "isEntity": false
+            },
+            {
+                "start": 92,
+                "end": 105,
+                "text": "site,different",
+                "isEntity": false
+            },
+            {
+                "start": 107,
+                "end": 116,
+                "text": "forms,band",
+                "isEntity": false
+            },
+            {
+                "start": 118,
+                "end": 131,
+                "text": "explained,song",
+                "isEntity": false
+            },
+            {
+                "start": 133,
+                "end": 202,
+                "text": "took,song,way,recorded,message,focused,dying,couple,bunch,always,``,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

@@ -1,0 +1,810 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 4,
+                "text": "tempo",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 4
+                },
+                "babelSynsetID": "bn:00060099n",
+                "DBpediaURL": "http://dbpedia.org/resource/Tempo",
+                "BabelNetURL": "http://babelnet.org/rdf/s00060099n",
+                "score": 0.7575757575757576,
+                "coherenceScore": 0.10465116279069768,
+                "globalScore": 0.0017380221308151325,
+                "source": "BABELFY"
+            },
+            {
+                "start": 6,
+                "end": 10,
+                "text": "metal",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 6,
+                    "end": 10
+                },
+                "babelSynsetID": "bn:00043479n",
+                "DBpediaURL": "http://dbpedia.org/resource/Heavy_metal_music",
+                "BabelNetURL": "http://babelnet.org/rdf/s00043479n",
+                "score": 0.8366650414431984,
+                "coherenceScore": 0.4186046511627907,
+                "globalScore": 0.03976594635305023,
+                "source": "BABELFY"
+            },
+            {
+                "start": 12,
+                "end": 15,
+                "text": "song",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 12,
+                    "end": 15
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 0.9756753596070635,
+                "coherenceScore": 0.47093023255813954,
+                "globalScore": 0.06444586061062511,
+                "source": "BABELFY"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "text": ".`",
+                "isEntity": false
+            },
+            {
+                "start": 20,
+                "end": 30,
+                "text": "carry,first",
+                "isEntity": false
+            },
+            {
+                "start": 26,
+                "end": 38,
+                "text": "first release",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 26,
+                    "end": 38
+                },
+                "babelSynsetID": "bn:00733168n",
+                "DBpediaURL": "http://dbpedia.org/resource/Goo_Goo_Dolls_(album)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00733168n",
+                "score": 1.0,
+                "coherenceScore": 0.0755813953488372,
+                "globalScore": 0.0006527238669061275,
+                "source": "BABELFY"
+            },
+            {
+                "start": 40,
+                "end": 44,
+                "text": "since",
+                "isEntity": false
+            },
+            {
+                "start": 46,
+                "end": 57,
+                "text": "2011,avenged",
+                "isEntity": false
+            },
+            {
+                "start": 59,
+                "end": 67,
+                "text": "sevenfold",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 59,
+                    "end": 67
+                },
+                "babelSynsetID": "bn:00116946r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00116946r",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 69,
+                "end": 82,
+                "text": "moving forward",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 15
+                },
+                "charFragment": {
+                    "start": 69,
+                    "end": 82
+                },
+                "babelSynsetID": "bn:13765057v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s13765057v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 76,
+                "end": 88,
+                "text": "forward,black",
+                "isEntity": false
+            },
+            {
+                "start": 84,
+                "end": 92,
+                "text": "black ops",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 18
+                },
+                "charFragment": {
+                    "start": 84,
+                    "end": 92
+                },
+                "babelSynsetID": "bn:00010953n",
+                "DBpediaURL": "http://dbpedia.org/resource/Black_operation",
+                "BabelNetURL": "http://babelnet.org/rdf/s00010953n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 94,
+                "end": 101,
+                "text": "ii,black",
+                "isEntity": false
+            },
+            {
+                "start": 97,
+                "end": 105,
+                "text": "black ops",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 21,
+                    "end": 22
+                },
+                "charFragment": {
+                    "start": 97,
+                    "end": 105
+                },
+                "babelSynsetID": "bn:00010953n",
+                "DBpediaURL": "http://dbpedia.org/resource/Black_operation",
+                "BabelNetURL": "http://babelnet.org/rdf/s00010953n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 107,
+                "end": 125,
+                "text": "expansion,pixelated",
+                "isEntity": false
+            },
+            {
+                "start": 127,
+                "end": 130,
+                "text": "form",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 26,
+                    "end": 26
+                },
+                "charFragment": {
+                    "start": 127,
+                    "end": 130
+                },
+                "babelSynsetID": "bn:00026512n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00026512n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 132,
+                "end": 148,
+                "text": "performing,things",
+                "isEntity": false
+            },
+            {
+                "start": 150,
+                "end": 153,
+                "text": "like",
+                "isEntity": false
+            },
+            {
+                "start": 155,
+                "end": 168,
+                "text": "pretending,fun",
+                "isEntity": false
+            },
+            {
+                "start": 170,
+                "end": 175,
+                "text": "chorus",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 34,
+                    "end": 34
+                },
+                "charFragment": {
+                    "start": 170,
+                    "end": 175
+                },
+                "babelSynsetID": "bn:00018781n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00018781n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 177,
+                "end": 186,
+                "text": "tricks,end",
+                "isEntity": false
+            },
+            {
+                "start": 188,
+                "end": 193,
+                "text": "result",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 38,
+                    "end": 38
+                },
+                "charFragment": {
+                    "start": 188,
+                    "end": 193
+                },
+                "babelSynsetID": "bn:00021961n",
+                "DBpediaURL": "http://dbpedia.org/resource/Result",
+                "BabelNetURL": "http://babelnet.org/rdf/s00021961n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 195,
+                "end": 204,
+                "text": "comes,said",
+                "isEntity": false
+            },
+            {
+                "start": 206,
+                "end": 207,
+                "text": ".-",
+                "isEntity": false
+            },
+            {
+                "start": 209,
+                "end": 218,
+                "text": "lsb,motion",
+                "isEntity": false
+            },
+            {
+                "start": 213,
+                "end": 226,
+                "text": "motion capture",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 46,
+                    "end": 47
+                },
+                "charFragment": {
+                    "start": 213,
+                    "end": 226
+                },
+                "babelSynsetID": "bn:03121577n",
+                "DBpediaURL": "http://dbpedia.org/resource/Motion_capture",
+                "BabelNetURL": "http://babelnet.org/rdf/s03121577n",
+                "score": 1.0,
+                "coherenceScore": 0.023255813953488372,
+                "globalScore": 0.00013904177046521058,
+                "source": "BABELFY"
+            },
+            {
+                "start": 228,
+                "end": 238,
+                "text": "stuff,tempo",
+                "isEntity": false
+            },
+            {
+                "start": 240,
+                "end": 251,
+                "text": "song,avenged",
+                "isEntity": false
+            },
+            {
+                "start": 253,
+                "end": 268,
+                "text": "sevenfold,motion",
+                "isEntity": false
+            },
+            {
+                "start": 263,
+                "end": 276,
+                "text": "motion capture",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 56,
+                    "end": 57
+                },
+                "charFragment": {
+                    "start": 263,
+                    "end": 276
+                },
+                "babelSynsetID": "bn:03121577n",
+                "DBpediaURL": "http://dbpedia.org/resource/Motion_capture",
+                "BabelNetURL": "http://babelnet.org/rdf/s03121577n",
+                "score": 1.0,
+                "coherenceScore": 0.023255813953488372,
+                "globalScore": 0.00013904177046521058,
+                "source": "BABELFY"
+            },
+            {
+                "start": 270,
+                "end": 284,
+                "text": "capture,classic",
+                "isEntity": false
+            },
+            {
+                "start": 278,
+                "end": 290,
+                "text": "classic metal",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 59,
+                    "end": 60
+                },
+                "charFragment": {
+                    "start": 278,
+                    "end": 290
+                },
+                "babelSynsetID": "bn:00623343n",
+                "DBpediaURL": "http://dbpedia.org/resource/Traditional_heavy_metal",
+                "BabelNetURL": "http://babelnet.org/rdf/s00623343n",
+                "score": 1.0,
+                "coherenceScore": 0.12209302325581395,
+                "globalScore": 0.0030820925786455016,
+                "source": "BABELFY"
+            },
+            {
+                "start": 286,
+                "end": 294,
+                "text": "metal,'``",
+                "isEntity": false
+            },
+            {
+                "start": 296,
+                "end": 310,
+                "text": "carry,uplifting",
+                "isEntity": false
+            },
+            {
+                "start": 312,
+                "end": 320,
+                "text": "song,like",
+                "isEntity": false
+            },
+            {
+                "start": 322,
+                "end": 339,
+                "text": "performing,shadows",
+                "isEntity": false
+            },
+            {
+                "start": 341,
+                "end": 349,
+                "text": "said,work",
+                "isEntity": false
+            },
+            {
+                "start": 351,
+                "end": 364,
+                "text": "involved,story",
+                "isEntity": false
+            },
+            {
+                "start": 366,
+                "end": 380,
+                "text": "behind,siriusxm",
+                "isEntity": false
+            },
+            {
+                "start": 382,
+                "end": 391,
+                "text": "radio,rick",
+                "isEntity": false
+            },
+            {
+                "start": 393,
+                "end": 406,
+                "text": "florino,really",
+                "isEntity": false
+            },
+            {
+                "start": 408,
+                "end": 415,
+                "text": "well,put",
+                "isEntity": false
+            },
+            {
+                "start": 413,
+                "end": 424,
+                "text": "put together",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 89,
+                    "end": 90
+                },
+                "charFragment": {
+                    "start": 413,
+                    "end": 424
+                },
+                "babelSynsetID": "bn:00082845v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00082845v",
+                "score": 1.0,
+                "coherenceScore": 0.011627906976744186,
+                "globalScore": 1.544908560724562e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 417,
+                "end": 431,
+                "text": "together,pretty",
+                "isEntity": false
+            },
+            {
+                "start": 433,
+                "end": 451,
+                "text": "painstaking,perform",
+                "isEntity": false
+            },
+            {
+                "start": 453,
+                "end": 462,
+                "text": "parts,like",
+                "isEntity": false
+            },
+            {
+                "start": 464,
+                "end": 477,
+                "text": "anything,judas",
+                "isEntity": false
+            },
+            {
+                "start": 473,
+                "end": 484,
+                "text": "judas priest",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 101,
+                    "end": 102
+                },
+                "charFragment": {
+                    "start": 473,
+                    "end": 484
+                },
+                "babelSynsetID": "bn:00928664n",
+                "DBpediaURL": "http://dbpedia.org/resource/Judas_Priest",
+                "BabelNetURL": "http://babelnet.org/rdf/s00928664n",
+                "score": 1.0,
+                "coherenceScore": 0.18604651162790697,
+                "globalScore": 0.0055616708186084236,
+                "source": "BABELFY"
+            },
+            {
+                "start": 479,
+                "end": 489,
+                "text": "priest,iron",
+                "isEntity": false
+            },
+            {
+                "start": 486,
+                "end": 496,
+                "text": "iron maiden",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 104,
+                    "end": 105
+                },
+                "charFragment": {
+                    "start": 486,
+                    "end": 496
+                },
+                "babelSynsetID": "bn:00827907n",
+                "DBpediaURL": "http://dbpedia.org/resource/Iron_Maiden",
+                "BabelNetURL": "http://babelnet.org/rdf/s00827907n",
+                "score": 0.8490182802979012,
+                "coherenceScore": 0.22093023255813954,
+                "globalScore": 0.009686576675743004,
+                "source": "BABELFY"
+            },
+            {
+                "start": 491,
+                "end": 502,
+                "text": "maiden,great",
+                "isEntity": false
+            },
+            {
+                "start": 504,
+                "end": 511,
+                "text": "time,got",
+                "isEntity": false
+            },
+            {
+                "start": 513,
+                "end": 526,
+                "text": "called,getting",
+                "isEntity": false
+            },
+            {
+                "start": 528,
+                "end": 535,
+                "text": "used,fun",
+                "isEntity": false
+            },
+            {
+                "start": 537,
+                "end": 546,
+                "text": "stuff,four",
+                "isEntity": false
+            },
+            {
+                "start": 548,
+                "end": 559,
+                "text": "minutes,feel",
+                "isEntity": false
+            },
+            {
+                "start": 556,
+                "end": 564,
+                "text": "feel like",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 122,
+                    "end": 123
+                },
+                "charFragment": {
+                    "start": 556,
+                    "end": 564
+                },
+                "babelSynsetID": "bn:00088107v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00088107v",
+                "score": 1.0,
+                "coherenceScore": 0.01744186046511628,
+                "globalScore": 5.793407102717108e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 561,
+                "end": 568,
+                "text": "like,end",
+                "isEntity": false
+            },
+            {
+                "start": 566,
+                "end": 576,
+                "text": "end credits",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 125,
+                    "end": 126
+                },
+                "charFragment": {
+                    "start": 566,
+                    "end": 576
+                },
+                "babelSynsetID": "bn:02034125n",
+                "DBpediaURL": "http://dbpedia.org/resource/End_Credits",
+                "BabelNetURL": "http://babelnet.org/rdf/s02034125n",
+                "score": 0.8,
+                "coherenceScore": 0.011627906976744186,
+                "globalScore": 1.544908560724562e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 570,
+                "end": 582,
+                "text": "credits,chord",
+                "isEntity": false
+            },
+            {
+                "start": 584,
+                "end": 601,
+                "text": "modulations,artist",
+                "isEntity": false
+            },
+            {
+                "start": 596,
+                "end": 608,
+                "text": "artist direct",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 131,
+                    "end": 132
+                },
+                "charFragment": {
+                    "start": 596,
+                    "end": 608
+                },
+                "babelSynsetID": "bn:03403284n",
+                "DBpediaURL": "http://dbpedia.org/resource/Artistdirect",
+                "BabelNetURL": "http://babelnet.org/rdf/s03403284n",
+                "score": 1.0,
+                "coherenceScore": 0.03488372093023256,
+                "globalScore": 0.00018538902728694746,
+                "source": "BABELFY"
+            },
+            {
+                "start": 603,
+                "end": 613,
+                "text": "direct,''``",
+                "isEntity": false
+            },
+            {
+                "start": 615,
+                "end": 631,
+                "text": "sometimes,shadows",
+                "isEntity": false
+            },
+            {
+                "start": 633,
+                "end": 641,
+                "text": "told,much",
+                "isEntity": false
+            },
+            {
+                "start": 643,
+                "end": 651,
+                "text": "ozzy,much",
+                "isEntity": false
+            },
+            {
+                "start": 653,
+                "end": 662,
+                "text": "fun,lyrics",
+                "isEntity": false
+            },
+            {
+                "start": 664,
+                "end": 675,
+                "text": "meander,epic",
+                "isEntity": false
+            },
+            {
+                "start": 677,
+                "end": 685,
+                "text": "lyrics,``",
+                "isEntity": false
+            },
+            {
+                "start": 687,
+                "end": 696,
+                "text": "well,three",
+                "isEntity": false
+            },
+            {
+                "start": 698,
+                "end": 708,
+                "text": "days,sequel",
+                "isEntity": false
+            },
+            {
+                "start": 710,
+                "end": 719,
+                "text": "call,could",
+                "isEntity": false
+            },
+            {
+                "start": 721,
+                "end": 730,
+                "text": "think,came",
+                "isEntity": false
+            },
+            {
+                "start": 727,
+                "end": 739,
+                "text": "came together",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 164,
+                    "end": 165
+                },
+                "charFragment": {
+                    "start": 727,
+                    "end": 739
+                },
+                "babelSynsetID": "bn:00085172v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00085172v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 732,
+                "end": 742,
+                "text": "together,''",
+                "isEntity": false
+            },
+            {
+                "start": 744,
+                "end": 754,
+                "text": "speaking,``",
+                "isEntity": false
+            },
+            {
+                "start": 756,
+                "end": 768,
+                "text": "wanted,little",
+                "isEntity": false
+            },
+            {
+                "start": 763,
+                "end": 772,
+                "text": "little bit",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 172,
+                    "end": 173
+                },
+                "charFragment": {
+                    "start": 763,
+                    "end": 772
+                },
+                "babelSynsetID": "bn:02379839n",
+                "DBpediaURL": "http://dbpedia.org/resource/Little_Bit",
+                "BabelNetURL": "http://babelnet.org/rdf/s02379839n",
+                "score": 1.0,
+                "coherenceScore": 0.05813953488372093,
+                "globalScore": 0.0003862271401811405,
+                "source": "BABELFY"
+            },
+            {
+                "start": 770,
+                "end": 1382,
+                "text": "bit,carry,song,2011,stuff,lsb,like,fun,end,shadows,much,lyrics,``,wanted,think,little,days,classic,came,call,bit,'',write,worth,worked,words,way,vocalist,vast,vague,throwback,thrash,term,takes,stuck,street,sorts,songs,something,see,screaming,rush,rsb,replied,regarding,recorded,record,ready,punched,play,perfect,open,needed,need,necessary,n,move,make,made,lot,listening,let,left,leave,laughs,kerrang,horse,helloween,head,gut,get,game,felt,featured,explained,everything,entertaining,ended,duty,driving,die,definitely,dead,couple,cool,compact,characters,boneyard,big,basically,band,asked,april,animation,allowed,.``",
+                "isEntity": false
+            }
+        ]
+    ]
+}

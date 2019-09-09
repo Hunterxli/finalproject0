@@ -1,0 +1,487 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 3,
+                "text": "This",
+                "isEntity": false
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "is",
+                "isEntity": false
+            },
+            {
+                "start": 8,
+                "end": 12,
+                "text": "about",
+                "isEntity": false
+            },
+            {
+                "start": 14,
+                "end": 16,
+                "text": "the",
+                "isEntity": false
+            },
+            {
+                "start": 18,
+                "end": 23,
+                "text": "singer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 18,
+                    "end": 23
+                },
+                "babelSynsetID": "bn:00071731n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00071731n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 25,
+                "end": 26,
+                "text": "'s",
+                "isEntity": false
+            },
+            {
+                "start": 28,
+                "end": 37,
+                "text": "girlfriend",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 28,
+                    "end": 37
+                },
+                "babelSynsetID": "bn:00040542n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00040542n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 39,
+                "end": 39,
+                "text": ".",
+                "isEntity": false
+            }
+        ],
+        [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "He",
+                "isEntity": false
+            },
+            {
+                "start": 3,
+                "end": 10,
+                "text": "believes",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 3,
+                    "end": 10
+                },
+                "babelSynsetID": "bn:00083369v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00083369v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 12,
+                "end": 14,
+                "text": "she",
+                "isEntity": false
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "is",
+                "isEntity": false
+            },
+            {
+                "start": 19,
+                "end": 26,
+                "text": "pregnant",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 19,
+                    "end": 26
+                },
+                "babelSynsetID": "bn:00108940a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00108940a",
+                "score": 1.0,
+                "coherenceScore": 0.3333333333333333,
+                "globalScore": 0.02631578947368421,
+                "source": "BABELFY"
+            },
+            {
+                "start": 28,
+                "end": 30,
+                "text": "and",
+                "isEntity": false
+            },
+            {
+                "start": 32,
+                "end": 35,
+                "text": "does",
+                "isEntity": false
+            },
+            {
+                "start": 37,
+                "end": 39,
+                "text": "n't",
+                "isEntity": false
+            },
+            {
+                "start": 41,
+                "end": 44,
+                "text": "want",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 41,
+                    "end": 44
+                },
+                "babelSynsetID": "bn:00091028v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00091028v",
+                "score": 1.0,
+                "coherenceScore": 0.16666666666666666,
+                "globalScore": 0.006578947368421052,
+                "source": "BABELFY"
+            },
+            {
+                "start": 46,
+                "end": 48,
+                "text": "her",
+                "isEntity": false
+            },
+            {
+                "start": 50,
+                "end": 51,
+                "text": "to",
+                "isEntity": false
+            },
+            {
+                "start": 53,
+                "end": 54,
+                "text": "be",
+                "isEntity": false
+            },
+            {
+                "start": 56,
+                "end": 55,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 57,
+                "end": 57,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 58,
+                "end": 60,
+                "text": "and",
+                "isEntity": false
+            },
+            {
+                "start": 62,
+                "end": 65,
+                "text": "when",
+                "isEntity": false
+            },
+            {
+                "start": 67,
+                "end": 68,
+                "text": "he",
+                "isEntity": false
+            },
+            {
+                "start": 70,
+                "end": 78,
+                "text": "finds out",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 18
+                },
+                "charFragment": {
+                    "start": 70,
+                    "end": 78
+                },
+                "babelSynsetID": "bn:00082811v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00082811v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 80,
+                "end": 83,
+                "text": "that",
+                "isEntity": false
+            },
+            {
+                "start": 85,
+                "end": 86,
+                "text": "``",
+                "isEntity": false
+            },
+            {
+                "start": 88,
+                "end": 90,
+                "text": "she",
+                "isEntity": false
+            },
+            {
+                "start": 92,
+                "end": 93,
+                "text": "'s",
+                "isEntity": false
+            },
+            {
+                "start": 95,
+                "end": 96,
+                "text": "on",
+                "isEntity": false
+            },
+            {
+                "start": 98,
+                "end": 101,
+                "text": "time",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 24,
+                    "end": 24
+                },
+                "charFragment": {
+                    "start": 98,
+                    "end": 101
+                },
+                "babelSynsetID": "bn:00019848n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00019848n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 103,
+                "end": 104,
+                "text": "''",
+                "isEntity": false
+            },
+            {
+                "start": 106,
+                "end": 110,
+                "text": "-LRB-",
+                "isEntity": false
+            },
+            {
+                "start": 112,
+                "end": 114,
+                "text": "for",
+                "isEntity": false
+            },
+            {
+                "start": 116,
+                "end": 118,
+                "text": "her",
+                "isEntity": false
+            },
+            {
+                "start": 120,
+                "end": 125,
+                "text": "period",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 28,
+                    "end": 28
+                },
+                "charFragment": {
+                    "start": 120,
+                    "end": 125
+                },
+                "babelSynsetID": "bn:00061605n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00061605n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 127,
+                "end": 131,
+                "text": "-RRB-",
+                "isEntity": false
+            },
+            {
+                "start": 133,
+                "end": 132,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 134,
+                "end": 134,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 135,
+                "end": 136,
+                "text": "he",
+                "isEntity": false
+            },
+            {
+                "start": 138,
+                "end": 139,
+                "text": "is",
+                "isEntity": false
+            },
+            {
+                "start": 141,
+                "end": 145,
+                "text": "happy",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 33,
+                    "end": 33
+                },
+                "charFragment": {
+                    "start": 141,
+                    "end": 145
+                },
+                "babelSynsetID": "bn:00103933a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00103933a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 147,
+                "end": 147,
+                "text": ".",
+                "isEntity": false
+            }
+        ],
+        [
+            {
+                "start": 0,
+                "end": 4,
+                "text": "-LRB-",
+                "isEntity": false
+            },
+            {
+                "start": 6,
+                "end": 11,
+                "text": "thanks",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 6,
+                    "end": 11
+                },
+                "babelSynsetID": "bn:01249784n",
+                "DBpediaURL": "http://dbpedia.org/resource/W-inds_discography",
+                "BabelNetURL": "http://babelnet.org/rdf/s01249784n",
+                "score": 1.0,
+                "coherenceScore": 0.25,
+                "globalScore": 0.0040650406504065045,
+                "source": "BABELFY"
+            },
+            {
+                "start": 13,
+                "end": 12,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 14,
+                "end": 14,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 15,
+                "end": 19,
+                "text": "James",
+                "isEntity": false
+            },
+            {
+                "start": 21,
+                "end": 21,
+                "text": "-",
+                "isEntity": false
+            },
+            {
+                "start": 23,
+                "end": 38,
+                "text": "Toronto , Canada",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 23,
+                    "end": 38
+                },
+                "babelSynsetID": "bn:00077670n",
+                "DBpediaURL": "http://dbpedia.org/resource/Toronto",
+                "BabelNetURL": "http://babelnet.org/rdf/s00077670n",
+                "score": 1.0,
+                "coherenceScore": 0.5,
+                "globalScore": 0.13008130081300814,
+                "source": "BABELFY"
+            },
+            {
+                "start": 40,
+                "end": 44,
+                "text": "-RRB-",
+                "isEntity": false
+            }
+        ]
+    ]
+}

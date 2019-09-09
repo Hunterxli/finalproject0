@@ -1,0 +1,99 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 8,
+                "text": "energetic",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 8
+                },
+                "babelSynsetID": "bn:00102235a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00102235a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 10,
+                "end": 16,
+                "text": "country",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 10,
+                    "end": 16
+                },
+                "babelSynsetID": "bn:00023236n",
+                "DBpediaURL": "http://dbpedia.org/resource/State_(polity)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00023236n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 18,
+                "end": 31,
+                "text": "tune,signature",
+                "isEntity": false
+            },
+            {
+                "start": 33,
+                "end": 43,
+                "text": "ballad,hard",
+                "isEntity": false
+            },
+            {
+                "start": 40,
+                "end": 48,
+                "text": "hard time",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 40,
+                    "end": 48
+                },
+                "babelSynsetID": "bn:00042951n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00042951n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 45,
+                "end": 56,
+                "text": "time,emerson",
+                "isEntity": false
+            },
+            {
+                "start": 58,
+                "end": 65,
+                "text": "drive,.-",
+                "isEntity": false
+            },
+            {
+                "start": 67,
+                "end": 143,
+                "text": "lrb,winchester,thanks,sees,rrb,relationship,oh,offers,lyrics,love,landon,girl",
+                "isEntity": false
+            }
+        ]
+    ]
+}

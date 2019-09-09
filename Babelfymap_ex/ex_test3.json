@@ -1,0 +1,123 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 7,
+                "text": "frontman",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 7
+                },
+                "babelSynsetID": "bn:03464733n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lead_vocalist",
+                "BabelNetURL": "http://babelnet.org/rdf/s03464733n",
+                "score": 1.0,
+                "coherenceScore": 0.12121212121212122,
+                "globalScore": 0.003143418467583497,
+                "source": "BABELFY"
+            },
+            {
+                "start": 9,
+                "end": 15,
+                "text": "charlie",
+                "isEntity": false
+            },
+            {
+                "start": 17,
+                "end": 30,
+                "text": "fink,outwardly",
+                "isEntity": false
+            },
+            {
+                "start": 32,
+                "end": 39,
+                "text": "romantic",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 32,
+                    "end": 39
+                },
+                "babelSynsetID": "bn:00109919a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00109919a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 41,
+                "end": 49,
+                "text": "song,fink",
+                "isEntity": false
+            },
+            {
+                "start": 51,
+                "end": 68,
+                "text": "explained,romantic",
+                "isEntity": false
+            },
+            {
+                "start": 70,
+                "end": 79,
+                "text": "poem,press",
+                "isEntity": false
+            },
+            {
+                "start": 75,
+                "end": 87,
+                "text": "press release",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 15
+                },
+                "charFragment": {
+                    "start": 75,
+                    "end": 87
+                },
+                "babelSynsetID": "bn:00042829n",
+                "DBpediaURL": "http://dbpedia.org/resource/Press_release",
+                "BabelNetURL": "http://babelnet.org/rdf/s00042829n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 81,
+                "end": 92,
+                "text": "release,last",
+                "isEntity": false
+            },
+            {
+                "start": 94,
+                "end": 104,
+                "text": "night,first",
+                "isEntity": false
+            },
+            {
+                "start": 106,
+                "end": 117,
+                "text": "time,heavily",
+                "isEntity": false
+            },
+            {
+                "start": 119,
+                "end": 259,
+                "text": "influenced,song,poem,influenced,wanted,think,tempo,rsb,read,poetry,notion,met,lyrics,lsb,hara,frank,feel,earth,coke,approach,album,``,2010,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

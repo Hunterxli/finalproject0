@@ -1,0 +1,303 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 5,
+                "text": "eminem",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 5
+                },
+                "babelSynsetID": "bn:03196363n",
+                "DBpediaURL": "http://dbpedia.org/resource/Eminem",
+                "BabelNetURL": "http://babelnet.org/rdf/s03196363n",
+                "score": 1.0,
+                "coherenceScore": 0.32608695652173914,
+                "globalScore": 0.021225544481358435,
+                "source": "BABELFY"
+            },
+            {
+                "start": 7,
+                "end": 15,
+                "text": "associate",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 7,
+                    "end": 15
+                },
+                "babelSynsetID": "bn:00006532n",
+                "DBpediaURL": "http://dbpedia.org/resource/Fellow",
+                "BabelNetURL": "http://babelnet.org/rdf/s00006532n",
+                "score": 0.7441860465116279,
+                "coherenceScore": 0.08695652173913043,
+                "globalScore": 0.0019687461547926665,
+                "source": "BABELFY"
+            },
+            {
+                "start": 17,
+                "end": 29,
+                "text": "mike elizondo",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 17,
+                    "end": 29
+                },
+                "babelSynsetID": "bn:01849985n",
+                "DBpediaURL": "http://dbpedia.org/resource/Mike_Elizondo",
+                "BabelNetURL": "http://babelnet.org/rdf/s01849985n",
+                "score": 1.0,
+                "coherenceScore": 0.13043478260869565,
+                "globalScore": 0.002583979328165375,
+                "source": "BABELFY"
+            },
+            {
+                "start": 31,
+                "end": 40,
+                "text": "also,allen",
+                "isEntity": false
+            },
+            {
+                "start": 42,
+                "end": 45,
+                "text": "told",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 42,
+                    "end": 45
+                },
+                "babelSynsetID": "bn:00093287v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00093287v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 47,
+                "end": 49,
+                "text": "mtv",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 47,
+                    "end": 49
+                },
+                "babelSynsetID": "bn:01145422n",
+                "DBpediaURL": "http://dbpedia.org/resource/MTV",
+                "BabelNetURL": "http://babelnet.org/rdf/s01145422n",
+                "score": 0.9767441860465116,
+                "coherenceScore": 0.391304347826087,
+                "globalScore": 0.031007751937984496,
+                "source": "BABELFY"
+            },
+            {
+                "start": 51,
+                "end": 57,
+                "text": "news,``",
+                "isEntity": false
+            },
+            {
+                "start": 59,
+                "end": 62,
+                "text": "idol",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 59,
+                    "end": 62
+                },
+                "babelSynsetID": "bn:00040880n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00040880n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 64,
+                "end": 65,
+                "text": "''",
+                "isEntity": false
+            },
+            {
+                "start": 67,
+                "end": 77,
+                "text": "champ,early",
+                "isEntity": false
+            },
+            {
+                "start": 79,
+                "end": 83,
+                "text": "album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 16,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 79,
+                    "end": 83
+                },
+                "babelSynsetID": "bn:00002488n",
+                "DBpediaURL": "http://dbpedia.org/resource/Album",
+                "BabelNetURL": "http://babelnet.org/rdf/s00002488n",
+                "score": 0.9702233250620348,
+                "coherenceScore": 0.5,
+                "globalScore": 0.07216685123661867,
+                "source": "BABELFY"
+            },
+            {
+                "start": 85,
+                "end": 98,
+                "text": "preview,bluesy",
+                "isEntity": false
+            },
+            {
+                "start": 100,
+                "end": 103,
+                "text": "rock",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 20,
+                    "end": 20
+                },
+                "charFragment": {
+                    "start": 100,
+                    "end": 103
+                },
+                "babelSynsetID": "bn:00068049n",
+                "DBpediaURL": "http://dbpedia.org/resource/Rock_music",
+                "BabelNetURL": "http://babelnet.org/rdf/s00068049n",
+                "score": 0.9742120343839542,
+                "coherenceScore": 0.6956521739130435,
+                "globalScore": 0.16734342315737666,
+                "source": "BABELFY"
+            },
+            {
+                "start": 105,
+                "end": 112,
+                "text": "waltz,''",
+                "isEntity": false
+            },
+            {
+                "start": 114,
+                "end": 118,
+                "text": "allen",
+                "isEntity": false
+            },
+            {
+                "start": 120,
+                "end": 131,
+                "text": "said,dropped",
+                "isEntity": false
+            },
+            {
+                "start": 133,
+                "end": 143,
+                "text": "``,american",
+                "isEntity": false
+            },
+            {
+                "start": 145,
+                "end": 154,
+                "text": "idol,ashes",
+                "isEntity": false
+            },
+            {
+                "start": 156,
+                "end": 165,
+                "text": "'',writing",
+                "isEntity": false
+            },
+            {
+                "start": 167,
+                "end": 178,
+                "text": "credits,tune",
+                "isEntity": false
+            },
+            {
+                "start": 180,
+                "end": 188,
+                "text": ".``,mills",
+                "isEntity": false
+            },
+            {
+                "start": 190,
+                "end": 205,
+                "text": "accompanied,make",
+                "isEntity": false
+            },
+            {
+                "start": 202,
+                "end": 210,
+                "text": "make room",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 44,
+                    "end": 45
+                },
+                "charFragment": {
+                    "start": 202,
+                    "end": 210
+                },
+                "babelSynsetID": "bn:13755537v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s13755537v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 207,
+                "end": 215,
+                "text": "room,cale",
+                "isEntity": false
+            },
+            {
+                "start": 217,
+                "end": 230,
+                "text": "mills,arkansas",
+                "isEntity": false
+            },
+            {
+                "start": 232,
+                "end": 243,
+                "text": "friend,track",
+                "isEntity": false
+            },
+            {
+                "start": 245,
+                "end": 366,
+                "text": "hyped,allen,track,ashes,written,thrilled,song,rsb,n,member,lsb,liked,like,journalists,either,dre,dr,co,buddy,band,audition",
+                "isEntity": false
+            }
+        ]
+    ]
+}

@@ -1,0 +1,222 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 2,
+                "text": "dig",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 2
+                },
+                "babelSynsetID": "bn:00005410n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00005410n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 4,
+                "end": 6,
+                "text": "bad",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 4,
+                    "end": 6
+                },
+                "babelSynsetID": "bn:00097966a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00097966a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 8,
+                "end": 16,
+                "text": "boys,hour",
+                "isEntity": false
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": ".`",
+                "isEntity": false
+            },
+            {
+                "start": 21,
+                "end": 35,
+                "text": "ghetto,features",
+                "isEntity": false
+            },
+            {
+                "start": 37,
+                "end": 46,
+                "text": "snoop dogg",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 37,
+                    "end": 46
+                },
+                "babelSynsetID": "bn:03779140n",
+                "DBpediaURL": "http://dbpedia.org/resource/Snoop_Dogg",
+                "BabelNetURL": "http://babelnet.org/rdf/s03779140n",
+                "score": 0.9562841530054644,
+                "coherenceScore": 0.3888888888888889,
+                "globalScore": 0.06656523392925066,
+                "source": "BABELFY"
+            },
+            {
+                "start": 43,
+                "end": 49,
+                "text": "dogg,``",
+                "isEntity": false
+            },
+            {
+                "start": 51,
+                "end": 61,
+                "text": "ghetto,tank",
+                "isEntity": false
+            },
+            {
+                "start": 63,
+                "end": 76,
+                "text": "played,rowland",
+                "isEntity": false
+            },
+            {
+                "start": 78,
+                "end": 88,
+                "text": "said,record",
+                "isEntity": false
+            },
+            {
+                "start": 83,
+                "end": 94,
+                "text": "record label",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 22,
+                    "end": 23
+                },
+                "charFragment": {
+                    "start": 83,
+                    "end": 94
+                },
+                "babelSynsetID": "bn:00066581n",
+                "DBpediaURL": "http://dbpedia.org/resource/Record_label",
+                "BabelNetURL": "http://babelnet.org/rdf/s00066581n",
+                "score": 0.8360655737704918,
+                "coherenceScore": 0.4722222222222222,
+                "globalScore": 0.11639406618486116,
+                "source": "BABELFY"
+            },
+            {
+                "start": 90,
+                "end": 103,
+                "text": "label,producer",
+                "isEntity": false
+            },
+            {
+                "start": 105,
+                "end": 113,
+                "text": "tank,laid",
+                "isEntity": false
+            },
+            {
+                "start": 110,
+                "end": 118,
+                "text": "laid back",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 28,
+                    "end": 29
+                },
+                "charFragment": {
+                    "start": 110,
+                    "end": 118
+                },
+                "babelSynsetID": "bn:13741870v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s13741870v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 115,
+                "end": 129,
+                "text": "back,influenced",
+                "isEntity": false
+            },
+            {
+                "start": 131,
+                "end": 141,
+                "text": "number,good",
+                "isEntity": false
+            },
+            {
+                "start": 143,
+                "end": 152,
+                "text": "girls,feel",
+                "isEntity": false
+            },
+            {
+                "start": 154,
+                "end": 159,
+                "text": "good,b",
+                "isEntity": false
+            },
+            {
+                "start": 161,
+                "end": 175,
+                "text": "singer,american",
+                "isEntity": false
+            },
+            {
+                "start": 168,
+                "end": 177,
+                "text": "american r",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 43,
+                    "end": 44
+                },
+                "charFragment": {
+                    "start": 168,
+                    "end": 177
+                },
+                "babelSynsetID": "bn:03316152n",
+                "DBpediaURL": "http://dbpedia.org/resource/Alveolar_approximant",
+                "BabelNetURL": "http://babelnet.org/rdf/s03316152n",
+                "score": 1.0,
+                "coherenceScore": 0.05555555555555555,
+                "globalScore": 0.0011411182959300114,
+                "source": "BABELFY"
+            },
+            {
+                "start": 177,
+                "end": 273,
+                "text": "r,snoop,website,soon,song,something,recorded,produced,one,make,like,knew,gives,favorites,crunk,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

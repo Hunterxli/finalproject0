@@ -1,0 +1,327 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 4,
+                "text": "whose",
+                "isEntity": false
+            },
+            {
+                "start": 6,
+                "end": 10,
+                "text": "theme",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 6,
+                    "end": 10
+                },
+                "babelSynsetID": "bn:00074900n",
+                "DBpediaURL": "http://dbpedia.org/resource/Topic\u2013comment",
+                "BabelNetURL": "http://babelnet.org/rdf/s00074900n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 12,
+                "end": 22,
+                "text": "stems,piano",
+                "isEntity": false
+            },
+            {
+                "start": 24,
+                "end": 28,
+                "text": "based",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 24,
+                    "end": 28
+                },
+                "babelSynsetID": "bn:00083141v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00083141v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 30,
+                "end": 42,
+                "text": "track,beatles",
+                "isEntity": false
+            },
+            {
+                "start": 44,
+                "end": 45,
+                "text": ".-",
+                "isEntity": false
+            },
+            {
+                "start": 47,
+                "end": 57,
+                "text": "lrb,foibles",
+                "isEntity": false
+            },
+            {
+                "start": 59,
+                "end": 62,
+                "text": "pass",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 59,
+                    "end": 62
+                },
+                "babelSynsetID": "bn:00088932v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00088932v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 64,
+                "end": 72,
+                "text": "'',henley",
+                "isEntity": false
+            },
+            {
+                "start": 74,
+                "end": 79,
+                "text": "'',end",
+                "isEntity": false
+            },
+            {
+                "start": 81,
+                "end": 92,
+                "text": "'',september",
+                "isEntity": false
+            },
+            {
+                "start": 84,
+                "end": 94,
+                "text": "september 6",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 20,
+                    "end": 21
+                },
+                "charFragment": {
+                    "start": 84,
+                    "end": 94
+                },
+                "babelSynsetID": "bn:02155681n",
+                "DBpediaURL": "http://dbpedia.org/resource/September_6",
+                "BabelNetURL": "http://babelnet.org/rdf/s02155681n",
+                "score": 0.9333333333333333,
+                "coherenceScore": 0.125,
+                "globalScore": 0.0029342415509562483,
+                "source": "BABELFY"
+            },
+            {
+                "start": 94,
+                "end": 104,
+                "text": "6,resulting",
+                "isEntity": false
+            },
+            {
+                "start": 106,
+                "end": 113,
+                "text": "song,ray",
+                "isEntity": false
+            },
+            {
+                "start": 111,
+                "end": 121,
+                "text": "ray coleman",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 26,
+                    "end": 27
+                },
+                "charFragment": {
+                    "start": 111,
+                    "end": 121
+                },
+                "babelSynsetID": "bn:02895867n",
+                "DBpediaURL": "http://dbpedia.org/resource/Ray_Coleman",
+                "BabelNetURL": "http://babelnet.org/rdf/s02895867n",
+                "score": 1.0,
+                "coherenceScore": 0.17857142857142858,
+                "globalScore": 0.005763688760806916,
+                "source": "BABELFY"
+            },
+            {
+                "start": 115,
+                "end": 130,
+                "text": "coleman,powerful",
+                "isEntity": false
+            },
+            {
+                "start": 132,
+                "end": 141,
+                "text": "ballad,new",
+                "isEntity": false
+            },
+            {
+                "start": 139,
+                "end": 147,
+                "text": "new album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 32,
+                    "end": 33
+                },
+                "charFragment": {
+                    "start": 139,
+                    "end": 147
+                },
+                "babelSynsetID": "bn:02443028n",
+                "DBpediaURL": "http://dbpedia.org/resource/New_Album",
+                "BabelNetURL": "http://babelnet.org/rdf/s02443028n",
+                "score": 1.0,
+                "coherenceScore": 0.07142857142857142,
+                "globalScore": 0.0008383547288446424,
+                "source": "BABELFY"
+            },
+            {
+                "start": 143,
+                "end": 159,
+                "text": "album,microscopic",
+                "isEntity": false
+            },
+            {
+                "start": 161,
+                "end": 172,
+                "text": "glass,melody",
+                "isEntity": false
+            },
+            {
+                "start": 167,
+                "end": 178,
+                "text": "melody maker",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 38,
+                    "end": 39
+                },
+                "charFragment": {
+                    "start": 167,
+                    "end": 178
+                },
+                "babelSynsetID": "bn:03226906n",
+                "DBpediaURL": "http://dbpedia.org/resource/Melody_Maker",
+                "BabelNetURL": "http://babelnet.org/rdf/s03226906n",
+                "score": 1.0,
+                "coherenceScore": 0.05357142857142857,
+                "globalScore": 0.0007859575582918522,
+                "source": "BABELFY"
+            },
+            {
+                "start": 174,
+                "end": 183,
+                "text": "maker,also",
+                "isEntity": false
+            },
+            {
+                "start": 185,
+                "end": 202,
+                "text": "reviewed,alexander",
+                "isEntity": false
+            },
+            {
+                "start": 194,
+                "end": 208,
+                "text": "alexander baron",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 44,
+                    "end": 45
+                },
+                "charFragment": {
+                    "start": 194,
+                    "end": 208
+                },
+                "babelSynsetID": "bn:01176219n",
+                "DBpediaURL": "http://dbpedia.org/resource/Alexander_Baron",
+                "BabelNetURL": "http://babelnet.org/rdf/s01176219n",
+                "score": 1.0,
+                "coherenceScore": 0.017857142857142856,
+                "globalScore": 5.239717055279015e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 204,
+                "end": 213,
+                "text": "baron,1975",
+                "isEntity": false
+            },
+            {
+                "start": 215,
+                "end": 224,
+                "text": "issue,said",
+                "isEntity": false
+            },
+            {
+                "start": 226,
+                "end": 230,
+                "text": "``,``",
+                "isEntity": false
+            },
+            {
+                "start": 232,
+                "end": 247,
+                "text": "scan,inscription",
+                "isEntity": false
+            },
+            {
+                "start": 249,
+                "end": 262,
+                "text": "written,george",
+                "isEntity": false
+            },
+            {
+                "start": 257,
+                "end": 271,
+                "text": "george harrison",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 58,
+                    "end": 59
+                },
+                "charFragment": {
+                    "start": 257,
+                    "end": 271
+                },
+                "babelSynsetID": "bn:00040218n",
+                "DBpediaURL": "http://dbpedia.org/resource/George_Harrison",
+                "BabelNetURL": "http://babelnet.org/rdf/s00040218n",
+                "score": 0.75,
+                "coherenceScore": 0.21428571428571427,
+                "globalScore": 0.011317788839402673,
+                "source": "BABELFY"
+            },
+            {
+                "start": 264,
+                "end": 449,
+                "text": "harrison,``,inscription,harrison,george,words,wisdom,wall,thanks,rrb,philosophical,london,let,know,keeping,journalist,interviewed,house,friend,faults,entirely,england,depth,answer,always",
+                "isEntity": false
+            }
+        ]
+    ]
+}

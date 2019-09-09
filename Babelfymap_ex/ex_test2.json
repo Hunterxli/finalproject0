@@ -1,0 +1,507 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 2,
+                "text": "jim",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 2
+                },
+                "babelSynsetID": "bn:00040484n",
+                "DBpediaURL": "http://dbpedia.org/resource/Gimel",
+                "BabelNetURL": "http://babelnet.org/rdf/s00040484n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 4,
+                "end": 12,
+                "text": "mccormick",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 4,
+                    "end": 12
+                },
+                "babelSynsetID": "bn:00048328n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00048328n",
+                "score": 0.75,
+                "coherenceScore": 0.038461538461538464,
+                "globalScore": 0.0001383062099488267,
+                "source": "BABELFY"
+            },
+            {
+                "start": 14,
+                "end": 18,
+                "text": "whose",
+                "isEntity": false
+            },
+            {
+                "start": 20,
+                "end": 27,
+                "text": "previous",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 20,
+                    "end": 27
+                },
+                "babelSynsetID": "bn:00107791a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00107791a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 29,
+                "end": 35,
+                "text": "efforts",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 29,
+                    "end": 35
+                },
+                "babelSynsetID": "bn:00007011n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00007011n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 37,
+                "end": 44,
+                "text": "together",
+                "isEntity": false
+            },
+            {
+                "start": 46,
+                "end": 52,
+                "text": "include",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 46,
+                    "end": 52
+                },
+                "babelSynsetID": "bn:00089660v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00089660v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 54,
+                "end": 65,
+                "text": "randy travis",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 54,
+                    "end": 65
+                },
+                "babelSynsetID": "bn:00940045n",
+                "DBpediaURL": "http://dbpedia.org/resource/Randy_Travis",
+                "BabelNetURL": "http://babelnet.org/rdf/s00940045n",
+                "score": 1.0,
+                "coherenceScore": 0.14102564102564102,
+                "globalScore": 0.0021975320025202465,
+                "source": "BABELFY"
+            },
+            {
+                "start": 60,
+                "end": 73,
+                "text": "travis,country",
+                "isEntity": false
+            },
+            {
+                "start": 67,
+                "end": 79,
+                "text": "country music",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 67,
+                    "end": 79
+                },
+                "babelSynsetID": "bn:00014397n",
+                "DBpediaURL": "http://dbpedia.org/resource/Country_music",
+                "BabelNetURL": "http://babelnet.org/rdf/s00014397n",
+                "score": 0.9141274238227147,
+                "coherenceScore": 0.38461538461538464,
+                "globalScore": 0.02535613849061823,
+                "source": "BABELFY"
+            },
+            {
+                "start": 75,
+                "end": 86,
+                "text": "music artist",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 75,
+                    "end": 86
+                },
+                "babelSynsetID": "bn:00046975n",
+                "DBpediaURL": "http://dbpedia.org/resource/Musician",
+                "BabelNetURL": "http://babelnet.org/rdf/s00046975n",
+                "score": 0.953763851738632,
+                "coherenceScore": 0.41025641025641024,
+                "globalScore": 0.038356922225807936,
+                "source": "BABELFY"
+            },
+            {
+                "start": 88,
+                "end": 92,
+                "text": "craig",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 88,
+                    "end": 92
+                },
+                "babelSynsetID": "bn:02780134n",
+                "DBpediaURL": "http://dbpedia.org/resource/Crag_and_tail",
+                "BabelNetURL": "http://babelnet.org/rdf/s02780134n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 94,
+                "end": 108,
+                "text": "campbell,titled",
+                "isEntity": false
+            },
+            {
+                "start": 110,
+                "end": 114,
+                "text": "debut",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 17
+                },
+                "charFragment": {
+                    "start": 110,
+                    "end": 114
+                },
+                "babelSynsetID": "bn:01247692n",
+                "DBpediaURL": "http://dbpedia.org/resource/Debut_(Bj\u00f6rk_album)",
+                "BabelNetURL": "http://babelnet.org/rdf/s01247692n",
+                "score": 0.9615384615384616,
+                "coherenceScore": 0.0641025641025641,
+                "globalScore": 0.0003841839165245186,
+                "source": "BABELFY"
+            },
+            {
+                "start": 116,
+                "end": 120,
+                "text": "album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 18,
+                    "end": 18
+                },
+                "charFragment": {
+                    "start": 116,
+                    "end": 120
+                },
+                "babelSynsetID": "bn:00002488n",
+                "DBpediaURL": "http://dbpedia.org/resource/Album",
+                "BabelNetURL": "http://babelnet.org/rdf/s00002488n",
+                "score": 0.9558441558441558,
+                "coherenceScore": 0.46153846153846156,
+                "globalScore": 0.05089668526116822,
+                "source": "BABELFY"
+            },
+            {
+                "start": 122,
+                "end": 136,
+                "text": "finds,nashville",
+                "isEntity": false
+            },
+            {
+                "start": 138,
+                "end": 148,
+                "text": "songwriters",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 22,
+                    "end": 22
+                },
+                "charFragment": {
+                    "start": 138,
+                    "end": 148
+                },
+                "babelSynsetID": "bn:00008155n",
+                "DBpediaURL": "http://dbpedia.org/resource/Songster",
+                "BabelNetURL": "http://babelnet.org/rdf/s00008155n",
+                "score": 0.8185185185185185,
+                "coherenceScore": 0.21794871794871795,
+                "globalScore": 0.006792371644153489,
+                "source": "BABELFY"
+            },
+            {
+                "start": 150,
+                "end": 154,
+                "text": "jason",
+                "isEntity": false
+            },
+            {
+                "start": 156,
+                "end": 170,
+                "text": "matthews,singer",
+                "isEntity": false
+            },
+            {
+                "start": 172,
+                "end": 179,
+                "text": "taunting",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 27,
+                    "end": 27
+                },
+                "charFragment": {
+                    "start": 172,
+                    "end": 179
+                },
+                "babelSynsetID": "bn:00083038v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00083038v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 181,
+                "end": 195,
+                "text": "debt collectors",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 28,
+                    "end": 29
+                },
+                "charFragment": {
+                    "start": 181,
+                    "end": 195
+                },
+                "babelSynsetID": "bn:00803721n",
+                "DBpediaURL": "http://dbpedia.org/resource/Collection_agency",
+                "BabelNetURL": "http://babelnet.org/rdf/s00803721n",
+                "score": 1.0,
+                "coherenceScore": 0.05128205128205128,
+                "globalScore": 0.00036881655986353785,
+                "source": "BABELFY"
+            },
+            {
+                "start": 186,
+                "end": 202,
+                "text": "collectors,pretty",
+                "isEntity": false
+            },
+            {
+                "start": 204,
+                "end": 212,
+                "text": "good song",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 32,
+                    "end": 33
+                },
+                "charFragment": {
+                    "start": 204,
+                    "end": 212
+                },
+                "babelSynsetID": "bn:01615825n",
+                "DBpediaURL": "http://dbpedia.org/resource/Good_Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s01615825n",
+                "score": 1.0,
+                "coherenceScore": 0.07692307692307693,
+                "globalScore": 0.0005532248397953068,
+                "source": "BABELFY"
+            },
+            {
+                "start": 214,
+                "end": 223,
+                "text": "title,told",
+                "isEntity": false
+            },
+            {
+                "start": 225,
+                "end": 242,
+                "text": "billboard magazine",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 37,
+                    "end": 38
+                },
+                "charFragment": {
+                    "start": 225,
+                    "end": 242
+                },
+                "babelSynsetID": "bn:01071347n",
+                "DBpediaURL": "http://dbpedia.org/resource/Billboard_(magazine)",
+                "BabelNetURL": "http://babelnet.org/rdf/s01071347n",
+                "score": 1.0,
+                "coherenceScore": 0.34615384615384615,
+                "globalScore": 0.021990687381863445,
+                "source": "BABELFY"
+            },
+            {
+                "start": 235,
+                "end": 245,
+                "text": "magazine,''",
+                "isEntity": false
+            },
+            {
+                "start": 247,
+                "end": 254,
+                "text": "campbell",
+                "isEntity": false
+            },
+            {
+                "start": 256,
+                "end": 269,
+                "text": "explained,good",
+                "isEntity": false
+            },
+            {
+                "start": 266,
+                "end": 274,
+                "text": "good time",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 43,
+                    "end": 44
+                },
+                "charFragment": {
+                    "start": 266,
+                    "end": 274
+                },
+                "babelSynsetID": "bn:00011138n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00011138n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 271,
+                "end": 279,
+                "text": "time,song",
+                "isEntity": false
+            },
+            {
+                "start": 281,
+                "end": 290,
+                "text": "came,third",
+                "isEntity": false
+            },
+            {
+                "start": 292,
+                "end": 304,
+                "text": "single,sounds",
+                "isEntity": false
+            },
+            {
+                "start": 306,
+                "end": 318,
+                "text": "like,positive",
+                "isEntity": false
+            },
+            {
+                "start": 320,
+                "end": 330,
+                "text": "uptempo,one",
+                "isEntity": false
+            },
+            {
+                "start": 332,
+                "end": 341,
+                "text": "day,movers",
+                "isEntity": false
+            },
+            {
+                "start": 343,
+                "end": 350,
+                "text": "come,guy",
+                "isEntity": false
+            },
+            {
+                "start": 352,
+                "end": 359,
+                "text": "call,cut",
+                "isEntity": false
+            },
+            {
+                "start": 361,
+                "end": 368,
+                "text": ".``,boot",
+                "isEntity": false
+            },
+            {
+                "start": 370,
+                "end": 378,
+                "text": ".``,along",
+                "isEntity": false
+            },
+            {
+                "start": 380,
+                "end": 388,
+                "text": "cut,video",
+                "isEntity": false
+            },
+            {
+                "start": 390,
+                "end": 571,
+                "text": "reflects,campbell,debt,song,told,'',video,yet,writing,track,thought,take,stuff,singing,sing,self,result,penned,payment,n,message,late,inspiration,house,get,ended,co,broke,actually,``",
+                "isEntity": false
+            }
+        ]
+    ]
+}

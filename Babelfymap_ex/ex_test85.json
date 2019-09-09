@@ -1,0 +1,591 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 5,
+                "text": "singer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 5
+                },
+                "babelSynsetID": "bn:00071734n",
+                "DBpediaURL": "http://dbpedia.org/resource/Singing",
+                "BabelNetURL": "http://babelnet.org/rdf/s00071734n",
+                "score": 0.9142909024877429,
+                "coherenceScore": 0.45689655172413796,
+                "globalScore": 0.03565258029796635,
+                "source": "BABELFY"
+            },
+            {
+                "start": 7,
+                "end": 19,
+                "text": "alisan porter",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 7,
+                    "end": 19
+                },
+                "babelSynsetID": "bn:03108858n",
+                "DBpediaURL": "http://dbpedia.org/resource/Alisan_Porter",
+                "BabelNetURL": "http://babelnet.org/rdf/s03108858n",
+                "score": 1.0,
+                "coherenceScore": 0.0603448275862069,
+                "globalScore": 0.00034696652127117204,
+                "source": "BABELFY"
+            },
+            {
+                "start": 21,
+                "end": 31,
+                "text": "along,dance",
+                "isEntity": false
+            },
+            {
+                "start": 27,
+                "end": 37,
+                "text": "dance remix",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 27,
+                    "end": 37
+                },
+                "babelSynsetID": "bn:00789960n",
+                "DBpediaURL": "http://dbpedia.org/resource/Remix",
+                "BabelNetURL": "http://babelnet.org/rdf/s00789960n",
+                "score": 1.0,
+                "coherenceScore": 0.31896551724137934,
+                "globalScore": 0.016505693083328613,
+                "source": "BABELFY"
+            },
+            {
+                "start": 39,
+                "end": 49,
+                "text": "giving away",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 39,
+                    "end": 49
+                },
+                "babelSynsetID": "bn:00088847v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00088847v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 46,
+                "end": 57,
+                "text": "away,lambert",
+                "isEntity": false
+            },
+            {
+                "start": 59,
+                "end": 62,
+                "text": "told",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 59,
+                    "end": 62
+                },
+                "babelSynsetID": "bn:00093287v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00093287v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 64,
+                "end": 76,
+                "text": "rolling stone",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 64,
+                    "end": 76
+                },
+                "babelSynsetID": "bn:01891254n",
+                "DBpediaURL": "http://dbpedia.org/resource/Rolling_Stone",
+                "BabelNetURL": "http://babelnet.org/rdf/s01891254n",
+                "score": 0.9207772795216741,
+                "coherenceScore": 0.1896551724137931,
+                "globalScore": 0.004361864838837591,
+                "source": "BABELFY"
+            },
+            {
+                "start": 72,
+                "end": 83,
+                "text": "stone,ferras",
+                "isEntity": false
+            },
+            {
+                "start": 85,
+                "end": 93,
+                "text": "performed",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 16,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 85,
+                    "end": 93
+                },
+                "babelSynsetID": "bn:00087107v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00087107v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 95,
+                "end": 96,
+                "text": "``",
+                "isEntity": false
+            },
+            {
+                "start": 98,
+                "end": 111,
+                "text": "hollywood,even",
+                "isEntity": false
+            },
+            {
+                "start": 113,
+                "end": 118,
+                "text": "though",
+                "isEntity": false
+            },
+            {
+                "start": 120,
+                "end": 125,
+                "text": "people",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 22,
+                    "end": 22
+                },
+                "charFragment": {
+                    "start": 120,
+                    "end": 125
+                },
+                "babelSynsetID": "bn:00061450n",
+                "DBpediaURL": "http://dbpedia.org/resource/People",
+                "BabelNetURL": "http://babelnet.org/rdf/s00061450n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 127,
+                "end": 139,
+                "text": "might,suicide",
+                "isEntity": false
+            },
+            {
+                "start": 133,
+                "end": 150,
+                "text": "suicide prevention",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 25,
+                    "end": 26
+                },
+                "charFragment": {
+                    "start": 133,
+                    "end": 150
+                },
+                "babelSynsetID": "bn:01157568n",
+                "DBpediaURL": "http://dbpedia.org/resource/Suicide_prevention",
+                "BabelNetURL": "http://babelnet.org/rdf/s01157568n",
+                "score": 1.0,
+                "coherenceScore": 0.034482758620689655,
+                "globalScore": 0.00011329519061915821,
+                "source": "BABELFY"
+            },
+            {
+                "start": 152,
+                "end": 173,
+                "text": "organization,hollywood",
+                "isEntity": false
+            },
+            {
+                "start": 165,
+                "end": 182,
+                "text": "hollywood reporter",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 29,
+                    "end": 30
+                },
+                "charFragment": {
+                    "start": 165,
+                    "end": 182
+                },
+                "babelSynsetID": "bn:03669370n",
+                "DBpediaURL": "http://dbpedia.org/resource/The_Hollywood_Reporter",
+                "BabelNetURL": "http://babelnet.org/rdf/s03669370n",
+                "score": 1.0,
+                "coherenceScore": 0.04310344827586207,
+                "globalScore": 0.00028323797654789554,
+                "source": "BABELFY"
+            },
+            {
+                "start": 184,
+                "end": 195,
+                "text": "regarding,''",
+                "isEntity": false
+            },
+            {
+                "start": 197,
+                "end": 203,
+                "text": "lambert",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 33,
+                    "end": 33
+                },
+                "charFragment": {
+                    "start": 197,
+                    "end": 203
+                },
+                "babelSynsetID": "bn:00049537n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lambert_(unit)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00049537n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 205,
+                "end": 215,
+                "text": "returned,''",
+                "isEntity": false
+            },
+            {
+                "start": 217,
+                "end": 223,
+                "text": "lambert",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 36,
+                    "end": 36
+                },
+                "charFragment": {
+                    "start": 217,
+                    "end": 223
+                },
+                "babelSynsetID": "bn:00049537n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lambert_(unit)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00049537n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 225,
+                "end": 242,
+                "text": "released,traumatic",
+                "isEntity": false
+            },
+            {
+                "start": 244,
+                "end": 247,
+                "text": "life",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 40,
+                    "end": 40
+                },
+                "charFragment": {
+                    "start": 244,
+                    "end": 247
+                },
+                "babelSynsetID": "bn:00051045n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00051045n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 249,
+                "end": 260,
+                "text": "moment,esque",
+                "isEntity": false
+            },
+            {
+                "start": 262,
+                "end": 265,
+                "text": "type",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 44,
+                    "end": 44
+                },
+                "charFragment": {
+                    "start": 262,
+                    "end": 265
+                },
+                "babelSynsetID": "bn:00078798n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00078798n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 267,
+                "end": 275,
+                "text": "song,even",
+                "isEntity": false
+            },
+            {
+                "start": 277,
+                "end": 290,
+                "text": "though,lambert",
+                "isEntity": false
+            },
+            {
+                "start": 292,
+                "end": 305,
+                "text": "told,hollywood",
+                "isEntity": false
+            },
+            {
+                "start": 307,
+                "end": 318,
+                "text": "week,lambert",
+                "isEntity": false
+            },
+            {
+                "start": 320,
+                "end": 330,
+                "text": "penned,type",
+                "isEntity": false
+            },
+            {
+                "start": 332,
+                "end": 347,
+                "text": "anthem,universal",
+                "isEntity": false
+            },
+            {
+                "start": 349,
+                "end": 362,
+                "text": "message,trevor",
+                "isEntity": false
+            },
+            {
+                "start": 357,
+                "end": 370,
+                "text": "trevor project",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 65,
+                    "end": 66
+                },
+                "charFragment": {
+                    "start": 357,
+                    "end": 370
+                },
+                "babelSynsetID": "bn:03191208n",
+                "DBpediaURL": "http://dbpedia.org/resource/The_Trevor_Project",
+                "BabelNetURL": "http://babelnet.org/rdf/s03191208n",
+                "score": 1.0,
+                "coherenceScore": 0.08620689655172414,
+                "globalScore": 0.0007789044355067127,
+                "source": "BABELFY"
+            },
+            {
+                "start": 364,
+                "end": 375,
+                "text": "project,rock",
+                "isEntity": false
+            },
+            {
+                "start": 372,
+                "end": 382,
+                "text": "rock ballad",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 68,
+                    "end": 69
+                },
+                "charFragment": {
+                    "start": 372,
+                    "end": 382
+                },
+                "babelSynsetID": "bn:00008153n",
+                "DBpediaURL": "http://dbpedia.org/resource/Ballad",
+                "BabelNetURL": "http://babelnet.org/rdf/s00008153n",
+                "score": 1.0,
+                "coherenceScore": 0.1724137931034483,
+                "globalScore": 0.004531807624766329,
+                "source": "BABELFY"
+            },
+            {
+                "start": 377,
+                "end": 390,
+                "text": "ballad,message",
+                "isEntity": false
+            },
+            {
+                "start": 392,
+                "end": 401,
+                "text": "gets,march",
+                "isEntity": false
+            },
+            {
+                "start": 403,
+                "end": 410,
+                "text": "10,lgbtq",
+                "isEntity": false
+            },
+            {
+                "start": 412,
+                "end": 424,
+                "text": "youth,happens",
+                "isEntity": false
+            },
+            {
+                "start": 426,
+                "end": 434,
+                "text": "right,get",
+                "isEntity": false
+            },
+            {
+                "start": 436,
+                "end": 444,
+                "text": "past,find",
+                "isEntity": false
+            },
+            {
+                "start": 446,
+                "end": 456,
+                "text": "solace,exit",
+                "isEntity": false
+            },
+            {
+                "start": 458,
+                "end": 465,
+                "text": "song,ely",
+                "isEntity": false
+            },
+            {
+                "start": 467,
+                "end": 475,
+                "text": "rise,cool",
+                "isEntity": false
+            },
+            {
+                "start": 477,
+                "end": 489,
+                "text": "thing,another",
+                "isEntity": false
+            },
+            {
+                "start": 491,
+                "end": 503,
+                "text": "kind,acoustic",
+                "isEntity": false
+            },
+            {
+                "start": 496,
+                "end": 511,
+                "text": "acoustic version",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 101,
+                    "end": 102
+                },
+                "charFragment": {
+                    "start": 496,
+                    "end": 511
+                },
+                "babelSynsetID": "bn:02982235n",
+                "DBpediaURL": "http://dbpedia.org/resource/Acoustic_music",
+                "BabelNetURL": "http://babelnet.org/rdf/s02982235n",
+                "score": 1.0,
+                "coherenceScore": 0.11206896551724138,
+                "globalScore": 0.0012887327932929247,
+                "source": "BABELFY"
+            },
+            {
+                "start": 505,
+                "end": 516,
+                "text": "version,2008",
+                "isEntity": false
+            },
+            {
+                "start": 518,
+                "end": 530,
+                "text": "series,people",
+                "isEntity": false
+            },
+            {
+                "start": 532,
+                "end": 541,
+                "text": "like,scary",
+                "isEntity": false
+            },
+            {
+                "start": 543,
+                "end": 551,
+                "text": "time,feel",
+                "isEntity": false
+            },
+            {
+                "start": 553,
+                "end": 565,
+                "text": "liberated,big",
+                "isEntity": false
+            },
+            {
+                "start": 567,
+                "end": 579,
+                "text": "step,american",
+                "isEntity": false
+            },
+            {
+                "start": 581,
+                "end": 1008,
+                "text": "idol,might,ferras,``,people,'',song,moment,step,scary,like,idol,feel,wrote,wow,worried,whether,whatever,uncertain,think,things,taking,sort,something,self,secret,relieve,real,raise,profits,probably,portion,perform,overcome,one,mind,meaning,making,make,lyrics,love,leap,keeping,hopefully,honest,heart,going,go,fix,empowerment,demons,decision,dealing,coming,chaos,chance,basically,america,album,aftermath,actress,acceptance,aa,2011",
+                "isEntity": false
+            }
+        ]
+    ]
+}

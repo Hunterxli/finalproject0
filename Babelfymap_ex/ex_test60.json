@@ -1,0 +1,591 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 3,
+                "text": "josh",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 3
+                },
+                "babelSynsetID": "bn:03323778n",
+                "DBpediaURL": "http://dbpedia.org/resource/Josh_(band)",
+                "BabelNetURL": "http://babelnet.org/rdf/s03323778n",
+                "score": 0.9473684210526315,
+                "coherenceScore": 0.06,
+                "globalScore": 0.00044773891846176805,
+                "source": "BABELFY"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "``",
+                "isEntity": false
+            },
+            {
+                "start": 8,
+                "end": 13,
+                "text": "deakin",
+                "isEntity": false
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "''",
+                "isEntity": false
+            },
+            {
+                "start": 18,
+                "end": 21,
+                "text": "dibb",
+                "isEntity": false
+            },
+            {
+                "start": 23,
+                "end": 31,
+                "text": "explained",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 23,
+                    "end": 31
+                },
+                "babelSynsetID": "bn:00087869v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00087869v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 33,
+                "end": 36,
+                "text": "noah",
+                "isEntity": false
+            },
+            {
+                "start": 38,
+                "end": 39,
+                "text": "``",
+                "isEntity": false
+            },
+            {
+                "start": 41,
+                "end": 50,
+                "text": "panda bear",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 41,
+                    "end": 50
+                },
+                "babelSynsetID": "bn:00002174n",
+                "DBpediaURL": "http://dbpedia.org/resource/Giant_panda",
+                "BabelNetURL": "http://babelnet.org/rdf/s00002174n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 52,
+                "end": 53,
+                "text": "''",
+                "isEntity": false
+            },
+            {
+                "start": 55,
+                "end": 68,
+                "text": "lennox,arching",
+                "isEntity": false
+            },
+            {
+                "start": 70,
+                "end": 75,
+                "text": "marker",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 70,
+                    "end": 75
+                },
+                "babelSynsetID": "bn:00053456n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00053456n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 77,
+                "end": 78,
+                "text": ".`",
+                "isEntity": false
+            },
+            {
+                "start": 80,
+                "end": 86,
+                "text": "mercury",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 15
+                },
+                "charFragment": {
+                    "start": 80,
+                    "end": 86
+                },
+                "babelSynsetID": "bn:00006913n",
+                "DBpediaURL": "http://dbpedia.org/resource/Mercury_(element)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00006913n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 88,
+                "end": 100,
+                "text": "man,scrambled",
+                "isEntity": false
+            },
+            {
+                "start": 102,
+                "end": 110,
+                "text": "different",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 19,
+                    "end": 19
+                },
+                "charFragment": {
+                    "start": 102,
+                    "end": 110
+                },
+                "babelSynsetID": "bn:00101347a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00101347a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 112,
+                "end": 119,
+                "text": "stations",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 20,
+                    "end": 20
+                },
+                "charFragment": {
+                    "start": 112,
+                    "end": 119
+                },
+                "babelSynsetID": "bn:00074049n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00074049n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 121,
+                "end": 135,
+                "text": "crossing,dotted",
+                "isEntity": false
+            },
+            {
+                "start": 137,
+                "end": 146,
+                "text": "throughout",
+                "isEntity": false
+            },
+            {
+                "start": 148,
+                "end": 159,
+                "text": "centipede hz",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 25,
+                    "end": 26
+                },
+                "charFragment": {
+                    "start": 148,
+                    "end": 159
+                },
+                "babelSynsetID": "bn:02927055n",
+                "DBpediaURL": "http://dbpedia.org/resource/Centipede_Hz",
+                "BabelNetURL": "http://babelnet.org/rdf/s02927055n",
+                "score": 1.0,
+                "coherenceScore": 0.14,
+                "globalScore": 0.0013929655241032785,
+                "source": "BABELFY"
+            },
+            {
+                "start": 158,
+                "end": 164,
+                "text": "hz,talk",
+                "isEntity": false
+            },
+            {
+                "start": 166,
+                "end": 169,
+                "text": "like",
+                "isEntity": false
+            },
+            {
+                "start": 171,
+                "end": 182,
+                "text": "human beings",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 30,
+                    "end": 31
+                },
+                "charFragment": {
+                    "start": 171,
+                    "end": 182
+                },
+                "babelSynsetID": "bn:00044576n",
+                "DBpediaURL": "http://dbpedia.org/resource/Human",
+                "BabelNetURL": "http://babelnet.org/rdf/s00044576n",
+                "score": 0.8726326645415339,
+                "coherenceScore": 0.85,
+                "globalScore": 0.11575916621063628,
+                "source": "BABELFY"
+            },
+            {
+                "start": 177,
+                "end": 189,
+                "text": "beings,deakin",
+                "isEntity": false
+            },
+            {
+                "start": 191,
+                "end": 202,
+                "text": "explained,''",
+                "isEntity": false
+            },
+            {
+                "start": 204,
+                "end": 210,
+                "text": "various",
+                "isEntity": false
+            },
+            {
+                "start": 212,
+                "end": 222,
+                "text": "examples,``",
+                "isEntity": false
+            },
+            {
+                "start": 224,
+                "end": 234,
+                "text": "making,time",
+                "isEntity": false
+            },
+            {
+                "start": 236,
+                "end": 242,
+                "text": "looking",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 43,
+                    "end": 43
+                },
+                "charFragment": {
+                    "start": 236,
+                    "end": 242
+                },
+                "babelSynsetID": "bn:00090448v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00090448v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 244,
+                "end": 257,
+                "text": "outward,broken",
+                "isEntity": false
+            },
+            {
+                "start": 259,
+                "end": 275,
+                "text": "radio frequencies",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 47,
+                    "end": 48
+                },
+                "charFragment": {
+                    "start": 259,
+                    "end": 275
+                },
+                "babelSynsetID": "bn:00065914n",
+                "DBpediaURL": "http://dbpedia.org/resource/Radio_frequency",
+                "BabelNetURL": "http://babelnet.org/rdf/s00065914n",
+                "score": 1.0,
+                "coherenceScore": 0.14,
+                "globalScore": 0.002437689667180737,
+                "source": "BABELFY"
+            },
+            {
+                "start": 265,
+                "end": 280,
+                "text": "frequencies,band",
+                "isEntity": false
+            },
+            {
+                "start": 282,
+                "end": 286,
+                "text": "model",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 51,
+                    "end": 51
+                },
+                "charFragment": {
+                    "start": 282,
+                    "end": 286
+                },
+                "babelSynsetID": "bn:00036197n",
+                "DBpediaURL": "http://dbpedia.org/resource/Economic_model",
+                "BabelNetURL": "http://babelnet.org/rdf/s00036197n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 288,
+                "end": 305,
+                "text": "better,'',``,radio",
+                "isEntity": false
+            },
+            {
+                "start": 301,
+                "end": 318,
+                "text": "radio interference",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 57,
+                    "end": 58
+                },
+                "charFragment": {
+                    "start": 301,
+                    "end": 318
+                },
+                "babelSynsetID": "bn:00190932n",
+                "DBpediaURL": "http://dbpedia.org/resource/Electromagnetic_interference",
+                "BabelNetURL": "http://babelnet.org/rdf/s00190932n",
+                "score": 1.0,
+                "coherenceScore": 0.13,
+                "globalScore": 0.0021827272275011193,
+                "source": "BABELFY"
+            },
+            {
+                "start": 307,
+                "end": 326,
+                "text": "interference,looking",
+                "isEntity": false
+            },
+            {
+                "start": 328,
+                "end": 339,
+                "text": "inward,white",
+                "isEntity": false
+            },
+            {
+                "start": 335,
+                "end": 345,
+                "text": "white noise",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 63,
+                    "end": 64
+                },
+                "charFragment": {
+                    "start": 335,
+                    "end": 345
+                },
+                "babelSynsetID": "bn:00081081n",
+                "DBpediaURL": "http://dbpedia.org/resource/White_noise",
+                "BabelNetURL": "http://babelnet.org/rdf/s00081081n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 341,
+                "end": 351,
+                "text": "noise,using",
+                "isEntity": false
+            },
+            {
+                "start": 353,
+                "end": 361,
+                "text": "fit,track",
+                "isEntity": false
+            },
+            {
+                "start": 363,
+                "end": 373,
+                "text": ".``,lyrical",
+                "isEntity": false
+            },
+            {
+                "start": 375,
+                "end": 386,
+                "text": "content,long",
+                "isEntity": false
+            },
+            {
+                "start": 388,
+                "end": 403,
+                "text": "exploration,good",
+                "isEntity": false
+            },
+            {
+                "start": 400,
+                "end": 411,
+                "text": "good example",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 79,
+                    "end": 80
+                },
+                "charFragment": {
+                    "start": 400,
+                    "end": 411
+                },
+                "babelSynsetID": "bn:00032101n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00032101n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 405,
+                "end": 415,
+                "text": "example,car",
+                "isEntity": false
+            },
+            {
+                "start": 413,
+                "end": 424,
+                "text": "car salesman",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 82,
+                    "end": 83
+                },
+                "charFragment": {
+                    "start": 413,
+                    "end": 424
+                },
+                "babelSynsetID": "bn:00766660n",
+                "DBpediaURL": "http://dbpedia.org/resource/Automobile_salesperson",
+                "BabelNetURL": "http://babelnet.org/rdf/s00766660n",
+                "score": 1.0,
+                "coherenceScore": 0.02,
+                "globalScore": 2.4874384358987115e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 417,
+                "end": 427,
+                "text": "salesman,ca",
+                "isEntity": false
+            },
+            {
+                "start": 429,
+                "end": 433,
+                "text": "n,bad",
+                "isEntity": false
+            },
+            {
+                "start": 435,
+                "end": 441,
+                "text": "car,aux",
+                "isEntity": false
+            },
+            {
+                "start": 443,
+                "end": 456,
+                "text": "magazine,alien",
+                "isEntity": false
+            },
+            {
+                "start": 452,
+                "end": 463,
+                "text": "alien planet",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 94,
+                    "end": 95
+                },
+                "charFragment": {
+                    "start": 452,
+                    "end": 463
+                },
+                "babelSynsetID": "bn:01153196n",
+                "DBpediaURL": "http://dbpedia.org/resource/Alien_Planet",
+                "BabelNetURL": "http://babelnet.org/rdf/s01153196n",
+                "score": 1.0,
+                "coherenceScore": 0.1,
+                "globalScore": 0.0006840455698721457,
+                "source": "BABELFY"
+            },
+            {
+                "start": 458,
+                "end": 469,
+                "text": "planet,alien",
+                "isEntity": false
+            },
+            {
+                "start": 471,
+                "end": 481,
+                "text": "band,sounds",
+                "isEntity": false
+            },
+            {
+                "start": 483,
+                "end": 496,
+                "text": "move,nightmare",
+                "isEntity": false
+            },
+            {
+                "start": 498,
+                "end": 799,
+                "text": "stuff,like,band,alien,stuff,sounds,would,well,way,wanted,trying,together,technology,talked,spend,speaking,song,said,reflecting,record,piece,picking,person,people,part,one,lyrics,lot,kind,interpret,imagining,humans,hearing,frustration,established,earth,deal,cutting,complication,communicate,bought,album",
+                "isEntity": false
+            }
+        ]
+    ]
+}

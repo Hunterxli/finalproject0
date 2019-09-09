@@ -1,0 +1,545 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 3,
+                "text": "This",
+                "isEntity": false
+            },
+            {
+                "start": 5,
+                "end": 8,
+                "text": "song",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 5,
+                    "end": 8
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 1.0,
+                "coherenceScore": 0.5555555555555556,
+                "globalScore": 0.23622047244094488,
+                "source": "BABELFY"
+            },
+            {
+                "start": 10,
+                "end": 18,
+                "text": "addresses",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 10,
+                    "end": 18
+                },
+                "babelSynsetID": "bn:00082333v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00082333v",
+                "score": 0.8,
+                "coherenceScore": 0.2222222222222222,
+                "globalScore": 0.031496062992125984,
+                "source": "BABELFY"
+            },
+            {
+                "start": 20,
+                "end": 22,
+                "text": "the",
+                "isEntity": false
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "text": "racism",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 24,
+                    "end": 29
+                },
+                "babelSynsetID": "bn:00065822n",
+                "DBpediaURL": "http://dbpedia.org/resource/Racism",
+                "BabelNetURL": "http://babelnet.org/rdf/s00065822n",
+                "score": 0.9230769230769231,
+                "coherenceScore": 0.3333333333333333,
+                "globalScore": 0.09448818897637795,
+                "source": "BABELFY"
+            },
+            {
+                "start": 31,
+                "end": 36,
+                "text": "Thicke",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 31,
+                    "end": 36
+                },
+                "babelSynsetID": "bn:01776635n",
+                "DBpediaURL": "http://dbpedia.org/resource/Thicke",
+                "BabelNetURL": "http://babelnet.org/rdf/s01776635n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 38,
+                "end": 40,
+                "text": "has",
+                "isEntity": false
+            },
+            {
+                "start": 42,
+                "end": 52,
+                "text": "experienced",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 42,
+                    "end": 52
+                },
+                "babelSynsetID": "bn:00087861v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00087861v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 54,
+                "end": 58,
+                "text": "while",
+                "isEntity": false
+            },
+            {
+                "start": 60,
+                "end": 68,
+                "text": "traveling",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 60,
+                    "end": 68
+                },
+                "babelSynsetID": "bn:00088912v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00088912v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 70,
+                "end": 73,
+                "text": "with",
+                "isEntity": false
+            },
+            {
+                "start": 75,
+                "end": 77,
+                "text": "his",
+                "isEntity": false
+            },
+            {
+                "start": 79,
+                "end": 94,
+                "text": "African-American",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 79,
+                    "end": 94
+                },
+                "babelSynsetID": "bn:00001818n",
+                "DBpediaURL": "http://dbpedia.org/resource/African_American",
+                "BabelNetURL": "http://babelnet.org/rdf/s00001818n",
+                "score": 0.96,
+                "coherenceScore": 0.6666666666666666,
+                "globalScore": 0.3779527559055118,
+                "source": "BABELFY"
+            },
+            {
+                "start": 96,
+                "end": 99,
+                "text": "wife",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 96,
+                    "end": 99
+                },
+                "babelSynsetID": "bn:00053531n",
+                "DBpediaURL": "http://dbpedia.org/resource/Wife",
+                "BabelNetURL": "http://babelnet.org/rdf/s00053531n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 101,
+                "end": 100,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 102,
+                "end": 102,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 103,
+                "end": 105,
+                "text": "the",
+                "isEntity": false
+            },
+            {
+                "start": 107,
+                "end": 113,
+                "text": "actress",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 16,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 107,
+                    "end": 113
+                },
+                "babelSynsetID": "bn:00001181n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00001181n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 115,
+                "end": 126,
+                "text": "Paula Patton",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 18
+                },
+                "charFragment": {
+                    "start": 115,
+                    "end": 126
+                },
+                "babelSynsetID": "bn:03518493n",
+                "DBpediaURL": "http://dbpedia.org/resource/Paula_Patton",
+                "BabelNetURL": "http://babelnet.org/rdf/s03518493n",
+                "score": 1.0,
+                "coherenceScore": 0.2222222222222222,
+                "globalScore": 0.047244094488188976,
+                "source": "BABELFY"
+            },
+            {
+                "start": 128,
+                "end": 128,
+                "text": ".",
+                "isEntity": false
+            }
+        ],
+        [
+            {
+                "start": 0,
+                "end": 5,
+                "text": "Thicke",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 5
+                },
+                "babelSynsetID": "bn:01776635n",
+                "DBpediaURL": "http://dbpedia.org/resource/Thicke",
+                "BabelNetURL": "http://babelnet.org/rdf/s01776635n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 7,
+                "end": 15,
+                "text": "explained",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 7,
+                    "end": 15
+                },
+                "babelSynsetID": "bn:00087869v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00087869v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 17,
+                "end": 18,
+                "text": "to",
+                "isEntity": false
+            },
+            {
+                "start": 20,
+                "end": 41,
+                "text": "Rolling Stone magazine",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 20,
+                    "end": 41
+                },
+                "babelSynsetID": "bn:01891254n",
+                "DBpediaURL": "http://dbpedia.org/resource/Rolling_Stone",
+                "BabelNetURL": "http://babelnet.org/rdf/s01891254n",
+                "score": 1.0,
+                "coherenceScore": 0.25,
+                "globalScore": 0.1,
+                "source": "BABELFY"
+            },
+            {
+                "start": 43,
+                "end": 43,
+                "text": ":",
+                "isEntity": false
+            },
+            {
+                "start": 45,
+                "end": 46,
+                "text": "``",
+                "isEntity": false
+            },
+            {
+                "start": 48,
+                "end": 51,
+                "text": "That",
+                "isEntity": false
+            },
+            {
+                "start": 53,
+                "end": 56,
+                "text": "song",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 53,
+                    "end": 56
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 0.9696969696969697,
+                "coherenceScore": 0.3333333333333333,
+                "globalScore": 0.21333333333333335,
+                "source": "BABELFY"
+            },
+            {
+                "start": 58,
+                "end": 59,
+                "text": "is",
+                "isEntity": false
+            },
+            {
+                "start": 61,
+                "end": 61,
+                "text": "a",
+                "isEntity": false
+            },
+            {
+                "start": 63,
+                "end": 77,
+                "text": "direct response",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 63,
+                    "end": 77
+                },
+                "babelSynsetID": "bn:00027340n",
+                "DBpediaURL": "http://dbpedia.org/resource/Direct_marketing",
+                "BabelNetURL": "http://babelnet.org/rdf/s00027340n",
+                "score": 1.0,
+                "coherenceScore": 0.08333333333333333,
+                "globalScore": 0.006666666666666667,
+                "source": "BABELFY"
+            },
+            {
+                "start": 79,
+                "end": 80,
+                "text": "to",
+                "isEntity": false
+            },
+            {
+                "start": 82,
+                "end": 88,
+                "text": "walking",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 15
+                },
+                "charFragment": {
+                    "start": 82,
+                    "end": 88
+                },
+                "babelSynsetID": "bn:00095597v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00095597v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 90,
+                "end": 91,
+                "text": "in",
+                "isEntity": false
+            },
+            {
+                "start": 93,
+                "end": 103,
+                "text": "Mississippi",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 17
+                },
+                "charFragment": {
+                    "start": 93,
+                    "end": 103
+                },
+                "babelSynsetID": "bn:03826583n",
+                "DBpediaURL": "http://dbpedia.org/resource/Mississippi_(Bob_Dylan_song)",
+                "BabelNetURL": "http://babelnet.org/rdf/s03826583n",
+                "score": 0.75,
+                "coherenceScore": 0.25,
+                "globalScore": 0.06,
+                "source": "BABELFY"
+            },
+            {
+                "start": 105,
+                "end": 107,
+                "text": "and",
+                "isEntity": false
+            },
+            {
+                "start": 109,
+                "end": 113,
+                "text": "being",
+                "isEntity": false
+            },
+            {
+                "start": 115,
+                "end": 120,
+                "text": "looked",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 20,
+                    "end": 20
+                },
+                "charFragment": {
+                    "start": 115,
+                    "end": 120
+                },
+                "babelSynsetID": "bn:00090448v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00090448v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 122,
+                "end": 123,
+                "text": "at",
+                "isEntity": false
+            },
+            {
+                "start": 125,
+                "end": 132,
+                "text": "sideways",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 22,
+                    "end": 22
+                },
+                "charFragment": {
+                    "start": 125,
+                    "end": 132
+                },
+                "babelSynsetID": "bn:00116982r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00116982r",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 134,
+                "end": 134,
+                "text": ".",
+                "isEntity": false
+            },
+            {
+                "start": 136,
+                "end": 137,
+                "text": "''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

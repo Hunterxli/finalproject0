@@ -1,0 +1,293 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 3,
+                "text": "This",
+                "isEntity": false
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "is",
+                "isEntity": false
+            },
+            {
+                "start": 8,
+                "end": 8,
+                "text": "a",
+                "isEntity": false
+            },
+            {
+                "start": 10,
+                "end": 17,
+                "text": "haunting",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 10,
+                    "end": 17
+                },
+                "babelSynsetID": "bn:00089239v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00089239v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 19,
+                "end": 18,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 20,
+                "end": 20,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 21,
+                "end": 27,
+                "text": "low-key",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 21,
+                    "end": 27
+                },
+                "babelSynsetID": "bn:00106221a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00106221a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 29,
+                "end": 32,
+                "text": "song",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 29,
+                    "end": 32
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 1.0,
+                "coherenceScore": 0.6666666666666666,
+                "globalScore": 0.4666666666666667,
+                "source": "BABELFY"
+            },
+            {
+                "start": 34,
+                "end": 35,
+                "text": "of",
+                "isEntity": false
+            },
+            {
+                "start": 37,
+                "end": 44,
+                "text": "romantic",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 37,
+                    "end": 44
+                },
+                "babelSynsetID": "bn:00109919a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00109919a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 46,
+                "end": 54,
+                "text": "confusion",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 46,
+                    "end": 54
+                },
+                "babelSynsetID": "bn:00021789n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00021789n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 56,
+                "end": 58,
+                "text": "and",
+                "isEntity": false
+            },
+            {
+                "start": 60,
+                "end": 63,
+                "text": "fear",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 60,
+                    "end": 63
+                },
+                "babelSynsetID": "bn:00033854n",
+                "DBpediaURL": "http://dbpedia.org/resource/Fear",
+                "BabelNetURL": "http://babelnet.org/rdf/s00033854n",
+                "score": 0.75,
+                "coherenceScore": 0.6666666666666666,
+                "globalScore": 0.2,
+                "source": "BABELFY"
+            },
+            {
+                "start": 65,
+                "end": 66,
+                "text": "of",
+                "isEntity": false
+            },
+            {
+                "start": 68,
+                "end": 72,
+                "text": "being",
+                "isEntity": false
+            },
+            {
+                "start": 74,
+                "end": 77,
+                "text": "hurt",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 74,
+                    "end": 77
+                },
+                "babelSynsetID": "bn:00084149v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00084149v",
+                "score": 1.0,
+                "coherenceScore": 0.3333333333333333,
+                "globalScore": 0.03333333333333333,
+                "source": "BABELFY"
+            },
+            {
+                "start": 79,
+                "end": 79,
+                "text": ".",
+                "isEntity": false
+            }
+        ],
+        [
+            {
+                "start": 0,
+                "end": 4,
+                "text": "-LRB-",
+                "isEntity": false
+            },
+            {
+                "start": 6,
+                "end": 11,
+                "text": "thanks",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 6,
+                    "end": 11
+                },
+                "babelSynsetID": "bn:00076768n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00076768n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 13,
+                "end": 12,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 14,
+                "end": 14,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 15,
+                "end": 18,
+                "text": "Mike",
+                "isEntity": false
+            },
+            {
+                "start": 20,
+                "end": 20,
+                "text": "-",
+                "isEntity": false
+            },
+            {
+                "start": 22,
+                "end": 39,
+                "text": "Santa Barbara , CA",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 22,
+                    "end": 39
+                },
+                "babelSynsetID": "bn:00200256n",
+                "DBpediaURL": "http://dbpedia.org/resource/Santa_Barbara,_California",
+                "BabelNetURL": "http://babelnet.org/rdf/s00200256n",
+                "score": 1.0,
+                "coherenceScore": 0.5,
+                "globalScore": 0.11864406779661017,
+                "source": "BABELFY"
+            },
+            {
+                "start": 41,
+                "end": 45,
+                "text": "-RRB-",
+                "isEntity": false
+            }
+        ]
+    ]
+}

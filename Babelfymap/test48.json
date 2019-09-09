@@ -1,0 +1,609 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 4,
+                "text": "Shine",
+                "isEntity": false
+            },
+            {
+                "start": 6,
+                "end": 8,
+                "text": "was",
+                "isEntity": false
+            },
+            {
+                "start": 10,
+                "end": 22,
+                "text": "Joni Mitchell",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 10,
+                    "end": 22
+                },
+                "babelSynsetID": "bn:00877188n",
+                "DBpediaURL": "http://dbpedia.org/resource/Joni_Mitchell",
+                "BabelNetURL": "http://babelnet.org/rdf/s00877188n",
+                "score": 0.9523809523809523,
+                "coherenceScore": 0.8,
+                "globalScore": 0.18691588785046728,
+                "source": "BABELFY"
+            },
+            {
+                "start": 24,
+                "end": 25,
+                "text": "'s",
+                "isEntity": false
+            },
+            {
+                "start": 27,
+                "end": 31,
+                "text": "first",
+                "isEntity": false
+            },
+            {
+                "start": 33,
+                "end": 37,
+                "text": "album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 33,
+                    "end": 37
+                },
+                "babelSynsetID": "bn:00002488n",
+                "DBpediaURL": "http://dbpedia.org/resource/Album",
+                "BabelNetURL": "http://babelnet.org/rdf/s00002488n",
+                "score": 1.0,
+                "coherenceScore": 0.8,
+                "globalScore": 0.4485981308411215,
+                "source": "BABELFY"
+            },
+            {
+                "start": 39,
+                "end": 43,
+                "text": "since",
+                "isEntity": false
+            },
+            {
+                "start": 45,
+                "end": 54,
+                "text": "Travelogue",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 45,
+                    "end": 54
+                },
+                "babelSynsetID": "bn:03586750n",
+                "DBpediaURL": "http://dbpedia.org/resource/Travelogue_(Joni_Mitchell_album)",
+                "BabelNetURL": "http://babelnet.org/rdf/s03586750n",
+                "score": 0.8571428571428571,
+                "coherenceScore": 0.6,
+                "globalScore": 0.11214953271028037,
+                "source": "BABELFY"
+            },
+            {
+                "start": 56,
+                "end": 57,
+                "text": "in",
+                "isEntity": false
+            },
+            {
+                "start": 59,
+                "end": 62,
+                "text": "2002",
+                "isEntity": false
+            },
+            {
+                "start": 64,
+                "end": 64,
+                "text": ".",
+                "isEntity": false
+            }
+        ],
+        [
+            {
+                "start": 0,
+                "end": 2,
+                "text": "She",
+                "isEntity": false
+            },
+            {
+                "start": 4,
+                "end": 9,
+                "text": "played",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 4,
+                    "end": 9
+                },
+                "babelSynsetID": "bn:00091708v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00091708v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 11,
+                "end": 14,
+                "text": "most",
+                "isEntity": false
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "of",
+                "isEntity": false
+            },
+            {
+                "start": 19,
+                "end": 21,
+                "text": "the",
+                "isEntity": false
+            },
+            {
+                "start": 23,
+                "end": 33,
+                "text": "instruments",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 23,
+                    "end": 33
+                },
+                "babelSynsetID": "bn:00046961n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00046961n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "text": "on",
+                "isEntity": false
+            },
+            {
+                "start": 38,
+                "end": 40,
+                "text": "the",
+                "isEntity": false
+            },
+            {
+                "start": 42,
+                "end": 46,
+                "text": "album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 42,
+                    "end": 46
+                },
+                "babelSynsetID": "bn:00002488n",
+                "DBpediaURL": "http://dbpedia.org/resource/Album",
+                "BabelNetURL": "http://babelnet.org/rdf/s00002488n",
+                "score": 0.8,
+                "coherenceScore": 0.3333333333333333,
+                "globalScore": 0.13333333333333333,
+                "source": "BABELFY"
+            },
+            {
+                "start": 48,
+                "end": 50,
+                "text": "and",
+                "isEntity": false
+            },
+            {
+                "start": 52,
+                "end": 59,
+                "text": "produced",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 52,
+                    "end": 59
+                },
+                "babelSynsetID": "bn:00084069v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00084069v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 61,
+                "end": 62,
+                "text": "it",
+                "isEntity": false
+            },
+            {
+                "start": 64,
+                "end": 70,
+                "text": "herself",
+                "isEntity": false
+            },
+            {
+                "start": 72,
+                "end": 72,
+                "text": ".",
+                "isEntity": false
+            }
+        ],
+        [
+            {
+                "start": 0,
+                "end": 3,
+                "text": "Most",
+                "isEntity": false
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "of",
+                "isEntity": false
+            },
+            {
+                "start": 8,
+                "end": 10,
+                "text": "the",
+                "isEntity": false
+            },
+            {
+                "start": 12,
+                "end": 16,
+                "text": "songs",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 12,
+                    "end": 16
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 18,
+                "end": 20,
+                "text": "are",
+                "isEntity": false
+            },
+            {
+                "start": 22,
+                "end": 25,
+                "text": "full",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 22,
+                    "end": 25
+                },
+                "babelSynsetID": "bn:00103391a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00103391a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 27,
+                "end": 28,
+                "text": "of",
+                "isEntity": false
+            },
+            {
+                "start": 30,
+                "end": 46,
+                "text": "social commentary",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 30,
+                    "end": 46
+                },
+                "babelSynsetID": "bn:03796643n",
+                "DBpediaURL": "http://dbpedia.org/resource/Social_commentary",
+                "BabelNetURL": "http://babelnet.org/rdf/s03796643n",
+                "score": 1.0,
+                "coherenceScore": 0.1111111111111111,
+                "globalScore": 0.006211180124223602,
+                "source": "BABELFY"
+            },
+            {
+                "start": 48,
+                "end": 47,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 49,
+                "end": 49,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 50,
+                "end": 52,
+                "text": "and",
+                "isEntity": false
+            },
+            {
+                "start": 54,
+                "end": 57,
+                "text": "this",
+                "isEntity": false
+            },
+            {
+                "start": 59,
+                "end": 60,
+                "text": "in",
+                "isEntity": false
+            },
+            {
+                "start": 62,
+                "end": 71,
+                "text": "particular",
+                "isEntity": false
+            },
+            {
+                "start": 73,
+                "end": 81,
+                "text": "addresses",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 73,
+                    "end": 81
+                },
+                "babelSynsetID": "bn:00001302n",
+                "DBpediaURL": "http://dbpedia.org/resource/Address_space",
+                "BabelNetURL": "http://babelnet.org/rdf/s00001302n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 83,
+                "end": 97,
+                "text": "disappointments",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 15
+                },
+                "charFragment": {
+                    "start": 83,
+                    "end": 97
+                },
+                "babelSynsetID": "bn:00027430n",
+                "DBpediaURL": "http://dbpedia.org/resource/Disappointment",
+                "BabelNetURL": "http://babelnet.org/rdf/s00027430n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 99,
+                "end": 100,
+                "text": "of",
+                "isEntity": false
+            },
+            {
+                "start": 102,
+                "end": 104,
+                "text": "the",
+                "isEntity": false
+            },
+            {
+                "start": 106,
+                "end": 114,
+                "text": "political",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 18,
+                    "end": 18
+                },
+                "charFragment": {
+                    "start": 106,
+                    "end": 114
+                },
+                "babelSynsetID": "bn:00108758a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00108758a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 116,
+                "end": 124,
+                "text": "situation",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 19,
+                    "end": 19
+                },
+                "charFragment": {
+                    "start": 116,
+                    "end": 124
+                },
+                "babelSynsetID": "bn:00071869n",
+                "DBpediaURL": "http://dbpedia.org/resource/State_of_affairs_(philosophy)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00071869n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 126,
+                "end": 130,
+                "text": "under",
+                "isEntity": false
+            },
+            {
+                "start": 132,
+                "end": 134,
+                "text": "the",
+                "isEntity": false
+            },
+            {
+                "start": 136,
+                "end": 154,
+                "text": "Bush Administration",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 22,
+                    "end": 23
+                },
+                "charFragment": {
+                    "start": 136,
+                    "end": 154
+                },
+                "babelSynsetID": "bn:00014103n",
+                "DBpediaURL": "http://dbpedia.org/resource/Presidency_of_George_W._Bush",
+                "BabelNetURL": "http://babelnet.org/rdf/s00014103n",
+                "score": 0.8,
+                "coherenceScore": 0.2222222222222222,
+                "globalScore": 0.049689440993788817,
+                "source": "BABELFY"
+            },
+            {
+                "start": 156,
+                "end": 156,
+                "text": ".",
+                "isEntity": false
+            }
+        ],
+        [
+            {
+                "start": 0,
+                "end": 4,
+                "text": "-LRB-",
+                "isEntity": false
+            },
+            {
+                "start": 6,
+                "end": 11,
+                "text": "thanks",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 6,
+                    "end": 11
+                },
+                "babelSynsetID": "bn:00076768n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00076768n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 13,
+                "end": 12,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 14,
+                "end": 14,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 15,
+                "end": 22,
+                "text": "Bertrand",
+                "isEntity": false
+            },
+            {
+                "start": 24,
+                "end": 24,
+                "text": "-",
+                "isEntity": false
+            },
+            {
+                "start": 26,
+                "end": 39,
+                "text": "Paris , France",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 26,
+                    "end": 39
+                },
+                "babelSynsetID": "bn:00015540n",
+                "DBpediaURL": "http://dbpedia.org/resource/Paris",
+                "BabelNetURL": "http://babelnet.org/rdf/s00015540n",
+                "score": 0.8936170212765957,
+                "coherenceScore": 0.75,
+                "globalScore": 0.1794871794871795,
+                "source": "BABELFY"
+            },
+            {
+                "start": 41,
+                "end": 45,
+                "text": "-RRB-",
+                "isEntity": false
+            }
+        ]
+    ]
+}

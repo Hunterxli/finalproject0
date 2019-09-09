@@ -1,0 +1,198 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 5,
+                "text": "always",
+                "isEntity": false
+            },
+            {
+                "start": 7,
+                "end": 14,
+                "text": "striving",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 7,
+                    "end": 14
+                },
+                "babelSynsetID": "bn:00087615v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00087615v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 16,
+                "end": 28,
+                "text": "towards,third",
+                "isEntity": false
+            },
+            {
+                "start": 24,
+                "end": 34,
+                "text": "third album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 24,
+                    "end": 34
+                },
+                "babelSynsetID": "bn:01057016n",
+                "DBpediaURL": "http://dbpedia.org/resource/Third_Album",
+                "BabelNetURL": "http://babelnet.org/rdf/s01057016n",
+                "score": 0.7538461538461538,
+                "coherenceScore": 0.22580645161290322,
+                "globalScore": 0.004635323053637309,
+                "source": "BABELFY"
+            },
+            {
+                "start": 30,
+                "end": 44,
+                "text": "album,rosenberg",
+                "isEntity": false
+            },
+            {
+                "start": 46,
+                "end": 59,
+                "text": "explained,rock",
+                "isEntity": false
+            },
+            {
+                "start": 61,
+                "end": 73,
+                "text": "singer,remain",
+                "isEntity": false
+            },
+            {
+                "start": 75,
+                "end": 90,
+                "text": "positive,opening",
+                "isEntity": false
+            },
+            {
+                "start": 84,
+                "end": 96,
+                "text": "opening track",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 16,
+                    "end": 17
+                },
+                "charFragment": {
+                    "start": 84,
+                    "end": 96
+                },
+                "babelSynsetID": "bn:00002488n",
+                "DBpediaURL": "http://dbpedia.org/resource/Album",
+                "BabelNetURL": "http://babelnet.org/rdf/s00002488n",
+                "score": 1.0,
+                "coherenceScore": 0.5161290322580645,
+                "globalScore": 0.07265159398353987,
+                "source": "BABELFY"
+            },
+            {
+                "start": 92,
+                "end": 101,
+                "text": "track,mike",
+                "isEntity": false
+            },
+            {
+                "start": 98,
+                "end": 111,
+                "text": "mike rosenberg",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 19,
+                    "end": 20
+                },
+                "charFragment": {
+                    "start": 98,
+                    "end": 111
+                },
+                "babelSynsetID": "bn:14149609n",
+                "DBpediaURL": "http://dbpedia.org/resource/Passenger_(singer)",
+                "BabelNetURL": "http://babelnet.org/rdf/s14149609n",
+                "score": 1.0,
+                "coherenceScore": 0.25806451612903225,
+                "globalScore": 0.006054299498628323,
+                "source": "BABELFY"
+            },
+            {
+                "start": 103,
+                "end": 118,
+                "text": "rosenberg,little",
+                "isEntity": false
+            },
+            {
+                "start": 113,
+                "end": 125,
+                "text": "little lights",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 22,
+                    "end": 23
+                },
+                "charFragment": {
+                    "start": 113,
+                    "end": 125
+                },
+                "babelSynsetID": "bn:00968030n",
+                "DBpediaURL": "http://dbpedia.org/resource/Little_Light",
+                "BabelNetURL": "http://babelnet.org/rdf/s00968030n",
+                "score": 0.7641509433962265,
+                "coherenceScore": 0.2903225806451613,
+                "globalScore": 0.007662472802951471,
+                "source": "BABELFY"
+            },
+            {
+                "start": 120,
+                "end": 131,
+                "text": "lights,indie",
+                "isEntity": false
+            },
+            {
+                "start": 127,
+                "end": 135,
+                "text": "indie pop",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 25,
+                    "end": 26
+                },
+                "charFragment": {
+                    "start": 127,
+                    "end": 135
+                },
+                "babelSynsetID": "bn:03893750n",
+                "DBpediaURL": "http://dbpedia.org/resource/Indie_pop",
+                "BabelNetURL": "http://babelnet.org/rdf/s03893750n",
+                "score": 1.0,
+                "coherenceScore": 0.12903225806451613,
+                "globalScore": 0.0026487560306498914,
+                "source": "BABELFY"
+            },
+            {
+                "start": 133,
+                "end": 143,
+                "text": "pop,british",
+                "isEntity": false
+            },
+            {
+                "start": 145,
+                "end": 245,
+                "text": "singer,vh1,songwriter,song,records,pursuing,passenger,moniker,love,keep,grateful,folk,difficult,``,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

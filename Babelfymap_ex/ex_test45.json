@@ -1,0 +1,786 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 11,
+                "text": "keith nelson",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 11
+                },
+                "babelSynsetID": "bn:00686602n",
+                "DBpediaURL": "http://dbpedia.org/resource/Buckcherry",
+                "BabelNetURL": "http://babelnet.org/rdf/s00686602n",
+                "score": 1.0,
+                "coherenceScore": 0.08917197452229299,
+                "globalScore": 0.0010565572584854755,
+                "source": "BABELFY"
+            },
+            {
+                "start": 13,
+                "end": 16,
+                "text": "told",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 13,
+                    "end": 16
+                },
+                "babelSynsetID": "bn:00093287v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00093287v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 18,
+                "end": 20,
+                "text": "pcm",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 18,
+                    "end": 20
+                },
+                "babelSynsetID": "bn:01900910n",
+                "DBpediaURL": "http://dbpedia.org/resource/Pulse-code_modulation",
+                "BabelNetURL": "http://babelnet.org/rdf/s01900910n",
+                "score": 1.0,
+                "coherenceScore": 0.07643312101910828,
+                "globalScore": 0.0005282786292427377,
+                "source": "BABELFY"
+            },
+            {
+                "start": 22,
+                "end": 31,
+                "text": "music,josh",
+                "isEntity": false
+            },
+            {
+                "start": 28,
+                "end": 36,
+                "text": "josh todd",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 28,
+                    "end": 36
+                },
+                "babelSynsetID": "bn:00207623n",
+                "DBpediaURL": "http://dbpedia.org/resource/Josh_Todd",
+                "BabelNetURL": "http://babelnet.org/rdf/s00207623n",
+                "score": 1.0,
+                "coherenceScore": 0.1337579617834395,
+                "globalScore": 0.0017169055450388976,
+                "source": "BABELFY"
+            },
+            {
+                "start": 38,
+                "end": 41,
+                "text": "told",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 38,
+                    "end": 41
+                },
+                "babelSynsetID": "bn:00093287v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00093287v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 43,
+                "end": 58,
+                "text": "noisecreep,finds",
+                "isEntity": false
+            },
+            {
+                "start": 60,
+                "end": 68,
+                "text": "josh todd",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 60,
+                    "end": 68
+                },
+                "babelSynsetID": "bn:00207623n",
+                "DBpediaURL": "http://dbpedia.org/resource/Josh_Todd",
+                "BabelNetURL": "http://babelnet.org/rdf/s00207623n",
+                "score": 1.0,
+                "coherenceScore": 0.1337579617834395,
+                "globalScore": 0.0017169055450388976,
+                "source": "BABELFY"
+            },
+            {
+                "start": 70,
+                "end": 85,
+                "text": "singing,american",
+                "isEntity": false
+            },
+            {
+                "start": 78,
+                "end": 90,
+                "text": "american rock",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 16,
+                    "end": 17
+                },
+                "charFragment": {
+                    "start": 78,
+                    "end": 90
+                },
+                "babelSynsetID": "bn:03840336n",
+                "DBpediaURL": "http://dbpedia.org/resource/American_rock",
+                "BabelNetURL": "http://babelnet.org/rdf/s03840336n",
+                "score": 1.0,
+                "coherenceScore": 0.06369426751592357,
+                "globalScore": 0.0004087870345330709,
+                "source": "BABELFY"
+            },
+            {
+                "start": 87,
+                "end": 95,
+                "text": "rock band",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 18
+                },
+                "charFragment": {
+                    "start": 87,
+                    "end": 95
+                },
+                "babelSynsetID": "bn:00068051n",
+                "DBpediaURL": "http://dbpedia.org/resource/Musical_ensemble",
+                "BabelNetURL": "http://babelnet.org/rdf/s00068051n",
+                "score": 0.9603221206274641,
+                "coherenceScore": 0.4585987261146497,
+                "globalScore": 0.03599841516411227,
+                "source": "BABELFY"
+            },
+            {
+                "start": 97,
+                "end": 109,
+                "text": "buckcherry,''",
+                "isEntity": false
+            },
+            {
+                "start": 111,
+                "end": 114,
+                "text": "todd",
+                "isEntity": false
+            },
+            {
+                "start": 116,
+                "end": 120,
+                "text": "added",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 22,
+                    "end": 22
+                },
+                "charFragment": {
+                    "start": 116,
+                    "end": 120
+                },
+                "babelSynsetID": "bn:00082317v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00082317v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 122,
+                "end": 129,
+                "text": ".``,josh",
+                "isEntity": false
+            },
+            {
+                "start": 126,
+                "end": 134,
+                "text": "josh todd",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 26,
+                    "end": 27
+                },
+                "charFragment": {
+                    "start": 126,
+                    "end": 134
+                },
+                "babelSynsetID": "bn:00207623n",
+                "DBpediaURL": "http://dbpedia.org/resource/Josh_Todd",
+                "BabelNetURL": "http://babelnet.org/rdf/s00207623n",
+                "score": 1.0,
+                "coherenceScore": 0.1337579617834395,
+                "globalScore": 0.0017169055450388976,
+                "source": "BABELFY"
+            },
+            {
+                "start": 136,
+                "end": 152,
+                "text": "writing,something",
+                "isEntity": false
+            },
+            {
+                "start": 154,
+                "end": 158,
+                "text": "feels",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 31,
+                    "end": 31
+                },
+                "charFragment": {
+                    "start": 154,
+                    "end": 158
+                },
+                "babelSynsetID": "bn:00087864v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00087864v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 160,
+                "end": 169,
+                "text": "good,seven",
+                "isEntity": false
+            },
+            {
+                "start": 171,
+                "end": 181,
+                "text": "deadly sins",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 35,
+                    "end": 36
+                },
+                "charFragment": {
+                    "start": 171,
+                    "end": 181
+                },
+                "babelSynsetID": "bn:00025540n",
+                "DBpediaURL": "http://dbpedia.org/resource/Seven_deadly_sins",
+                "BabelNetURL": "http://babelnet.org/rdf/s00025540n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 178,
+                "end": 191,
+                "text": "sins,obsessive",
+                "isEntity": false
+            },
+            {
+                "start": 193,
+                "end": 211,
+                "text": "compulsive behavior",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 39,
+                    "end": 40
+                },
+                "charFragment": {
+                    "start": 193,
+                    "end": 211
+                },
+                "babelSynsetID": "bn:00021458n",
+                "DBpediaURL": "http://dbpedia.org/resource/Compulsive_behavior",
+                "BabelNetURL": "http://babelnet.org/rdf/s00021458n",
+                "score": 1.0,
+                "coherenceScore": 0.03821656050955414,
+                "globalScore": 0.00020753803291678982,
+                "source": "BABELFY"
+            },
+            {
+                "start": 204,
+                "end": 221,
+                "text": "behavior,consuming",
+                "isEntity": false
+            },
+            {
+                "start": 223,
+                "end": 232,
+                "text": "everything",
+                "isEntity": false
+            },
+            {
+                "start": 234,
+                "end": 247,
+                "text": "excessively,''",
+                "isEntity": false
+            },
+            {
+                "start": 249,
+                "end": 252,
+                "text": "todd",
+                "isEntity": false
+            },
+            {
+                "start": 254,
+                "end": 265,
+                "text": "refers,heavy",
+                "isEntity": false
+            },
+            {
+                "start": 261,
+                "end": 271,
+                "text": "heavy metal",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 49,
+                    "end": 50
+                },
+                "charFragment": {
+                    "start": 261,
+                    "end": 271
+                },
+                "babelSynsetID": "bn:00043479n",
+                "DBpediaURL": "http://dbpedia.org/resource/Heavy_metal_music",
+                "BabelNetURL": "http://babelnet.org/rdf/s00043479n",
+                "score": 0.9609264350579022,
+                "coherenceScore": 0.46496815286624205,
+                "globalScore": 0.03626884351003415,
+                "source": "BABELFY"
+            },
+            {
+                "start": 273,
+                "end": 285,
+                "text": "artwork,short",
+                "isEntity": false
+            },
+            {
+                "start": 281,
+                "end": 290,
+                "text": "short film",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 53,
+                    "end": 54
+                },
+                "charFragment": {
+                    "start": 281,
+                    "end": 290
+                },
+                "babelSynsetID": "bn:00071262n",
+                "DBpediaURL": "http://dbpedia.org/resource/Short_film",
+                "BabelNetURL": "http://babelnet.org/rdf/s00071262n",
+                "score": 1.0,
+                "coherenceScore": 0.08280254777070063,
+                "globalScore": 0.0008584527725194488,
+                "source": "BABELFY"
+            },
+            {
+                "start": 292,
+                "end": 309,
+                "text": "written,screenplay",
+                "isEntity": false
+            },
+            {
+                "start": 311,
+                "end": 317,
+                "text": "loosely",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 58,
+                    "end": 58
+                },
+                "charFragment": {
+                    "start": 311,
+                    "end": 317
+                },
+                "babelSynsetID": "bn:00116161r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00116161r",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 319,
+                "end": 329,
+                "text": "based,north",
+                "isEntity": false
+            },
+            {
+                "start": 331,
+                "end": 339,
+                "text": "hollywood",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 62,
+                    "end": 62
+                },
+                "charFragment": {
+                    "start": 331,
+                    "end": 339
+                },
+                "babelSynsetID": "bn:00104242a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00104242a",
+                "score": 0.9428571428571428,
+                "coherenceScore": 0.03821656050955414,
+                "globalScore": 0.00020753803291678982,
+                "source": "BABELFY"
+            },
+            {
+                "start": 341,
+                "end": 354,
+                "text": "church,concept",
+                "isEntity": false
+            },
+            {
+                "start": 348,
+                "end": 360,
+                "text": "concept album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 65,
+                    "end": 66
+                },
+                "charFragment": {
+                    "start": 348,
+                    "end": 360
+                },
+                "babelSynsetID": "bn:00021548n",
+                "DBpediaURL": "http://dbpedia.org/resource/Concept_album",
+                "BabelNetURL": "http://babelnet.org/rdf/s00021548n",
+                "score": 1.0,
+                "coherenceScore": 0.2484076433121019,
+                "globalScore": 0.009442980497713938,
+                "source": "BABELFY"
+            },
+            {
+                "start": 362,
+                "end": 370,
+                "text": ".``,keith",
+                "isEntity": false
+            },
+            {
+                "start": 366,
+                "end": 377,
+                "text": "keith nelson",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 70,
+                    "end": 71
+                },
+                "charFragment": {
+                    "start": 366,
+                    "end": 377
+                },
+                "babelSynsetID": "bn:00686602n",
+                "DBpediaURL": "http://dbpedia.org/resource/Buckcherry",
+                "BabelNetURL": "http://babelnet.org/rdf/s00686602n",
+                "score": 1.0,
+                "coherenceScore": 0.08917197452229299,
+                "globalScore": 0.0010565572584854755,
+                "source": "BABELFY"
+            },
+            {
+                "start": 372,
+                "end": 382,
+                "text": "nelson,said",
+                "isEntity": false
+            },
+            {
+                "start": 384,
+                "end": 392,
+                "text": ".``,sixth",
+                "isEntity": false
+            },
+            {
+                "start": 394,
+                "end": 404,
+                "text": "album,metal",
+                "isEntity": false
+            },
+            {
+                "start": 406,
+                "end": 423,
+                "text": "riffing,understand",
+                "isEntity": false
+            },
+            {
+                "start": 425,
+                "end": 437,
+                "text": "anything,take",
+                "isEntity": false
+            },
+            {
+                "start": 439,
+                "end": 446,
+                "text": "us,sweat",
+                "isEntity": false
+            },
+            {
+                "start": 442,
+                "end": 453,
+                "text": "sweat equity",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 89,
+                    "end": 90
+                },
+                "charFragment": {
+                    "start": 442,
+                    "end": 453
+                },
+                "babelSynsetID": "bn:01074380n",
+                "DBpediaURL": "http://dbpedia.org/resource/Sweat_Equity_(TV_series)",
+                "BabelNetURL": "http://babelnet.org/rdf/s01074380n",
+                "score": 0.9722222222222222,
+                "coherenceScore": 0.03184713375796178,
+                "globalScore": 0.00011005804775890369,
+                "source": "BABELFY"
+            },
+            {
+                "start": 448,
+                "end": 462,
+                "text": "equity,sleeping",
+                "isEntity": false
+            },
+            {
+                "start": 455,
+                "end": 469,
+                "text": "sleeping around",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 92,
+                    "end": 93
+                },
+                "charFragment": {
+                    "start": 455,
+                    "end": 469
+                },
+                "babelSynsetID": "bn:00083302v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00083302v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 464,
+                "end": 477,
+                "text": "around,lyrical",
+                "isEntity": false
+            },
+            {
+                "start": 479,
+                "end": 494,
+                "text": "protagonist,like",
+                "isEntity": false
+            },
+            {
+                "start": 496,
+                "end": 505,
+                "text": "drugs,lead",
+                "isEntity": false
+            },
+            {
+                "start": 507,
+                "end": 519,
+                "text": "single,larger",
+                "isEntity": false
+            },
+            {
+                "start": 521,
+                "end": 534,
+                "text": "vision,holding",
+                "isEntity": false
+            },
+            {
+                "start": 528,
+                "end": 539,
+                "text": "holding back",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 107,
+                    "end": 108
+                },
+                "charFragment": {
+                    "start": 528,
+                    "end": 539
+                },
+                "babelSynsetID": "bn:00082785v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00082785v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 536,
+                "end": 550,
+                "text": "back,gluttonous",
+                "isEntity": false
+            },
+            {
+                "start": 552,
+                "end": 561,
+                "text": "level,film",
+                "isEntity": false
+            },
+            {
+                "start": 563,
+                "end": 572,
+                "text": "goes,daily",
+                "isEntity": false
+            },
+            {
+                "start": 574,
+                "end": 585,
+                "text": "basis,course",
+                "isEntity": false
+            },
+            {
+                "start": 587,
+                "end": 602,
+                "text": "stopping,changes",
+                "isEntity": false
+            },
+            {
+                "start": 604,
+                "end": 611,
+                "text": "us,billy",
+                "isEntity": false
+            },
+            {
+                "start": 607,
+                "end": 617,
+                "text": "billy jayne",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 125,
+                    "end": 126
+                },
+                "charFragment": {
+                    "start": 607,
+                    "end": 617
+                },
+                "babelSynsetID": "bn:01368034n",
+                "DBpediaURL": "http://dbpedia.org/resource/Billy_Jayne",
+                "BabelNetURL": "http://babelnet.org/rdf/s01368034n",
+                "score": 1.0,
+                "coherenceScore": 0.03821656050955414,
+                "globalScore": 0.00011320256340915809,
+                "source": "BABELFY"
+            },
+            {
+                "start": 613,
+                "end": 624,
+                "text": "jayne,always",
+                "isEntity": false
+            },
+            {
+                "start": 626,
+                "end": 641,
+                "text": "confusing,record",
+                "isEntity": false
+            },
+            {
+                "start": 643,
+                "end": 654,
+                "text": "goes,concept",
+                "isEntity": false
+            },
+            {
+                "start": 648,
+                "end": 661,
+                "text": "concept record",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 134,
+                    "end": 135
+                },
+                "charFragment": {
+                    "start": 648,
+                    "end": 661
+                },
+                "babelSynsetID": "bn:00021548n",
+                "DBpediaURL": "http://dbpedia.org/resource/Concept_album",
+                "BabelNetURL": "http://babelnet.org/rdf/s00021548n",
+                "score": 1.0,
+                "coherenceScore": 0.2484076433121019,
+                "globalScore": 0.009442980497713938,
+                "source": "BABELFY"
+            },
+            {
+                "start": 656,
+                "end": 668,
+                "text": "record,really",
+                "isEntity": false
+            },
+            {
+                "start": 670,
+                "end": 684,
+                "text": "put,provocative",
+                "isEntity": false
+            },
+            {
+                "start": 686,
+                "end": 694,
+                "text": "video,got",
+                "isEntity": false
+            },
+            {
+                "start": 696,
+                "end": 708,
+                "text": "jesus,evolved",
+                "isEntity": false
+            },
+            {
+                "start": 710,
+                "end": 720,
+                "text": "away,called",
+                "isEntity": false
+            },
+            {
+                "start": 722,
+                "end": 1165,
+                "text": "confessions,todd,'',band,film,concept,church,based,record,video,really,got,evolved,confessions,youth,work,want,transformation,time,things,theme,thank,tells,sugar,story,started,song,sometimes,smoking,sex,problem,part,overdo,n,moderation,manage,lyrics,lot,life,killer,keep,includes,hard,guys,gluttony,fun,full,filmed,fans,familiar,explained,excess,events,even,equation,directed,core,childhood,came,caffeine,beast,amazing,alcohol,adulthood,``,''``",
+                "isEntity": false
+            }
+        ]
+    ]
+}

@@ -1,0 +1,426 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "``",
+                "isEntity": false
+            },
+            {
+                "start": 3,
+                "end": 6,
+                "text": "said",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 3,
+                    "end": 6
+                },
+                "babelSynsetID": "bn:00093287v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00093287v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 8,
+                "end": 13,
+                "text": "singer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 8,
+                    "end": 13
+                },
+                "babelSynsetID": "bn:00071734n",
+                "DBpediaURL": "http://dbpedia.org/resource/Singing",
+                "BabelNetURL": "http://babelnet.org/rdf/s00071734n",
+                "score": 0.831013916500994,
+                "coherenceScore": 0.3055555555555556,
+                "globalScore": 0.055636896046852125,
+                "source": "BABELFY"
+            },
+            {
+                "start": 15,
+                "end": 28,
+                "text": "ben kowalewicz",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 15,
+                    "end": 28
+                },
+                "babelSynsetID": "bn:01202307n",
+                "DBpediaURL": "http://dbpedia.org/resource/Benjamin_Kowalewicz",
+                "BabelNetURL": "http://babelnet.org/rdf/s01202307n",
+                "score": 1.0,
+                "coherenceScore": 0.06944444444444445,
+                "globalScore": 0.0029948089977372555,
+                "source": "BABELFY"
+            },
+            {
+                "start": 30,
+                "end": 38,
+                "text": ".``,three",
+                "isEntity": false
+            },
+            {
+                "start": 40,
+                "end": 44,
+                "text": "billy",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 40,
+                    "end": 44
+                },
+                "babelSynsetID": "bn:00009042n",
+                "DBpediaURL": "http://dbpedia.org/resource/Baton_(law_enforcement)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00009042n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 46,
+                "end": 51,
+                "text": "talent",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 46,
+                    "end": 51
+                },
+                "babelSynsetID": "bn:00030806n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00030806n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 53,
+                "end": 59,
+                "text": "members",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 53,
+                    "end": 59
+                },
+                "babelSynsetID": "bn:00034004n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00034004n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 61,
+                "end": 67,
+                "text": "gave,ms",
+                "isEntity": false
+            },
+            {
+                "start": 69,
+                "end": 76,
+                "text": "sufferer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 15
+                },
+                "charFragment": {
+                    "start": 69,
+                    "end": 76
+                },
+                "babelSynsetID": "bn:00027549n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00027549n",
+                "score": 0.9615384615384616,
+                "coherenceScore": 0.06944444444444445,
+                "globalScore": 0.0016637827765206975,
+                "source": "BABELFY"
+            },
+            {
+                "start": 78,
+                "end": 82,
+                "text": "aaron",
+                "isEntity": false
+            },
+            {
+                "start": 84,
+                "end": 93,
+                "text": "kowalewicz",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 17
+                },
+                "charFragment": {
+                    "start": 84,
+                    "end": 93
+                },
+                "babelSynsetID": "bn:02298324n",
+                "DBpediaURL": "http://dbpedia.org/resource/Kovalevich",
+                "BabelNetURL": "http://babelnet.org/rdf/s02298324n",
+                "score": 1.0,
+                "coherenceScore": 0.027777777777777776,
+                "globalScore": 0.0003993078663649674,
+                "source": "BABELFY"
+            },
+            {
+                "start": 95,
+                "end": 105,
+                "text": "broke,leaky",
+                "isEntity": false
+            },
+            {
+                "start": 107,
+                "end": 118,
+                "text": "aortic valve",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 21,
+                    "end": 22
+                },
+                "charFragment": {
+                    "start": 107,
+                    "end": 118
+                },
+                "babelSynsetID": "bn:00004820n",
+                "DBpediaURL": "http://dbpedia.org/resource/Aortic_valve",
+                "BabelNetURL": "http://babelnet.org/rdf/s00004820n",
+                "score": 1.0,
+                "coherenceScore": 0.08333333333333333,
+                "globalScore": 0.003194462930919739,
+                "source": "BABELFY"
+            },
+            {
+                "start": 114,
+                "end": 125,
+                "text": "valve,pretty",
+                "isEntity": false
+            },
+            {
+                "start": 127,
+                "end": 130,
+                "text": "cool",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 25,
+                    "end": 25
+                },
+                "charFragment": {
+                    "start": 127,
+                    "end": 130
+                },
+                "babelSynsetID": "bn:00100442a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00100442a",
+                "score": 0.72,
+                "coherenceScore": 0.08333333333333333,
+                "globalScore": 0.0023958471981898044,
+                "source": "BABELFY"
+            },
+            {
+                "start": 132,
+                "end": 146,
+                "text": "line,undergoing",
+                "isEntity": false
+            },
+            {
+                "start": 148,
+                "end": 160,
+                "text": "heart surgery",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 29,
+                    "end": 30
+                },
+                "charFragment": {
+                    "start": 148,
+                    "end": 160
+                },
+                "babelSynsetID": "bn:00043396n",
+                "DBpediaURL": "http://dbpedia.org/resource/Cardiac_surgery",
+                "BabelNetURL": "http://babelnet.org/rdf/s00043396n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 154,
+                "end": 170,
+                "text": "surgery,operation",
+                "isEntity": false
+            },
+            {
+                "start": 172,
+                "end": 175,
+                "text": "went",
+                "isEntity": false
+            },
+            {
+                "start": 177,
+                "end": 182,
+                "text": "well,f",
+                "isEntity": false
+            },
+            {
+                "start": 184,
+                "end": 185,
+                "text": "--",
+                "isEntity": false
+            },
+            {
+                "start": 187,
+                "end": 190,
+                "text": "k,``",
+                "isEntity": false
+            },
+            {
+                "start": 192,
+                "end": 202,
+                "text": "aaron,aaron",
+                "isEntity": false
+            },
+            {
+                "start": 204,
+                "end": 216,
+                "text": "jarred,pretty",
+                "isEntity": false
+            },
+            {
+                "start": 218,
+                "end": 229,
+                "text": "small,pretty",
+                "isEntity": false
+            },
+            {
+                "start": 231,
+                "end": 244,
+                "text": "shocking,would",
+                "isEntity": false
+            },
+            {
+                "start": 246,
+                "end": 255,
+                "text": "soon,weird",
+                "isEntity": false
+            },
+            {
+                "start": 257,
+                "end": 266,
+                "text": "point,turn",
+                "isEntity": false
+            },
+            {
+                "start": 268,
+                "end": 282,
+                "text": "anger,recording",
+                "isEntity": false
+            },
+            {
+                "start": 284,
+                "end": 297,
+                "text": "process,really",
+                "isEntity": false
+            },
+            {
+                "start": 299,
+                "end": 312,
+                "text": "shook,multiple",
+                "isEntity": false
+            },
+            {
+                "start": 305,
+                "end": 322,
+                "text": "multiple sclerosis",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 67,
+                    "end": 68
+                },
+                "charFragment": {
+                    "start": 305,
+                    "end": 322
+                },
+                "babelSynsetID": "bn:00027712n",
+                "DBpediaURL": "http://dbpedia.org/resource/Multiple_sclerosis",
+                "BabelNetURL": "http://babelnet.org/rdf/s00027712n",
+                "score": 1.0,
+                "coherenceScore": 0.18055555555555555,
+                "globalScore": 0.01297750565686144,
+                "source": "BABELFY"
+            },
+            {
+                "start": 314,
+                "end": 330,
+                "text": "sclerosis,lyrical",
+                "isEntity": false
+            },
+            {
+                "start": 332,
+                "end": 342,
+                "text": "turn,healed",
+                "isEntity": false
+            },
+            {
+                "start": 344,
+                "end": 355,
+                "text": "quickly,head",
+                "isEntity": false
+            },
+            {
+                "start": 357,
+                "end": 370,
+                "text": "around,charity",
+                "isEntity": false
+            },
+            {
+                "start": 372,
+                "end": 382,
+                "text": "called,band",
+                "isEntity": false
+            },
+            {
+                "start": 384,
+                "end": 392,
+                "text": "mates,put",
+                "isEntity": false
+            },
+            {
+                "start": 394,
+                "end": 642,
+                "text": "everything,aaron,well,surgery,f,put,wrap,us,u,tough,thought,things,thing,song,slogans,situation,shaken,rrb,rest,repair,organization,one,news,lyric,lrb,hope,foundation,fortunately,far,especially,drummer,context,christmas,came,bandmate,already,2011,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

@@ -1,0 +1,276 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 12,
+                "text": "artist direct",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 12
+                },
+                "babelSynsetID": "bn:03403284n",
+                "DBpediaURL": "http://dbpedia.org/resource/Artistdirect",
+                "BabelNetURL": "http://babelnet.org/rdf/s03403284n",
+                "score": 1.0,
+                "coherenceScore": 0.012658227848101266,
+                "globalScore": 5.878894767783657e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 14,
+                "end": 18,
+                "text": "asked",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 14,
+                    "end": 18
+                },
+                "babelSynsetID": "bn:00082822v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00082822v",
+                "score": 0.8823529411764706,
+                "coherenceScore": 0.11392405063291139,
+                "globalScore": 0.005291005291005291,
+                "source": "BABELFY"
+            },
+            {
+                "start": 20,
+                "end": 30,
+                "text": "lead singer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 20,
+                    "end": 30
+                },
+                "babelSynsetID": "bn:03464733n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lead_vocalist",
+                "BabelNetURL": "http://babelnet.org/rdf/s03464733n",
+                "score": 1.0,
+                "coherenceScore": 0.0759493670886076,
+                "globalScore": 0.0031746031746031746,
+                "source": "BABELFY"
+            },
+            {
+                "start": 32,
+                "end": 43,
+                "text": "lacey mosley",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 32,
+                    "end": 43
+                },
+                "babelSynsetID": "bn:03299699n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lacey_Sturm",
+                "BabelNetURL": "http://babelnet.org/rdf/s03299699n",
+                "score": 1.0,
+                "coherenceScore": 0.05063291139240506,
+                "globalScore": 0.0009406231628453851,
+                "source": "BABELFY"
+            },
+            {
+                "start": 38,
+                "end": 54,
+                "text": "mosley,completely",
+                "isEntity": false
+            },
+            {
+                "start": 56,
+                "end": 65,
+                "text": "new season",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 56,
+                    "end": 65
+                },
+                "babelSynsetID": "bn:01286827n",
+                "DBpediaURL": "http://dbpedia.org/resource/Jin_Sha",
+                "BabelNetURL": "http://babelnet.org/rdf/s01286827n",
+                "score": 1.0,
+                "coherenceScore": 0.012658227848101266,
+                "globalScore": 5.878894767783657e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 60,
+                "end": 72,
+                "text": "season,really",
+                "isEntity": false
+            },
+            {
+                "start": 74,
+                "end": 82,
+                "text": "relieving",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 74,
+                    "end": 82
+                },
+                "babelSynsetID": "bn:00082530v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00082530v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 84,
+                "end": 93,
+                "text": "feeling,--",
+                "isEntity": false
+            },
+            {
+                "start": 95,
+                "end": 100,
+                "text": "really",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 17
+                },
+                "charFragment": {
+                    "start": 95,
+                    "end": 100
+                },
+                "babelSynsetID": "bn:00115504r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00115504r",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 102,
+                "end": 117,
+                "text": "believing,really",
+                "isEntity": false
+            },
+            {
+                "start": 119,
+                "end": 129,
+                "text": "shake,story",
+                "isEntity": false
+            },
+            {
+                "start": 131,
+                "end": 143,
+                "text": "behind,please",
+                "isEntity": false
+            },
+            {
+                "start": 145,
+                "end": 153,
+                "text": "heal,move",
+                "isEntity": false
+            },
+            {
+                "start": 150,
+                "end": 161,
+                "text": "move forward",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 29,
+                    "end": 30
+                },
+                "charFragment": {
+                    "start": 150,
+                    "end": 161
+                },
+                "babelSynsetID": "bn:13765057v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s13765057v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 155,
+                "end": 165,
+                "text": "forward,get",
+                "isEntity": false
+            },
+            {
+                "start": 167,
+                "end": 187,
+                "text": "tripped,circumstances",
+                "isEntity": false
+            },
+            {
+                "start": 189,
+                "end": 202,
+                "text": "around,certain",
+                "isEntity": false
+            },
+            {
+                "start": 204,
+                "end": 218,
+                "text": "areas,sometimes",
+                "isEntity": false
+            },
+            {
+                "start": 220,
+                "end": 236,
+                "text": "deceive,deceptive",
+                "isEntity": false
+            },
+            {
+                "start": 238,
+                "end": 251,
+                "text": "sometimes,make",
+                "isEntity": false
+            },
+            {
+                "start": 253,
+                "end": 266,
+                "text": "decisions,know",
+                "isEntity": false
+            },
+            {
+                "start": 268,
+                "end": 281,
+                "text": "anything,heart",
+                "isEntity": false
+            },
+            {
+                "start": 283,
+                "end": 293,
+                "text": "broken,ever",
+                "isEntity": false
+            },
+            {
+                "start": 295,
+                "end": 680,
+                "text": "get,sometimes,make,know,heart,ever,wrong,try,think,things,teach,striving,song,soften,shifting,sense,say,rsb,right,replied,realized,real,needed,n,mess,means,lsb,love,lot,listen,like,life,laughs,judgmental,identity,honest,held,hands,going,god,give,foolish,fitting,find,felt,end,difference,deal,convictions,control,closest,close,clean,changing,bunch,blind,anymore,aftermath,admitting,``,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

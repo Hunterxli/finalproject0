@@ -1,0 +1,273 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 30,
+                "text": "contemporary christian musician",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 30
+                },
+                "babelSynsetID": "bn:00764561n",
+                "DBpediaURL": "http://dbpedia.org/resource/Contemporary_Christian_music",
+                "BabelNetURL": "http://babelnet.org/rdf/s00764561n",
+                "score": 1.0,
+                "coherenceScore": 0.2982456140350877,
+                "globalScore": 0.012285166682376598,
+                "source": "BABELFY"
+            },
+            {
+                "start": 32,
+                "end": 35,
+                "text": "bebo",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 32,
+                    "end": 35
+                },
+                "babelSynsetID": "bn:01076508n",
+                "DBpediaURL": "http://dbpedia.org/resource/Bebo",
+                "BabelNetURL": "http://babelnet.org/rdf/s01076508n",
+                "score": 1.0,
+                "coherenceScore": 0.017543859649122806,
+                "globalScore": 3.1419863637791814e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 37,
+                "end": 52,
+                "text": "norman,extremely",
+                "isEntity": false
+            },
+            {
+                "start": 54,
+                "end": 62,
+                "text": "difficult",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 54,
+                    "end": 62
+                },
+                "babelSynsetID": "bn:00101358a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00101358a",
+                "score": 1.0,
+                "coherenceScore": 0.017543859649122806,
+                "globalScore": 3.1419863637791814e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 64,
+                "end": 72,
+                "text": "decisions",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 64,
+                    "end": 72
+                },
+                "babelSynsetID": "bn:00021590n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00021590n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 74,
+                "end": 77,
+                "text": "many",
+                "isEntity": false
+            },
+            {
+                "start": 79,
+                "end": 88,
+                "text": "times,eyes",
+                "isEntity": false
+            },
+            {
+                "start": 90,
+                "end": 95,
+                "text": "singer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 90,
+                    "end": 95
+                },
+                "babelSynsetID": "bn:00071734n",
+                "DBpediaURL": "http://dbpedia.org/resource/Singing",
+                "BabelNetURL": "http://babelnet.org/rdf/s00071734n",
+                "score": 0.8481675392670157,
+                "coherenceScore": 0.5789473684210527,
+                "globalScore": 0.05599019700254501,
+                "source": "BABELFY"
+            },
+            {
+                "start": 97,
+                "end": 109,
+                "text": "brandon heath",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 15
+                },
+                "charFragment": {
+                    "start": 97,
+                    "end": 109
+                },
+                "babelSynsetID": "bn:00165632n",
+                "DBpediaURL": "http://dbpedia.org/resource/Brandon_Heath",
+                "BabelNetURL": "http://babelnet.org/rdf/s00165632n",
+                "score": 1.0,
+                "coherenceScore": 0.22807017543859648,
+                "globalScore": 0.00694378986395199,
+                "source": "BABELFY"
+            },
+            {
+                "start": 105,
+                "end": 117,
+                "text": "heath,seventh",
+                "isEntity": false
+            },
+            {
+                "start": 111,
+                "end": 130,
+                "text": "seventh studio album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 19
+                },
+                "charFragment": {
+                    "start": 111,
+                    "end": 130
+                },
+                "babelSynsetID": "bn:01045300n",
+                "DBpediaURL": "http://dbpedia.org/resource/Missy_Elliott",
+                "BabelNetURL": "http://babelnet.org/rdf/s01045300n",
+                "score": 0.9615384615384616,
+                "coherenceScore": 0.17543859649122806,
+                "globalScore": 0.003141986363779181,
+                "source": "BABELFY"
+            },
+            {
+                "start": 126,
+                "end": 136,
+                "text": "album,first",
+                "isEntity": false
+            },
+            {
+                "start": 138,
+                "end": 149,
+                "text": "radio single",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 22,
+                    "end": 23
+                },
+                "charFragment": {
+                    "start": 138,
+                    "end": 149
+                },
+                "babelSynsetID": "bn:01958950n",
+                "DBpediaURL": "http://dbpedia.org/resource/Promotional_recording",
+                "BabelNetURL": "http://babelnet.org/rdf/s01958950n",
+                "score": 1.0,
+                "coherenceScore": 0.12280701754385964,
+                "globalScore": 0.0021993904546454266,
+                "source": "BABELFY"
+            },
+            {
+                "start": 144,
+                "end": 159,
+                "text": "single,difficult",
+                "isEntity": false
+            },
+            {
+                "start": 161,
+                "end": 176,
+                "text": "decisions,norman",
+                "isEntity": false
+            },
+            {
+                "start": 178,
+                "end": 192,
+                "text": "explained,first",
+                "isEntity": false
+            },
+            {
+                "start": 188,
+                "end": 197,
+                "text": "first step",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 31,
+                    "end": 32
+                },
+                "charFragment": {
+                    "start": 188,
+                    "end": 197
+                },
+                "babelSynsetID": "bn:14210833n",
+                "DBpediaURL": "http://dbpedia.org/resource/First_Step_(CNBLUE_album)",
+                "BabelNetURL": "http://babelnet.org/rdf/s14210833n",
+                "score": 0.7352941176470589,
+                "coherenceScore": 0.08771929824561403,
+                "globalScore": 0.0007854965909447953,
+                "source": "BABELFY"
+            },
+            {
+                "start": 194,
+                "end": 200,
+                "text": "step,us",
+                "isEntity": false
+            },
+            {
+                "start": 202,
+                "end": 217,
+                "text": "stands,something",
+                "isEntity": false
+            },
+            {
+                "start": 219,
+                "end": 230,
+                "text": "larger,lives",
+                "isEntity": false
+            },
+            {
+                "start": 232,
+                "end": 240,
+                "text": "...,faith",
+                "isEntity": false
+            },
+            {
+                "start": 242,
+                "end": 453,
+                "text": ".``,faith,years,written,truth,trust,track,statement,stand,song,sing,scripture,said,proclamation,precipice,ocean,nothing,moment,goodness,goes,god,give,edge,conversations,control,co,claim,christ,called,based,''`,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

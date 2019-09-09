@@ -1,0 +1,231 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 7,
+                "text": "satriani",
+                "isEntity": false
+            },
+            {
+                "start": 9,
+                "end": 18,
+                "text": "originally",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 9,
+                    "end": 18
+                },
+                "babelSynsetID": "bn:00115832r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00115832r",
+                "score": 1.0,
+                "coherenceScore": 0.03225806451612903,
+                "globalScore": 0.00018284878405558602,
+                "source": "BABELFY"
+            },
+            {
+                "start": 20,
+                "end": 26,
+                "text": "started",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 20,
+                    "end": 26
+                },
+                "babelSynsetID": "bn:00083340v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00083340v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 28,
+                "end": 42,
+                "text": "writing,working",
+                "isEntity": false
+            },
+            {
+                "start": 44,
+                "end": 49,
+                "text": "really",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 44,
+                    "end": 49
+                },
+                "babelSynsetID": "bn:00115504r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00115504r",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 51,
+                "end": 54,
+                "text": "well",
+                "isEntity": false
+            },
+            {
+                "start": 56,
+                "end": 65,
+                "text": "...,really",
+                "isEntity": false
+            },
+            {
+                "start": 67,
+                "end": 77,
+                "text": "bring,could",
+                "isEntity": false
+            },
+            {
+                "start": 79,
+                "end": 88,
+                "text": "really,two",
+                "isEntity": false
+            },
+            {
+                "start": 90,
+                "end": 101,
+                "text": "chords,never",
+                "isEntity": false
+            },
+            {
+                "start": 103,
+                "end": 111,
+                "text": "took,laid",
+                "isEntity": false
+            },
+            {
+                "start": 108,
+                "end": 116,
+                "text": "laid back",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 22,
+                    "end": 23
+                },
+                "charFragment": {
+                    "start": 108,
+                    "end": 116
+                },
+                "babelSynsetID": "bn:13741870v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s13741870v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 113,
+                "end": 121,
+                "text": "back,high",
+                "isEntity": false
+            },
+            {
+                "start": 118,
+                "end": 128,
+                "text": "high school",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 25,
+                    "end": 26
+                },
+                "charFragment": {
+                    "start": 118,
+                    "end": 128
+                },
+                "babelSynsetID": "bn:00044028n",
+                "DBpediaURL": "http://dbpedia.org/resource/High_school",
+                "BabelNetURL": "http://babelnet.org/rdf/s00044028n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 123,
+                "end": 135,
+                "text": "school,guitar",
+                "isEntity": false
+            },
+            {
+                "start": 130,
+                "end": 145,
+                "text": "guitar harmonies",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 28,
+                    "end": 29
+                },
+                "charFragment": {
+                    "start": 130,
+                    "end": 145
+                },
+                "babelSynsetID": "bn:00805794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Guitar_chord",
+                "BabelNetURL": "http://babelnet.org/rdf/s00805794n",
+                "score": 1.0,
+                "coherenceScore": 0.16129032258064516,
+                "globalScore": 0.006399707441945511,
+                "source": "BABELFY"
+            },
+            {
+                "start": 137,
+                "end": 155,
+                "text": "harmonies,billboard",
+                "isEntity": false
+            },
+            {
+                "start": 147,
+                "end": 164,
+                "text": "billboard magazine",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 31,
+                    "end": 32
+                },
+                "charFragment": {
+                    "start": 147,
+                    "end": 164
+                },
+                "babelSynsetID": "bn:01071347n",
+                "DBpediaURL": "http://dbpedia.org/resource/Billboard_(magazine)",
+                "BabelNetURL": "http://babelnet.org/rdf/s01071347n",
+                "score": 1.0,
+                "coherenceScore": 0.2903225806451613,
+                "globalScore": 0.036204059243006036,
+                "source": "BABELFY"
+            },
+            {
+                "start": 157,
+                "end": 169,
+                "text": "magazine,time",
+                "isEntity": false
+            },
+            {
+                "start": 171,
+                "end": 272,
+                "text": "around,time,understood,tune,try,tried,songs,say,records,let,explained,everything,bunch,band,able,``,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

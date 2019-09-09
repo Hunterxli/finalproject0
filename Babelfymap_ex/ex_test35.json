@@ -1,0 +1,330 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 11,
+                "text": "subsequently",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 11
+                },
+                "babelSynsetID": "bn:00114165r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00114165r",
+                "score": 1.0,
+                "coherenceScore": 0.029850746268656716,
+                "globalScore": 0.00011350737797956867,
+                "source": "BABELFY"
+            },
+            {
+                "start": 13,
+                "end": 20,
+                "text": "resigned",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 13,
+                    "end": 20
+                },
+                "babelSynsetID": "bn:00088858v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00088858v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 22,
+                "end": 30,
+                "text": "following",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 22,
+                    "end": 30
+                },
+                "babelSynsetID": "bn:00088421v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00088421v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 32,
+                "end": 48,
+                "text": "controversy,might",
+                "isEntity": false
+            },
+            {
+                "start": 50,
+                "end": 55,
+                "text": "recall",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 50,
+                    "end": 55
+                },
+                "babelSynsetID": "bn:00084413v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00084413v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 57,
+                "end": 68,
+                "text": "barack obama",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 57,
+                    "end": 68
+                },
+                "babelSynsetID": "bn:03330021n",
+                "DBpediaURL": "http://dbpedia.org/resource/Barack_Obama",
+                "BabelNetURL": "http://babelnet.org/rdf/s03330021n",
+                "score": 0.9918962722852512,
+                "coherenceScore": 0.2537313432835821,
+                "globalScore": 0.017366628830874007,
+                "source": "BABELFY"
+            },
+            {
+                "start": 64,
+                "end": 72,
+                "text": "obama,led",
+                "isEntity": false
+            },
+            {
+                "start": 74,
+                "end": 87,
+                "text": "trinity united",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 74,
+                    "end": 87
+                },
+                "babelSynsetID": "bn:00798389n",
+                "DBpediaURL": "http://dbpedia.org/resource/Trinity_United_Church_of_Christ",
+                "BabelNetURL": "http://babelnet.org/rdf/s00798389n",
+                "score": 1.0,
+                "coherenceScore": 0.1791044776119403,
+                "globalScore": 0.004426787741203178,
+                "source": "BABELFY"
+            },
+            {
+                "start": 82,
+                "end": 94,
+                "text": "united church",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 82,
+                    "end": 94
+                },
+                "babelSynsetID": "bn:03766393n",
+                "DBpediaURL": "http://dbpedia.org/resource/United_and_uniting_churches",
+                "BabelNetURL": "http://babelnet.org/rdf/s03766393n",
+                "score": 1.0,
+                "coherenceScore": 0.1044776119402985,
+                "globalScore": 0.0015891032917139615,
+                "source": "BABELFY"
+            },
+            {
+                "start": 89,
+                "end": 99,
+                "text": "church,hold",
+                "isEntity": false
+            },
+            {
+                "start": 101,
+                "end": 102,
+                "text": "us",
+                "isEntity": false
+            },
+            {
+                "start": 104,
+                "end": 120,
+                "text": "together,american",
+                "isEntity": false
+            },
+            {
+                "start": 113,
+                "end": 131,
+                "text": "american news media",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 19,
+                    "end": 21
+                },
+                "charFragment": {
+                    "start": 113,
+                    "end": 131
+                },
+                "babelSynsetID": "bn:00048459n",
+                "DBpediaURL": "http://dbpedia.org/resource/News_media",
+                "BabelNetURL": "http://babelnet.org/rdf/s00048459n",
+                "score": 1.0,
+                "coherenceScore": 0.1044776119402985,
+                "globalScore": 0.002582292849035187,
+                "source": "BABELFY"
+            },
+            {
+                "start": 127,
+                "end": 137,
+                "text": "media,cloth",
+                "isEntity": false
+            },
+            {
+                "start": 139,
+                "end": 140,
+                "text": ".-",
+                "isEntity": false
+            },
+            {
+                "start": 142,
+                "end": 149,
+                "text": "lrb,mega",
+                "isEntity": false
+            },
+            {
+                "start": 146,
+                "end": 156,
+                "text": "mega church",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 28,
+                    "end": 29
+                },
+                "charFragment": {
+                    "start": 146,
+                    "end": 156
+                },
+                "babelSynsetID": "bn:02765472n",
+                "DBpediaURL": "http://dbpedia.org/resource/Megachurch",
+                "BabelNetURL": "http://babelnet.org/rdf/s02765472n",
+                "score": 1.0,
+                "coherenceScore": 0.14925373134328357,
+                "globalScore": 0.003972758229284903,
+                "source": "BABELFY"
+            },
+            {
+                "start": 151,
+                "end": 160,
+                "text": "church,two",
+                "isEntity": false
+            },
+            {
+                "start": 162,
+                "end": 173,
+                "text": "things,title",
+                "isEntity": false
+            },
+            {
+                "start": 175,
+                "end": 185,
+                "text": "refers,time",
+                "isEntity": false
+            },
+            {
+                "start": 187,
+                "end": 200,
+                "text": "member,semitic",
+                "isEntity": false
+            },
+            {
+                "start": 202,
+                "end": 216,
+                "text": "remarks,partner",
+                "isEntity": false
+            },
+            {
+                "start": 218,
+                "end": 230,
+                "text": "needs,chicago",
+                "isEntity": false
+            },
+            {
+                "start": 232,
+                "end": 244,
+                "text": "since,alleged",
+                "isEntity": false
+            },
+            {
+                "start": 246,
+                "end": 258,
+                "text": "anti,jeremiah",
+                "isEntity": false
+            },
+            {
+                "start": 251,
+                "end": 265,
+                "text": "jeremiah wright",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 52,
+                    "end": 53
+                },
+                "charFragment": {
+                    "start": 251,
+                    "end": 265
+                },
+                "babelSynsetID": "bn:03607452n",
+                "DBpediaURL": "http://dbpedia.org/resource/Jeremiah_Wright",
+                "BabelNetURL": "http://babelnet.org/rdf/s03607452n",
+                "score": 1.0,
+                "coherenceScore": 0.1791044776119403,
+                "globalScore": 0.004426787741203178,
+                "source": "BABELFY"
+            },
+            {
+                "start": 260,
+                "end": 272,
+                "text": "wright,common",
+                "isEntity": false
+            },
+            {
+                "start": 274,
+                "end": 286,
+                "text": "makes,chicago",
+                "isEntity": false
+            },
+            {
+                "start": 288,
+                "end": 512,
+                "text": "rapper,cloth,wright,rapper,common,whilst,values,tailor,song,share,sewed,seems,rrb,rev,one,incident,however,god,girl,forever,cut,criticized,coverage,concerns,clear,claiming,christ,childhood,beliefs,belief,attended,agenda,``,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

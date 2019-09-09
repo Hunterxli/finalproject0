@@ -1,0 +1,366 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 10,
+                "text": "lead singer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 10
+                },
+                "babelSynsetID": "bn:03464733n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lead_vocalist",
+                "BabelNetURL": "http://babelnet.org/rdf/s03464733n",
+                "score": 1.0,
+                "coherenceScore": 0.2028985507246377,
+                "globalScore": 0.009077352006743176,
+                "source": "BABELFY"
+            },
+            {
+                "start": 12,
+                "end": 25,
+                "text": "anthony kiedis",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 12,
+                    "end": 25
+                },
+                "babelSynsetID": "bn:02511656n",
+                "DBpediaURL": "http://dbpedia.org/resource/Anthony_Kiedis",
+                "BabelNetURL": "http://babelnet.org/rdf/s02511656n",
+                "score": 1.0,
+                "coherenceScore": 0.13043478260869565,
+                "globalScore": 0.004084808403034429,
+                "source": "BABELFY"
+            },
+            {
+                "start": 20,
+                "end": 31,
+                "text": "kiedis,turle",
+                "isEntity": false
+            },
+            {
+                "start": 33,
+                "end": 34,
+                "text": ".-",
+                "isEntity": false
+            },
+            {
+                "start": 36,
+                "end": 44,
+                "text": "lrb,seuss",
+                "isEntity": false
+            },
+            {
+                "start": 46,
+                "end": 49,
+                "text": "book",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 46,
+                    "end": 49
+                },
+                "babelSynsetID": "bn:00012059n",
+                "DBpediaURL": "http://dbpedia.org/resource/Book",
+                "BabelNetURL": "http://babelnet.org/rdf/s00012059n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 51,
+                "end": 64,
+                "text": "yertle,getting",
+                "isEntity": false
+            },
+            {
+                "start": 66,
+                "end": 67,
+                "text": "15",
+                "isEntity": false
+            },
+            {
+                "start": 69,
+                "end": 82,
+                "text": "minutes,freaky",
+                "isEntity": false
+            },
+            {
+                "start": 77,
+                "end": 89,
+                "text": "freaky styley",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 18,
+                    "end": 19
+                },
+                "charFragment": {
+                    "start": 77,
+                    "end": 89
+                },
+                "babelSynsetID": "bn:03811179n",
+                "DBpediaURL": "http://dbpedia.org/resource/Freaky_Styley",
+                "BabelNetURL": "http://babelnet.org/rdf/s03811179n",
+                "score": 1.0,
+                "coherenceScore": 0.21739130434782608,
+                "globalScore": 0.011184594436879984,
+                "source": "BABELFY"
+            },
+            {
+                "start": 91,
+                "end": 103,
+                "text": "sessions,fame",
+                "isEntity": false
+            },
+            {
+                "start": 105,
+                "end": 106,
+                "text": ".-",
+                "isEntity": false
+            },
+            {
+                "start": 108,
+                "end": 124,
+                "text": "lrb,autobiography",
+                "isEntity": false
+            },
+            {
+                "start": 126,
+                "end": 136,
+                "text": "scar tissue",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 28,
+                    "end": 29
+                },
+                "charFragment": {
+                    "start": 126,
+                    "end": 136
+                },
+                "babelSynsetID": "bn:00069516n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00069516n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 131,
+                "end": 147,
+                "text": "tissue,physically",
+                "isEntity": false
+            },
+            {
+                "start": 149,
+                "end": 152,
+                "text": "harm",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 32,
+                    "end": 32
+                },
+                "charFragment": {
+                    "start": 149,
+                    "end": 152
+                },
+                "babelSynsetID": "bn:00043011n",
+                "DBpediaURL": "http://dbpedia.org/resource/Harm",
+                "BabelNetURL": "http://babelnet.org/rdf/s00043011n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 154,
+                "end": 169,
+                "text": "clinton,personal",
+                "isEntity": false
+            },
+            {
+                "start": 171,
+                "end": 177,
+                "text": "cocaine",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 36,
+                    "end": 36
+                },
+                "charFragment": {
+                    "start": 171,
+                    "end": 177
+                },
+                "babelSynsetID": "bn:00020230n",
+                "DBpediaURL": "http://dbpedia.org/resource/Cocaine",
+                "BabelNetURL": "http://babelnet.org/rdf/s00020230n",
+                "score": 0.715,
+                "coherenceScore": 0.15942028985507245,
+                "globalScore": 0.004635933346300979,
+                "source": "BABELFY"
+            },
+            {
+                "start": 179,
+                "end": 193,
+                "text": "dealer,producer",
+                "isEntity": false
+            },
+            {
+                "start": 195,
+                "end": 200,
+                "text": "george",
+                "isEntity": false
+            },
+            {
+                "start": 202,
+                "end": 216,
+                "text": "clinton,anthony",
+                "isEntity": false
+            },
+            {
+                "start": 210,
+                "end": 223,
+                "text": "anthony kiedis",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 43,
+                    "end": 44
+                },
+                "charFragment": {
+                    "start": 210,
+                    "end": 223
+                },
+                "babelSynsetID": "bn:02511656n",
+                "DBpediaURL": "http://dbpedia.org/resource/Anthony_Kiedis",
+                "BabelNetURL": "http://babelnet.org/rdf/s02511656n",
+                "score": 1.0,
+                "coherenceScore": 0.13043478260869565,
+                "globalScore": 0.004084808403034429,
+                "source": "BABELFY"
+            },
+            {
+                "start": 218,
+                "end": 230,
+                "text": "kiedis,kiedis",
+                "isEntity": false
+            },
+            {
+                "start": 232,
+                "end": 247,
+                "text": "referred,clinton",
+                "isEntity": false
+            },
+            {
+                "start": 249,
+                "end": 259,
+                "text": "knew,turtle",
+                "isEntity": false
+            },
+            {
+                "start": 261,
+                "end": 270,
+                "text": "go,opening",
+                "isEntity": false
+            },
+            {
+                "start": 264,
+                "end": 275,
+                "text": "opening line",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 55,
+                    "end": 56
+                },
+                "charFragment": {
+                    "start": 264,
+                    "end": 275
+                },
+                "babelSynsetID": "bn:00059102n",
+                "DBpediaURL": "http://dbpedia.org/resource/Opening_sentence",
+                "BabelNetURL": "http://babelnet.org/rdf/s00059102n",
+                "score": 1.0,
+                "coherenceScore": 0.043478260869565216,
+                "globalScore": 0.00038902937171756465,
+                "source": "BABELFY"
+            },
+            {
+                "start": 272,
+                "end": 281,
+                "text": "line,music",
+                "isEntity": false
+            },
+            {
+                "start": 277,
+                "end": 290,
+                "text": "music industry",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 58,
+                    "end": 59
+                },
+                "charFragment": {
+                    "start": 277,
+                    "end": 290
+                },
+                "babelSynsetID": "bn:01217265n",
+                "DBpediaURL": "http://dbpedia.org/resource/Music_industry",
+                "BabelNetURL": "http://babelnet.org/rdf/s01217265n",
+                "score": 1.0,
+                "coherenceScore": 0.15942028985507245,
+                "globalScore": 0.005705764118524282,
+                "source": "BABELFY"
+            },
+            {
+                "start": 283,
+                "end": 295,
+                "text": "industry,guys",
+                "isEntity": false
+            },
+            {
+                "start": 297,
+                "end": 308,
+                "text": "ready,dealer",
+                "isEntity": false
+            },
+            {
+                "start": 310,
+                "end": 319,
+                "text": "came,cheap",
+                "isEntity": false
+            },
+            {
+                "start": 321,
+                "end": 327,
+                "text": "way,bro",
+                "isEntity": false
+            },
+            {
+                "start": 329,
+                "end": 333,
+                "text": "'',``",
+                "isEntity": false
+            },
+            {
+                "start": 335,
+                "end": 541,
+                "text": "look,george,dealer,would,winnipeg,thrilled,thanks,taken,spot,song,said,rrb,reason,pueblo,promised,payments,pay,noticeable,nm,mischa,lyrics,learn,fascinated,exchange,ensured,dr,couple,canada,bert,behind,album",
+                "isEntity": false
+            }
+        ]
+    ]
+}

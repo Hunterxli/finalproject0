@@ -1,0 +1,561 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 9,
+                "text": "songwriter",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 9
+                },
+                "babelSynsetID": "bn:00008155n",
+                "DBpediaURL": "http://dbpedia.org/resource/Songster",
+                "BabelNetURL": "http://babelnet.org/rdf/s00008155n",
+                "score": 0.9036144578313253,
+                "coherenceScore": 0.14423076923076922,
+                "globalScore": 0.004240834143803858,
+                "source": "BABELFY"
+            },
+            {
+                "start": 11,
+                "end": 23,
+                "text": "joanna newsom",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 11,
+                    "end": 23
+                },
+                "babelSynsetID": "bn:03831849n",
+                "DBpediaURL": "http://dbpedia.org/resource/Joanna_Newsom",
+                "BabelNetURL": "http://babelnet.org/rdf/s03831849n",
+                "score": 1.0,
+                "coherenceScore": 0.08653846153846154,
+                "globalScore": 0.001017800194512926,
+                "source": "BABELFY"
+            },
+            {
+                "start": 25,
+                "end": 34,
+                "text": "originally",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 25,
+                    "end": 34
+                },
+                "babelSynsetID": "bn:00116472r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00116472r",
+                "score": 0.8,
+                "coherenceScore": 0.019230769230769232,
+                "globalScore": 4.5235564200574494e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 36,
+                "end": 52,
+                "text": "named,independent",
+                "isEntity": false
+            },
+            {
+                "start": 42,
+                "end": 58,
+                "text": "independent label",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 42,
+                    "end": 58
+                },
+                "babelSynsetID": "bn:02684689n",
+                "DBpediaURL": "http://dbpedia.org/resource/Independent_record_label",
+                "BabelNetURL": "http://babelnet.org/rdf/s02684689n",
+                "score": 1.0,
+                "coherenceScore": 0.10576923076923077,
+                "globalScore": 0.001617171420170538,
+                "source": "BABELFY"
+            },
+            {
+                "start": 60,
+                "end": 70,
+                "text": "debut album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 60,
+                    "end": 70
+                },
+                "babelSynsetID": "bn:14409932n",
+                "DBpediaURL": "http://dbpedia.org/resource/Debut_Album_(Sayuri_Ishikawa_album)",
+                "BabelNetURL": "http://babelnet.org/rdf/s14409932n",
+                "score": 1.0,
+                "coherenceScore": 0.009615384615384616,
+                "globalScore": 1.1308891050143624e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 66,
+                "end": 76,
+                "text": "album,greek",
+                "isEntity": false
+            },
+            {
+                "start": 78,
+                "end": 89,
+                "text": "mythological",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 78,
+                    "end": 89
+                },
+                "babelSynsetID": "bn:00102684a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00102684a",
+                "score": 1.0,
+                "coherenceScore": 0.028846153846153848,
+                "globalScore": 0.0001017800194512926,
+                "source": "BABELFY"
+            },
+            {
+                "start": 91,
+                "end": 95,
+                "text": "queen",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 91,
+                    "end": 95
+                },
+                "babelSynsetID": "bn:03159408n",
+                "DBpediaURL": "http://dbpedia.org/resource/Queen_(band)",
+                "BabelNetURL": "http://babelnet.org/rdf/s03159408n",
+                "score": 0.9411035337879727,
+                "coherenceScore": 0.3173076923076923,
+                "globalScore": 0.01716689661411802,
+                "source": "BABELFY"
+            },
+            {
+                "start": 97,
+                "end": 107,
+                "text": "known,bruce",
+                "isEntity": false
+            },
+            {
+                "start": 103,
+                "end": 119,
+                "text": "bruce springsteen",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 16,
+                    "end": 17
+                },
+                "charFragment": {
+                    "start": 103,
+                    "end": 119
+                },
+                "babelSynsetID": "bn:03431580n",
+                "DBpediaURL": "http://dbpedia.org/resource/Bruce_Springsteen",
+                "BabelNetURL": "http://babelnet.org/rdf/s03431580n",
+                "score": 1.0,
+                "coherenceScore": 0.1346153846153846,
+                "globalScore": 0.002849840544636193,
+                "source": "BABELFY"
+            },
+            {
+                "start": 121,
+                "end": 124,
+                "text": "also",
+                "isEntity": false
+            },
+            {
+                "start": 126,
+                "end": 136,
+                "text": "mentions,``",
+                "isEntity": false
+            },
+            {
+                "start": 138,
+                "end": 146,
+                "text": "long time",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 22,
+                    "end": 23
+                },
+                "charFragment": {
+                    "start": 138,
+                    "end": 146
+                },
+                "babelSynsetID": "bn:00001939n",
+                "DBpediaURL": "http://dbpedia.org/resource/Year",
+                "BabelNetURL": "http://babelnet.org/rdf/s00001939n",
+                "score": 0.8270042194092827,
+                "coherenceScore": 0.1346153846153846,
+                "globalScore": 0.0022165426458281502,
+                "source": "BABELFY"
+            },
+            {
+                "start": 148,
+                "end": 156,
+                "text": "coming,''",
+                "isEntity": false
+            },
+            {
+                "start": 158,
+                "end": 166,
+                "text": "bareilles",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 26,
+                    "end": 26
+                },
+                "charFragment": {
+                    "start": 158,
+                    "end": 166
+                },
+                "babelSynsetID": "bn:00808361n",
+                "DBpediaURL": "http://dbpedia.org/resource/Bareilles",
+                "BabelNetURL": "http://babelnet.org/rdf/s00808361n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 168,
+                "end": 176,
+                "text": "continued",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 27,
+                    "end": 27
+                },
+                "charFragment": {
+                    "start": 168,
+                    "end": 176
+                },
+                "babelSynsetID": "bn:00085714v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00085714v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 178,
+                "end": 191,
+                "text": ".``,incredibly",
+                "isEntity": false
+            },
+            {
+                "start": 193,
+                "end": 198,
+                "text": "bright",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 32,
+                    "end": 32
+                },
+                "charFragment": {
+                    "start": 193,
+                    "end": 198
+                },
+                "babelSynsetID": "bn:00098857a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00098857a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 200,
+                "end": 213,
+                "text": "bursts,another",
+                "isEntity": false
+            },
+            {
+                "start": 215,
+                "end": 218,
+                "text": "star",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 36,
+                    "end": 36
+                },
+                "charFragment": {
+                    "start": 215,
+                    "end": 218
+                },
+                "babelSynsetID": "bn:00073964n",
+                "DBpediaURL": "http://dbpedia.org/resource/Star",
+                "BabelNetURL": "http://babelnet.org/rdf/s00073964n",
+                "score": 0.7933333333333333,
+                "coherenceScore": 0.33653846153846156,
+                "globalScore": 0.040372741049012735,
+                "source": "BABELFY"
+            },
+            {
+                "start": 220,
+                "end": 227,
+                "text": ".``,song",
+                "isEntity": false
+            },
+            {
+                "start": 229,
+                "end": 237,
+                "text": "imagining",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 41,
+                    "end": 41
+                },
+                "charFragment": {
+                    "start": 229,
+                    "end": 237
+                },
+                "babelSynsetID": "bn:00083370v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00083370v",
+                "score": 0.967741935483871,
+                "coherenceScore": 0.057692307692307696,
+                "globalScore": 0.0006785334630086174,
+                "source": "BABELFY"
+            },
+            {
+                "start": 239,
+                "end": 253,
+                "text": "cassiopeia,sara",
+                "isEntity": false
+            },
+            {
+                "start": 250,
+                "end": 263,
+                "text": "sara bareilles",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 44,
+                    "end": 45
+                },
+                "charFragment": {
+                    "start": 250,
+                    "end": 263
+                },
+                "babelSynsetID": "bn:03443663n",
+                "DBpediaURL": "http://dbpedia.org/resource/Sara_Bareilles",
+                "BabelNetURL": "http://babelnet.org/rdf/s03443663n",
+                "score": 1.0,
+                "coherenceScore": 0.07692307692307693,
+                "globalScore": 0.0007237690272091919,
+                "source": "BABELFY"
+            },
+            {
+                "start": 255,
+                "end": 267,
+                "text": "bareilles,com",
+                "isEntity": false
+            },
+            {
+                "start": 269,
+                "end": 273,
+                "text": "``,''",
+                "isEntity": false
+            },
+            {
+                "start": 275,
+                "end": 286,
+                "text": "singer,woman",
+                "isEntity": false
+            },
+            {
+                "start": 288,
+                "end": 299,
+                "text": "sitting,told",
+                "isEntity": false
+            },
+            {
+                "start": 301,
+                "end": 311,
+                "text": "radio,stars",
+                "isEntity": false
+            },
+            {
+                "start": 313,
+                "end": 322,
+                "text": "give,stars",
+                "isEntity": false
+            },
+            {
+                "start": 324,
+                "end": 335,
+                "text": "collide,star",
+                "isEntity": false
+            },
+            {
+                "start": 337,
+                "end": 347,
+                "text": "falls,orion",
+                "isEntity": false
+            },
+            {
+                "start": 349,
+                "end": 360,
+                "text": "sweeps,might",
+                "isEntity": false
+            },
+            {
+                "start": 362,
+                "end": 371,
+                "text": "feel,march",
+                "isEntity": false
+            },
+            {
+                "start": 373,
+                "end": 379,
+                "text": "23,give",
+                "isEntity": false
+            },
+            {
+                "start": 381,
+                "end": 400,
+                "text": "something,fascinated",
+                "isEntity": false
+            },
+            {
+                "start": 402,
+                "end": 412,
+                "text": "reading,far",
+                "isEntity": false
+            },
+            {
+                "start": 414,
+                "end": 422,
+                "text": "away,eyed",
+                "isEntity": false
+            },
+            {
+                "start": 424,
+                "end": 440,
+                "text": "mender,everything",
+                "isEntity": false
+            },
+            {
+                "start": 442,
+                "end": 458,
+                "text": "around,especially",
+                "isEntity": false
+            },
+            {
+                "start": 460,
+                "end": 474,
+                "text": "cassiopeia,dust",
+                "isEntity": false
+            },
+            {
+                "start": 476,
+                "end": 490,
+                "text": "track,different",
+                "isEntity": false
+            },
+            {
+                "start": 492,
+                "end": 510,
+                "text": "constellations,come",
+                "isEntity": false
+            },
+            {
+                "start": 507,
+                "end": 519,
+                "text": "come together",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 100,
+                    "end": 101
+                },
+                "charFragment": {
+                    "start": 507,
+                    "end": 519
+                },
+                "babelSynsetID": "bn:00085172v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00085172v",
+                "score": 1.0,
+                "coherenceScore": 0.009615384615384616,
+                "globalScore": 1.1308891050143624e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 512,
+                "end": 525,
+                "text": "together,chief",
+                "isEntity": false
+            },
+            {
+                "start": 527,
+                "end": 539,
+                "text": "stars,blessed",
+                "isEntity": false
+            },
+            {
+                "start": 533,
+                "end": 546,
+                "text": "blessed unrest",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 106,
+                    "end": 107
+                },
+                "charFragment": {
+                    "start": 533,
+                    "end": 546
+                },
+                "babelSynsetID": "bn:01310515n",
+                "DBpediaURL": "http://dbpedia.org/resource/Blessed_Unrest_(album)",
+                "BabelNetURL": "http://babelnet.org/rdf/s01310515n",
+                "score": 0.9411764705882353,
+                "coherenceScore": 0.038461538461538464,
+                "globalScore": 0.00018094225680229798,
+                "source": "BABELFY"
+            },
+            {
+                "start": 541,
+                "end": 550,
+                "text": "unrest,''-",
+                "isEntity": false
+            },
+            {
+                "start": 552,
+                "end": 877,
+                "text": "lrb,``,'',star,song,cassiopeia,worth,well,vanity,topic,think,sword,supplication,supernovas,started,sort,sent,rrb,released,personify,penned,outline,neath,milk,making,love,light,know,inspired,idea,human,holding,heavens,given,found,form,falling,explode,end,devils,constellation,chair,book,boasting,beauty,astronomy,arms,2004,''``",
+                "isEntity": false
+            }
+        ]
+    ]
+}

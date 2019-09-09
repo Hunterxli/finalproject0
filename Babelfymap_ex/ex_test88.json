@@ -1,0 +1,693 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 6,
+                "text": "beatles",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 6
+                },
+                "babelSynsetID": "bn:00009414n",
+                "DBpediaURL": "http://dbpedia.org/resource/The_Beatles",
+                "BabelNetURL": "http://babelnet.org/rdf/s00009414n",
+                "score": 0.9103892821031345,
+                "coherenceScore": 0.532608695652174,
+                "globalScore": 0.073052738336714,
+                "source": "BABELFY"
+            },
+            {
+                "start": 8,
+                "end": 16,
+                "text": "mccartney",
+                "isEntity": false
+            },
+            {
+                "start": 18,
+                "end": 22,
+                "text": "piece",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 18,
+                    "end": 22
+                },
+                "babelSynsetID": "bn:00021408n",
+                "DBpediaURL": "http://dbpedia.org/resource/Musical_composition",
+                "BabelNetURL": "http://babelnet.org/rdf/s00021408n",
+                "score": 0.7888086642599278,
+                "coherenceScore": 0.25,
+                "globalScore": 0.008864097363083164,
+                "source": "BABELFY"
+            },
+            {
+                "start": 24,
+                "end": 29,
+                "text": "titled",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 24,
+                    "end": 29
+                },
+                "babelSynsetID": "bn:00087691v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00087691v",
+                "score": 0.8571428571428571,
+                "coherenceScore": 0.03260869565217391,
+                "globalScore": 0.00012170385395537525,
+                "source": "BABELFY"
+            },
+            {
+                "start": 31,
+                "end": 32,
+                "text": "``",
+                "isEntity": false
+            },
+            {
+                "start": 34,
+                "end": 40,
+                "text": "another",
+                "isEntity": false
+            },
+            {
+                "start": 42,
+                "end": 49,
+                "text": "day,many",
+                "isEntity": false
+            },
+            {
+                "start": 51,
+                "end": 56,
+                "text": "people",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 51,
+                    "end": 56
+                },
+                "babelSynsetID": "bn:00061450n",
+                "DBpediaURL": "http://dbpedia.org/resource/People",
+                "BabelNetURL": "http://babelnet.org/rdf/s00061450n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 58,
+                "end": 66,
+                "text": "preaching",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 58,
+                    "end": 66
+                },
+                "babelSynsetID": "bn:00091922v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00091922v",
+                "score": 1.0,
+                "coherenceScore": 0.010869565217391304,
+                "globalScore": 1.0141987829614604e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 68,
+                "end": 76,
+                "text": "practices",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 68,
+                    "end": 76
+                },
+                "babelSynsetID": "bn:00061054n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00061054n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 78,
+                "end": 84,
+                "text": "'',many",
+                "isEntity": false
+            },
+            {
+                "start": 86,
+                "end": 91,
+                "text": "people",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 86,
+                    "end": 91
+                },
+                "babelSynsetID": "bn:00061450n",
+                "DBpediaURL": "http://dbpedia.org/resource/People",
+                "BabelNetURL": "http://babelnet.org/rdf/s00061450n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 93,
+                "end": 101,
+                "text": "preaching",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 15
+                },
+                "charFragment": {
+                    "start": 93,
+                    "end": 101
+                },
+                "babelSynsetID": "bn:00091922v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00091922v",
+                "score": 1.0,
+                "coherenceScore": 0.010869565217391304,
+                "globalScore": 1.0141987829614604e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 103,
+                "end": 119,
+                "text": "practices,admiral",
+                "isEntity": false
+            },
+            {
+                "start": 121,
+                "end": 126,
+                "text": "halsey",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 19,
+                    "end": 19
+                },
+                "charFragment": {
+                    "start": 121,
+                    "end": 126
+                },
+                "babelSynsetID": "bn:02726558n",
+                "DBpediaURL": "http://dbpedia.org/resource/Halsey_(surname)",
+                "BabelNetURL": "http://babelnet.org/rdf/s02726558n",
+                "score": 1.0,
+                "coherenceScore": 0.010869565217391304,
+                "globalScore": 1.0141987829614604e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 128,
+                "end": 129,
+                "text": "''",
+                "isEntity": false
+            },
+            {
+                "start": 131,
+                "end": 142,
+                "text": "single,lucky",
+                "isEntity": false
+            },
+            {
+                "start": 138,
+                "end": 148,
+                "text": "lucky break",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 22,
+                    "end": 23
+                },
+                "charFragment": {
+                    "start": 138,
+                    "end": 148
+                },
+                "babelSynsetID": "bn:15728413n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lucky_Break_(2001_film)",
+                "BabelNetURL": "http://babelnet.org/rdf/s15728413n",
+                "score": 1.0,
+                "coherenceScore": 0.021739130434782608,
+                "globalScore": 4.0567951318458416e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 150,
+                "end": 152,
+                "text": "...",
+                "isEntity": false
+            },
+            {
+                "start": 154,
+                "end": 158,
+                "text": "'',``",
+                "isEntity": false
+            },
+            {
+                "start": 160,
+                "end": 170,
+                "text": "lucky break",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 27,
+                    "end": 28
+                },
+                "charFragment": {
+                    "start": 160,
+                    "end": 170
+                },
+                "babelSynsetID": "bn:15728413n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lucky_Break_(2001_film)",
+                "BabelNetURL": "http://babelnet.org/rdf/s15728413n",
+                "score": 1.0,
+                "coherenceScore": 0.021739130434782608,
+                "globalScore": 4.0567951318458416e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 172,
+                "end": 179,
+                "text": "'',track",
+                "isEntity": false
+            },
+            {
+                "start": 181,
+                "end": 186,
+                "text": "called",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 31,
+                    "end": 31
+                },
+                "charFragment": {
+                    "start": 181,
+                    "end": 186
+                },
+                "babelSynsetID": "bn:00084385v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00084385v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 188,
+                "end": 192,
+                "text": "``,``",
+                "isEntity": false
+            },
+            {
+                "start": 194,
+                "end": 198,
+                "text": "uncle",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 35,
+                    "end": 35
+                },
+                "charFragment": {
+                    "start": 194,
+                    "end": 198
+                },
+                "babelSynsetID": "bn:00078951n",
+                "DBpediaURL": "http://dbpedia.org/resource/Uncle",
+                "BabelNetURL": "http://babelnet.org/rdf/s00078951n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 200,
+                "end": 214,
+                "text": "albert,original",
+                "isEntity": false
+            },
+            {
+                "start": 216,
+                "end": 226,
+                "text": "chorus line",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 39,
+                    "end": 40
+                },
+                "charFragment": {
+                    "start": 216,
+                    "end": 226
+                },
+                "babelSynsetID": "bn:00018784n",
+                "DBpediaURL": "http://dbpedia.org/resource/Chorus_line",
+                "BabelNetURL": "http://babelnet.org/rdf/s00018784n",
+                "score": 1.0,
+                "coherenceScore": 0.010869565217391304,
+                "globalScore": 2.0283975659229208e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 223,
+                "end": 234,
+                "text": "line,october",
+                "isEntity": false
+            },
+            {
+                "start": 228,
+                "end": 239,
+                "text": "october 2010",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 42,
+                    "end": 43
+                },
+                "charFragment": {
+                    "start": 228,
+                    "end": 239
+                },
+                "babelSynsetID": "bn:00649653n",
+                "DBpediaURL": "http://dbpedia.org/resource/October_2010",
+                "BabelNetURL": "http://babelnet.org/rdf/s00649653n",
+                "score": 1.0,
+                "coherenceScore": 0.010869565217391304,
+                "globalScore": 1.0141987829614604e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 241,
+                "end": 257,
+                "text": "edition,important",
+                "isEntity": false
+            },
+            {
+                "start": 259,
+                "end": 275,
+                "text": "political figures",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 47,
+                    "end": 48
+                },
+                "charFragment": {
+                    "start": 259,
+                    "end": 275
+                },
+                "babelSynsetID": "bn:00063277n",
+                "DBpediaURL": "http://dbpedia.org/resource/Politician",
+                "BabelNetURL": "http://babelnet.org/rdf/s00063277n",
+                "score": 1.0,
+                "coherenceScore": 0.07608695652173914,
+                "globalScore": 0.0004969574036511156,
+                "source": "BABELFY"
+            },
+            {
+                "start": 269,
+                "end": 283,
+                "text": "figures,another",
+                "isEntity": false
+            },
+            {
+                "start": 285,
+                "end": 292,
+                "text": "day,also",
+                "isEntity": false
+            },
+            {
+                "start": 294,
+                "end": 298,
+                "text": "takes",
+                "isEntity": false
+            },
+            {
+                "start": 300,
+                "end": 317,
+                "text": "barbs,subsequently",
+                "isEntity": false
+            },
+            {
+                "start": 319,
+                "end": 320,
+                "text": "``",
+                "isEntity": false
+            },
+            {
+                "start": 322,
+                "end": 331,
+                "text": "broke,song",
+                "isEntity": false
+            },
+            {
+                "start": 333,
+                "end": 334,
+                "text": "``",
+                "isEntity": false
+            },
+            {
+                "start": 336,
+                "end": 347,
+                "text": "yesterday,``",
+                "isEntity": false
+            },
+            {
+                "start": 349,
+                "end": 352,
+                "text": "yoko",
+                "isEntity": false
+            },
+            {
+                "start": 354,
+                "end": 363,
+                "text": "took,lucky",
+                "isEntity": false
+            },
+            {
+                "start": 359,
+                "end": 369,
+                "text": "lucky break",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 69,
+                    "end": 70
+                },
+                "charFragment": {
+                    "start": 359,
+                    "end": 369
+                },
+                "babelSynsetID": "bn:15728413n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lucky_Break_(2001_film)",
+                "BabelNetURL": "http://babelnet.org/rdf/s15728413n",
+                "score": 1.0,
+                "coherenceScore": 0.021739130434782608,
+                "globalScore": 4.0567951318458416e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 365,
+                "end": 379,
+                "text": "break,mccartney",
+                "isEntity": false
+            },
+            {
+                "start": 381,
+                "end": 394,
+                "text": "said,mccartney",
+                "isEntity": false
+            },
+            {
+                "start": 396,
+                "end": 406,
+                "text": "decided,two",
+                "isEntity": false
+            },
+            {
+                "start": 408,
+                "end": 414,
+                "text": "'',yoko",
+                "isEntity": false
+            },
+            {
+                "start": 411,
+                "end": 418,
+                "text": "yoko ono",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 80,
+                    "end": 81
+                },
+                "charFragment": {
+                    "start": 411,
+                    "end": 418
+                },
+                "babelSynsetID": "bn:00059019n",
+                "DBpediaURL": "http://dbpedia.org/resource/Yoko_Ono",
+                "BabelNetURL": "http://babelnet.org/rdf/s00059019n",
+                "score": 0.8363636363636363,
+                "coherenceScore": 0.17391304347826086,
+                "globalScore": 0.007464503042596349,
+                "source": "BABELFY"
+            },
+            {
+                "start": 416,
+                "end": 423,
+                "text": "ono,song",
+                "isEntity": false
+            },
+            {
+                "start": 425,
+                "end": 436,
+                "text": "alludes,mojo",
+                "isEntity": false
+            },
+            {
+                "start": 438,
+                "end": 452,
+                "text": "magazine,lennon",
+                "isEntity": false
+            },
+            {
+                "start": 454,
+                "end": 464,
+                "text": "says,lennon",
+                "isEntity": false
+            },
+            {
+                "start": 466,
+                "end": 479,
+                "text": "retorted,fiery",
+                "isEntity": false
+            },
+            {
+                "start": 481,
+                "end": 499,
+                "text": "condemnation,direct",
+                "isEntity": false
+            },
+            {
+                "start": 494,
+                "end": 509,
+                "text": "direct reference",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 98,
+                    "end": 99
+                },
+                "charFragment": {
+                    "start": 494,
+                    "end": 509
+                },
+                "babelSynsetID": "bn:01511689n",
+                "DBpediaURL": "http://dbpedia.org/resource/Direct_reference_theory",
+                "BabelNetURL": "http://babelnet.org/rdf/s01511689n",
+                "score": 1.0,
+                "coherenceScore": 0.021739130434782608,
+                "globalScore": 8.113590263691683e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 501,
+                "end": 516,
+                "text": "reference,direct",
+                "isEntity": false
+            },
+            {
+                "start": 518,
+                "end": 535,
+                "text": "name,beatles,album",
+                "isEntity": false
+            },
+            {
+                "start": 537,
+                "end": 547,
+                "text": "imagine,''-",
+                "isEntity": false
+            },
+            {
+                "start": 549,
+                "end": 556,
+                "text": "lrb,john",
+                "isEntity": false
+            },
+            {
+                "start": 558,
+                "end": 569,
+                "text": "thought,john",
+                "isEntity": false
+            },
+            {
+                "start": 566,
+                "end": 576,
+                "text": "john lennon",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 115,
+                    "end": 116
+                },
+                "charFragment": {
+                    "start": 566,
+                    "end": 576
+                },
+                "babelSynsetID": "bn:00048320n",
+                "DBpediaURL": "http://dbpedia.org/resource/John_Lennon",
+                "BabelNetURL": "http://babelnet.org/rdf/s00048320n",
+                "score": 0.8246980911569926,
+                "coherenceScore": 0.31521739130434784,
+                "globalScore": 0.021470588235294116,
+                "source": "BABELFY"
+            },
+            {
+                "start": 571,
+                "end": 581,
+                "text": "lennon,john",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 116,
+                    "end": 118
+                },
+                "charFragment": {
+                    "start": 571,
+                    "end": 581
+                },
+                "babelSynsetID": "bn:00048320n",
+                "DBpediaURL": "http://dbpedia.org/resource/John_Lennon",
+                "BabelNetURL": "http://babelnet.org/rdf/s00048320n",
+                "score": 1.0,
+                "coherenceScore": 0.32608695652173914,
+                "globalScore": 0.02281947261663286,
+                "source": "BABELFY"
+            },
+            {
+                "start": 583,
+                "end": 805,
+                "text": ".`,``,'',yoko,yesterday,took,song,broke,john,two,well,used,true,thing,thanks,softened,sleep,since,side,self,rrb,refrain,references,post,paul,meaning,lyrics,lines,jackford,interview,images,gone,going,felt,done,calling,boob,b",
+                "isEntity": false
+            }
+        ]
+    ]
+}

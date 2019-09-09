@@ -1,0 +1,339 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 6,
+                "text": "furtado",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 6
+                },
+                "babelSynsetID": "bn:03565936n",
+                "DBpediaURL": "http://dbpedia.org/resource/Furtado",
+                "BabelNetURL": "http://babelnet.org/rdf/s03565936n",
+                "score": 1.0,
+                "coherenceScore": 0.020833333333333332,
+                "globalScore": 3.9945673883518416e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 8,
+                "end": 11,
+                "text": "told",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 8,
+                    "end": 11
+                },
+                "babelSynsetID": "bn:00093287v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00093287v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 13,
+                "end": 19,
+                "text": "rolling",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 13,
+                    "end": 19
+                },
+                "babelSynsetID": "bn:00093076v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00093076v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 21,
+                "end": 31,
+                "text": "stone,indie",
+                "isEntity": false
+            },
+            {
+                "start": 27,
+                "end": 36,
+                "text": "indie band",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 27,
+                    "end": 36
+                },
+                "babelSynsetID": "bn:13896577n",
+                "DBpediaURL": "http://dbpedia.org/resource/Independent_music",
+                "BabelNetURL": "http://babelnet.org/rdf/s13896577n",
+                "score": 1.0,
+                "coherenceScore": 0.14583333333333334,
+                "globalScore": 0.001957338020292402,
+                "source": "BABELFY"
+            },
+            {
+                "start": 38,
+                "end": 48,
+                "text": "passion pit",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 38,
+                    "end": 48
+                },
+                "babelSynsetID": "bn:01359850n",
+                "DBpediaURL": "http://dbpedia.org/resource/Passion_Pit",
+                "BabelNetURL": "http://babelnet.org/rdf/s01359850n",
+                "score": 1.0,
+                "coherenceScore": 0.16666666666666666,
+                "globalScore": 0.003834784692817768,
+                "source": "BABELFY"
+            },
+            {
+                "start": 46,
+                "end": 56,
+                "text": "pit,working",
+                "isEntity": false
+            },
+            {
+                "start": 58,
+                "end": 60,
+                "text": "one",
+                "isEntity": false
+            },
+            {
+                "start": 62,
+                "end": 64,
+                "text": "day",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 62,
+                    "end": 64
+                },
+                "babelSynsetID": "bn:00000086n",
+                "DBpediaURL": "http://dbpedia.org/resource/Day",
+                "BabelNetURL": "http://babelnet.org/rdf/s00000086n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 66,
+                "end": 76,
+                "text": "writing,met",
+                "isEntity": false
+            },
+            {
+                "start": 78,
+                "end": 80,
+                "text": "one",
+                "isEntity": false
+            },
+            {
+                "start": 82,
+                "end": 91,
+                "text": "day,worked",
+                "isEntity": false
+            },
+            {
+                "start": 93,
+                "end": 100,
+                "text": "together",
+                "isEntity": false
+            },
+            {
+                "start": 102,
+                "end": 114,
+                "text": ".``,songstess",
+                "isEntity": false
+            },
+            {
+                "start": 116,
+                "end": 123,
+                "text": "enthused",
+                "isEntity": false
+            },
+            {
+                "start": 125,
+                "end": 137,
+                "text": ".``,beautiful",
+                "isEntity": false
+            },
+            {
+                "start": 139,
+                "end": 146,
+                "text": "sounding",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 30,
+                    "end": 30
+                },
+                "charFragment": {
+                    "start": 139,
+                    "end": 146
+                },
+                "babelSynsetID": "bn:00094053v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00094053v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 148,
+                "end": 157,
+                "text": "vocals,yes",
+                "isEntity": false
+            },
+            {
+                "start": 159,
+                "end": 159,
+                "text": "!",
+                "isEntity": false
+            },
+            {
+                "start": 161,
+                "end": 161,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 162,
+                "end": 169,
+                "text": "'',whole",
+                "isEntity": false
+            },
+            {
+                "start": 171,
+                "end": 190,
+                "text": "combination,somebody",
+                "isEntity": false
+            },
+            {
+                "start": 192,
+                "end": 211,
+                "text": "suggested,production",
+                "isEntity": false
+            },
+            {
+                "start": 213,
+                "end": 222,
+                "text": "sound,lead",
+                "isEntity": false
+            },
+            {
+                "start": 219,
+                "end": 229,
+                "text": "lead singer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 46,
+                    "end": 47
+                },
+                "charFragment": {
+                    "start": 219,
+                    "end": 229
+                },
+                "babelSynsetID": "bn:03464733n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lead_vocalist",
+                "BabelNetURL": "http://babelnet.org/rdf/s03464733n",
+                "score": 1.0,
+                "coherenceScore": 0.1875,
+                "globalScore": 0.005392665974274986,
+                "source": "BABELFY"
+            },
+            {
+                "start": 224,
+                "end": 233,
+                "text": "singer,got",
+                "isEntity": false
+            },
+            {
+                "start": 235,
+                "end": 244,
+                "text": "hooked,big",
+                "isEntity": false
+            },
+            {
+                "start": 246,
+                "end": 255,
+                "text": "fan,analog",
+                "isEntity": false
+            },
+            {
+                "start": 257,
+                "end": 273,
+                "text": "keyboards,already",
+                "isEntity": false
+            },
+            {
+                "start": 275,
+                "end": 284,
+                "text": "loved,song",
+                "isEntity": false
+            },
+            {
+                "start": 286,
+                "end": 296,
+                "text": "called,mike",
+                "isEntity": false
+            },
+            {
+                "start": 293,
+                "end": 306,
+                "text": "mike angelakos",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 64,
+                    "end": 65
+                },
+                "charFragment": {
+                    "start": 293,
+                    "end": 306
+                },
+                "babelSynsetID": "bn:01359850n",
+                "DBpediaURL": "http://dbpedia.org/resource/Passion_Pit",
+                "BabelNetURL": "http://babelnet.org/rdf/s01359850n",
+                "score": 1.0,
+                "coherenceScore": 0.16666666666666666,
+                "globalScore": 0.003834784692817768,
+                "source": "BABELFY"
+            },
+            {
+                "start": 298,
+                "end": 416,
+                "text": "angelakos,one,working,band,'',song,mike,rsb,produced,oh,lsb,like,l,heavenly,god,friend,featured,favorites,circles,album",
+                "isEntity": false
+            }
+        ]
+    ]
+}

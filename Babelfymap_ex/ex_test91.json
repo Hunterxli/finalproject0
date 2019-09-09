@@ -1,0 +1,192 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "18",
+                "isEntity": false
+            },
+            {
+                "start": 3,
+                "end": 6,
+                "text": "feet",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 3,
+                    "end": 6
+                },
+                "babelSynsetID": "bn:00035679n",
+                "DBpediaURL": "http://dbpedia.org/resource/Pes_(anatomy)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00035679n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "text": ".-",
+                "isEntity": false
+            },
+            {
+                "start": 11,
+                "end": 21,
+                "text": "lrb,escaped",
+                "isEntity": false
+            },
+            {
+                "start": 23,
+                "end": 33,
+                "text": "psychiatric",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 23,
+                    "end": 33
+                },
+                "babelSynsetID": "bn:00109185a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00109185a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 35,
+                "end": 47,
+                "text": "patient,eddie",
+                "isEntity": false
+            },
+            {
+                "start": 43,
+                "end": 57,
+                "text": "eddie van halen",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 43,
+                    "end": 57
+                },
+                "babelSynsetID": "bn:02005762n",
+                "DBpediaURL": "http://dbpedia.org/resource/Eddie_Van_Halen",
+                "BabelNetURL": "http://babelnet.org/rdf/s02005762n",
+                "score": 1.0,
+                "coherenceScore": 0.1,
+                "globalScore": 0.02457002457002457,
+                "source": "BABELFY"
+            },
+            {
+                "start": 53,
+                "end": 68,
+                "text": "halen,adjustable",
+                "isEntity": false
+            },
+            {
+                "start": 70,
+                "end": 76,
+                "text": "ceiling",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 15
+                },
+                "charFragment": {
+                    "start": 70,
+                    "end": 76
+                },
+                "babelSynsetID": "bn:13653461v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s13653461v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 78,
+                "end": 90,
+                "text": "height,police",
+                "isEntity": false
+            },
+            {
+                "start": 85,
+                "end": 95,
+                "text": "police code",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 18,
+                    "end": 19
+                },
+                "charFragment": {
+                    "start": 85,
+                    "end": 95
+                },
+                "babelSynsetID": "bn:03360928n",
+                "DBpediaURL": "http://dbpedia.org/resource/Police_code",
+                "BabelNetURL": "http://babelnet.org/rdf/s03360928n",
+                "score": 1.0,
+                "coherenceScore": 0.15,
+                "globalScore": 0.022113022113022112,
+                "source": "BABELFY"
+            },
+            {
+                "start": 92,
+                "end": 105,
+                "text": "code,mountlake",
+                "isEntity": false
+            },
+            {
+                "start": 97,
+                "end": 113,
+                "text": "mountlake terrace",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 21,
+                    "end": 22
+                },
+                "charFragment": {
+                    "start": 97,
+                    "end": 113
+                },
+                "babelSynsetID": "bn:00586682n",
+                "DBpediaURL": "http://dbpedia.org/resource/Mountlake_Terrace,_Washington",
+                "BabelNetURL": "http://babelnet.org/rdf/s00586682n",
+                "score": 1.0,
+                "coherenceScore": 0.05,
+                "globalScore": 0.002457002457002457,
+                "source": "BABELFY"
+            },
+            {
+                "start": 107,
+                "end": 118,
+                "text": "terrace,long",
+                "isEntity": false
+            },
+            {
+                "start": 120,
+                "end": 128,
+                "text": "room,5150",
+                "isEntity": false
+            },
+            {
+                "start": 130,
+                "end": 207,
+                "text": "studio,studio,5150,wa,u,thanks,rrb,name,mike,forty,foot,built,begins,also,1983",
+                "isEntity": false
+            }
+        ]
+    ]
+}

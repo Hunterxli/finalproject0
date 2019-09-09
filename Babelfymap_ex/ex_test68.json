@@ -1,0 +1,507 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 6,
+                "text": "british",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 6
+                },
+                "babelSynsetID": "bn:00098883a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00098883a",
+                "score": 1.0,
+                "coherenceScore": 0.011904761904761904,
+                "globalScore": 9.671086353130048e-06,
+                "source": "BABELFY"
+            },
+            {
+                "start": 8,
+                "end": 17,
+                "text": "indie rock",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 8,
+                    "end": 17
+                },
+                "babelSynsetID": "bn:00642480n",
+                "DBpediaURL": "http://dbpedia.org/resource/Indie_rock",
+                "BabelNetURL": "http://babelnet.org/rdf/s00642480n",
+                "score": 1.0,
+                "coherenceScore": 0.25,
+                "globalScore": 0.006498970029303392,
+                "source": "BABELFY"
+            },
+            {
+                "start": 14,
+                "end": 22,
+                "text": "rock band",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 14,
+                    "end": 22
+                },
+                "babelSynsetID": "bn:00068051n",
+                "DBpediaURL": "http://dbpedia.org/resource/Musical_ensemble",
+                "BabelNetURL": "http://babelnet.org/rdf/s00068051n",
+                "score": 0.9088859665602104,
+                "coherenceScore": 0.4880952380952381,
+                "globalScore": 0.04678871577644317,
+                "source": "BABELFY"
+            },
+            {
+                "start": 24,
+                "end": 34,
+                "text": "wild beasts",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 24,
+                    "end": 34
+                },
+                "babelSynsetID": "bn:03778843n",
+                "DBpediaURL": "http://dbpedia.org/resource/Wild_Beasts",
+                "BabelNetURL": "http://babelnet.org/rdf/s03778843n",
+                "score": 1.0,
+                "coherenceScore": 0.15476190476190477,
+                "globalScore": 0.0021373100840417405,
+                "source": "BABELFY"
+            },
+            {
+                "start": 29,
+                "end": 42,
+                "text": "beasts,bassist",
+                "isEntity": false
+            },
+            {
+                "start": 44,
+                "end": 54,
+                "text": "tom fleming",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 44,
+                    "end": 54
+                },
+                "babelSynsetID": "bn:00359272n",
+                "DBpediaURL": "http://dbpedia.org/resource/Tom_Fleming_(actor)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00359272n",
+                "score": 1.0,
+                "coherenceScore": 0.011904761904761904,
+                "globalScore": 9.671086353130048e-06,
+                "source": "BABELFY"
+            },
+            {
+                "start": 56,
+                "end": 73,
+                "text": "explained,vocalist",
+                "isEntity": false
+            },
+            {
+                "start": 75,
+                "end": 87,
+                "text": "hayden thorpe",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 75,
+                    "end": 87
+                },
+                "babelSynsetID": "bn:03778843n",
+                "DBpediaURL": "http://dbpedia.org/resource/Wild_Beasts",
+                "BabelNetURL": "http://babelnet.org/rdf/s03778843n",
+                "score": 1.0,
+                "coherenceScore": 0.15476190476190477,
+                "globalScore": 0.0021373100840417405,
+                "source": "BABELFY"
+            },
+            {
+                "start": 82,
+                "end": 94,
+                "text": "thorpe,thorpe",
+                "isEntity": false
+            },
+            {
+                "start": 96,
+                "end": 101,
+                "text": "croons",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 17
+                },
+                "charFragment": {
+                    "start": 96,
+                    "end": 101
+                },
+                "babelSynsetID": "bn:00086057v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00086057v",
+                "score": 1.0,
+                "coherenceScore": 0.09523809523809523,
+                "globalScore": 0.0010057929807255248,
+                "source": "BABELFY"
+            },
+            {
+                "start": 103,
+                "end": 120,
+                "text": "regretfully,really",
+                "isEntity": false
+            },
+            {
+                "start": 122,
+                "end": 126,
+                "text": "early",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 21,
+                    "end": 21
+                },
+                "charFragment": {
+                    "start": 122,
+                    "end": 126
+                },
+                "babelSynsetID": "bn:00101935a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00101935a",
+                "score": 0.8695652173913043,
+                "coherenceScore": 0.047619047619047616,
+                "globalScore": 0.00019342172706260095,
+                "source": "BABELFY"
+            },
+            {
+                "start": 128,
+                "end": 141,
+                "text": "signpost,every",
+                "isEntity": false
+            },
+            {
+                "start": 143,
+                "end": 157,
+                "text": "bass instrument",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 25,
+                    "end": 26
+                },
+                "charFragment": {
+                    "start": 143,
+                    "end": 157
+                },
+                "babelSynsetID": "bn:14498794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Bass_(instrument)",
+                "BabelNetURL": "http://babelnet.org/rdf/s14498794n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 148,
+                "end": 163,
+                "text": "instrument,third",
+                "isEntity": false
+            },
+            {
+                "start": 165,
+                "end": 169,
+                "text": "album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 29,
+                    "end": 29
+                },
+                "charFragment": {
+                    "start": 165,
+                    "end": 169
+                },
+                "babelSynsetID": "bn:00002488n",
+                "DBpediaURL": "http://dbpedia.org/resource/Album",
+                "BabelNetURL": "http://babelnet.org/rdf/s00002488n",
+                "score": 0.8587984141506557,
+                "coherenceScore": 0.38095238095238093,
+                "globalScore": 0.027233779170414214,
+                "source": "BABELFY"
+            },
+            {
+                "start": 171,
+                "end": 183,
+                "text": "smother,guilt",
+                "isEntity": false
+            },
+            {
+                "start": 185,
+                "end": 189,
+                "text": "comes",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 33,
+                    "end": 33
+                },
+                "charFragment": {
+                    "start": 185,
+                    "end": 189
+                },
+                "babelSynsetID": "bn:00085319v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00085319v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 191,
+                "end": 198,
+                "text": "blame,``",
+                "isEntity": false
+            },
+            {
+                "start": 200,
+                "end": 208,
+                "text": "initially",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 37,
+                    "end": 37
+                },
+                "charFragment": {
+                    "start": 200,
+                    "end": 208
+                },
+                "babelSynsetID": "bn:00114055r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00114055r",
+                "score": 1.0,
+                "coherenceScore": 0.011904761904761904,
+                "globalScore": 9.671086353130048e-06,
+                "source": "BABELFY"
+            },
+            {
+                "start": 210,
+                "end": 218,
+                "text": "hayden,''",
+                "isEntity": false
+            },
+            {
+                "start": 220,
+                "end": 226,
+                "text": "another",
+                "isEntity": false
+            },
+            {
+                "start": 228,
+                "end": 241,
+                "text": "song,synthetic",
+                "isEntity": false
+            },
+            {
+                "start": 243,
+                "end": 251,
+                "text": "bass,song",
+                "isEntity": false
+            },
+            {
+                "start": 253,
+                "end": 264,
+                "text": "evolved,song",
+                "isEntity": false
+            },
+            {
+                "start": 266,
+                "end": 277,
+                "text": "alludes,real",
+                "isEntity": false
+            },
+            {
+                "start": 279,
+                "end": 285,
+                "text": "one,pop",
+                "isEntity": false
+            },
+            {
+                "start": 283,
+                "end": 291,
+                "text": "pop music",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 55,
+                    "end": 56
+                },
+                "charFragment": {
+                    "start": 283,
+                    "end": 291
+                },
+                "babelSynsetID": "bn:00063557n",
+                "DBpediaURL": "http://dbpedia.org/resource/Pop_music",
+                "BabelNetURL": "http://babelnet.org/rdf/s00063557n",
+                "score": 0.9590493601462523,
+                "coherenceScore": 0.5119047619047619,
+                "globalScore": 0.050734519008520225,
+                "source": "BABELFY"
+            },
+            {
+                "start": 287,
+                "end": 302,
+                "text": "music,originally",
+                "isEntity": false
+            },
+            {
+                "start": 304,
+                "end": 317,
+                "text": "written,laptop",
+                "isEntity": false
+            },
+            {
+                "start": 319,
+                "end": 329,
+                "text": "piece,first",
+                "isEntity": false
+            },
+            {
+                "start": 331,
+                "end": 343,
+                "text": "single,crappy",
+                "isEntity": false
+            },
+            {
+                "start": 345,
+                "end": 360,
+                "text": "xylophone,course",
+                "isEntity": false
+            },
+            {
+                "start": 362,
+                "end": 372,
+                "text": "aware,could",
+                "isEntity": false
+            },
+            {
+                "start": 374,
+                "end": 385,
+                "text": "find,classic",
+                "isEntity": false
+            },
+            {
+                "start": 387,
+                "end": 397,
+                "text": "symbol,cave",
+                "isEntity": false
+            },
+            {
+                "start": 399,
+                "end": 413,
+                "text": "reverbs,calling",
+                "isEntity": false
+            },
+            {
+                "start": 407,
+                "end": 418,
+                "text": "calling card",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 82,
+                    "end": 83
+                },
+                "charFragment": {
+                    "start": 407,
+                    "end": 418
+                },
+                "babelSynsetID": "bn:00308631n",
+                "DBpediaURL": "http://dbpedia.org/resource/Calling_Card",
+                "BabelNetURL": "http://babelnet.org/rdf/s00308631n",
+                "score": 0.9603174603174603,
+                "coherenceScore": 0.13095238095238096,
+                "globalScore": 0.0011702014487287356,
+                "source": "BABELFY"
+            },
+            {
+                "start": 415,
+                "end": 426,
+                "text": "card,ancient",
+                "isEntity": false
+            },
+            {
+                "start": 420,
+                "end": 434,
+                "text": "ancient mariner",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 85,
+                    "end": 86
+                },
+                "charFragment": {
+                    "start": 420,
+                    "end": 434
+                },
+                "babelSynsetID": "bn:03167239n",
+                "DBpediaURL": "http://dbpedia.org/resource/The_Rime_of_the_Ancient_Mariner",
+                "BabelNetURL": "http://babelnet.org/rdf/s03167239n",
+                "score": 1.0,
+                "coherenceScore": 0.08333333333333333,
+                "globalScore": 0.000609278440247193,
+                "source": "BABELFY"
+            },
+            {
+                "start": 428,
+                "end": 441,
+                "text": "mariner,always",
+                "isEntity": false
+            },
+            {
+                "start": 443,
+                "end": 453,
+                "text": "supposed,''",
+                "isEntity": false
+            },
+            {
+                "start": 455,
+                "end": 474,
+                "text": "lyrically,references",
+                "isEntity": false
+            },
+            {
+                "start": 476,
+                "end": 492,
+                "text": "coleridge,band,``",
+                "isEntity": false
+            },
+            {
+                "start": 494,
+                "end": 502,
+                "text": "rime,1797",
+                "isEntity": false
+            },
+            {
+                "start": 504,
+                "end": 625,
+                "text": "poem,guilt,album,``,'',rime,poem,coleridge,think,sound,shared,self,secrets,rush,going,flagellation,drowned,albatross,added",
+                "isEntity": false
+            }
+        ]
+    ]
+}

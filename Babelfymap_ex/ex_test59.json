@@ -1,0 +1,138 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 3,
+                "text": "eels",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 3
+                },
+                "babelSynsetID": "bn:03542256n",
+                "DBpediaURL": "http://dbpedia.org/resource/Extensible_Embeddable_Language",
+                "BabelNetURL": "http://babelnet.org/rdf/s03542256n",
+                "score": 0.8,
+                "coherenceScore": 0.16,
+                "globalScore": 0.005444028581150051,
+                "source": "BABELFY"
+            },
+            {
+                "start": 5,
+                "end": 11,
+                "text": "mainman",
+                "isEntity": false
+            },
+            {
+                "start": 13,
+                "end": 24,
+                "text": "mark everett",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 13,
+                    "end": 24
+                },
+                "babelSynsetID": "bn:03108793n",
+                "DBpediaURL": "http://dbpedia.org/resource/Manuel_Benitez",
+                "BabelNetURL": "http://babelnet.org/rdf/s03108793n",
+                "score": 1.0,
+                "coherenceScore": 0.04,
+                "globalScore": 0.0003402517863218782,
+                "source": "BABELFY"
+            },
+            {
+                "start": 26,
+                "end": 42,
+                "text": "explained,spinner",
+                "isEntity": false
+            },
+            {
+                "start": 44,
+                "end": 51,
+                "text": ".``,said",
+                "isEntity": false
+            },
+            {
+                "start": 53,
+                "end": 63,
+                "text": ".``,parties",
+                "isEntity": false
+            },
+            {
+                "start": 65,
+                "end": 76,
+                "text": "involved,new",
+                "isEntity": false
+            },
+            {
+                "start": 74,
+                "end": 82,
+                "text": "new world",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 18
+                },
+                "charFragment": {
+                    "start": 74,
+                    "end": 82
+                },
+                "babelSynsetID": "bn:00057503n",
+                "DBpediaURL": "http://dbpedia.org/resource/New_World",
+                "BabelNetURL": "http://babelnet.org/rdf/s00057503n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 78,
+                "end": 85,
+                "text": "world,ca",
+                "isEntity": false
+            },
+            {
+                "start": 87,
+                "end": 94,
+                "text": "n,better",
+                "isEntity": false
+            },
+            {
+                "start": 89,
+                "end": 99,
+                "text": "better life",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 23,
+                    "end": 24
+                },
+                "charFragment": {
+                    "start": 89,
+                    "end": 99
+                },
+                "babelSynsetID": "bn:02590915n",
+                "DBpediaURL": "http://dbpedia.org/resource/Better_Life",
+                "BabelNetURL": "http://babelnet.org/rdf/s02590915n",
+                "score": 1.0,
+                "coherenceScore": 0.08,
+                "globalScore": 0.0013610071452875127,
+                "source": "BABELFY"
+            },
+            {
+                "start": 96,
+                "end": 219,
+                "text": "life,n,better,working,us,song,something,role,rock,needed,name,meaning,making,make,look,lives,getting,change,case,anything,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

@@ -1,0 +1,441 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 7,
+                "text": "recorded",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 7
+                },
+                "babelSynsetID": "bn:00087679v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00087679v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 9,
+                "end": 17,
+                "text": "featuring",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 9,
+                    "end": 17
+                },
+                "babelSynsetID": "bn:00088078v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00088078v",
+                "score": 0.8974358974358975,
+                "coherenceScore": 0.078125,
+                "globalScore": 0.0006507269549696947,
+                "source": "BABELFY"
+            },
+            {
+                "start": 19,
+                "end": 24,
+                "text": "german",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 19,
+                    "end": 24
+                },
+                "babelSynsetID": "bn:00103560a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00103560a",
+                "score": 1.0,
+                "coherenceScore": 0.03125,
+                "globalScore": 0.0001487375897073588,
+                "source": "BABELFY"
+            },
+            {
+                "start": 26,
+                "end": 31,
+                "text": "singer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 26,
+                    "end": 31
+                },
+                "babelSynsetID": "bn:00071734n",
+                "DBpediaURL": "http://dbpedia.org/resource/Singing",
+                "BabelNetURL": "http://babelnet.org/rdf/s00071734n",
+                "score": 0.8238060781476122,
+                "coherenceScore": 0.515625,
+                "globalScore": 0.042334436470456996,
+                "source": "BABELFY"
+            },
+            {
+                "start": 33,
+                "end": 44,
+                "text": "sarah connor",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 33,
+                    "end": 44
+                },
+                "babelSynsetID": "bn:03636040n",
+                "DBpediaURL": "http://dbpedia.org/resource/Sarah_Connor_(singer)",
+                "BabelNetURL": "http://babelnet.org/rdf/s03636040n",
+                "score": 0.8007246376811594,
+                "coherenceScore": 0.203125,
+                "globalScore": 0.004108875915665787,
+                "source": "BABELFY"
+            },
+            {
+                "start": 46,
+                "end": 58,
+                "text": "rather,french",
+                "isEntity": false
+            },
+            {
+                "start": 60,
+                "end": 66,
+                "text": "tv show",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 60,
+                    "end": 66
+                },
+                "babelSynsetID": "bn:00076429n",
+                "DBpediaURL": "http://dbpedia.org/resource/Television_program",
+                "BabelNetURL": "http://babelnet.org/rdf/s00076429n",
+                "score": 0.9629629629629629,
+                "coherenceScore": 0.203125,
+                "globalScore": 0.0043505744989402444,
+                "source": "BABELFY"
+            },
+            {
+                "start": 68,
+                "end": 71,
+                "text": "star",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 68,
+                    "end": 71
+                },
+                "babelSynsetID": "bn:00073964n",
+                "DBpediaURL": "http://dbpedia.org/resource/Star",
+                "BabelNetURL": "http://babelnet.org/rdf/s00073964n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 73,
+                "end": 82,
+                "text": "academy,''",
+                "isEntity": false
+            },
+            {
+                "start": 84,
+                "end": 85,
+                "text": "``",
+                "isEntity": false
+            },
+            {
+                "start": 87,
+                "end": 96,
+                "text": "poker face",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 87,
+                    "end": 96
+                },
+                "babelSynsetID": "bn:01192494n",
+                "DBpediaURL": "http://dbpedia.org/resource/Poker_Face_(Lady_Gaga_song)",
+                "BabelNetURL": "http://babelnet.org/rdf/s01192494n",
+                "score": 0.881159420289855,
+                "coherenceScore": 0.25,
+                "globalScore": 0.005652028408879634,
+                "source": "BABELFY"
+            },
+            {
+                "start": 98,
+                "end": 108,
+                "text": "'',european",
+                "isEntity": false
+            },
+            {
+                "start": 101,
+                "end": 118,
+                "text": "european countries",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 18,
+                    "end": 19
+                },
+                "charFragment": {
+                    "start": 101,
+                    "end": 118
+                },
+                "babelSynsetID": "bn:00031903n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00031903n",
+                "score": 1.0,
+                "coherenceScore": 0.0625,
+                "globalScore": 0.0005205815639757557,
+                "source": "BABELFY"
+            },
+            {
+                "start": 120,
+                "end": 128,
+                "text": "including",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 20,
+                    "end": 20
+                },
+                "charFragment": {
+                    "start": 120,
+                    "end": 128
+                },
+                "babelSynsetID": "bn:00089660v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00089660v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 130,
+                "end": 139,
+                "text": "germany,''",
+                "isEntity": false
+            },
+            {
+                "start": 141,
+                "end": 147,
+                "text": "another",
+                "isEntity": false
+            },
+            {
+                "start": 149,
+                "end": 162,
+                "text": "version,french",
+                "isEntity": false
+            },
+            {
+                "start": 157,
+                "end": 176,
+                "text": "french singles chart",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 26,
+                    "end": 28
+                },
+                "charFragment": {
+                    "start": 157,
+                    "end": 176
+                },
+                "babelSynsetID": "bn:03218406n",
+                "DBpediaURL": "http://dbpedia.org/resource/Syndicat_National_de_l'\u00c9dition_Phonographique",
+                "BabelNetURL": "http://babelnet.org/rdf/s03218406n",
+                "score": 1.0,
+                "coherenceScore": 0.140625,
+                "globalScore": 0.0016732978842077864,
+                "source": "BABELFY"
+            },
+            {
+                "start": 172,
+                "end": 178,
+                "text": "chart,b",
+                "isEntity": false
+            },
+            {
+                "start": 180,
+                "end": 185,
+                "text": "singer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 31,
+                    "end": 31
+                },
+                "charFragment": {
+                    "start": 180,
+                    "end": 185
+                },
+                "babelSynsetID": "bn:00071734n",
+                "DBpediaURL": "http://dbpedia.org/resource/Singing",
+                "BabelNetURL": "http://babelnet.org/rdf/s00071734n",
+                "score": 0.8238060781476122,
+                "coherenceScore": 0.515625,
+                "globalScore": 0.042334436470456996,
+                "source": "BABELFY"
+            },
+            {
+                "start": 187,
+                "end": 202,
+                "text": "ciara,songwriter",
+                "isEntity": false
+            },
+            {
+                "start": 204,
+                "end": 210,
+                "text": "frankie",
+                "isEntity": false
+            },
+            {
+                "start": 212,
+                "end": 223,
+                "text": "storm,upbeat",
+                "isEntity": false
+            },
+            {
+                "start": 225,
+                "end": 229,
+                "text": "dance",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 39,
+                    "end": 39
+                },
+                "charFragment": {
+                    "start": 225,
+                    "end": 229
+                },
+                "babelSynsetID": "bn:00025144n",
+                "DBpediaURL": "http://dbpedia.org/resource/Dance",
+                "BabelNetURL": "http://babelnet.org/rdf/s00025144n",
+                "score": 0.71998371998372,
+                "coherenceScore": 0.453125,
+                "globalScore": 0.03288959952403971,
+                "source": "BABELFY"
+            },
+            {
+                "start": 231,
+                "end": 238,
+                "text": "track,``",
+                "isEntity": false
+            },
+            {
+                "start": 240,
+                "end": 247,
+                "text": "love,top",
+                "isEntity": false
+            },
+            {
+                "start": 249,
+                "end": 261,
+                "text": "3,promotional",
+                "isEntity": false
+            },
+            {
+                "start": 251,
+                "end": 271,
+                "text": "promotional materials",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 48,
+                    "end": 49
+                },
+                "charFragment": {
+                    "start": 251,
+                    "end": 271
+                },
+                "babelSynsetID": "bn:00060113n",
+                "DBpediaURL": "http://dbpedia.org/resource/Promotion_(marketing)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00060113n",
+                "score": 1.0,
+                "coherenceScore": 0.109375,
+                "globalScore": 0.0010411631279515115,
+                "source": "BABELFY"
+            },
+            {
+                "start": 263,
+                "end": 283,
+                "text": "materials,performance",
+                "isEntity": false
+            },
+            {
+                "start": 285,
+                "end": 298,
+                "text": "propelled,lady",
+                "isEntity": false
+            },
+            {
+                "start": 295,
+                "end": 303,
+                "text": "lady gaga",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 54,
+                    "end": 55
+                },
+                "charFragment": {
+                    "start": 295,
+                    "end": 303
+                },
+                "babelSynsetID": "bn:01018189n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lady_Gaga",
+                "BabelNetURL": "http://babelnet.org/rdf/s01018189n",
+                "score": 1.0,
+                "coherenceScore": 0.46875,
+                "globalScore": 0.03290819172275313,
+                "source": "BABELFY"
+            },
+            {
+                "start": 300,
+                "end": 308,
+                "text": "gaga,best",
+                "isEntity": false
+            },
+            {
+                "start": 310,
+                "end": 319,
+                "text": "known,also",
+                "isEntity": false
+            },
+            {
+                "start": 321,
+                "end": 331,
+                "text": "co,iglesias",
+                "isEntity": false
+            },
+            {
+                "start": 333,
+                "end": 499,
+                "text": "debuted,``,dance,ciara,iglesias,wrote,work,song,rrb,released,redone,r,produced,poland,performed,one,lrb,loss,inspired,gaultier,duet,contestants,collaboration,according",
+                "isEntity": false
+            }
+        ]
+    ]
+}

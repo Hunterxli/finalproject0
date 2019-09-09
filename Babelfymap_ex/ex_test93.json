@@ -1,0 +1,294 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 10,
+                "text": "songwriting",
+                "isEntity": false
+            },
+            {
+                "start": 12,
+                "end": 18,
+                "text": "partner",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 12,
+                    "end": 18
+                },
+                "babelSynsetID": "bn:00010161n",
+                "DBpediaURL": "http://dbpedia.org/resource/Spouse",
+                "BabelNetURL": "http://babelnet.org/rdf/s00010161n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 20,
+                "end": 37,
+                "text": "louis biancaniello",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 20,
+                    "end": 37
+                },
+                "babelSynsetID": "bn:01716979n",
+                "DBpediaURL": "http://dbpedia.org/resource/Louis_Biancaniello",
+                "BabelNetURL": "http://babelnet.org/rdf/s01716979n",
+                "score": 1.0,
+                "coherenceScore": 0.1702127659574468,
+                "globalScore": 0.006405124099279423,
+                "source": "BABELFY"
+            },
+            {
+                "start": 26,
+                "end": 45,
+                "text": "biancaniello,credits",
+                "isEntity": false
+            },
+            {
+                "start": 47,
+                "end": 53,
+                "text": "include",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 47,
+                    "end": 53
+                },
+                "babelSynsetID": "bn:00089660v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00089660v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 55,
+                "end": 56,
+                "text": "``",
+                "isEntity": false
+            },
+            {
+                "start": 58,
+                "end": 68,
+                "text": "forever,bbc",
+                "isEntity": false
+            },
+            {
+                "start": 70,
+                "end": 74,
+                "text": "asked",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 70,
+                    "end": 74
+                },
+                "babelSynsetID": "bn:00082817v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00082817v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 76,
+                "end": 84,
+                "text": "cole,ever",
+                "isEntity": false
+            },
+            {
+                "start": 86,
+                "end": 91,
+                "text": "wanted",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 15
+                },
+                "charFragment": {
+                    "start": 86,
+                    "end": 91
+                },
+                "babelSynsetID": "bn:00086682v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00086682v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 93,
+                "end": 97,
+                "text": "'',''",
+                "isEntity": false
+            },
+            {
+                "start": 99,
+                "end": 102,
+                "text": "cole",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 17
+                },
+                "charFragment": {
+                    "start": 99,
+                    "end": 102
+                },
+                "babelSynsetID": "bn:03204553n",
+                "DBpediaURL": "http://dbpedia.org/resource/Cole_(name)",
+                "BabelNetURL": "http://babelnet.org/rdf/s03204553n",
+                "score": 0.75,
+                "coherenceScore": 0.06382978723404255,
+                "globalScore": 0.0008006405124099279,
+                "source": "BABELFY"
+            },
+            {
+                "start": 104,
+                "end": 116,
+                "text": "recorded,last",
+                "isEntity": false
+            },
+            {
+                "start": 113,
+                "end": 122,
+                "text": "last songs",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 20,
+                    "end": 21
+                },
+                "charFragment": {
+                    "start": 113,
+                    "end": 122
+                },
+                "babelSynsetID": "bn:03234236n",
+                "DBpediaURL": "http://dbpedia.org/resource/Edward_Bear",
+                "BabelNetURL": "http://babelnet.org/rdf/s03234236n",
+                "score": 0.7241379310344828,
+                "coherenceScore": 0.1276595744680851,
+                "globalScore": 0.0037363223912463303,
+                "source": "BABELFY"
+            },
+            {
+                "start": 124,
+                "end": 131,
+                "text": "done,sam",
+                "isEntity": false
+            },
+            {
+                "start": 129,
+                "end": 139,
+                "text": "sam watters",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 24,
+                    "end": 25
+                },
+                "charFragment": {
+                    "start": 129,
+                    "end": 139
+                },
+                "babelSynsetID": "bn:01716987n",
+                "DBpediaURL": "http://dbpedia.org/resource/Sam_Watters",
+                "BabelNetURL": "http://babelnet.org/rdf/s01716987n",
+                "score": 1.0,
+                "coherenceScore": 0.1276595744680851,
+                "globalScore": 0.004270082732852949,
+                "source": "BABELFY"
+            },
+            {
+                "start": 133,
+                "end": 143,
+                "text": "watters,los",
+                "isEntity": false
+            },
+            {
+                "start": 141,
+                "end": 151,
+                "text": "los angeles",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 27,
+                    "end": 28
+                },
+                "charFragment": {
+                    "start": 141,
+                    "end": 151
+                },
+                "babelSynsetID": "bn:00019336n",
+                "DBpediaURL": "http://dbpedia.org/resource/Los_Angeles",
+                "BabelNetURL": "http://babelnet.org/rdf/s00019336n",
+                "score": 0.9469387755102041,
+                "coherenceScore": 0.6170212765957447,
+                "globalScore": 0.12383239925273552,
+                "source": "BABELFY"
+            },
+            {
+                "start": 145,
+                "end": 157,
+                "text": "angeles,kelly",
+                "isEntity": false
+            },
+            {
+                "start": 153,
+                "end": 166,
+                "text": "kelly clarkson",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 30,
+                    "end": 31
+                },
+                "charFragment": {
+                    "start": 153,
+                    "end": 166
+                },
+                "babelSynsetID": "bn:03150304n",
+                "DBpediaURL": "http://dbpedia.org/resource/Kelly_Clarkson",
+                "BabelNetURL": "http://babelnet.org/rdf/s03150304n",
+                "score": 1.0,
+                "coherenceScore": 0.3191489361702128,
+                "globalScore": 0.02268481451828129,
+                "source": "BABELFY"
+            },
+            {
+                "start": 159,
+                "end": 170,
+                "text": "clarkson,bit",
+                "isEntity": false
+            },
+            {
+                "start": 172,
+                "end": 187,
+                "text": "bittersweet,band",
+                "isEntity": false
+            },
+            {
+                "start": 189,
+                "end": 375,
+                "text": "color,partner,``,'',songs,written,think,things,tears,song,saturdays,rrb,replied,relate,reflects,one,lyric,lrb,life,hiding,hear,general,formerly,element,duo,chosen,badd,autobiography,album",
+                "isEntity": false
+            }
+        ]
+    ]
+}

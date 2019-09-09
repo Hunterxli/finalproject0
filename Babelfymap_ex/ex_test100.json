@@ -1,0 +1,90 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 5,
+                "text": "prison",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 5
+                },
+                "babelSynsetID": "bn:00064468n",
+                "DBpediaURL": "http://dbpedia.org/resource/Prison",
+                "BabelNetURL": "http://babelnet.org/rdf/s00064468n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "text": ".-",
+                "isEntity": false
+            },
+            {
+                "start": 10,
+                "end": 19,
+                "text": "lrb,trophy",
+                "isEntity": false
+            },
+            {
+                "start": 14,
+                "end": 24,
+                "text": "trophy wife",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 14,
+                    "end": 24
+                },
+                "babelSynsetID": "bn:00078406n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00078406n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 21,
+                "end": 33,
+                "text": "wife,prestige",
+                "isEntity": false
+            },
+            {
+                "start": 35,
+                "end": 48,
+                "text": "inherent,fence",
+                "isEntity": false
+            },
+            {
+                "start": 50,
+                "end": 63,
+                "text": "around,certain",
+                "isEntity": false
+            },
+            {
+                "start": 65,
+                "end": 85,
+                "text": "melancholy,apparently",
+                "isEntity": false
+            },
+            {
+                "start": 87,
+                "end": 253,
+                "text": "married,prison,world,woman,well,thanks,song,set,rrb,remain,rather,protect,privilege,peter,ny,newark,much,may,marriage,mansion,man,lose,least,hill,given,chooses,believe",
+                "isEntity": false
+            }
+        ]
+    ]
+}

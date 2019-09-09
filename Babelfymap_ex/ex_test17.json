@@ -1,0 +1,363 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 5,
+                "text": "mentor",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 5
+                },
+                "babelSynsetID": "bn:00054392n",
+                "DBpediaURL": "http://dbpedia.org/resource/Idealist_temperament",
+                "BabelNetURL": "http://babelnet.org/rdf/s00054392n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 7,
+                "end": 17,
+                "text": "mark ronson",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 7,
+                    "end": 17
+                },
+                "babelSynsetID": "bn:02248809n",
+                "DBpediaURL": "http://dbpedia.org/resource/Mark_Ronson",
+                "BabelNetURL": "http://babelnet.org/rdf/s02248809n",
+                "score": 1.0,
+                "coherenceScore": 0.0625,
+                "globalScore": 0.0011504997483281802,
+                "source": "BABELFY"
+            },
+            {
+                "start": 19,
+                "end": 22,
+                "text": "told",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 19,
+                    "end": 22
+                },
+                "babelSynsetID": "bn:00093287v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00093287v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 24,
+                "end": 36,
+                "text": "rolling stone",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 24,
+                    "end": 36
+                },
+                "babelSynsetID": "bn:01891254n",
+                "DBpediaURL": "http://dbpedia.org/resource/Rolling_Stone",
+                "BabelNetURL": "http://babelnet.org/rdf/s01891254n",
+                "score": 0.782608695652174,
+                "coherenceScore": 0.140625,
+                "globalScore": 0.006471561084346013,
+                "source": "BABELFY"
+            },
+            {
+                "start": 32,
+                "end": 42,
+                "text": "stone,daily",
+                "isEntity": false
+            },
+            {
+                "start": 44,
+                "end": 49,
+                "text": "mirror",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 44,
+                    "end": 49
+                },
+                "babelSynsetID": "bn:00055261n",
+                "DBpediaURL": "http://dbpedia.org/resource/Mirror",
+                "BabelNetURL": "http://babelnet.org/rdf/s00055261n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 51,
+                "end": 59,
+                "text": "august 21",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 51,
+                    "end": 59
+                },
+                "babelSynsetID": "bn:00714208n",
+                "DBpediaURL": "http://dbpedia.org/resource/August_21",
+                "BabelNetURL": "http://babelnet.org/rdf/s00714208n",
+                "score": 1.0,
+                "coherenceScore": 0.03125,
+                "globalScore": 0.0005752498741640901,
+                "source": "BABELFY"
+            },
+            {
+                "start": 58,
+                "end": 67,
+                "text": "21,marilyn",
+                "isEntity": false
+            },
+            {
+                "start": 61,
+                "end": 74,
+                "text": "marilyn manson",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 61,
+                    "end": 74
+                },
+                "babelSynsetID": "bn:03495707n",
+                "DBpediaURL": "http://dbpedia.org/resource/Marilyn_Manson",
+                "BabelNetURL": "http://babelnet.org/rdf/s03495707n",
+                "score": 0.972972972972973,
+                "coherenceScore": 0.1875,
+                "globalScore": 0.010354497734953621,
+                "source": "BABELFY"
+            },
+            {
+                "start": 76,
+                "end": 86,
+                "text": "sense,heavy",
+                "isEntity": false
+            },
+            {
+                "start": 88,
+                "end": 94,
+                "text": "alcohol",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 17
+                },
+                "charFragment": {
+                    "start": 88,
+                    "end": 94
+                },
+                "babelSynsetID": "bn:00002519n",
+                "DBpediaURL": "http://dbpedia.org/resource/Alcoholic_beverage",
+                "BabelNetURL": "http://babelnet.org/rdf/s00002519n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 96,
+                "end": 104,
+                "text": "intake,''",
+                "isEntity": false
+            },
+            {
+                "start": 106,
+                "end": 117,
+                "text": "merriweather",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 20,
+                    "end": 20
+                },
+                "charFragment": {
+                    "start": 106,
+                    "end": 117
+                },
+                "babelSynsetID": "bn:02006499n",
+                "DBpediaURL": "http://dbpedia.org/resource/Merriweather",
+                "BabelNetURL": "http://babelnet.org/rdf/s02006499n",
+                "score": 1.0,
+                "coherenceScore": 0.0625,
+                "globalScore": 0.0011504997483281802,
+                "source": "BABELFY"
+            },
+            {
+                "start": 119,
+                "end": 127,
+                "text": "told,tour",
+                "isEntity": false
+            },
+            {
+                "start": 129,
+                "end": 133,
+                "text": "never",
+                "isEntity": false
+            },
+            {
+                "start": 135,
+                "end": 148,
+                "text": "happened,lyric",
+                "isEntity": false
+            },
+            {
+                "start": 150,
+                "end": 151,
+                "text": "``",
+                "isEntity": false
+            },
+            {
+                "start": 153,
+                "end": 170,
+                "text": "givin,merriweather",
+                "isEntity": false
+            },
+            {
+                "start": 172,
+                "end": 185,
+                "text": "explained,like",
+                "isEntity": false
+            },
+            {
+                "start": 187,
+                "end": 198,
+                "text": "givin,little",
+                "isEntity": false
+            },
+            {
+                "start": 193,
+                "end": 202,
+                "text": "little bit",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 37,
+                    "end": 38
+                },
+                "charFragment": {
+                    "start": 193,
+                    "end": 202
+                },
+                "babelSynsetID": "bn:02379839n",
+                "DBpediaURL": "http://dbpedia.org/resource/Little_Bit",
+                "BabelNetURL": "http://babelnet.org/rdf/s02379839n",
+                "score": 1.0,
+                "coherenceScore": 0.09375,
+                "globalScore": 0.0025886244337384053,
+                "source": "BABELFY"
+            },
+            {
+                "start": 200,
+                "end": 207,
+                "text": "bit,hold",
+                "isEntity": false
+            },
+            {
+                "start": 209,
+                "end": 219,
+                "text": "things,four",
+                "isEntity": false
+            },
+            {
+                "start": 221,
+                "end": 231,
+                "text": "songs,crack",
+                "isEntity": false
+            },
+            {
+                "start": 233,
+                "end": 242,
+                "text": "open,chain",
+                "isEntity": false
+            },
+            {
+                "start": 238,
+                "end": 246,
+                "text": "chain saw",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 49,
+                    "end": 50
+                },
+                "charFragment": {
+                    "start": 238,
+                    "end": 246
+                },
+                "babelSynsetID": "bn:00017507n",
+                "DBpediaURL": "http://dbpedia.org/resource/Chainsaw",
+                "BabelNetURL": "http://babelnet.org/rdf/s00017507n",
+                "score": 1.0,
+                "coherenceScore": 0.015625,
+                "globalScore": 7.190623427051126e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 244,
+                "end": 250,
+                "text": "saw,bit",
+                "isEntity": false
+            },
+            {
+                "start": 252,
+                "end": 259,
+                "text": "weird,85",
+                "isEntity": false
+            },
+            {
+                "start": 261,
+                "end": 268,
+                "text": "shows,''",
+                "isEntity": false
+            },
+            {
+                "start": 270,
+                "end": 282,
+                "text": "producer,song",
+                "isEntity": false
+            },
+            {
+                "start": 284,
+                "end": 296,
+                "text": "features,song",
+                "isEntity": false
+            },
+            {
+                "start": 298,
+                "end": 511,
+                "text": "``,ronson,happened,``,'',song,we7,stage,songwriting,sings,seven,revue,recalled,phrase,night,much,morning,mind,lyrics,keeping,jameson,got,drinking,disturbed,different,come,coined,check,calmed,bottle,bad,amazing,2009",
+                "isEntity": false
+            }
+        ]
+    ]
+}

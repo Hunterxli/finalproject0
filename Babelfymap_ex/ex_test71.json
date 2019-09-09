@@ -1,0 +1,78 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 3,
+                "text": "hurt",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 3
+                },
+                "babelSynsetID": "bn:00043011n",
+                "DBpediaURL": "http://dbpedia.org/resource/Harm",
+                "BabelNetURL": "http://babelnet.org/rdf/s00043011n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": ".-",
+                "isEntity": false
+            },
+            {
+                "start": 8,
+                "end": 16,
+                "text": "lrb,santa",
+                "isEntity": false
+            },
+            {
+                "start": 12,
+                "end": 24,
+                "text": "santa barbara",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 12,
+                    "end": 24
+                },
+                "babelSynsetID": "bn:00200256n",
+                "DBpediaURL": "http://dbpedia.org/resource/Santa_Barbara,_California",
+                "BabelNetURL": "http://babelnet.org/rdf/s00200256n",
+                "score": 0.8,
+                "coherenceScore": 0.25,
+                "globalScore": 0.02564102564102564,
+                "source": "BABELFY"
+            },
+            {
+                "start": 18,
+                "end": 33,
+                "text": "barbara,romantic",
+                "isEntity": false
+            },
+            {
+                "start": 35,
+                "end": 47,
+                "text": "confusion,key",
+                "isEntity": false
+            },
+            {
+                "start": 49,
+                "end": 89,
+                "text": "song,thanks,rrb,mike,low,haunting,fear,ca",
+                "isEntity": false
+            }
+        ]
+    ]
+}

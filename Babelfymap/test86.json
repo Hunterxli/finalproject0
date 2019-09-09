@@ -1,0 +1,503 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 3,
+                "text": "This",
+                "isEntity": false
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "is",
+                "isEntity": false
+            },
+            {
+                "start": 8,
+                "end": 8,
+                "text": "a",
+                "isEntity": false
+            },
+            {
+                "start": 10,
+                "end": 14,
+                "text": "track",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 10,
+                    "end": 14
+                },
+                "babelSynsetID": "bn:00077838n",
+                "DBpediaURL": "http://dbpedia.org/resource/Track_(rail_transport)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00077838n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 16,
+                "end": 19,
+                "text": "from",
+                "isEntity": false
+            },
+            {
+                "start": 21,
+                "end": 27,
+                "text": "British",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 21,
+                    "end": 27
+                },
+                "babelSynsetID": "bn:00013176n",
+                "DBpediaURL": "http://dbpedia.org/resource/British_people",
+                "BabelNetURL": "http://babelnet.org/rdf/s00013176n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 29,
+                "end": 34,
+                "text": "rapper",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 29,
+                    "end": 34
+                },
+                "babelSynsetID": "bn:00066191n",
+                "DBpediaURL": "http://dbpedia.org/resource/Rapping",
+                "BabelNetURL": "http://babelnet.org/rdf/s00066191n",
+                "score": 0.9745222929936306,
+                "coherenceScore": 0.8181818181818182,
+                "globalScore": 0.19367088607594937,
+                "source": "BABELFY"
+            },
+            {
+                "start": 36,
+                "end": 49,
+                "text": "Speech Debelle",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 36,
+                    "end": 49
+                },
+                "babelSynsetID": "bn:01658179n",
+                "DBpediaURL": "http://dbpedia.org/resource/Speech_Debelle",
+                "BabelNetURL": "http://babelnet.org/rdf/s01658179n",
+                "score": 1.0,
+                "coherenceScore": 0.36363636363636365,
+                "globalScore": 0.030379746835443037,
+                "source": "BABELFY"
+            },
+            {
+                "start": 51,
+                "end": 52,
+                "text": "'s",
+                "isEntity": false
+            },
+            {
+                "start": 54,
+                "end": 66,
+                "text": "Mercury Prize",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 54,
+                    "end": 66
+                },
+                "babelSynsetID": "bn:00616421n",
+                "DBpediaURL": "http://dbpedia.org/resource/Mercury_Prize",
+                "BabelNetURL": "http://babelnet.org/rdf/s00616421n",
+                "score": 1.0,
+                "coherenceScore": 0.5454545454545454,
+                "globalScore": 0.06835443037974684,
+                "source": "BABELFY"
+            },
+            {
+                "start": 68,
+                "end": 74,
+                "text": "winning",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 68,
+                    "end": 74
+                },
+                "babelSynsetID": "bn:00095777v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00095777v",
+                "score": 1.0,
+                "coherenceScore": 0.09090909090909091,
+                "globalScore": 0.0012658227848101266,
+                "source": "BABELFY"
+            },
+            {
+                "start": 76,
+                "end": 80,
+                "text": "album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 76,
+                    "end": 80
+                },
+                "babelSynsetID": "bn:00002488n",
+                "DBpediaURL": "http://dbpedia.org/resource/Album",
+                "BabelNetURL": "http://babelnet.org/rdf/s00002488n",
+                "score": 1.0,
+                "coherenceScore": 0.6363636363636364,
+                "globalScore": 0.14177215189873418,
+                "source": "BABELFY"
+            },
+            {
+                "start": 82,
+                "end": 81,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 83,
+                "end": 83,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 84,
+                "end": 97,
+                "text": "Speech Therapy",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 84,
+                    "end": 97
+                },
+                "babelSynsetID": "bn:00073255n",
+                "DBpediaURL": "http://dbpedia.org/resource/Speech-language_pathology",
+                "BabelNetURL": "http://babelnet.org/rdf/s00073255n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 99,
+                "end": 99,
+                "text": ".",
+                "isEntity": false
+            }
+        ],
+        [
+            {
+                "start": 0,
+                "end": 6,
+                "text": "Debelle",
+                "isEntity": false
+            },
+            {
+                "start": 8,
+                "end": 16,
+                "text": "explained",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 8,
+                    "end": 16
+                },
+                "babelSynsetID": "bn:00087869v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00087869v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 18,
+                "end": 19,
+                "text": "to",
+                "isEntity": false
+            },
+            {
+                "start": 21,
+                "end": 23,
+                "text": "The",
+                "isEntity": false
+            },
+            {
+                "start": 25,
+                "end": 27,
+                "text": "Sun",
+                "isEntity": false
+            },
+            {
+                "start": 29,
+                "end": 39,
+                "text": "September 4",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 29,
+                    "end": 39
+                },
+                "babelSynsetID": "bn:02138068n",
+                "DBpediaURL": "http://dbpedia.org/resource/September_4",
+                "BabelNetURL": "http://babelnet.org/rdf/s02138068n",
+                "score": 1.0,
+                "coherenceScore": 0.3333333333333333,
+                "globalScore": 0.030612244897959183,
+                "source": "BABELFY"
+            },
+            {
+                "start": 41,
+                "end": 40,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 42,
+                "end": 42,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 43,
+                "end": 46,
+                "text": "2009",
+                "isEntity": false
+            },
+            {
+                "start": 48,
+                "end": 51,
+                "text": "that",
+                "isEntity": false
+            },
+            {
+                "start": 53,
+                "end": 56,
+                "text": "this",
+                "isEntity": false
+            },
+            {
+                "start": 58,
+                "end": 61,
+                "text": "song",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 58,
+                    "end": 61
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 0.9629629629629629,
+                "coherenceScore": 0.6666666666666666,
+                "globalScore": 0.11370262390670553,
+                "source": "BABELFY"
+            },
+            {
+                "start": 63,
+                "end": 64,
+                "text": "is",
+                "isEntity": false
+            },
+            {
+                "start": 66,
+                "end": 65,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 67,
+                "end": 67,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 68,
+                "end": 69,
+                "text": "``",
+                "isEntity": false
+            },
+            {
+                "start": 71,
+                "end": 75,
+                "text": "about",
+                "isEntity": false
+            },
+            {
+                "start": 77,
+                "end": 79,
+                "text": "the",
+                "isEntity": false
+            },
+            {
+                "start": 81,
+                "end": 84,
+                "text": "hell",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 17
+                },
+                "charFragment": {
+                    "start": 81,
+                    "end": 84
+                },
+                "babelSynsetID": "bn:00043603n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00043603n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 86,
+                "end": 87,
+                "text": "of",
+                "isEntity": false
+            },
+            {
+                "start": 89,
+                "end": 104,
+                "text": "London transport",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 19,
+                    "end": 20
+                },
+                "charFragment": {
+                    "start": 89,
+                    "end": 104
+                },
+                "babelSynsetID": "bn:01782951n",
+                "DBpediaURL": "http://dbpedia.org/resource/London_Transport_(brand)",
+                "BabelNetURL": "http://babelnet.org/rdf/s01782951n",
+                "score": 1.0,
+                "coherenceScore": 0.1111111111111111,
+                "globalScore": 0.0014577259475218659,
+                "source": "BABELFY"
+            },
+            {
+                "start": 106,
+                "end": 107,
+                "text": "in",
+                "isEntity": false
+            },
+            {
+                "start": 109,
+                "end": 111,
+                "text": "the",
+                "isEntity": false
+            },
+            {
+                "start": 113,
+                "end": 120,
+                "text": "mornings",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 23,
+                    "end": 23
+                },
+                "charFragment": {
+                    "start": 113,
+                    "end": 120
+                },
+                "babelSynsetID": "bn:00035851n",
+                "DBpediaURL": "http://dbpedia.org/resource/Morning",
+                "BabelNetURL": "http://babelnet.org/rdf/s00035851n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 122,
+                "end": 124,
+                "text": "...",
+                "isEntity": false
+            },
+            {
+                "start": 126,
+                "end": 128,
+                "text": "and",
+                "isEntity": false
+            },
+            {
+                "start": 130,
+                "end": 135,
+                "text": "bosses",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 26,
+                    "end": 26
+                },
+                "charFragment": {
+                    "start": 130,
+                    "end": 135
+                },
+                "babelSynsetID": "bn:00012293n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00012293n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 137,
+                "end": 137,
+                "text": ".",
+                "isEntity": false
+            },
+            {
+                "start": 139,
+                "end": 140,
+                "text": "''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

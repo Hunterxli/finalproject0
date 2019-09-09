@@ -1,0 +1,450 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 8,
+                "text": "trademark",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 8
+                },
+                "babelSynsetID": "bn:00029406n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00029406n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 10,
+                "end": 13,
+                "text": "thin",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 10,
+                    "end": 13
+                },
+                "babelSynsetID": "bn:00111845a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00111845a",
+                "score": 1.0,
+                "coherenceScore": 0.0196078431372549,
+                "globalScore": 2.46834349468072e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 15,
+                "end": 19,
+                "text": "lizzy",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 15,
+                    "end": 19
+                },
+                "babelSynsetID": "bn:15048764n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lizzie",
+                "BabelNetURL": "http://babelnet.org/rdf/s15048764n",
+                "score": 0.9,
+                "coherenceScore": 0.058823529411764705,
+                "globalScore": 0.00022215091452126477,
+                "source": "BABELFY"
+            },
+            {
+                "start": 21,
+                "end": 24,
+                "text": "duel",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 21,
+                    "end": 24
+                },
+                "babelSynsetID": "bn:00001737n",
+                "DBpediaURL": "http://dbpedia.org/resource/Duel",
+                "BabelNetURL": "http://babelnet.org/rdf/s00001737n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 26,
+                "end": 31,
+                "text": "lead,9",
+                "isEntity": false
+            },
+            {
+                "start": 33,
+                "end": 36,
+                "text": "good",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 33,
+                    "end": 36
+                },
+                "babelSynsetID": "bn:00103672a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00103672a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "text": "tracks",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 38,
+                    "end": 43
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 0.8758344459279038,
+                "coherenceScore": 0.6274509803921569,
+                "globalScore": 0.06476933330042209,
+                "source": "BABELFY"
+            },
+            {
+                "start": 45,
+                "end": 46,
+                "text": ".-",
+                "isEntity": false
+            },
+            {
+                "start": 48,
+                "end": 56,
+                "text": "lrb,music",
+                "isEntity": false
+            },
+            {
+                "start": 58,
+                "end": 63,
+                "text": "pundit",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 58,
+                    "end": 63
+                },
+                "babelSynsetID": "bn:00046782n",
+                "DBpediaURL": "http://dbpedia.org/resource/Pundit",
+                "BabelNetURL": "http://babelnet.org/rdf/s00046782n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 65,
+                "end": 68,
+                "text": "greg",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 65,
+                    "end": 68
+                },
+                "babelSynsetID": "bn:02902768n",
+                "DBpediaURL": "http://dbpedia.org/resource/Greg_(comics)",
+                "BabelNetURL": "http://babelnet.org/rdf/s02902768n",
+                "score": 1.0,
+                "coherenceScore": 0.0196078431372549,
+                "globalScore": 2.46834349468072e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 70,
+                "end": 76,
+                "text": "prato,5",
+                "isEntity": false
+            },
+            {
+                "start": 78,
+                "end": 84,
+                "text": "minutes",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 17
+                },
+                "charFragment": {
+                    "start": 78,
+                    "end": 84
+                },
+                "babelSynsetID": "bn:00158751n",
+                "DBpediaURL": "http://dbpedia.org/resource/Minutes_(album)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00158751n",
+                "score": 0.7707006369426752,
+                "coherenceScore": 0.21568627450980393,
+                "globalScore": 0.002986695628563671,
+                "source": "BABELFY"
+            },
+            {
+                "start": 86,
+                "end": 87,
+                "text": "11",
+                "isEntity": false
+            },
+            {
+                "start": 89,
+                "end": 101,
+                "text": "seconds,great",
+                "isEntity": false
+            },
+            {
+                "start": 103,
+                "end": 112,
+                "text": "lead vocal",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 22,
+                    "end": 23
+                },
+                "charFragment": {
+                    "start": 103,
+                    "end": 112
+                },
+                "babelSynsetID": "bn:03464733n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lead_vocalist",
+                "BabelNetURL": "http://babelnet.org/rdf/s03464733n",
+                "score": 1.0,
+                "coherenceScore": 0.2549019607843137,
+                "globalScore": 0.004813269814627404,
+                "source": "BABELFY"
+            },
+            {
+                "start": 108,
+                "end": 120,
+                "text": "vocal,melodic",
+                "isEntity": false
+            },
+            {
+                "start": 114,
+                "end": 125,
+                "text": "melodic rock",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 25,
+                    "end": 26
+                },
+                "charFragment": {
+                    "start": 114,
+                    "end": 125
+                },
+                "babelSynsetID": "bn:00789289n",
+                "DBpediaURL": "http://dbpedia.org/resource/Pop_rock",
+                "BabelNetURL": "http://babelnet.org/rdf/s00789289n",
+                "score": 1.0,
+                "coherenceScore": 0.19607843137254902,
+                "globalScore": 0.0032088465430849355,
+                "source": "BABELFY"
+            },
+            {
+                "start": 127,
+                "end": 137,
+                "text": "comes,first",
+                "isEntity": false
+            },
+            {
+                "start": 139,
+                "end": 141,
+                "text": "bad",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 30,
+                    "end": 30
+                },
+                "charFragment": {
+                    "start": 139,
+                    "end": 141
+                },
+                "babelSynsetID": "bn:00097966a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00097966a",
+                "score": 0.8275862068965517,
+                "coherenceScore": 0.11764705882352941,
+                "globalScore": 0.002369609754893491,
+                "source": "BABELFY"
+            },
+            {
+                "start": 143,
+                "end": 158,
+                "text": "album,altogether",
+                "isEntity": false
+            },
+            {
+                "start": 160,
+                "end": 165,
+                "text": "simply",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 34,
+                    "end": 34
+                },
+                "charFragment": {
+                    "start": 160,
+                    "end": 165
+                },
+                "babelSynsetID": "bn:00114626r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00114626r",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 167,
+                "end": 176,
+                "text": "great,phil",
+                "isEntity": false
+            },
+            {
+                "start": 173,
+                "end": 183,
+                "text": "phil lynott",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 37,
+                    "end": 38
+                },
+                "charFragment": {
+                    "start": 173,
+                    "end": 183
+                },
+                "babelSynsetID": "bn:02361766n",
+                "DBpediaURL": "http://dbpedia.org/resource/Phil_Lynott",
+                "BabelNetURL": "http://babelnet.org/rdf/s02361766n",
+                "score": 0.8063241106719368,
+                "coherenceScore": 0.23529411764705882,
+                "globalScore": 0.005035420729148668,
+                "source": "BABELFY"
+            },
+            {
+                "start": 185,
+                "end": 200,
+                "text": "composition,1980",
+                "isEntity": false
+            },
+            {
+                "start": 202,
+                "end": 210,
+                "text": "chinatown",
+                "isEntity": false
+            },
+            {
+                "start": 212,
+                "end": 222,
+                "text": "album,great",
+                "isEntity": false
+            },
+            {
+                "start": 224,
+                "end": 234,
+                "text": "riffs,great",
+                "isEntity": false
+            },
+            {
+                "start": 236,
+                "end": 252,
+                "text": "harmonies,opening",
+                "isEntity": false
+            },
+            {
+                "start": 246,
+                "end": 258,
+                "text": "opening track",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 50,
+                    "end": 51
+                },
+                "charFragment": {
+                    "start": 246,
+                    "end": 258
+                },
+                "babelSynsetID": "bn:00002488n",
+                "DBpediaURL": "http://dbpedia.org/resource/Album",
+                "BabelNetURL": "http://babelnet.org/rdf/s00002488n",
+                "score": 1.0,
+                "coherenceScore": 0.49019607843137253,
+                "globalScore": 0.04257892528324242,
+                "source": "BABELFY"
+            },
+            {
+                "start": 254,
+                "end": 266,
+                "text": "track,history",
+                "isEntity": false
+            },
+            {
+                "start": 268,
+                "end": 281,
+                "text": "made,alexander",
+                "isEntity": false
+            },
+            {
+                "start": 273,
+                "end": 287,
+                "text": "alexander baron",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 56,
+                    "end": 57
+                },
+                "charFragment": {
+                    "start": 273,
+                    "end": 287
+                },
+                "babelSynsetID": "bn:01176219n",
+                "DBpediaURL": "http://dbpedia.org/resource/Alexander_Baron",
+                "BabelNetURL": "http://babelnet.org/rdf/s01176219n",
+                "score": 1.0,
+                "coherenceScore": 0.0392156862745098,
+                "globalScore": 9.87337397872288e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 283,
+                "end": 381,
+                "text": "baron,good,phil,chinatown,voice,thanks,running,rrb,overdubs,making,london,letdown,england,described",
+                "isEntity": false
+            }
+        ]
+    ]
+}

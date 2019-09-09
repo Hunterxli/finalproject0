@@ -1,0 +1,1059 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 9,
+                "text": "songwriter",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 9
+                },
+                "babelSynsetID": "bn:00008155n",
+                "DBpediaURL": "http://dbpedia.org/resource/Songster",
+                "BabelNetURL": "http://babelnet.org/rdf/s00008155n",
+                "score": 0.8822916666666667,
+                "coherenceScore": 0.21153846153846154,
+                "globalScore": 0.004429082390344914,
+                "source": "BABELFY"
+            },
+            {
+                "start": 11,
+                "end": 20,
+                "text": "lola blanc",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 11,
+                    "end": 20
+                },
+                "babelSynsetID": "bn:01751724n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lola_Blanc",
+                "BabelNetURL": "http://babelnet.org/rdf/s01751724n",
+                "score": 1.0,
+                "coherenceScore": 0.14423076923076922,
+                "globalScore": 0.00141186805831538,
+                "source": "BABELFY"
+            },
+            {
+                "start": 22,
+                "end": 25,
+                "text": "told",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 22,
+                    "end": 25
+                },
+                "babelSynsetID": "bn:00093287v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00093287v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 27,
+                "end": 43,
+                "text": "idolator,secretly",
+                "isEntity": false
+            },
+            {
+                "start": 45,
+                "end": 52,
+                "text": "recorded",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 45,
+                    "end": 52
+                },
+                "babelSynsetID": "bn:00087679v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00087679v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 54,
+                "end": 70,
+                "text": "background vocals",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 54,
+                    "end": 70
+                },
+                "babelSynsetID": "bn:00149396n",
+                "DBpediaURL": "http://dbpedia.org/resource/Backing_vocalist",
+                "BabelNetURL": "http://babelnet.org/rdf/s00149396n",
+                "score": 1.0,
+                "coherenceScore": 0.16346153846153846,
+                "globalScore": 0.0019112510196824866,
+                "source": "BABELFY"
+            },
+            {
+                "start": 65,
+                "end": 76,
+                "text": "vocals,femme",
+                "isEntity": false
+            },
+            {
+                "start": 72,
+                "end": 83,
+                "text": "femme fatale",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 72,
+                    "end": 83
+                },
+                "babelSynsetID": "bn:00026049n",
+                "DBpediaURL": "http://dbpedia.org/resource/Femme_fatale",
+                "BabelNetURL": "http://babelnet.org/rdf/s00026049n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 85,
+                "end": 97,
+                "text": "collaborators",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 85,
+                    "end": 97
+                },
+                "babelSynsetID": "bn:00020591n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00020591n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 99,
+                "end": 108,
+                "text": "dr,biggest",
+                "isEntity": false
+            },
+            {
+                "start": 110,
+                "end": 115,
+                "text": "smurfs",
+                "isEntity": false
+            },
+            {
+                "start": 117,
+                "end": 120,
+                "text": "fans",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 18,
+                    "end": 18
+                },
+                "charFragment": {
+                    "start": 117,
+                    "end": 120
+                },
+                "babelSynsetID": "bn:00033599n",
+                "DBpediaURL": "http://dbpedia.org/resource/Mechanical_fan",
+                "BabelNetURL": "http://babelnet.org/rdf/s00033599n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 122,
+                "end": 128,
+                "text": "ever,''",
+                "isEntity": false
+            },
+            {
+                "start": 130,
+                "end": 134,
+                "text": "mckee",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 21,
+                    "end": 21
+                },
+                "charFragment": {
+                    "start": 130,
+                    "end": 134
+                },
+                "babelSynsetID": "bn:14879142n",
+                "DBpediaURL": "http://dbpedia.org/resource/McKee",
+                "BabelNetURL": "http://babelnet.org/rdf/s14879142n",
+                "score": 0.7352941176470589,
+                "coherenceScore": 0.02403846153846154,
+                "globalScore": 3.268213097952268e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 136,
+                "end": 140,
+                "text": "added",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 22,
+                    "end": 22
+                },
+                "charFragment": {
+                    "start": 136,
+                    "end": 140
+                },
+                "babelSynsetID": "bn:00082318v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00082318v",
+                "score": 0.7828947368421053,
+                "coherenceScore": 0.03365384615384615,
+                "globalScore": 0.00015556694346252799,
+                "source": "BABELFY"
+            },
+            {
+                "start": 142,
+                "end": 152,
+                "text": ".``,britney",
+                "isEntity": false
+            },
+            {
+                "start": 154,
+                "end": 157,
+                "text": "told",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 27,
+                    "end": 27
+                },
+                "charFragment": {
+                    "start": 154,
+                    "end": 157
+                },
+                "babelSynsetID": "bn:00093287v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00093287v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 159,
+                "end": 171,
+                "text": "ryan seacrest",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 28,
+                    "end": 29
+                },
+                "charFragment": {
+                    "start": 159,
+                    "end": 171
+                },
+                "babelSynsetID": "bn:03817103n",
+                "DBpediaURL": "http://dbpedia.org/resource/Ryan_Seacrest",
+                "BabelNetURL": "http://babelnet.org/rdf/s03817103n",
+                "score": 1.0,
+                "coherenceScore": 0.125,
+                "globalScore": 0.000917714237904997,
+                "source": "BABELFY"
+            },
+            {
+                "start": 164,
+                "end": 175,
+                "text": "seacrest,ooh",
+                "isEntity": false
+            },
+            {
+                "start": 177,
+                "end": 178,
+                "text": "la",
+                "isEntity": false
+            },
+            {
+                "start": 180,
+                "end": 190,
+                "text": "la,hitmaker",
+                "isEntity": false
+            },
+            {
+                "start": 192,
+                "end": 203,
+                "text": "bonnie mckee",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 36,
+                    "end": 37
+                },
+                "charFragment": {
+                    "start": 192,
+                    "end": 203
+                },
+                "babelSynsetID": "bn:00342774n",
+                "DBpediaURL": "http://dbpedia.org/resource/Bonnie_McKee",
+                "BabelNetURL": "http://babelnet.org/rdf/s00342774n",
+                "score": 1.0,
+                "coherenceScore": 0.1201923076923077,
+                "globalScore": 0.0009150996674266352,
+                "source": "BABELFY"
+            },
+            {
+                "start": 199,
+                "end": 208,
+                "text": "mckee,find",
+                "isEntity": false
+            },
+            {
+                "start": 210,
+                "end": 225,
+                "text": "double entendres",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 40,
+                    "end": 41
+                },
+                "charFragment": {
+                    "start": 210,
+                    "end": 225
+                },
+                "babelSynsetID": "bn:00028383n",
+                "DBpediaURL": "http://dbpedia.org/resource/Double_entendre",
+                "BabelNetURL": "http://babelnet.org/rdf/s00028383n",
+                "score": 1.0,
+                "coherenceScore": 0.08173076923076923,
+                "globalScore": 0.00037780543412328224,
+                "source": "BABELFY"
+            },
+            {
+                "start": 217,
+                "end": 227,
+                "text": "entendres,6",
+                "isEntity": false
+            },
+            {
+                "start": 229,
+                "end": 233,
+                "text": "years",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 43,
+                    "end": 43
+                },
+                "charFragment": {
+                    "start": 229,
+                    "end": 233
+                },
+                "babelSynsetID": "bn:00081857n",
+                "DBpediaURL": "http://dbpedia.org/resource/Year",
+                "BabelNetURL": "http://babelnet.org/rdf/s00081857n",
+                "score": 0.7307447485677913,
+                "coherenceScore": 0.1346153846153846,
+                "globalScore": 0.0015007634545796816,
+                "source": "BABELFY"
+            },
+            {
+                "start": 235,
+                "end": 241,
+                "text": "old,mtv",
+                "isEntity": false
+            },
+            {
+                "start": 243,
+                "end": 246,
+                "text": "news",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 47,
+                    "end": 47
+                },
+                "charFragment": {
+                    "start": 243,
+                    "end": 246
+                },
+                "babelSynsetID": "bn:00057546n",
+                "DBpediaURL": "http://dbpedia.org/resource/News",
+                "BabelNetURL": "http://babelnet.org/rdf/s00057546n",
+                "score": 0.7457627118644068,
+                "coherenceScore": 0.11538461538461539,
+                "globalScore": 0.0010353699094312787,
+                "source": "BABELFY"
+            },
+            {
+                "start": 248,
+                "end": 257,
+                "text": ".``,people",
+                "isEntity": false
+            },
+            {
+                "start": 259,
+                "end": 263,
+                "text": "would",
+                "isEntity": false
+            },
+            {
+                "start": 265,
+                "end": 278,
+                "text": "buy,originally",
+                "isEntity": false
+            },
+            {
+                "start": 280,
+                "end": 285,
+                "text": "pretty",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 56,
+                    "end": 56
+                },
+                "charFragment": {
+                    "start": 280,
+                    "end": 285
+                },
+                "babelSynsetID": "bn:00115313r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00115313r",
+                "score": 1.0,
+                "coherenceScore": 0.009615384615384616,
+                "globalScore": 5.229140956723629e-06,
+                "source": "BABELFY"
+            },
+            {
+                "start": 287,
+                "end": 293,
+                "text": "sexy,''",
+                "isEntity": false
+            },
+            {
+                "start": 295,
+                "end": 300,
+                "text": "bonnie",
+                "isEntity": false
+            },
+            {
+                "start": 302,
+                "end": 312,
+                "text": "mckee,radio",
+                "isEntity": false
+            },
+            {
+                "start": 308,
+                "end": 317,
+                "text": "radio show",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 62,
+                    "end": 63
+                },
+                "charFragment": {
+                    "start": 308,
+                    "end": 317
+                },
+                "babelSynsetID": "bn:14764640n",
+                "DBpediaURL": "http://dbpedia.org/resource/Radio_program",
+                "BabelNetURL": "http://babelnet.org/rdf/s14764640n",
+                "score": 1.0,
+                "coherenceScore": 0.09615384615384616,
+                "globalScore": 0.000888953962643017,
+                "source": "BABELFY"
+            },
+            {
+                "start": 319,
+                "end": 327,
+                "text": ".``,radio",
+                "isEntity": false
+            },
+            {
+                "start": 323,
+                "end": 337,
+                "text": "radio presenter",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 67,
+                    "end": 68
+                },
+                "charFragment": {
+                    "start": 323,
+                    "end": 337
+                },
+                "babelSynsetID": "bn:00064217n",
+                "DBpediaURL": "http://dbpedia.org/resource/Presenter",
+                "BabelNetURL": "http://babelnet.org/rdf/s00064217n",
+                "score": 0.9050632911392406,
+                "coherenceScore": 0.125,
+                "globalScore": 0.0011216507352172186,
+                "source": "BABELFY"
+            },
+            {
+                "start": 339,
+                "end": 348,
+                "text": ".``,family",
+                "isEntity": false
+            },
+            {
+                "start": 343,
+                "end": 357,
+                "text": "family friendly",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 72,
+                    "end": 73
+                },
+                "charFragment": {
+                    "start": 343,
+                    "end": 357
+                },
+                "babelSynsetID": "bn:14432271n",
+                "DBpediaURL": "http://dbpedia.org/resource/Family-friendly",
+                "BabelNetURL": "http://babelnet.org/rdf/s14432271n",
+                "score": 1.0,
+                "coherenceScore": 0.038461538461538464,
+                "globalScore": 8.366625530757807e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 359,
+                "end": 365,
+                "text": ".``,cue",
+                "isEntity": false
+            },
+            {
+                "start": 367,
+                "end": 371,
+                "text": "every",
+                "isEntity": false
+            },
+            {
+                "start": 373,
+                "end": 381,
+                "text": "time,katy",
+                "isEntity": false
+            },
+            {
+                "start": 378,
+                "end": 387,
+                "text": "katy perry",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 81,
+                    "end": 82
+                },
+                "charFragment": {
+                    "start": 378,
+                    "end": 387
+                },
+                "babelSynsetID": "bn:00888759n",
+                "DBpediaURL": "http://dbpedia.org/resource/Katy_Perry",
+                "BabelNetURL": "http://babelnet.org/rdf/s00888759n",
+                "score": 0.9362406845155948,
+                "coherenceScore": 0.3076923076923077,
+                "globalScore": 0.008868623062603276,
+                "source": "BABELFY"
+            },
+            {
+                "start": 389,
+                "end": 402,
+                "text": "returns,smurfs",
+                "isEntity": false
+            },
+            {
+                "start": 397,
+                "end": 404,
+                "text": "smurfs 2",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 85,
+                    "end": 86
+                },
+                "charFragment": {
+                    "start": 397,
+                    "end": 404
+                },
+                "babelSynsetID": "bn:02906807n",
+                "DBpediaURL": "http://dbpedia.org/resource/The_Smurfs_2",
+                "BabelNetURL": "http://babelnet.org/rdf/s02906807n",
+                "score": 1.0,
+                "coherenceScore": 0.125,
+                "globalScore": 0.0015295237298416616,
+                "source": "BABELFY"
+            },
+            {
+                "start": 406,
+                "end": 415,
+                "text": "movie,said",
+                "isEntity": false
+            },
+            {
+                "start": 417,
+                "end": 419,
+                "text": ".``",
+                "isEntity": false
+            },
+            {
+                "start": 421,
+                "end": 429,
+                "text": "like,lola",
+                "isEntity": false
+            },
+            {
+                "start": 426,
+                "end": 435,
+                "text": "lola blanc",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 94,
+                    "end": 95
+                },
+                "charFragment": {
+                    "start": 426,
+                    "end": 435
+                },
+                "babelSynsetID": "bn:01751724n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lola_Blanc",
+                "BabelNetURL": "http://babelnet.org/rdf/s01751724n",
+                "score": 1.0,
+                "coherenceScore": 0.14423076923076922,
+                "globalScore": 0.00141186805831538,
+                "source": "BABELFY"
+            },
+            {
+                "start": 431,
+                "end": 443,
+                "text": "blanc,britney",
+                "isEntity": false
+            },
+            {
+                "start": 437,
+                "end": 450,
+                "text": "britney spears",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 97,
+                    "end": 98
+                },
+                "charFragment": {
+                    "start": 437,
+                    "end": 450
+                },
+                "babelSynsetID": "bn:02742549n",
+                "DBpediaURL": "http://dbpedia.org/resource/Britney_Spears",
+                "BabelNetURL": "http://babelnet.org/rdf/s02742549n",
+                "score": 1.0,
+                "coherenceScore": 0.3798076923076923,
+                "globalScore": 0.017040463092723127,
+                "source": "BABELFY"
+            },
+            {
+                "start": 452,
+                "end": 460,
+                "text": "song,ryan",
+                "isEntity": false
+            },
+            {
+                "start": 457,
+                "end": 469,
+                "text": "ryan seacrest",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 101,
+                    "end": 102
+                },
+                "charFragment": {
+                    "start": 457,
+                    "end": 469
+                },
+                "babelSynsetID": "bn:03817103n",
+                "DBpediaURL": "http://dbpedia.org/resource/Ryan_Seacrest",
+                "BabelNetURL": "http://babelnet.org/rdf/s03817103n",
+                "score": 1.0,
+                "coherenceScore": 0.125,
+                "globalScore": 0.000917714237904997,
+                "source": "BABELFY"
+            },
+            {
+                "start": 462,
+                "end": 472,
+                "text": "seacrest,''",
+                "isEntity": false
+            },
+            {
+                "start": 474,
+                "end": 483,
+                "text": "mckee,said",
+                "isEntity": false
+            },
+            {
+                "start": 485,
+                "end": 490,
+                "text": ".``,''",
+                "isEntity": false
+            },
+            {
+                "start": 492,
+                "end": 503,
+                "text": "britney,tune",
+                "isEntity": false
+            },
+            {
+                "start": 505,
+                "end": 512,
+                "text": ".``,pros",
+                "isEntity": false
+            },
+            {
+                "start": 514,
+                "end": 523,
+                "text": ".``,smurfs",
+                "isEntity": false
+            },
+            {
+                "start": 525,
+                "end": 538,
+                "text": "friendly,would",
+                "isEntity": false
+            },
+            {
+                "start": 540,
+                "end": 554,
+                "text": "tell,originally",
+                "isEntity": false
+            },
+            {
+                "start": 556,
+                "end": 565,
+                "text": "wrote,katy",
+                "isEntity": false
+            },
+            {
+                "start": 562,
+                "end": 571,
+                "text": "katy perry",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 129,
+                    "end": 130
+                },
+                "charFragment": {
+                    "start": 562,
+                    "end": 571
+                },
+                "babelSynsetID": "bn:00888759n",
+                "DBpediaURL": "http://dbpedia.org/resource/Katy_Perry",
+                "BabelNetURL": "http://babelnet.org/rdf/s00888759n",
+                "score": 0.9362406845155948,
+                "coherenceScore": 0.3076923076923077,
+                "globalScore": 0.008868623062603276,
+                "source": "BABELFY"
+            },
+            {
+                "start": 567,
+                "end": 578,
+                "text": "perry,smurfs",
+                "isEntity": false
+            },
+            {
+                "start": 580,
+                "end": 592,
+                "text": "movie,britney",
+                "isEntity": false
+            },
+            {
+                "start": 594,
+                "end": 606,
+                "text": "explained,two",
+                "isEntity": false
+            },
+            {
+                "start": 608,
+                "end": 615,
+                "text": "sons,two",
+                "isEntity": false
+            },
+            {
+                "start": 617,
+                "end": 629,
+                "text": "children,star",
+                "isEntity": false
+            },
+            {
+                "start": 631,
+                "end": 641,
+                "text": "search,song",
+                "isEntity": false
+            },
+            {
+                "start": 643,
+                "end": 655,
+                "text": "plays,showbiz",
+                "isEntity": false
+            },
+            {
+                "start": 657,
+                "end": 668,
+                "text": "debut,really",
+                "isEntity": false
+            },
+            {
+                "start": 670,
+                "end": 679,
+                "text": "good,parts",
+                "isEntity": false
+            },
+            {
+                "start": 681,
+                "end": 697,
+                "text": "separately,oldest",
+                "isEntity": false
+            },
+            {
+                "start": 699,
+                "end": 707,
+                "text": "son,music",
+                "isEntity": false
+            },
+            {
+                "start": 703,
+                "end": 713,
+                "text": "music video",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 162,
+                    "end": 163
+                },
+                "charFragment": {
+                    "start": 703,
+                    "end": 713
+                },
+                "babelSynsetID": "bn:03793240n",
+                "DBpediaURL": "http://dbpedia.org/resource/Music_video",
+                "BabelNetURL": "http://babelnet.org/rdf/s03793240n",
+                "score": 1.0,
+                "coherenceScore": 0.27884615384615385,
+                "globalScore": 0.010539333598276475,
+                "source": "BABELFY"
+            },
+            {
+                "start": 709,
+                "end": 719,
+                "text": "video,music",
+                "isEntity": false
+            },
+            {
+                "start": 721,
+                "end": 733,
+                "text": "superstar,los",
+                "isEntity": false
+            },
+            {
+                "start": 731,
+                "end": 741,
+                "text": "los angeles",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 168,
+                    "end": 169
+                },
+                "charFragment": {
+                    "start": 731,
+                    "end": 741
+                },
+                "babelSynsetID": "bn:00019336n",
+                "DBpediaURL": "http://dbpedia.org/resource/Los_Angeles",
+                "BabelNetURL": "http://babelnet.org/rdf/s00019336n",
+                "score": 0.9833280043849633,
+                "coherenceScore": 0.5,
+                "globalScore": 0.028143236629086573,
+                "source": "BABELFY"
+            },
+            {
+                "start": 735,
+                "end": 743,
+                "text": "angeles,j",
+                "isEntity": false
+            },
+            {
+                "start": 745,
+                "end": 752,
+                "text": "kash,guy",
+                "isEntity": false
+            },
+            {
+                "start": 754,
+                "end": 764,
+                "text": "makes,great",
+                "isEntity": false
+            },
+            {
+                "start": 766,
+                "end": 778,
+                "text": "song,frequent",
+                "isEntity": false
+            },
+            {
+                "start": 780,
+                "end": 801,
+                "text": "collaborator,fransisca",
+                "isEntity": false
+            },
+            {
+                "start": 803,
+                "end": 811,
+                "text": "hall,fran",
+                "isEntity": false
+            },
+            {
+                "start": 813,
+                "end": 820,
+                "text": "hall,end",
+                "isEntity": false
+            },
+            {
+                "start": 818,
+                "end": 828,
+                "text": "end credits",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 189,
+                    "end": 190
+                },
+                "charFragment": {
+                    "start": 818,
+                    "end": 828
+                },
+                "babelSynsetID": "bn:03273100n",
+                "DBpediaURL": "http://dbpedia.org/resource/Closing_credits",
+                "BabelNetURL": "http://babelnet.org/rdf/s03273100n",
+                "score": 0.8120300751879699,
+                "coherenceScore": 0.04326923076923077,
+                "globalScore": 0.00014118680583153799,
+                "source": "BABELFY"
+            },
+            {
+                "start": 822,
+                "end": 832,
+                "text": "credits,eat",
+                "isEntity": false
+            },
+            {
+                "start": 834,
+                "end": 851,
+                "text": "chocolate,drenched",
+                "isEntity": false
+            },
+            {
+                "start": 853,
+                "end": 863,
+                "text": "song,doctor",
+                "isEntity": false
+            },
+            {
+                "start": 865,
+                "end": 874,
+                "text": "behind,cgi",
+                "isEntity": false
+            },
+            {
+                "start": 876,
+                "end": 887,
+                "text": "sequel,based",
+                "isEntity": false
+            },
+            {
+                "start": 889,
+                "end": 901,
+                "text": "singer,always",
+                "isEntity": false
+            },
+            {
+                "start": 903,
+                "end": 915,
+                "text": "loved,already",
+                "isEntity": false
+            },
+            {
+                "start": 917,
+                "end": 927,
+                "text": "written,kid",
+                "isEntity": false
+            },
+            {
+                "start": 929,
+                "end": 945,
+                "text": "friendly,actually",
+                "isEntity": false
+            },
+            {
+                "start": 947,
+                "end": 960,
+                "text": "really,younger",
+                "isEntity": false
+            },
+            {
+                "start": 962,
+                "end": 969,
+                "text": "age,made",
+                "isEntity": false
+            },
+            {
+                "start": 971,
+                "end": 981,
+                "text": "cameos,luke",
+                "isEntity": false
+            },
+            {
+                "start": 983,
+                "end": 995,
+                "text": "heard,feeling",
+                "isEntity": false
+            },
+            {
+                "start": 997,
+                "end": 1003,
+                "text": "good,``",
+                "isEntity": false
+            },
+            {
+                "start": 1005,
+                "end": 1022,
+                "text": "hold,told,actually",
+                "isEntity": false
+            },
+            {
+                "start": 1024,
+                "end": 1558,
+                "text": "came,dr,smurfs,britney,'',radio,time,spears,song,movie,like,katy,actually,made,luke,kid,feeling,came,age,``,work,wanted,want,voice,tweak,trick,title,thinking,think,task,take,surprise,still,sort,something,smurftastic,smurfette,smurf,sex,set,see,sean,rrb,role,right,repeat,record,recalled,put,produced,preston,play,penned,parents,ok,name,n,mom,mind,meet,meaning,make,lyrics,lrb,lot,later,laid,know,kind,kids,jayden,got,giddy,fun,filming,contribution,contribute,cirkut,camera,boys,begin,ammo,along,agreed,adorable,acting,7,10,....,--,''``",
+                "isEntity": false
+            }
+        ]
+    ]
+}

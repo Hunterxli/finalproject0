@@ -1,0 +1,297 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 4,
+                "text": "sound",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 4
+                },
+                "babelSynsetID": "bn:00110939a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00110939a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 6,
+                "end": 13,
+                "text": "anything",
+                "isEntity": false
+            },
+            {
+                "start": 15,
+                "end": 18,
+                "text": "like",
+                "isEntity": false
+            },
+            {
+                "start": 20,
+                "end": 30,
+                "text": "nico,velvet",
+                "isEntity": false
+            },
+            {
+                "start": 25,
+                "end": 42,
+                "text": "velvet underground",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 25,
+                    "end": 42
+                },
+                "babelSynsetID": "bn:01244350n",
+                "DBpediaURL": "http://dbpedia.org/resource/The_Velvet_Underground",
+                "BabelNetURL": "http://babelnet.org/rdf/s01244350n",
+                "score": 0.8925619834710744,
+                "coherenceScore": 0.3,
+                "globalScore": 0.0436046511627907,
+                "source": "BABELFY"
+            },
+            {
+                "start": 44,
+                "end": 58,
+                "text": "periods,records",
+                "isEntity": false
+            },
+            {
+                "start": 60,
+                "end": 63,
+                "text": "like",
+                "isEntity": false
+            },
+            {
+                "start": 65,
+                "end": 80,
+                "text": "desertshore,neko",
+                "isEntity": false
+            },
+            {
+                "start": 77,
+                "end": 85,
+                "text": "neko case",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 77,
+                    "end": 85
+                },
+                "babelSynsetID": "bn:02414127n",
+                "DBpediaURL": "http://dbpedia.org/resource/Neko_Case",
+                "BabelNetURL": "http://babelnet.org/rdf/s02414127n",
+                "score": 1.0,
+                "coherenceScore": 0.11666666666666667,
+                "globalScore": 0.00395671834625323,
+                "source": "BABELFY"
+            },
+            {
+                "start": 87,
+                "end": 106,
+                "text": "explained,incredible",
+                "isEntity": false
+            },
+            {
+                "start": 108,
+                "end": 110,
+                "text": "low",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 18,
+                    "end": 18
+                },
+                "charFragment": {
+                    "start": 108,
+                    "end": 110
+                },
+                "babelSynsetID": "bn:00106205a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00106205a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 112,
+                "end": 121,
+                "text": "range,1970",
+                "isEntity": false
+            },
+            {
+                "start": 123,
+                "end": 127,
+                "text": "album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 21,
+                    "end": 21
+                },
+                "charFragment": {
+                    "start": 123,
+                    "end": 127
+                },
+                "babelSynsetID": "bn:00002488n",
+                "DBpediaURL": "http://dbpedia.org/resource/Album",
+                "BabelNetURL": "http://babelnet.org/rdf/s00002488n",
+                "score": 0.9803921568627451,
+                "coherenceScore": 0.4166666666666667,
+                "globalScore": 0.12516149870801033,
+                "source": "BABELFY"
+            },
+            {
+                "start": 129,
+                "end": 148,
+                "text": "desertshore,american",
+                "isEntity": false
+            },
+            {
+                "start": 141,
+                "end": 159,
+                "text": "american songwriter",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 24,
+                    "end": 25
+                },
+                "charFragment": {
+                    "start": 141,
+                    "end": 159
+                },
+                "babelSynsetID": "bn:01821940n",
+                "DBpediaURL": "http://dbpedia.org/resource/American_Songwriter",
+                "BabelNetURL": "http://babelnet.org/rdf/s01821940n",
+                "score": 1.0,
+                "coherenceScore": 0.06666666666666667,
+                "globalScore": 0.0012919896640826874,
+                "source": "BABELFY"
+            },
+            {
+                "start": 161,
+                "end": 179,
+                "text": "magazine,comforting",
+                "isEntity": false
+            },
+            {
+                "start": 181,
+                "end": 184,
+                "text": "even",
+                "isEntity": false
+            },
+            {
+                "start": 186,
+                "end": 202,
+                "text": "though,songwriter",
+                "isEntity": false
+            },
+            {
+                "start": 204,
+                "end": 210,
+                "text": "nico,``",
+                "isEntity": false
+            },
+            {
+                "start": 212,
+                "end": 221,
+                "text": "like,think",
+                "isEntity": false
+            },
+            {
+                "start": 223,
+                "end": 238,
+                "text": "people,technical",
+                "isEntity": false
+            },
+            {
+                "start": 240,
+                "end": 256,
+                "text": "standpoint,people",
+                "isEntity": false
+            },
+            {
+                "start": 258,
+                "end": 273,
+                "text": "focus,originally",
+                "isEntity": false
+            },
+            {
+                "start": 275,
+                "end": 289,
+                "text": "recorded,german",
+                "isEntity": false
+            },
+            {
+                "start": 291,
+                "end": 306,
+                "text": "singer,different",
+                "isEntity": false
+            },
+            {
+                "start": 308,
+                "end": 320,
+                "text": "parts,chelsea",
+                "isEntity": false
+            },
+            {
+                "start": 314,
+                "end": 325,
+                "text": "chelsea girl",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 56,
+                    "end": 57
+                },
+                "charFragment": {
+                    "start": 314,
+                    "end": 325
+                },
+                "babelSynsetID": "bn:00248581n",
+                "DBpediaURL": "http://dbpedia.org/resource/Chelsea_Girl_(album)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00248581n",
+                "score": 0.9230769230769231,
+                "coherenceScore": 0.15,
+                "globalScore": 0.00872093023255814,
+                "source": "BABELFY"
+            },
+            {
+                "start": 322,
+                "end": 332,
+                "text": "girl,always",
+                "isEntity": false
+            },
+            {
+                "start": 334,
+                "end": 344,
+                "text": "loved,cover",
+                "isEntity": false
+            },
+            {
+                "start": 346,
+                "end": 357,
+                "text": "something,ca",
+                "isEntity": false
+            },
+            {
+                "start": 359,
+                "end": 543,
+                "text": "n,nico,comforting,n,cover,``,written,well,way,tune,tried,thought,song,sometimes,said,sad,reason,piano,odd,need,know,get,forever,familiar,due,differently,decided,continued,career,''``,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

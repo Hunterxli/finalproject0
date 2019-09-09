@@ -1,0 +1,260 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 3,
+                "text": "This",
+                "isEntity": false
+            },
+            {
+                "start": 5,
+                "end": 8,
+                "text": "song",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 5,
+                    "end": 8
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 0.8888888888888888,
+                "coherenceScore": 0.3333333333333333,
+                "globalScore": 0.0243161094224924,
+                "source": "BABELFY"
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "text": "is",
+                "isEntity": false
+            },
+            {
+                "start": 13,
+                "end": 17,
+                "text": "about",
+                "isEntity": false
+            },
+            {
+                "start": 19,
+                "end": 19,
+                "text": "a",
+                "isEntity": false
+            },
+            {
+                "start": 21,
+                "end": 26,
+                "text": "virgin",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 21,
+                    "end": 26
+                },
+                "babelSynsetID": "bn:00109249a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00109249a",
+                "score": 1.0,
+                "coherenceScore": 0.5,
+                "globalScore": 0.02735562310030395,
+                "source": "BABELFY"
+            },
+            {
+                "start": 28,
+                "end": 32,
+                "text": "woman",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 28,
+                    "end": 32
+                },
+                "babelSynsetID": "bn:00001530n",
+                "DBpediaURL": "http://dbpedia.org/resource/Woman",
+                "BabelNetURL": "http://babelnet.org/rdf/s00001530n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 34,
+                "end": 38,
+                "text": "dying",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 34,
+                    "end": 38
+                },
+                "babelSynsetID": "bn:00086783v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00086783v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 40,
+                "end": 44,
+                "text": "while",
+                "isEntity": false
+            },
+            {
+                "start": 46,
+                "end": 57,
+                "text": "giving birth",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 46,
+                    "end": 57
+                },
+                "babelSynsetID": "bn:00083222v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00083222v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 59,
+                "end": 60,
+                "text": "to",
+                "isEntity": false
+            },
+            {
+                "start": 62,
+                "end": 64,
+                "text": "the",
+                "isEntity": false
+            },
+            {
+                "start": 66,
+                "end": 75,
+                "text": "Antichrist",
+                "isEntity": false
+            },
+            {
+                "start": 77,
+                "end": 77,
+                "text": ".",
+                "isEntity": false
+            }
+        ],
+        [
+            {
+                "start": 0,
+                "end": 4,
+                "text": "-LRB-",
+                "isEntity": false
+            },
+            {
+                "start": 6,
+                "end": 11,
+                "text": "thanks",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 6,
+                    "end": 11
+                },
+                "babelSynsetID": "bn:00076768n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00076768n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 13,
+                "end": 12,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 14,
+                "end": 14,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 15,
+                "end": 18,
+                "text": "Alex",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 15,
+                    "end": 18
+                },
+                "babelSynsetID": "bn:00122158n",
+                "DBpediaURL": "http://dbpedia.org/resource/Alex_Rousseau",
+                "BabelNetURL": "http://babelnet.org/rdf/s00122158n",
+                "score": 1.0,
+                "coherenceScore": 0.25,
+                "globalScore": 0.2,
+                "source": "BABELFY"
+            },
+            {
+                "start": 20,
+                "end": 20,
+                "text": "-",
+                "isEntity": false
+            },
+            {
+                "start": 22,
+                "end": 36,
+                "text": "Mt. Juliet , TN",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 22,
+                    "end": 36
+                },
+                "babelSynsetID": "bn:14908239n",
+                "DBpediaURL": "http://dbpedia.org/resource/Mount_Juliet,_Tennessee",
+                "BabelNetURL": "http://babelnet.org/rdf/s14908239n",
+                "score": 1.0,
+                "coherenceScore": 0.25,
+                "globalScore": 0.1,
+                "source": "BABELFY"
+            },
+            {
+                "start": 38,
+                "end": 42,
+                "text": "-RRB-",
+                "isEntity": false
+            }
+        ]
+    ]
+}

@@ -1,0 +1,312 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 5,
+                "text": "fellow",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 5
+                },
+                "babelSynsetID": "bn:13658184a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s13658184a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 7,
+                "end": 20,
+                "text": "island def jam",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 7,
+                    "end": 20
+                },
+                "babelSynsetID": "bn:00320471n",
+                "DBpediaURL": "http://dbpedia.org/resource/The_Island_Def_Jam_Music_Group",
+                "BabelNetURL": "http://babelnet.org/rdf/s00320471n",
+                "score": 1.0,
+                "coherenceScore": 0.20454545454545456,
+                "globalScore": 0.0021114782302684315,
+                "source": "BABELFY"
+            },
+            {
+                "start": 22,
+                "end": 27,
+                "text": "artist",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 22,
+                    "end": 27
+                },
+                "babelSynsetID": "bn:00006182n",
+                "DBpediaURL": "http://dbpedia.org/resource/Artist",
+                "BabelNetURL": "http://babelnet.org/rdf/s00006182n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 29,
+                "end": 35,
+                "text": "ne,13th",
+                "isEntity": false
+            },
+            {
+                "start": 37,
+                "end": 48,
+                "text": "studio album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 37,
+                    "end": 48
+                },
+                "babelSynsetID": "bn:00002488n",
+                "DBpediaURL": "http://dbpedia.org/resource/Album",
+                "BabelNetURL": "http://babelnet.org/rdf/s00002488n",
+                "score": 1.0,
+                "coherenceScore": 0.7272727272727273,
+                "globalScore": 0.09071536100412521,
+                "source": "BABELFY"
+            },
+            {
+                "start": 50,
+                "end": 64,
+                "text": "angels advocate",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 50,
+                    "end": 64
+                },
+                "babelSynsetID": "bn:01600311n",
+                "DBpediaURL": "http://dbpedia.org/resource/Memoirs_of_an_Imperfect_Angel",
+                "BabelNetURL": "http://babelnet.org/rdf/s01600311n",
+                "score": 1.0,
+                "coherenceScore": 0.3181818181818182,
+                "globalScore": 0.004379362255371562,
+                "source": "BABELFY"
+            },
+            {
+                "start": 66,
+                "end": 80,
+                "text": "aimed,imperfect",
+                "isEntity": false
+            },
+            {
+                "start": 82,
+                "end": 86,
+                "text": "angel",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 15
+                },
+                "charFragment": {
+                    "start": 82,
+                    "end": 86
+                },
+                "babelSynsetID": "bn:00004063n",
+                "DBpediaURL": "http://dbpedia.org/resource/Angel",
+                "BabelNetURL": "http://babelnet.org/rdf/s00004063n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 88,
+                "end": 91,
+                "text": "plus",
+                "isEntity": false
+            },
+            {
+                "start": 93,
+                "end": 99,
+                "text": "several",
+                "isEntity": false
+            },
+            {
+                "start": 101,
+                "end": 107,
+                "text": "songs,c",
+                "isEntity": false
+            },
+            {
+                "start": 109,
+                "end": 121,
+                "text": "radio formats",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 21,
+                    "end": 22
+                },
+                "charFragment": {
+                    "start": 109,
+                    "end": 121
+                },
+                "babelSynsetID": "bn:00870255n",
+                "DBpediaURL": "http://dbpedia.org/resource/Radio_format",
+                "BabelNetURL": "http://babelnet.org/rdf/s00870255n",
+                "score": 1.0,
+                "coherenceScore": 0.13636363636363635,
+                "globalScore": 0.0007038260767561438,
+                "source": "BABELFY"
+            },
+            {
+                "start": 115,
+                "end": 126,
+                "text": "formats,2009",
+                "isEntity": false
+            },
+            {
+                "start": 128,
+                "end": 132,
+                "text": "album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 24,
+                    "end": 24
+                },
+                "charFragment": {
+                    "start": 128,
+                    "end": 132
+                },
+                "babelSynsetID": "bn:00002488n",
+                "DBpediaURL": "http://dbpedia.org/resource/Album",
+                "BabelNetURL": "http://babelnet.org/rdf/s00002488n",
+                "score": 0.9326357096141269,
+                "coherenceScore": 0.7045454545454546,
+                "globalScore": 0.08363799878785509,
+                "source": "BABELFY"
+            },
+            {
+                "start": 134,
+                "end": 147,
+                "text": "memoirs,angels",
+                "isEntity": false
+            },
+            {
+                "start": 142,
+                "end": 156,
+                "text": "angels advocate",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 27,
+                    "end": 28
+                },
+                "charFragment": {
+                    "start": 142,
+                    "end": 156
+                },
+                "babelSynsetID": "bn:01600311n",
+                "DBpediaURL": "http://dbpedia.org/resource/Memoirs_of_an_Imperfect_Angel",
+                "BabelNetURL": "http://babelnet.org/rdf/s01600311n",
+                "score": 1.0,
+                "coherenceScore": 0.3181818181818182,
+                "globalScore": 0.004379362255371562,
+                "source": "BABELFY"
+            },
+            {
+                "start": 149,
+                "end": 166,
+                "text": "advocate,imperfect",
+                "isEntity": false
+            },
+            {
+                "start": 168,
+                "end": 177,
+                "text": "angel,2009",
+                "isEntity": false
+            },
+            {
+                "start": 179,
+                "end": 188,
+                "text": "lp,remixed",
+                "isEntity": false
+            },
+            {
+                "start": 190,
+                "end": 203,
+                "text": "duets,original",
+                "isEntity": false
+            },
+            {
+                "start": 205,
+                "end": 215,
+                "text": "listing,new",
+                "isEntity": false
+            },
+            {
+                "start": 217,
+                "end": 232,
+                "text": "version,favorite",
+                "isEntity": false
+            },
+            {
+                "start": 234,
+                "end": 251,
+                "text": "artists,additional",
+                "isEntity": false
+            },
+            {
+                "start": 253,
+                "end": 265,
+                "text": "vocals,mariah",
+                "isEntity": false
+            },
+            {
+                "start": 260,
+                "end": 271,
+                "text": "mariah carey",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 50,
+                    "end": 51
+                },
+                "charFragment": {
+                    "start": 260,
+                    "end": 271
+                },
+                "babelSynsetID": "bn:01220723n",
+                "DBpediaURL": "http://dbpedia.org/resource/Mariah_Carey",
+                "BabelNetURL": "http://babelnet.org/rdf/s01220723n",
+                "score": 0.9924599434495759,
+                "coherenceScore": 0.6136363636363636,
+                "globalScore": 0.04117382549023441,
+                "source": "BABELFY"
+            },
+            {
+                "start": 267,
+                "end": 346,
+                "text": "carey,memoirs,carey,yo,urban,tracks,track,song,single,performing,make,collection",
+                "isEntity": false
+            }
+        ]
+    ]
+}

@@ -1,0 +1,207 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 8,
+                "text": "guitarist",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 8
+                },
+                "babelSynsetID": "bn:00042152n",
+                "DBpediaURL": "http://dbpedia.org/resource/Guitarist",
+                "BabelNetURL": "http://babelnet.org/rdf/s00042152n",
+                "score": 0.9310344827586207,
+                "coherenceScore": 0.2727272727272727,
+                "globalScore": 0.020737327188940093,
+                "source": "BABELFY"
+            },
+            {
+                "start": 10,
+                "end": 12,
+                "text": "dan",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 10,
+                    "end": 12
+                },
+                "babelSynsetID": "bn:00075878n",
+                "DBpediaURL": "http://dbpedia.org/resource/Taekwondo",
+                "BabelNetURL": "http://babelnet.org/rdf/s00075878n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 14,
+                "end": 18,
+                "text": "white",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 14,
+                    "end": 18
+                },
+                "babelSynsetID": "bn:00113830a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00113830a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 20,
+                "end": 33,
+                "text": "wrote,vocalist",
+                "isEntity": false
+            },
+            {
+                "start": 35,
+                "end": 40,
+                "text": "johnny",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 35,
+                    "end": 40
+                },
+                "babelSynsetID": "bn:00041774n",
+                "DBpediaURL": "http://dbpedia.org/resource/Confederate_States_of_America_dollar",
+                "BabelNetURL": "http://babelnet.org/rdf/s00041774n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 42,
+                "end": 46,
+                "text": "lloyd",
+                "isEntity": false
+            },
+            {
+                "start": 48,
+                "end": 60,
+                "text": "penned,tribes",
+                "isEntity": false
+            },
+            {
+                "start": 62,
+                "end": 66,
+                "text": "debut",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 62,
+                    "end": 66
+                },
+                "babelSynsetID": "bn:00086350v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00086350v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 68,
+                "end": 77,
+                "text": "album,band",
+                "isEntity": false
+            },
+            {
+                "start": 79,
+                "end": 81,
+                "text": "got",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 15
+                },
+                "charFragment": {
+                    "start": 79,
+                    "end": 81
+                },
+                "babelSynsetID": "bn:13677110v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s13677110v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 83,
+                "end": 96,
+                "text": "together,lloyd",
+                "isEntity": false
+            },
+            {
+                "start": 98,
+                "end": 110,
+                "text": "explained,sun",
+                "isEntity": false
+            },
+            {
+                "start": 112,
+                "end": 123,
+                "text": "saying,lucid",
+                "isEntity": false
+            },
+            {
+                "start": 125,
+                "end": 138,
+                "text": "musing,getting",
+                "isEntity": false
+            },
+            {
+                "start": 132,
+                "end": 143,
+                "text": "getting high",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 27,
+                    "end": 28
+                },
+                "charFragment": {
+                    "start": 132,
+                    "end": 143
+                },
+                "babelSynsetID": "bn:13718284v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s13718284v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 140,
+                "end": 197,
+                "text": "high,track,studio,song,meaning,however,breaking,baby,``,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

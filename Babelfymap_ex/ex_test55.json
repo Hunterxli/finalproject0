@@ -1,0 +1,93 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 5,
+                "text": "virgin",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 5
+                },
+                "babelSynsetID": "bn:00109249a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00109249a",
+                "score": 1.0,
+                "coherenceScore": 0.3,
+                "globalScore": 0.022004889975550123,
+                "source": "BABELFY"
+            },
+            {
+                "start": 7,
+                "end": 11,
+                "text": "woman",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 7,
+                    "end": 11
+                },
+                "babelSynsetID": "bn:00001530n",
+                "DBpediaURL": "http://dbpedia.org/resource/Woman",
+                "BabelNetURL": "http://babelnet.org/rdf/s00001530n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 13,
+                "end": 28,
+                "text": "dying,antichrist",
+                "isEntity": false
+            },
+            {
+                "start": 30,
+                "end": 31,
+                "text": ".-",
+                "isEntity": false
+            },
+            {
+                "start": 33,
+                "end": 42,
+                "text": "lrb,giving",
+                "isEntity": false
+            },
+            {
+                "start": 37,
+                "end": 48,
+                "text": "giving birth",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 37,
+                    "end": 48
+                },
+                "babelSynsetID": "bn:00083222v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00083222v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 44,
+                "end": 82,
+                "text": "birth,tn,thanks,song,rrb,mt,juliet,alex",
+                "isEntity": false
+            }
+        ]
+    ]
+}

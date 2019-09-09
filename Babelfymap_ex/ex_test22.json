@@ -1,0 +1,417 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 8,
+                "text": "principal",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 8
+                },
+                "babelSynsetID": "bn:00099598a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00099598a",
+                "score": 1.0,
+                "coherenceScore": 0.02702702702702703,
+                "globalScore": 9.897805161705392e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 10,
+                "end": 19,
+                "text": "songwriter",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 10,
+                    "end": 19
+                },
+                "babelSynsetID": "bn:00008155n",
+                "DBpediaURL": "http://dbpedia.org/resource/Songster",
+                "BabelNetURL": "http://babelnet.org/rdf/s00008155n",
+                "score": 0.8461538461538461,
+                "coherenceScore": 0.14864864864864866,
+                "globalScore": 0.004355034271150373,
+                "source": "BABELFY"
+            },
+            {
+                "start": 21,
+                "end": 31,
+                "text": "ben gibbard",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 21,
+                    "end": 31
+                },
+                "babelSynsetID": "bn:03474158n",
+                "DBpediaURL": "http://dbpedia.org/resource/Ben_Gibbard",
+                "BabelNetURL": "http://babelnet.org/rdf/s03474158n",
+                "score": 1.0,
+                "coherenceScore": 0.12162162162162163,
+                "globalScore": 0.0024497067775220843,
+                "source": "BABELFY"
+            },
+            {
+                "start": 33,
+                "end": 39,
+                "text": "married",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 33,
+                    "end": 39
+                },
+                "babelSynsetID": "bn:00085614v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00085614v",
+                "score": 0.708502024291498,
+                "coherenceScore": 0.1891891891891892,
+                "globalScore": 0.008660579516492219,
+                "source": "BABELFY"
+            },
+            {
+                "start": 41,
+                "end": 62,
+                "text": "actress,unsurprisingly",
+                "isEntity": false
+            },
+            {
+                "start": 64,
+                "end": 67,
+                "text": "fans",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 64,
+                    "end": 67
+                },
+                "babelSynsetID": "bn:00033599n",
+                "DBpediaURL": "http://dbpedia.org/resource/Mechanical_fan",
+                "BabelNetURL": "http://babelnet.org/rdf/s00033599n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 69,
+                "end": 84,
+                "text": "wanted,something",
+                "isEntity": false
+            },
+            {
+                "start": 86,
+                "end": 91,
+                "text": "people",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 86,
+                    "end": 91
+                },
+                "babelSynsetID": "bn:00061450n",
+                "DBpediaURL": "http://dbpedia.org/resource/People",
+                "BabelNetURL": "http://babelnet.org/rdf/s00061450n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 93,
+                "end": 105,
+                "text": "need,ceremony",
+                "isEntity": false
+            },
+            {
+                "start": 107,
+                "end": 110,
+                "text": "near",
+                "isEntity": false
+            },
+            {
+                "start": 112,
+                "end": 123,
+                "text": "seattle,love",
+                "isEntity": false
+            },
+            {
+                "start": 125,
+                "end": 138,
+                "text": "double fantasy",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 20,
+                    "end": 21
+                },
+                "charFragment": {
+                    "start": 125,
+                    "end": 138
+                },
+                "babelSynsetID": "bn:03451014n",
+                "DBpediaURL": "http://dbpedia.org/resource/Double_Fantasy",
+                "BabelNetURL": "http://babelnet.org/rdf/s03451014n",
+                "score": 1.0,
+                "coherenceScore": 0.05405405405405406,
+                "globalScore": 0.0003959122064682157,
+                "source": "BABELFY"
+            },
+            {
+                "start": 132,
+                "end": 147,
+                "text": "fantasy,musician",
+                "isEntity": false
+            },
+            {
+                "start": 149,
+                "end": 163,
+                "text": "zooey deschanel",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 24,
+                    "end": 25
+                },
+                "charFragment": {
+                    "start": 149,
+                    "end": 163
+                },
+                "babelSynsetID": "bn:03832019n",
+                "DBpediaURL": "http://dbpedia.org/resource/Zooey_Deschanel",
+                "BabelNetURL": "http://babelnet.org/rdf/s03832019n",
+                "score": 1.0,
+                "coherenceScore": 0.10810810810810811,
+                "globalScore": 0.0017816049291069706,
+                "source": "BABELFY"
+            },
+            {
+                "start": 155,
+                "end": 168,
+                "text": "deschanel,love",
+                "isEntity": false
+            },
+            {
+                "start": 165,
+                "end": 177,
+                "text": "love marriage",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 27,
+                    "end": 28
+                },
+                "charFragment": {
+                    "start": 165,
+                    "end": 177
+                },
+                "babelSynsetID": "bn:01382576n",
+                "DBpediaURL": "http://dbpedia.org/resource/Love_marriage",
+                "BabelNetURL": "http://babelnet.org/rdf/s01382576n",
+                "score": 0.9767441860465116,
+                "coherenceScore": 0.0945945945945946,
+                "globalScore": 0.0020785390839581325,
+                "source": "BABELFY"
+            },
+            {
+                "start": 170,
+                "end": 185,
+                "text": "marriage records",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 28,
+                    "end": 29
+                },
+                "charFragment": {
+                    "start": 170,
+                    "end": 185
+                },
+                "babelSynsetID": "bn:03815820n",
+                "DBpediaURL": "http://dbpedia.org/resource/Marriage_Records",
+                "BabelNetURL": "http://babelnet.org/rdf/s03815820n",
+                "score": 1.0,
+                "coherenceScore": 0.04054054054054054,
+                "globalScore": 0.00022270061613837133,
+                "source": "BABELFY"
+            },
+            {
+                "start": 179,
+                "end": 193,
+                "text": "records,gibbard",
+                "isEntity": false
+            },
+            {
+                "start": 195,
+                "end": 208,
+                "text": "responded,love",
+                "isEntity": false
+            },
+            {
+                "start": 210,
+                "end": 217,
+                "text": "ram,well",
+                "isEntity": false
+            },
+            {
+                "start": 219,
+                "end": 227,
+                "text": "known,way",
+                "isEntity": false
+            },
+            {
+                "start": 229,
+                "end": 235,
+                "text": ".``,two",
+                "isEntity": false
+            },
+            {
+                "start": 237,
+                "end": 246,
+                "text": "years,stay",
+                "isEntity": false
+            },
+            {
+                "start": 248,
+                "end": 262,
+                "text": "young,september",
+                "isEntity": false
+            },
+            {
+                "start": 254,
+                "end": 267,
+                "text": "september 2009",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 50,
+                    "end": 51
+                },
+                "charFragment": {
+                    "start": 254,
+                    "end": 267
+                },
+                "babelSynsetID": "bn:00649629n",
+                "DBpediaURL": "http://dbpedia.org/resource/September_2009",
+                "BabelNetURL": "http://babelnet.org/rdf/s00649629n",
+                "score": 1.0,
+                "coherenceScore": 0.04054054054054054,
+                "globalScore": 0.00022270061613837133,
+                "source": "BABELFY"
+            },
+            {
+                "start": 264,
+                "end": 273,
+                "text": "2009,music",
+                "isEntity": false
+            },
+            {
+                "start": 275,
+                "end": 286,
+                "text": "prior,monday",
+                "isEntity": false
+            },
+            {
+                "start": 288,
+                "end": 297,
+                "text": "morning,go",
+                "isEntity": false
+            },
+            {
+                "start": 299,
+                "end": 311,
+                "text": "dancing,first",
+                "isEntity": false
+            },
+            {
+                "start": 313,
+                "end": 323,
+                "text": "verse,death",
+                "isEntity": false
+            },
+            {
+                "start": 319,
+                "end": 327,
+                "text": "death cab",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 65,
+                    "end": 66
+                },
+                "charFragment": {
+                    "start": 319,
+                    "end": 327
+                },
+                "babelSynsetID": "bn:03419627n",
+                "DBpediaURL": "http://dbpedia.org/resource/Death_Cab_for_Cutie",
+                "BabelNetURL": "http://babelnet.org/rdf/s03419627n",
+                "score": 1.0,
+                "coherenceScore": 0.13513513513513514,
+                "globalScore": 0.0027218964194689827,
+                "source": "BABELFY"
+            },
+            {
+                "start": 325,
+                "end": 334,
+                "text": "cab,couple",
+                "isEntity": false
+            },
+            {
+                "start": 336,
+                "end": 348,
+                "text": "announced,new",
+                "isEntity": false
+            },
+            {
+                "start": 350,
+                "end": 357,
+                "text": "wife,new",
+                "isEntity": false
+            },
+            {
+                "start": 355,
+                "end": 363,
+                "text": "new album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 74,
+                    "end": 75
+                },
+                "charFragment": {
+                    "start": 355,
+                    "end": 363
+                },
+                "babelSynsetID": "bn:02443028n",
+                "DBpediaURL": "http://dbpedia.org/resource/New_Album",
+                "BabelNetURL": "http://babelnet.org/rdf/s02443028n",
+                "score": 1.0,
+                "coherenceScore": 0.04054054054054054,
+                "globalScore": 0.00022270061613837133,
+                "source": "BABELFY"
+            },
+            {
+                "start": 359,
+                "end": 584,
+                "text": "album,married,zooey,marriage,wife,album,written,sometimes,separation,said,release,referring,question,person,november,much,moments,like,know,keys,jam,interview,going,given,frontman,fact,deal,cutie,codes,aware,assumption,``,2011",
+                "isEntity": false
+            }
+        ]
+    ]
+}

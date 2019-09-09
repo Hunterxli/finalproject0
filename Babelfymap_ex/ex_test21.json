@@ -1,0 +1,480 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 4,
+                "text": "first",
+                "isEntity": false
+            },
+            {
+                "start": 6,
+                "end": 16,
+                "text": "major label",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 6,
+                    "end": 16
+                },
+                "babelSynsetID": "bn:00066581n",
+                "DBpediaURL": "http://dbpedia.org/resource/Record_label",
+                "BabelNetURL": "http://babelnet.org/rdf/s00066581n",
+                "score": 0.9416243654822335,
+                "coherenceScore": 0.4268292682926829,
+                "globalScore": 0.016276213038518908,
+                "source": "BABELFY"
+            },
+            {
+                "start": 18,
+                "end": 29,
+                "text": "studio album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 18,
+                    "end": 29
+                },
+                "babelSynsetID": "bn:00002488n",
+                "DBpediaURL": "http://dbpedia.org/resource/Album",
+                "BabelNetURL": "http://babelnet.org/rdf/s00002488n",
+                "score": 1.0,
+                "coherenceScore": 0.5,
+                "globalScore": 0.025901553040273757,
+                "source": "BABELFY"
+            },
+            {
+                "start": 25,
+                "end": 34,
+                "text": "album,soap",
+                "isEntity": false
+            },
+            {
+                "start": 31,
+                "end": 40,
+                "text": "soap opera",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 31,
+                    "end": 40
+                },
+                "babelSynsetID": "bn:00072505n",
+                "DBpediaURL": "http://dbpedia.org/resource/Soap_opera",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072505n",
+                "score": 0.8898876404494382,
+                "coherenceScore": 0.2682926829268293,
+                "globalScore": 0.006949197157146618,
+                "source": "BABELFY"
+            },
+            {
+                "start": 42,
+                "end": 44,
+                "text": "one",
+                "isEntity": false
+            },
+            {
+                "start": 46,
+                "end": 52,
+                "text": "life,tv",
+                "isEntity": false
+            },
+            {
+                "start": 51,
+                "end": 57,
+                "text": "tv show",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 51,
+                    "end": 57
+                },
+                "babelSynsetID": "bn:00076429n",
+                "DBpediaURL": "http://dbpedia.org/resource/Television_program",
+                "BabelNetURL": "http://babelnet.org/rdf/s00076429n",
+                "score": 0.9975859987929994,
+                "coherenceScore": 0.35365853658536583,
+                "globalScore": 0.01450381679389313,
+                "source": "BABELFY"
+            },
+            {
+                "start": 59,
+                "end": 67,
+                "text": "rock star",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 59,
+                    "end": 67
+                },
+                "babelSynsetID": "bn:00068075n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00068075n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 64,
+                "end": 73,
+                "text": "star,whole",
+                "isEntity": false
+            },
+            {
+                "start": 69,
+                "end": 78,
+                "text": "whole life",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 16,
+                    "end": 17
+                },
+                "charFragment": {
+                    "start": 69,
+                    "end": 78
+                },
+                "babelSynsetID": "bn:00610160n",
+                "DBpediaURL": "http://dbpedia.org/resource/Flaming_Pie",
+                "BabelNetURL": "http://babelnet.org/rdf/s00610160n",
+                "score": 1.0,
+                "coherenceScore": 0.08536585365853659,
+                "globalScore": 0.00042993770290427306,
+                "source": "BABELFY"
+            },
+            {
+                "start": 80,
+                "end": 87,
+                "text": "span,tim",
+                "isEntity": false
+            },
+            {
+                "start": 85,
+                "end": 94,
+                "text": "tim burton",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 20,
+                    "end": 21
+                },
+                "charFragment": {
+                    "start": 85,
+                    "end": 94
+                },
+                "babelSynsetID": "bn:02503179n",
+                "DBpediaURL": "http://dbpedia.org/resource/Tim_Burton",
+                "BabelNetURL": "http://babelnet.org/rdf/s02503179n",
+                "score": 0.9203539823008849,
+                "coherenceScore": 0.0975609756097561,
+                "globalScore": 0.0009125208388172326,
+                "source": "BABELFY"
+            },
+            {
+                "start": 96,
+                "end": 106,
+                "text": "video,movie",
+                "isEntity": false
+            },
+            {
+                "start": 108,
+                "end": 115,
+                "text": "big fish",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 25,
+                    "end": 26
+                },
+                "charFragment": {
+                    "start": 108,
+                    "end": 115
+                },
+                "babelSynsetID": "bn:00010310n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00010310n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 112,
+                "end": 120,
+                "text": "fish,make",
+                "isEntity": false
+            },
+            {
+                "start": 117,
+                "end": 130,
+                "text": "make ends meet",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 28,
+                    "end": 30
+                },
+                "charFragment": {
+                    "start": 117,
+                    "end": 130
+                },
+                "babelSynsetID": "bn:13604136v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s13604136v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 127,
+                "end": 139,
+                "text": "meet,favorite",
+                "isEntity": false
+            },
+            {
+                "start": 141,
+                "end": 147,
+                "text": "lyrical",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 33,
+                    "end": 33
+                },
+                "charFragment": {
+                    "start": 141,
+                    "end": 147
+                },
+                "babelSynsetID": "bn:00106291a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00106291a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 149,
+                "end": 156,
+                "text": "song,two",
+                "isEntity": false
+            },
+            {
+                "start": 158,
+                "end": 163,
+                "text": "lovers",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 37,
+                    "end": 37
+                },
+                "charFragment": {
+                    "start": 158,
+                    "end": 163
+                },
+                "babelSynsetID": "bn:00286403n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lovers_(Babyface_album)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00286403n",
+                "score": 1.0,
+                "coherenceScore": 0.0975609756097561,
+                "globalScore": 0.000631745196104238,
+                "source": "BABELFY"
+            },
+            {
+                "start": 165,
+                "end": 175,
+                "text": "saying,grow",
+                "isEntity": false
+            },
+            {
+                "start": 177,
+                "end": 179,
+                "text": "old",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 41,
+                    "end": 41
+                },
+                "charFragment": {
+                    "start": 177,
+                    "end": 179
+                },
+                "babelSynsetID": "bn:00107786a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00107786a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 181,
+                "end": 193,
+                "text": "together,life",
+                "isEntity": false
+            },
+            {
+                "start": 195,
+                "end": 205,
+                "text": "together,tv",
+                "isEntity": false
+            },
+            {
+                "start": 204,
+                "end": 211,
+                "text": "tv shows",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 47,
+                    "end": 48
+                },
+                "charFragment": {
+                    "start": 204,
+                    "end": 211
+                },
+                "babelSynsetID": "bn:00076429n",
+                "DBpediaURL": "http://dbpedia.org/resource/Television_program",
+                "BabelNetURL": "http://babelnet.org/rdf/s00076429n",
+                "score": 0.9975859987929994,
+                "coherenceScore": 0.35365853658536583,
+                "globalScore": 0.01450381679389313,
+                "source": "BABELFY"
+            },
+            {
+                "start": 207,
+                "end": 218,
+                "text": "shows,lovers",
+                "isEntity": false
+            },
+            {
+                "start": 220,
+                "end": 230,
+                "text": "getting,one",
+                "isEntity": false
+            },
+            {
+                "start": 232,
+                "end": 242,
+                "text": "showed,said",
+                "isEntity": false
+            },
+            {
+                "start": 244,
+                "end": 252,
+                "text": "star,ryan",
+                "isEntity": false
+            },
+            {
+                "start": 249,
+                "end": 257,
+                "text": "ryan star",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 59,
+                    "end": 60
+                },
+                "charFragment": {
+                    "start": 249,
+                    "end": 257
+                },
+                "babelSynsetID": "bn:03470195n",
+                "DBpediaURL": "http://dbpedia.org/resource/Ryan_Star",
+                "BabelNetURL": "http://babelnet.org/rdf/s03470195n",
+                "score": 1.0,
+                "coherenceScore": 0.14634146341463414,
+                "globalScore": 0.0013687812582258488,
+                "source": "BABELFY"
+            },
+            {
+                "start": 254,
+                "end": 265,
+                "text": "star,written",
+                "isEntity": false
+            },
+            {
+                "start": 267,
+                "end": 279,
+                "text": "way,whimsical",
+                "isEntity": false
+            },
+            {
+                "start": 281,
+                "end": 292,
+                "text": "idea,popular",
+                "isEntity": false
+            },
+            {
+                "start": 294,
+                "end": 312,
+                "text": "contestant,hopeless",
+                "isEntity": false
+            },
+            {
+                "start": 314,
+                "end": 332,
+                "text": "romantic,girlfriend",
+                "isEntity": false
+            },
+            {
+                "start": 334,
+                "end": 345,
+                "text": "hallie,found",
+                "isEntity": false
+            },
+            {
+                "start": 347,
+                "end": 356,
+                "text": "truth,ever",
+                "isEntity": false
+            },
+            {
+                "start": 358,
+                "end": 367,
+                "text": "saw,became",
+                "isEntity": false
+            },
+            {
+                "start": 369,
+                "end": 378,
+                "text": "clear,2009",
+                "isEntity": false
+            },
+            {
+                "start": 380,
+                "end": 393,
+                "text": "episode,happen",
+                "isEntity": false
+            },
+            {
+                "start": 395,
+                "end": 401,
+                "text": "bad,see",
+                "isEntity": false
+            },
+            {
+                "start": 403,
+                "end": 412,
+                "text": "like,might",
+                "isEntity": false
+            },
+            {
+                "start": 414,
+                "end": 585,
+                "text": "fall,one,star,see,might,like,happen,fall,supernova,songs,say,realize,number,music,movies,many,love,lot,live,know,interview,inspired,good,could,appeared,anything,``,59,11,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

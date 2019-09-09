@@ -1,0 +1,1284 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 4,
+                "text": "finds",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 4
+                },
+                "babelSynsetID": "bn:00084231v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00084231v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 6,
+                "end": 19,
+                "text": "martin solveig",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 6,
+                    "end": 19
+                },
+                "babelSynsetID": "bn:03275626n",
+                "DBpediaURL": "http://dbpedia.org/resource/Martin_Solveig",
+                "BabelNetURL": "http://babelnet.org/rdf/s03275626n",
+                "score": 1.0,
+                "coherenceScore": 0.1657754010695187,
+                "globalScore": 0.001398716564752117,
+                "source": "BABELFY"
+            },
+            {
+                "start": 21,
+                "end": 26,
+                "text": "facing",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 21,
+                    "end": 26
+                },
+                "babelSynsetID": "bn:00085596v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00085596v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 28,
+                "end": 34,
+                "text": "another",
+                "isEntity": false
+            },
+            {
+                "start": 36,
+                "end": 41,
+                "text": "french",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 36,
+                    "end": 41
+                },
+                "babelSynsetID": "bn:00103321a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00103321a",
+                "score": 1.0,
+                "coherenceScore": 0.026737967914438502,
+                "globalScore": 2.81999307409701e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 43,
+                "end": 50,
+                "text": "dj,zooey",
+                "isEntity": false
+            },
+            {
+                "start": 46,
+                "end": 60,
+                "text": "zooey deschanel",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 46,
+                    "end": 60
+                },
+                "babelSynsetID": "bn:03832019n",
+                "DBpediaURL": "http://dbpedia.org/resource/Zooey_Deschanel",
+                "BabelNetURL": "http://babelnet.org/rdf/s03832019n",
+                "score": 1.0,
+                "coherenceScore": 0.11229946524064172,
+                "globalScore": 0.0005685106037379572,
+                "source": "BABELFY"
+            },
+            {
+                "start": 62,
+                "end": 69,
+                "text": "starring",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 62,
+                    "end": 69
+                },
+                "babelSynsetID": "bn:00094294v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00094294v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 71,
+                "end": 76,
+                "text": "sitcom",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 71,
+                    "end": 76
+                },
+                "babelSynsetID": "bn:00071856n",
+                "DBpediaURL": "http://dbpedia.org/resource/Sitcom",
+                "BabelNetURL": "http://babelnet.org/rdf/s00071856n",
+                "score": 0.7082494969818913,
+                "coherenceScore": 0.1711229946524064,
+                "globalScore": 0.001588220099331436,
+                "source": "BABELFY"
+            },
+            {
+                "start": 78,
+                "end": 85,
+                "text": "new girl",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 78,
+                    "end": 85
+                },
+                "babelSynsetID": "bn:15962344n",
+                "DBpediaURL": "http://dbpedia.org/resource/New_Girl",
+                "BabelNetURL": "http://babelnet.org/rdf/s15962344n",
+                "score": 1.0,
+                "coherenceScore": 0.10160427807486631,
+                "globalScore": 0.00047150284198902006,
+                "source": "BABELFY"
+            },
+            {
+                "start": 82,
+                "end": 90,
+                "text": "girl,song",
+                "isEntity": false
+            },
+            {
+                "start": 92,
+                "end": 99,
+                "text": "features",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 16,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 92,
+                    "end": 99
+                },
+                "babelSynsetID": "bn:00017761n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00017761n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 101,
+                "end": 108,
+                "text": "canadian",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 17
+                },
+                "charFragment": {
+                    "start": 101,
+                    "end": 108
+                },
+                "babelSynsetID": "bn:00099173a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00099173a",
+                "score": 1.0,
+                "coherenceScore": 0.026737967914438502,
+                "globalScore": 3.383991688916412e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 110,
+                "end": 119,
+                "text": "electropop",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 18,
+                    "end": 18
+                },
+                "charFragment": {
+                    "start": 110,
+                    "end": 119
+                },
+                "babelSynsetID": "bn:00442162n",
+                "DBpediaURL": "http://dbpedia.org/resource/Synthpop",
+                "BabelNetURL": "http://babelnet.org/rdf/s00442162n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 121,
+                "end": 125,
+                "text": "group",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 19,
+                    "end": 19
+                },
+                "charFragment": {
+                    "start": 121,
+                    "end": 125
+                },
+                "babelSynsetID": "bn:00041942n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00041942n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 127,
+                "end": 142,
+                "text": "dragonette,video",
+                "isEntity": false
+            },
+            {
+                "start": 144,
+                "end": 151,
+                "text": "features",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 23,
+                    "end": 23
+                },
+                "charFragment": {
+                    "start": 144,
+                    "end": 151
+                },
+                "babelSynsetID": "bn:00017761n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00017761n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 153,
+                "end": 165,
+                "text": "tennis player",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 24,
+                    "end": 25
+                },
+                "charFragment": {
+                    "start": 153,
+                    "end": 165
+                },
+                "babelSynsetID": "bn:00076528n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00076528n",
+                "score": 0.8801955990220048,
+                "coherenceScore": 0.0962566844919786,
+                "globalScore": 0.00040607900266996944,
+                "source": "BABELFY"
+            },
+            {
+                "start": 167,
+                "end": 173,
+                "text": "solveig",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 26,
+                    "end": 26
+                },
+                "charFragment": {
+                    "start": 167,
+                    "end": 173
+                },
+                "babelSynsetID": "bn:03635177n",
+                "DBpediaURL": "http://dbpedia.org/resource/Solveig",
+                "BabelNetURL": "http://babelnet.org/rdf/s03635177n",
+                "score": 1.0,
+                "coherenceScore": 0.058823529411764705,
+                "globalScore": 0.0001364876647862953,
+                "source": "BABELFY"
+            },
+            {
+                "start": 175,
+                "end": 189,
+                "text": "smitten,several",
+                "isEntity": false
+            },
+            {
+                "start": 191,
+                "end": 208,
+                "text": "european countries",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 30,
+                    "end": 31
+                },
+                "charFragment": {
+                    "start": 191,
+                    "end": 208
+                },
+                "babelSynsetID": "bn:00031903n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00031903n",
+                "score": 1.0,
+                "coherenceScore": 0.0374331550802139,
+                "globalScore": 6.316784485977303e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 210,
+                "end": 218,
+                "text": "including",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 32,
+                    "end": 32
+                },
+                "charFragment": {
+                    "start": 210,
+                    "end": 218
+                },
+                "babelSynsetID": "bn:00089660v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00089660v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 220,
+                "end": 233,
+                "text": "belgium,french",
+                "isEntity": false
+            },
+            {
+                "start": 235,
+                "end": 241,
+                "text": "actress",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 36,
+                    "end": 36
+                },
+                "charFragment": {
+                    "start": 235,
+                    "end": 241
+                },
+                "babelSynsetID": "bn:00001181n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00001181n",
+                "score": 0.8560840024706609,
+                "coherenceScore": 0.17647058823529413,
+                "globalScore": 0.0015634041602793824,
+                "source": "BABELFY"
+            },
+            {
+                "start": 243,
+                "end": 259,
+                "text": "solveig dommartin",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 37,
+                    "end": 38
+                },
+                "charFragment": {
+                    "start": 243,
+                    "end": 259
+                },
+                "babelSynsetID": "bn:03097505n",
+                "DBpediaURL": "http://dbpedia.org/resource/Solveig_Dommartin",
+                "BabelNetURL": "http://babelnet.org/rdf/s03097505n",
+                "score": 1.0,
+                "coherenceScore": 0.10695187165775401,
+                "globalScore": 0.0004511988918555216,
+                "source": "BABELFY"
+            },
+            {
+                "start": 251,
+                "end": 268,
+                "text": "dommartin,landline",
+                "isEntity": false
+            },
+            {
+                "start": 270,
+                "end": 277,
+                "text": "operator",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 41,
+                    "end": 41
+                },
+                "charFragment": {
+                    "start": 270,
+                    "end": 277
+                },
+                "babelSynsetID": "bn:00059141n",
+                "DBpediaURL": "http://dbpedia.org/resource/Operator_(mathematics)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00059141n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 279,
+                "end": 284,
+                "text": "telkom",
+                "isEntity": false
+            },
+            {
+                "start": 286,
+                "end": 302,
+                "text": "launched,producer",
+                "isEntity": false
+            },
+            {
+                "start": 304,
+                "end": 317,
+                "text": "martin solveig",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 46,
+                    "end": 47
+                },
+                "charFragment": {
+                    "start": 304,
+                    "end": 317
+                },
+                "babelSynsetID": "bn:03275626n",
+                "DBpediaURL": "http://dbpedia.org/resource/Martin_Solveig",
+                "BabelNetURL": "http://babelnet.org/rdf/s03275626n",
+                "score": 1.0,
+                "coherenceScore": 0.1657754010695187,
+                "globalScore": 0.001398716564752117,
+                "source": "BABELFY"
+            },
+            {
+                "start": 319,
+                "end": 331,
+                "text": "became,tennis",
+                "isEntity": false
+            },
+            {
+                "start": 333,
+                "end": 337,
+                "text": "stars",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 51,
+                    "end": 51
+                },
+                "charFragment": {
+                    "start": 333,
+                    "end": 337
+                },
+                "babelSynsetID": "bn:00073964n",
+                "DBpediaURL": "http://dbpedia.org/resource/Star",
+                "BabelNetURL": "http://babelnet.org/rdf/s00073964n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 339,
+                "end": 343,
+                "text": "novak",
+                "isEntity": false
+            },
+            {
+                "start": 345,
+                "end": 357,
+                "text": "djokovic,2005",
+                "isEntity": false
+            },
+            {
+                "start": 359,
+                "end": 364,
+                "text": "single",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 55,
+                    "end": 55
+                },
+                "charFragment": {
+                    "start": 359,
+                    "end": 364
+                },
+                "babelSynsetID": "bn:00104971a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00104971a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 366,
+                "end": 367,
+                "text": "``",
+                "isEntity": false
+            },
+            {
+                "start": 369,
+                "end": 384,
+                "text": "everybody,french",
+                "isEntity": false
+            },
+            {
+                "start": 386,
+                "end": 395,
+                "text": "electropop",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 60,
+                    "end": 60
+                },
+                "charFragment": {
+                    "start": 386,
+                    "end": 395
+                },
+                "babelSynsetID": "bn:00442162n",
+                "DBpediaURL": "http://dbpedia.org/resource/Synthpop",
+                "BabelNetURL": "http://babelnet.org/rdf/s00442162n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 397,
+                "end": 405,
+                "text": "dj,french",
+                "isEntity": false
+            },
+            {
+                "start": 400,
+                "end": 417,
+                "text": "french tennis open",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 63,
+                    "end": 65
+                },
+                "charFragment": {
+                    "start": 400,
+                    "end": 417
+                },
+                "babelSynsetID": "bn:00689322n",
+                "DBpediaURL": "http://dbpedia.org/resource/French_Open",
+                "BabelNetURL": "http://babelnet.org/rdf/s00689322n",
+                "score": 1.0,
+                "coherenceScore": 0.12834224598930483,
+                "globalScore": 0.0009475176728965954,
+                "source": "BABELFY"
+            },
+            {
+                "start": 414,
+                "end": 421,
+                "text": "open,new",
+                "isEntity": false
+            },
+            {
+                "start": 423,
+                "end": 430,
+                "text": "vitality",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 68,
+                    "end": 68
+                },
+                "charFragment": {
+                    "start": 423,
+                    "end": 430
+                },
+                "babelSynsetID": "bn:00079847n",
+                "DBpediaURL": "http://dbpedia.org/resource/Vitality",
+                "BabelNetURL": "http://babelnet.org/rdf/s00079847n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 432,
+                "end": 440,
+                "text": "line,told",
+                "isEntity": false
+            },
+            {
+                "start": 442,
+                "end": 459,
+                "text": "billboard magazine",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 72,
+                    "end": 73
+                },
+                "charFragment": {
+                    "start": 442,
+                    "end": 459
+                },
+                "babelSynsetID": "bn:01071347n",
+                "DBpediaURL": "http://dbpedia.org/resource/Billboard_(magazine)",
+                "BabelNetURL": "http://babelnet.org/rdf/s01071347n",
+                "score": 1.0,
+                "coherenceScore": 0.2887700534759358,
+                "globalScore": 0.004812036181639138,
+                "source": "BABELFY"
+            },
+            {
+                "start": 452,
+                "end": 465,
+                "text": "magazine,stade",
+                "isEntity": false
+            },
+            {
+                "start": 461,
+                "end": 479,
+                "text": "stade roland garros",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 75,
+                    "end": 77
+                },
+                "charFragment": {
+                    "start": 461,
+                    "end": 479
+                },
+                "babelSynsetID": "bn:02865972n",
+                "DBpediaURL": "http://dbpedia.org/resource/Stade_Roland_Garros",
+                "BabelNetURL": "http://babelnet.org/rdf/s02865972n",
+                "score": 1.0,
+                "coherenceScore": 0.10160427807486631,
+                "globalScore": 0.00047150284198902006,
+                "source": "BABELFY"
+            },
+            {
+                "start": 474,
+                "end": 486,
+                "text": "garros,mobile",
+                "isEntity": false
+            },
+            {
+                "start": 488,
+                "end": 490,
+                "text": "arm",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 80,
+                    "end": 80
+                },
+                "charFragment": {
+                    "start": 488,
+                    "end": 490
+                },
+                "babelSynsetID": "bn:00005704n",
+                "DBpediaURL": "http://dbpedia.org/resource/Weapon",
+                "BabelNetURL": "http://babelnet.org/rdf/s00005704n",
+                "score": 0.8718330849478391,
+                "coherenceScore": 0.16042780748663102,
+                "globalScore": 0.0013197567586774007,
+                "source": "BABELFY"
+            },
+            {
+                "start": 492,
+                "end": 499,
+                "text": "8ta,make",
+                "isEntity": false
+            },
+            {
+                "start": 501,
+                "end": 517,
+                "text": "cameo appearances",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 84,
+                    "end": 85
+                },
+                "charFragment": {
+                    "start": 501,
+                    "end": 517
+                },
+                "babelSynsetID": "bn:02119437n",
+                "DBpediaURL": "http://dbpedia.org/resource/Cameo_appearance",
+                "BabelNetURL": "http://babelnet.org/rdf/s02119437n",
+                "score": 1.0,
+                "coherenceScore": 0.1925133689839572,
+                "globalScore": 0.0020710029136168442,
+                "source": "BABELFY"
+            },
+            {
+                "start": 507,
+                "end": 521,
+                "text": "appearances,let",
+                "isEntity": false
+            },
+            {
+                "start": 523,
+                "end": 524,
+                "text": "us",
+                "isEntity": false
+            },
+            {
+                "start": 526,
+                "end": 538,
+                "text": "play,american",
+                "isEntity": false
+            },
+            {
+                "start": 540,
+                "end": 559,
+                "text": "advertising campaign",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 92,
+                    "end": 93
+                },
+                "charFragment": {
+                    "start": 540,
+                    "end": 559
+                },
+                "babelSynsetID": "bn:15623647n",
+                "DBpediaURL": "http://dbpedia.org/resource/Advertising_campaign",
+                "BabelNetURL": "http://babelnet.org/rdf/s15623647n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 552,
+                "end": 566,
+                "text": "campaign,martin",
+                "isEntity": false
+            },
+            {
+                "start": 561,
+                "end": 574,
+                "text": "martin solveig",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 95,
+                    "end": 96
+                },
+                "charFragment": {
+                    "start": 561,
+                    "end": 574
+                },
+                "babelSynsetID": "bn:03275626n",
+                "DBpediaURL": "http://dbpedia.org/resource/Martin_Solveig",
+                "BabelNetURL": "http://babelnet.org/rdf/s03275626n",
+                "score": 1.0,
+                "coherenceScore": 0.1657754010695187,
+                "globalScore": 0.001398716564752117,
+                "source": "BABELFY"
+            },
+            {
+                "start": 568,
+                "end": 581,
+                "text": "solveig,tennis",
+                "isEntity": false
+            },
+            {
+                "start": 576,
+                "end": 587,
+                "text": "tennis match",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 98,
+                    "end": 99
+                },
+                "charFragment": {
+                    "start": 576,
+                    "end": 587
+                },
+                "babelSynsetID": "bn:00076527n",
+                "DBpediaURL": "http://dbpedia.org/resource/Tennis_scoring_system",
+                "BabelNetURL": "http://babelnet.org/rdf/s00076527n",
+                "score": 1.0,
+                "coherenceScore": 0.08021390374331551,
+                "globalScore": 0.00027071933511331296,
+                "source": "BABELFY"
+            },
+            {
+                "start": 583,
+                "end": 594,
+                "text": "match,martin",
+                "isEntity": false
+            },
+            {
+                "start": 596,
+                "end": 611,
+                "text": "picandet,solveig",
+                "isEntity": false
+            },
+            {
+                "start": 613,
+                "end": 626,
+                "text": "recorded,music",
+                "isEntity": false
+            },
+            {
+                "start": 622,
+                "end": 632,
+                "text": "music video",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 107,
+                    "end": 108
+                },
+                "charFragment": {
+                    "start": 622,
+                    "end": 632
+                },
+                "babelSynsetID": "bn:03793240n",
+                "DBpediaURL": "http://dbpedia.org/resource/Music_video",
+                "BabelNetURL": "http://babelnet.org/rdf/s03793240n",
+                "score": 1.0,
+                "coherenceScore": 0.31016042780748665,
+                "globalScore": 0.0077200130396479745,
+                "source": "BABELFY"
+            },
+            {
+                "start": 628,
+                "end": 638,
+                "text": "video,theme",
+                "isEntity": false
+            },
+            {
+                "start": 634,
+                "end": 643,
+                "text": "theme song",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 110,
+                    "end": 111
+                },
+                "charFragment": {
+                    "start": 634,
+                    "end": 643
+                },
+                "babelSynsetID": "bn:00071549n",
+                "DBpediaURL": "http://dbpedia.org/resource/Theme_music",
+                "BabelNetURL": "http://babelnet.org/rdf/s00071549n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 640,
+                "end": 648,
+                "text": "song,song",
+                "isEntity": false
+            },
+            {
+                "start": 650,
+                "end": 659,
+                "text": "focuses,``",
+                "isEntity": false
+            },
+            {
+                "start": 661,
+                "end": 669,
+                "text": "fire,song",
+                "isEntity": false
+            },
+            {
+                "start": 671,
+                "end": 686,
+                "text": "came,unavailable",
+                "isEntity": false
+            },
+            {
+                "start": 688,
+                "end": 694,
+                "text": ".``,top",
+                "isEntity": false
+            },
+            {
+                "start": 696,
+                "end": 703,
+                "text": "20,south",
+                "isEntity": false
+            },
+            {
+                "start": 699,
+                "end": 710,
+                "text": "south africa",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 129,
+                    "end": 130
+                },
+                "charFragment": {
+                    "start": 699,
+                    "end": 710
+                },
+                "babelSynsetID": "bn:00067231n",
+                "DBpediaURL": "http://dbpedia.org/resource/South_Africa",
+                "BabelNetURL": "http://babelnet.org/rdf/s00067231n",
+                "score": 0.9628378378378378,
+                "coherenceScore": 0.32085561497326204,
+                "globalScore": 0.006429584208941183,
+                "source": "BABELFY"
+            },
+            {
+                "start": 705,
+                "end": 716,
+                "text": "africa,short",
+                "isEntity": false
+            },
+            {
+                "start": 712,
+                "end": 722,
+                "text": "short movie",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 132,
+                    "end": 133
+                },
+                "charFragment": {
+                    "start": 712,
+                    "end": 722
+                },
+                "babelSynsetID": "bn:00071262n",
+                "DBpediaURL": "http://dbpedia.org/resource/Short_film",
+                "BabelNetURL": "http://babelnet.org/rdf/s00071262n",
+                "score": 1.0,
+                "coherenceScore": 0.15508021390374332,
+                "globalScore": 0.0015374602239976898,
+                "source": "BABELFY"
+            },
+            {
+                "start": 718,
+                "end": 728,
+                "text": "movie,promo",
+                "isEntity": false
+            },
+            {
+                "start": 730,
+                "end": 742,
+                "text": "spots,nothing",
+                "isEntity": false
+            },
+            {
+                "start": 744,
+                "end": 751,
+                "text": "else,mix",
+                "isEntity": false
+            },
+            {
+                "start": 753,
+                "end": 767,
+                "text": "reality,martina",
+                "isEntity": false
+            },
+            {
+                "start": 761,
+                "end": 775,
+                "text": "martina sorbara",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 144,
+                    "end": 145
+                },
+                "charFragment": {
+                    "start": 761,
+                    "end": 775
+                },
+                "babelSynsetID": "bn:00741806n",
+                "DBpediaURL": "http://dbpedia.org/resource/Martina_Sorbara",
+                "BabelNetURL": "http://babelnet.org/rdf/s00741806n",
+                "score": 1.0,
+                "coherenceScore": 0.16042780748663102,
+                "globalScore": 0.0011843970911207442,
+                "source": "BABELFY"
+            },
+            {
+                "start": 769,
+                "end": 780,
+                "text": "sorbara,ga\u00ebl",
+                "isEntity": false
+            },
+            {
+                "start": 777,
+                "end": 788,
+                "text": "ga\u00ebl monfils",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 147,
+                    "end": 148
+                },
+                "charFragment": {
+                    "start": 777,
+                    "end": 788
+                },
+                "babelSynsetID": "bn:01914068n",
+                "DBpediaURL": "http://dbpedia.org/resource/Ga\u00ebl_Monfils",
+                "BabelNetURL": "http://babelnet.org/rdf/s01914068n",
+                "score": 1.0,
+                "coherenceScore": 0.10160427807486631,
+                "globalScore": 0.000621526473530981,
+                "source": "BABELFY"
+            },
+            {
+                "start": 782,
+                "end": 793,
+                "text": "monfils,fake",
+                "isEntity": false
+            },
+            {
+                "start": 795,
+                "end": 807,
+                "text": "game,director",
+                "isEntity": false
+            },
+            {
+                "start": 809,
+                "end": 817,
+                "text": "--,direct",
+                "isEntity": false
+            },
+            {
+                "start": 819,
+                "end": 830,
+                "text": "videos,dance",
+                "isEntity": false
+            },
+            {
+                "start": 832,
+                "end": 842,
+                "text": "hit,chewing",
+                "isEntity": false
+            },
+            {
+                "start": 836,
+                "end": 846,
+                "text": "chewing gum",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 162,
+                    "end": 163
+                },
+                "charFragment": {
+                    "start": 836,
+                    "end": 846
+                },
+                "babelSynsetID": "bn:00937064n",
+                "DBpediaURL": "http://dbpedia.org/resource/Chewing_Gum_(song)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00937064n",
+                "score": 0.9101123595505618,
+                "coherenceScore": 0.12834224598930483,
+                "globalScore": 0.000730942204805945,
+                "source": "BABELFY"
+            },
+            {
+                "start": 844,
+                "end": 856,
+                "text": "gum,broadcast",
+                "isEntity": false
+            },
+            {
+                "start": 848,
+                "end": 859,
+                "text": "broadcast tv",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 165,
+                    "end": 166
+                },
+                "charFragment": {
+                    "start": 848,
+                    "end": 859
+                },
+                "babelSynsetID": "bn:03194217n",
+                "DBpediaURL": "http://dbpedia.org/resource/Broadcast_television_systems",
+                "BabelNetURL": "http://babelnet.org/rdf/s03194217n",
+                "score": 1.0,
+                "coherenceScore": 0.0855614973262032,
+                "globalScore": 0.0005775345815750676,
+                "source": "BABELFY"
+            },
+            {
+                "start": 858,
+                "end": 863,
+                "text": "tv,bob",
+                "isEntity": false
+            },
+            {
+                "start": 861,
+                "end": 871,
+                "text": "bob sinclar",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 168,
+                    "end": 169
+                },
+                "charFragment": {
+                    "start": 861,
+                    "end": 871
+                },
+                "babelSynsetID": "bn:01606050n",
+                "DBpediaURL": "http://dbpedia.org/resource/Bob_Sinclar",
+                "BabelNetURL": "http://babelnet.org/rdf/s01606050n",
+                "score": 1.0,
+                "coherenceScore": 0.1497326203208556,
+                "globalScore": 0.0011370212074759145,
+                "source": "BABELFY"
+            },
+            {
+                "start": 865,
+                "end": 877,
+                "text": "sinclar,birth",
+                "isEntity": false
+            },
+            {
+                "start": 873,
+                "end": 882,
+                "text": "birth name",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 171,
+                    "end": 172
+                },
+                "charFragment": {
+                    "start": 873,
+                    "end": 882
+                },
+                "babelSynsetID": "bn:03015375n",
+                "DBpediaURL": "http://dbpedia.org/resource/Name_at_birth",
+                "BabelNetURL": "http://babelnet.org/rdf/s03015375n",
+                "score": 1.0,
+                "coherenceScore": 0.0374331550802139,
+                "globalScore": 5.52718642523014e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 879,
+                "end": 890,
+                "text": "name,biggest",
+                "isEntity": false
+            },
+            {
+                "start": 892,
+                "end": 901,
+                "text": "hit,artist",
+                "isEntity": false
+            },
+            {
+                "start": 896,
+                "end": 908,
+                "text": "artist direct",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 177,
+                    "end": 178
+                },
+                "charFragment": {
+                    "start": 896,
+                    "end": 908
+                },
+                "babelSynsetID": "bn:03403284n",
+                "DBpediaURL": "http://dbpedia.org/resource/Artistdirect",
+                "BabelNetURL": "http://babelnet.org/rdf/s03403284n",
+                "score": 1.0,
+                "coherenceScore": 0.0213903743315508,
+                "globalScore": 2.7071933511331298e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 903,
+                "end": 913,
+                "text": "direct,also",
+                "isEntity": false
+            },
+            {
+                "start": 915,
+                "end": 925,
+                "text": "topped,also",
+                "isEntity": false
+            },
+            {
+                "start": 927,
+                "end": 937,
+                "text": "provided,22",
+                "isEntity": false
+            },
+            {
+                "start": 939,
+                "end": 945,
+                "text": "peak,15",
+                "isEntity": false
+            },
+            {
+                "start": 947,
+                "end": 957,
+                "text": "minutes,000",
+                "isEntity": false
+            },
+            {
+                "start": 959,
+                "end": 975,
+                "text": "spectators,making",
+                "isEntity": false
+            },
+            {
+                "start": 977,
+                "end": 988,
+                "text": "film,girl,''",
+                "isEntity": false
+            },
+            {
+                "start": 990,
+                "end": 1403,
+                "text": "unusually,video,including,song,``,recorded,film,came,'',working,vocals,used,uk,tune,trident,tournament,story,singer,shot,shooting,shoes,say,rsb,rrb,pseudonym,promote,premiere,passion,paris,netherlands,meant,lsb,lrb,like,kaskade,inspired,inspiration,homage,hello,heita,hand,guard,fiction,explained,everyone,entered,directors,date,clip,chose,charts,character,caught,bit,become,beating,audience,agreed,adverts,2010,12",
+                "isEntity": false
+            }
+        ]
+    ]
+}

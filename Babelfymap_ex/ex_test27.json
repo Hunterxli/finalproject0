@@ -1,0 +1,333 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 5,
+                "text": "weezer",
+                "isEntity": false
+            },
+            {
+                "start": 7,
+                "end": 14,
+                "text": "frontman",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 7,
+                    "end": 14
+                },
+                "babelSynsetID": "bn:03464733n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lead_vocalist",
+                "BabelNetURL": "http://babelnet.org/rdf/s03464733n",
+                "score": 1.0,
+                "coherenceScore": 0.09375,
+                "globalScore": 0.0008327220096357832,
+                "source": "BABELFY"
+            },
+            {
+                "start": 16,
+                "end": 27,
+                "text": "rivers cuomo",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 16,
+                    "end": 27
+                },
+                "babelSynsetID": "bn:01304276n",
+                "DBpediaURL": "http://dbpedia.org/resource/Rivers_Cuomo",
+                "BabelNetURL": "http://babelnet.org/rdf/s01304276n",
+                "score": 1.0,
+                "coherenceScore": 0.046875,
+                "globalScore": 0.0007732418660903701,
+                "source": "BABELFY"
+            },
+            {
+                "start": 29,
+                "end": 42,
+                "text": "explained,cool",
+                "isEntity": false
+            },
+            {
+                "start": 44,
+                "end": 47,
+                "text": "song",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 44,
+                    "end": 47
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 0.9693741677762983,
+                "coherenceScore": 0.5,
+                "globalScore": 0.05773539266808097,
+                "source": "BABELFY"
+            },
+            {
+                "start": 49,
+                "end": 53,
+                "text": "title",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 49,
+                    "end": 53
+                },
+                "babelSynsetID": "bn:00068477n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00068477n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 55,
+                "end": 67,
+                "text": "right,started",
+                "isEntity": false
+            },
+            {
+                "start": 69,
+                "end": 75,
+                "text": "writing",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 69,
+                    "end": 75
+                },
+                "babelSynsetID": "bn:00085489v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00085489v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 77,
+                "end": 80,
+                "text": "like",
+                "isEntity": false
+            },
+            {
+                "start": 82,
+                "end": 94,
+                "text": "crazy,totally",
+                "isEntity": false
+            },
+            {
+                "start": 96,
+                "end": 104,
+                "text": "different",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 17
+                },
+                "charFragment": {
+                    "start": 96,
+                    "end": 104
+                },
+                "babelSynsetID": "bn:00101347a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00101347a",
+                "score": 0.7142857142857143,
+                "coherenceScore": 0.078125,
+                "globalScore": 0.0006939350080298193,
+                "source": "BABELFY"
+            },
+            {
+                "start": 106,
+                "end": 114,
+                "text": "animal,''",
+                "isEntity": false
+            },
+            {
+                "start": 116,
+                "end": 120,
+                "text": "cuomo",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 20,
+                    "end": 20
+                },
+                "charFragment": {
+                    "start": 116,
+                    "end": 120
+                },
+                "babelSynsetID": "bn:01434048n",
+                "DBpediaURL": "http://dbpedia.org/resource/Cuomo",
+                "BabelNetURL": "http://babelnet.org/rdf/s01434048n",
+                "score": 1.0,
+                "coherenceScore": 0.03125,
+                "globalScore": 0.00011896028709082618,
+                "source": "BABELFY"
+            },
+            {
+                "start": 122,
+                "end": 136,
+                "text": "described,crazy",
+                "isEntity": false
+            },
+            {
+                "start": 138,
+                "end": 149,
+                "text": "person,sound",
+                "isEntity": false
+            },
+            {
+                "start": 151,
+                "end": 159,
+                "text": "like,song",
+                "isEntity": false
+            },
+            {
+                "start": 161,
+                "end": 168,
+                "text": "lay,wife",
+                "isEntity": false
+            },
+            {
+                "start": 170,
+                "end": 179,
+                "text": "told,three",
+                "isEntity": false
+            },
+            {
+                "start": 181,
+                "end": 191,
+                "text": "things,spin",
+                "isEntity": false
+            },
+            {
+                "start": 188,
+                "end": 200,
+                "text": "spin magazine",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 38,
+                    "end": 39
+                },
+                "charFragment": {
+                    "start": 188,
+                    "end": 200
+                },
+                "babelSynsetID": "bn:03449221n",
+                "DBpediaURL": "http://dbpedia.org/resource/Spin_(magazine)",
+                "BabelNetURL": "http://babelnet.org/rdf/s03449221n",
+                "score": 1.0,
+                "coherenceScore": 0.046875,
+                "globalScore": 0.00023792057418165236,
+                "source": "BABELFY"
+            },
+            {
+                "start": 193,
+                "end": 204,
+                "text": "magazine,old",
+                "isEntity": false
+            },
+            {
+                "start": 206,
+                "end": 219,
+                "text": "daughter,could",
+                "isEntity": false
+            },
+            {
+                "start": 221,
+                "end": 224,
+                "text": "n,ca",
+                "isEntity": false
+            },
+            {
+                "start": 226,
+                "end": 231,
+                "text": "n,wife",
+                "isEntity": false
+            },
+            {
+                "start": 233,
+                "end": 245,
+                "text": "said,daughter",
+                "isEntity": false
+            },
+            {
+                "start": 247,
+                "end": 263,
+                "text": "said,accidentally",
+                "isEntity": false
+            },
+            {
+                "start": 265,
+                "end": 273,
+                "text": "said,went",
+                "isEntity": false
+            },
+            {
+                "start": 270,
+                "end": 278,
+                "text": "went back",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 59,
+                    "end": 60
+                },
+                "charFragment": {
+                    "start": 270,
+                    "end": 278
+                },
+                "babelSynsetID": "bn:00086301v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00086301v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 275,
+                "end": 286,
+                "text": "back,wearing",
+                "isEntity": false
+            },
+            {
+                "start": 288,
+                "end": 306,
+                "text": "socks,mispronounced",
+                "isEntity": false
+            },
+            {
+                "start": 308,
+                "end": 314,
+                "text": "word,``",
+                "isEntity": false
+            },
+            {
+                "start": 316,
+                "end": 514,
+                "text": "psychotic,explained,song,like,'',said,word,went,socks,``,year,wrote,two,trying,track,thought,terrible,side,sex,say,remember,origins,one,nme,lyrics,letters,instead,heard,first,find,changed,came,became",
+                "isEntity": false
+            }
+        ]
+    ]
+}

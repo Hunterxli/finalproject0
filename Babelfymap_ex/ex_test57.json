@@ -1,0 +1,354 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "''",
+                "isEntity": false
+            },
+            {
+                "start": 3,
+                "end": 10,
+                "text": "petrucci",
+                "isEntity": false
+            },
+            {
+                "start": 12,
+                "end": 15,
+                "text": "told",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 12,
+                    "end": 15
+                },
+                "babelSynsetID": "bn:00093287v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00093287v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 17,
+                "end": 27,
+                "text": "music radar",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 17,
+                    "end": 27
+                },
+                "babelSynsetID": "bn:00847258n",
+                "DBpediaURL": "http://dbpedia.org/resource/MusicRadar",
+                "BabelNetURL": "http://babelnet.org/rdf/s00847258n",
+                "score": 1.0,
+                "coherenceScore": 0.05434782608695652,
+                "globalScore": 0.0003797660641045116,
+                "source": "BABELFY"
+            },
+            {
+                "start": 23,
+                "end": 36,
+                "text": "radar,petrucci",
+                "isEntity": false
+            },
+            {
+                "start": 38,
+                "end": 41,
+                "text": "told",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 38,
+                    "end": 41
+                },
+                "babelSynsetID": "bn:00093287v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00093287v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 43,
+                "end": 62,
+                "text": "musicradar,guitarist",
+                "isEntity": false
+            },
+            {
+                "start": 64,
+                "end": 76,
+                "text": "john petrucci",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 64,
+                    "end": 76
+                },
+                "babelSynsetID": "bn:03635064n",
+                "DBpediaURL": "http://dbpedia.org/resource/John_Petrucci",
+                "BabelNetURL": "http://babelnet.org/rdf/s03635064n",
+                "score": 1.0,
+                "coherenceScore": 0.11956521739130435,
+                "globalScore": 0.0020290358282155337,
+                "source": "BABELFY"
+            },
+            {
+                "start": 69,
+                "end": 83,
+                "text": "petrucci,middle",
+                "isEntity": false
+            },
+            {
+                "start": 85,
+                "end": 90,
+                "text": "bridge",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 85,
+                    "end": 90
+                },
+                "babelSynsetID": "bn:00013077n",
+                "DBpediaURL": "http://dbpedia.org/resource/Bridge",
+                "BabelNetURL": "http://babelnet.org/rdf/s00013077n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 92,
+                "end": 110,
+                "text": "section,keyboardist",
+                "isEntity": false
+            },
+            {
+                "start": 112,
+                "end": 124,
+                "text": "jordan rudess",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 18,
+                    "end": 19
+                },
+                "charFragment": {
+                    "start": 112,
+                    "end": 124
+                },
+                "babelSynsetID": "bn:03173746n",
+                "DBpediaURL": "http://dbpedia.org/resource/Jordan_Rudess",
+                "BabelNetURL": "http://babelnet.org/rdf/s03173746n",
+                "score": 1.0,
+                "coherenceScore": 0.09782608695652174,
+                "globalScore": 0.0013671578307762418,
+                "source": "BABELFY"
+            },
+            {
+                "start": 119,
+                "end": 128,
+                "text": "rudess,one",
+                "isEntity": false
+            },
+            {
+                "start": 130,
+                "end": 137,
+                "text": "day,moog",
+                "isEntity": false
+            },
+            {
+                "start": 139,
+                "end": 150,
+                "text": "solo,melodic",
+                "isEntity": false
+            },
+            {
+                "start": 144,
+                "end": 160,
+                "text": "melodic movements",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 27,
+                    "end": 28
+                },
+                "charFragment": {
+                    "start": 144,
+                    "end": 160
+                },
+                "babelSynsetID": "bn:00325647n",
+                "DBpediaURL": "http://dbpedia.org/resource/Melodic_motion",
+                "BabelNetURL": "http://babelnet.org/rdf/s00325647n",
+                "score": 1.0,
+                "coherenceScore": 0.10869565217391304,
+                "globalScore": 0.0014105596666739004,
+                "source": "BABELFY"
+            },
+            {
+                "start": 152,
+                "end": 166,
+                "text": "movements,light",
+                "isEntity": false
+            },
+            {
+                "start": 168,
+                "end": 182,
+                "text": "behind,eleventh",
+                "isEntity": false
+            },
+            {
+                "start": 184,
+                "end": 194,
+                "text": "album,dream",
+                "isEntity": false
+            },
+            {
+                "start": 190,
+                "end": 202,
+                "text": "dream theater",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 36,
+                    "end": 37
+                },
+                "charFragment": {
+                    "start": 190,
+                    "end": 202
+                },
+                "babelSynsetID": "bn:03597994n",
+                "DBpediaURL": "http://dbpedia.org/resource/Dream_Theater",
+                "BabelNetURL": "http://babelnet.org/rdf/s03597994n",
+                "score": 0.8804347826086957,
+                "coherenceScore": 0.29347826086956524,
+                "globalScore": 0.01318330765391376,
+                "source": "BABELFY"
+            },
+            {
+                "start": 196,
+                "end": 211,
+                "text": "theater,dramatic",
+                "isEntity": false
+            },
+            {
+                "start": 213,
+                "end": 221,
+                "text": "turn,demo",
+                "isEntity": false
+            },
+            {
+                "start": 223,
+                "end": 237,
+                "text": "process,coolest",
+                "isEntity": false
+            },
+            {
+                "start": 239,
+                "end": 250,
+                "text": "chord,bumper",
+                "isEntity": false
+            },
+            {
+                "start": 245,
+                "end": 258,
+                "text": "bumper sticker",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 48,
+                    "end": 49
+                },
+                "charFragment": {
+                    "start": 245,
+                    "end": 258
+                },
+                "babelSynsetID": "bn:01994319n",
+                "DBpediaURL": "http://dbpedia.org/resource/Bumper_sticker",
+                "BabelNetURL": "http://babelnet.org/rdf/s01994319n",
+                "score": 1.0,
+                "coherenceScore": 0.06521739130434782,
+                "globalScore": 0.0006510275384648771,
+                "source": "BABELFY"
+            },
+            {
+                "start": 252,
+                "end": 266,
+                "text": "sticker,another",
+                "isEntity": false
+            },
+            {
+                "start": 268,
+                "end": 283,
+                "text": "place,absolutely",
+                "isEntity": false
+            },
+            {
+                "start": 285,
+                "end": 294,
+                "text": "love,title",
+                "isEntity": false
+            },
+            {
+                "start": 296,
+                "end": 304,
+                "text": "came,song",
+                "isEntity": false
+            },
+            {
+                "start": 306,
+                "end": 317,
+                "text": "early,pickup",
+                "isEntity": false
+            },
+            {
+                "start": 312,
+                "end": 323,
+                "text": "pickup truck",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 63,
+                    "end": 64
+                },
+                "charFragment": {
+                    "start": 312,
+                    "end": 323
+                },
+                "babelSynsetID": "bn:00062255n",
+                "DBpediaURL": "http://dbpedia.org/resource/Pickup_truck",
+                "BabelNetURL": "http://babelnet.org/rdf/s00062255n",
+                "score": 0.8333333333333334,
+                "coherenceScore": 0.05434782608695652,
+                "globalScore": 0.0004882706538486578,
+                "source": "BABELFY"
+            },
+            {
+                "start": 319,
+                "end": 334,
+                "text": "truck,definitely",
+                "isEntity": false
+            },
+            {
+                "start": 336,
+                "end": 684,
+                "text": "said,'',jordan,truck,title,song,said,worked,ways,way,tune,track,time,thoughts,suggestions,story,stopped,spanish,sister,sent,right,playing,open,n,moving,mom,modulating,master,lot,looked,life,kept,interpreted,inspired,idea,guys,expect,events,driving,demoed,coming,com,collaboration,city,chords,cascades,brought,bringing,band,ballad,baby,anything,``,--",
+                "isEntity": false
+            }
+        ]
+    ]
+}

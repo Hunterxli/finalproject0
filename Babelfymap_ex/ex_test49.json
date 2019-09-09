@@ -1,0 +1,351 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 12,
+                "text": "old grand dad",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 12
+                },
+                "babelSynsetID": "bn:00551209n",
+                "DBpediaURL": "http://dbpedia.org/resource/Old_Grand-Dad",
+                "BabelNetURL": "http://babelnet.org/rdf/s00551209n",
+                "score": 1.0,
+                "coherenceScore": 0.06896551724137931,
+                "globalScore": 0.000888572951839346,
+                "source": "BABELFY"
+            },
+            {
+                "start": 10,
+                "end": 17,
+                "text": "dad,john",
+                "isEntity": false
+            },
+            {
+                "start": 14,
+                "end": 28,
+                "text": "john lee hooker",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 14,
+                    "end": 28
+                },
+                "babelSynsetID": "bn:00815608n",
+                "DBpediaURL": "http://dbpedia.org/resource/John_Lee_Hooker",
+                "BabelNetURL": "http://babelnet.org/rdf/s00815608n",
+                "score": 1.0,
+                "coherenceScore": 0.13793103448275862,
+                "globalScore": 0.003909720988093122,
+                "source": "BABELFY"
+            },
+            {
+                "start": 23,
+                "end": 33,
+                "text": "hooker,last",
+                "isEntity": false
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "text": ".-",
+                "isEntity": false
+            },
+            {
+                "start": 38,
+                "end": 43,
+                "text": "lrb,``",
+                "isEntity": false
+            },
+            {
+                "start": 45,
+                "end": 47,
+                "text": "one",
+                "isEntity": false
+            },
+            {
+                "start": 49,
+                "end": 65,
+                "text": "bourbon,thorogood",
+                "isEntity": false
+            },
+            {
+                "start": 67,
+                "end": 71,
+                "text": "often",
+                "isEntity": false
+            },
+            {
+                "start": 73,
+                "end": 87,
+                "text": "sings,thorogood",
+                "isEntity": false
+            },
+            {
+                "start": 89,
+                "end": 100,
+                "text": "takes,social",
+                "isEntity": false
+            },
+            {
+                "start": 95,
+                "end": 109,
+                "text": "social activity",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 24,
+                    "end": 25
+                },
+                "charFragment": {
+                    "start": 95,
+                    "end": 109
+                },
+                "babelSynsetID": "bn:00072526n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072526n",
+                "score": 1.0,
+                "coherenceScore": 0.017241379310344827,
+                "globalScore": 4.4428647591967304e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 102,
+                "end": 113,
+                "text": "activity,red",
+                "isEntity": false
+            },
+            {
+                "start": 111,
+                "end": 119,
+                "text": "red label",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 27,
+                    "end": 28
+                },
+                "charFragment": {
+                    "start": 111,
+                    "end": 119
+                },
+                "babelSynsetID": "bn:02792146n",
+                "DBpediaURL": "http://dbpedia.org/resource/Toxicity_label",
+                "BabelNetURL": "http://babelnet.org/rdf/s02792146n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 115,
+                "end": 127,
+                "text": "label,popular",
+                "isEntity": false
+            },
+            {
+                "start": 121,
+                "end": 133,
+                "text": "popular songs",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 30,
+                    "end": 31
+                },
+                "charFragment": {
+                    "start": 121,
+                    "end": 133
+                },
+                "babelSynsetID": "bn:00063586n",
+                "DBpediaURL": "http://dbpedia.org/resource/Popular_music",
+                "BabelNetURL": "http://babelnet.org/rdf/s00063586n",
+                "score": 0.9832775919732442,
+                "coherenceScore": 0.41379310344827586,
+                "globalScore": 0.05224808956815354,
+                "source": "BABELFY"
+            },
+            {
+                "start": 129,
+                "end": 137,
+                "text": "songs,one",
+                "isEntity": false
+            },
+            {
+                "start": 139,
+                "end": 148,
+                "text": "scotch,one",
+                "isEntity": false
+            },
+            {
+                "start": 150,
+                "end": 160,
+                "text": "beer,lyrics",
+                "isEntity": false
+            },
+            {
+                "start": 162,
+                "end": 179,
+                "text": "incorporate,johnny",
+                "isEntity": false
+            },
+            {
+                "start": 181,
+                "end": 190,
+                "text": "walker,jim",
+                "isEntity": false
+            },
+            {
+                "start": 188,
+                "end": 195,
+                "text": "jim beam",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 45,
+                    "end": 46
+                },
+                "charFragment": {
+                    "start": 188,
+                    "end": 195
+                },
+                "babelSynsetID": "bn:03703349n",
+                "DBpediaURL": "http://dbpedia.org/resource/Jim_Beam",
+                "BabelNetURL": "http://babelnet.org/rdf/s03703349n",
+                "score": 1.0,
+                "coherenceScore": 0.08620689655172414,
+                "globalScore": 0.0015550026657188555,
+                "source": "BABELFY"
+            },
+            {
+                "start": 192,
+                "end": 200,
+                "text": "beam,jack",
+                "isEntity": false
+            },
+            {
+                "start": 197,
+                "end": 207,
+                "text": "jack daniel",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 48,
+                    "end": 49
+                },
+                "charFragment": {
+                    "start": 197,
+                    "end": 207
+                },
+                "babelSynsetID": "bn:01215290n",
+                "DBpediaURL": "http://dbpedia.org/resource/Jack_Daniel_(DJ)",
+                "BabelNetURL": "http://babelnet.org/rdf/s01215290n",
+                "score": 0.8,
+                "coherenceScore": 0.034482758620689655,
+                "globalScore": 0.00017771459036786921,
+                "source": "BABELFY"
+            },
+            {
+                "start": 202,
+                "end": 216,
+                "text": "daniel,humorous",
+                "isEntity": false
+            },
+            {
+                "start": 218,
+                "end": 226,
+                "text": "tone,huge",
+                "isEntity": false
+            },
+            {
+                "start": 228,
+                "end": 236,
+                "text": "fan,first",
+                "isEntity": false
+            },
+            {
+                "start": 238,
+                "end": 254,
+                "text": "verse,deprecating",
+                "isEntity": false
+            },
+            {
+                "start": 256,
+                "end": 270,
+                "text": "approach,common",
+                "isEntity": false
+            },
+            {
+                "start": 272,
+                "end": 282,
+                "text": "theme,blues",
+                "isEntity": false
+            },
+            {
+                "start": 278,
+                "end": 288,
+                "text": "blues music",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 66,
+                    "end": 67
+                },
+                "charFragment": {
+                    "start": 278,
+                    "end": 288
+                },
+                "babelSynsetID": "bn:00011596n",
+                "DBpediaURL": "http://dbpedia.org/resource/Blues",
+                "BabelNetURL": "http://babelnet.org/rdf/s00011596n",
+                "score": 1.0,
+                "coherenceScore": 0.3793103448275862,
+                "globalScore": 0.05082637284521059,
+                "source": "BABELFY"
+            },
+            {
+                "start": 284,
+                "end": 294,
+                "text": "music,black",
+                "isEntity": false
+            },
+            {
+                "start": 290,
+                "end": 300,
+                "text": "black label",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 69,
+                    "end": 70
+                },
+                "charFragment": {
+                    "start": 290,
+                    "end": 300
+                },
+                "babelSynsetID": "bn:00326252n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lamb_of_God_discography",
+                "BabelNetURL": "http://babelnet.org/rdf/s00326252n",
+                "score": 1.0,
+                "coherenceScore": 0.017241379310344827,
+                "globalScore": 4.4428647591967304e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 296,
+                "end": 305,
+                "text": "label,song",
+                "isEntity": false
+            },
+            {
+                "start": 307,
+                "end": 455,
+                "text": "takes,sings,one,lrb,song,third,thanks,something,self,second,rrb,name,mentioned,many,genr\u00e9,generally,enjoys,e,drinking,drink,danvas,cover,budweiser,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

@@ -1,0 +1,1245 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "''",
+                "isEntity": false
+            },
+            {
+                "start": 3,
+                "end": 9,
+                "text": "certain",
+                "isEntity": false
+            },
+            {
+                "start": 11,
+                "end": 15,
+                "text": "songs",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 11,
+                    "end": 15
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 0.9468778377223439,
+                "coherenceScore": 0.5401785714285714,
+                "globalScore": 0.020433322690077218,
+                "source": "BABELFY"
+            },
+            {
+                "start": 17,
+                "end": 20,
+                "text": "work",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 17,
+                    "end": 20
+                },
+                "babelSynsetID": "bn:00095816v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00095816v",
+                "score": 0.729483282674772,
+                "coherenceScore": 0.05357142857142857,
+                "globalScore": 0.00013832390617489444,
+                "source": "BABELFY"
+            },
+            {
+                "start": 22,
+                "end": 28,
+                "text": "best,tv",
+                "isEntity": false
+            },
+            {
+                "start": 27,
+                "end": 33,
+                "text": "tv show",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 27,
+                    "end": 33
+                },
+                "babelSynsetID": "bn:00076429n",
+                "DBpediaURL": "http://dbpedia.org/resource/Television_program",
+                "BabelNetURL": "http://babelnet.org/rdf/s00076429n",
+                "score": 0.9186326432354357,
+                "coherenceScore": 0.16071428571428573,
+                "globalScore": 0.0010996750540904108,
+                "source": "BABELFY"
+            },
+            {
+                "start": 35,
+                "end": 40,
+                "text": "knight",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 35,
+                    "end": 40
+                },
+                "babelSynsetID": "bn:00049329n",
+                "DBpediaURL": "http://dbpedia.org/resource/Knight",
+                "BabelNetURL": "http://babelnet.org/rdf/s00049329n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 42,
+                "end": 53,
+                "text": "rider,seeing",
+                "isEntity": false
+            },
+            {
+                "start": 55,
+                "end": 64,
+                "text": "mike tyson",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 55,
+                    "end": 64
+                },
+                "babelSynsetID": "bn:00054716n",
+                "DBpediaURL": "http://dbpedia.org/resource/Mike_Tyson",
+                "BabelNetURL": "http://babelnet.org/rdf/s00054716n",
+                "score": 0.9979338842975206,
+                "coherenceScore": 0.09375,
+                "globalScore": 0.00027837686117697505,
+                "source": "BABELFY"
+            },
+            {
+                "start": 66,
+                "end": 77,
+                "text": "sitting,best",
+                "isEntity": false
+            },
+            {
+                "start": 79,
+                "end": 84,
+                "text": "summer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 16,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 79,
+                    "end": 84
+                },
+                "babelSynsetID": "bn:00075151n",
+                "DBpediaURL": "http://dbpedia.org/resource/Summer",
+                "BabelNetURL": "http://babelnet.org/rdf/s00075151n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 86,
+                "end": 90,
+                "text": "songs",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 17
+                },
+                "charFragment": {
+                    "start": 86,
+                    "end": 90
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 0.9468778377223439,
+                "coherenceScore": 0.5401785714285714,
+                "globalScore": 0.020433322690077218,
+                "source": "BABELFY"
+            },
+            {
+                "start": 92,
+                "end": 102,
+                "text": "remind,last",
+                "isEntity": false
+            },
+            {
+                "start": 104,
+                "end": 106,
+                "text": "big",
+                "isEntity": false
+            },
+            {
+                "start": 108,
+                "end": 109,
+                "text": "us",
+                "isEntity": false
+            },
+            {
+                "start": 111,
+                "end": 116,
+                "text": "hit,``",
+                "isEntity": false
+            },
+            {
+                "start": 118,
+                "end": 122,
+                "text": "cruel",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 26,
+                    "end": 26
+                },
+                "charFragment": {
+                    "start": 118,
+                    "end": 122
+                },
+                "babelSynsetID": "bn:00098042a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00098042a",
+                "score": 1.0,
+                "coherenceScore": 0.008928571428571428,
+                "globalScore": 2.3053984362482406e-06,
+                "source": "BABELFY"
+            },
+            {
+                "start": 124,
+                "end": 129,
+                "text": "summer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 27,
+                    "end": 27
+                },
+                "charFragment": {
+                    "start": 124,
+                    "end": 129
+                },
+                "babelSynsetID": "bn:00075151n",
+                "DBpediaURL": "http://dbpedia.org/resource/Summer",
+                "BabelNetURL": "http://babelnet.org/rdf/s00075151n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 131,
+                "end": 139,
+                "text": "'',movies",
+                "isEntity": false
+            },
+            {
+                "start": 141,
+                "end": 159,
+                "text": "fraternity vacation",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 30,
+                    "end": 31
+                },
+                "charFragment": {
+                    "start": 141,
+                    "end": 159
+                },
+                "babelSynsetID": "bn:01713570n",
+                "DBpediaURL": "http://dbpedia.org/resource/Fraternity_Vacation",
+                "BabelNetURL": "http://babelnet.org/rdf/s01713570n",
+                "score": 1.0,
+                "coherenceScore": 0.05803571428571429,
+                "globalScore": 9.740308393148817e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 152,
+                "end": 164,
+                "text": "vacation,look",
+                "isEntity": false
+            },
+            {
+                "start": 166,
+                "end": 171,
+                "text": "really",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 34,
+                    "end": 34
+                },
+                "charFragment": {
+                    "start": 166,
+                    "end": 171
+                },
+                "babelSynsetID": "bn:00115504r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00115504r",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 173,
+                "end": 181,
+                "text": "tired,hip",
+                "isEntity": false
+            },
+            {
+                "start": 179,
+                "end": 185,
+                "text": "hip hop",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 37,
+                    "end": 38
+                },
+                "charFragment": {
+                    "start": 179,
+                    "end": 185
+                },
+                "babelSynsetID": "bn:00044202n",
+                "DBpediaURL": "http://dbpedia.org/resource/Hip_hop_music",
+                "BabelNetURL": "http://babelnet.org/rdf/s00044202n",
+                "score": 0.8501711124654259,
+                "coherenceScore": 0.41517857142857145,
+                "globalScore": 0.010452100160340462,
+                "source": "BABELFY"
+            },
+            {
+                "start": 187,
+                "end": 195,
+                "text": "beat,high",
+                "isEntity": false
+            },
+            {
+                "start": 192,
+                "end": 210,
+                "text": "high school reunion",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 41,
+                    "end": 43
+                },
+                "charFragment": {
+                    "start": 192,
+                    "end": 210
+                },
+                "babelSynsetID": "bn:02479166n",
+                "DBpediaURL": "http://dbpedia.org/resource/Class_reunion",
+                "BabelNetURL": "http://babelnet.org/rdf/s02479166n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 204,
+                "end": 216,
+                "text": "reunion,going",
+                "isEntity": false
+            },
+            {
+                "start": 218,
+                "end": 221,
+                "text": "away",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 46,
+                    "end": 46
+                },
+                "charFragment": {
+                    "start": 218,
+                    "end": 221
+                },
+                "babelSynsetID": "bn:00114455r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00114455r",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 223,
+                "end": 236,
+                "text": "without,always",
+                "isEntity": false
+            },
+            {
+                "start": 238,
+                "end": 245,
+                "text": "remember",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 50,
+                    "end": 50
+                },
+                "charFragment": {
+                    "start": 238,
+                    "end": 245
+                },
+                "babelSynsetID": "bn:00084413v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00084413v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 247,
+                "end": 256,
+                "text": "coming,new",
+                "isEntity": false
+            },
+            {
+                "start": 254,
+                "end": 266,
+                "text": "new york city",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 53,
+                    "end": 55
+                },
+                "charFragment": {
+                    "start": 254,
+                    "end": 266
+                },
+                "babelSynsetID": "bn:00041611n",
+                "DBpediaURL": "http://dbpedia.org/resource/New_York_City",
+                "BabelNetURL": "http://babelnet.org/rdf/s00041611n",
+                "score": 0.9725008957362953,
+                "coherenceScore": 0.6875,
+                "globalScore": 0.037544566233520725,
+                "source": "BABELFY"
+            },
+            {
+                "start": 263,
+                "end": 272,
+                "text": "city,three",
+                "isEntity": false
+            },
+            {
+                "start": 274,
+                "end": 278,
+                "text": "group",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 58,
+                    "end": 58
+                },
+                "charFragment": {
+                    "start": 274,
+                    "end": 278
+                },
+                "babelSynsetID": "bn:00068051n",
+                "DBpediaURL": "http://dbpedia.org/resource/Musical_ensemble",
+                "BabelNetURL": "http://babelnet.org/rdf/s00068051n",
+                "score": 0.7250673020391745,
+                "coherenceScore": 0.45089285714285715,
+                "globalScore": 0.013505024039542193,
+                "source": "BABELFY"
+            },
+            {
+                "start": 280,
+                "end": 294,
+                "text": "members,swedish",
+                "isEntity": false
+            },
+            {
+                "start": 288,
+                "end": 298,
+                "text": "swedish pop",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 61,
+                    "end": 62
+                },
+                "charFragment": {
+                    "start": 288,
+                    "end": 298
+                },
+                "babelSynsetID": "bn:01186496n",
+                "DBpediaURL": "http://dbpedia.org/resource/Swedish_popular_music",
+                "BabelNetURL": "http://babelnet.org/rdf/s01186496n",
+                "score": 1.0,
+                "coherenceScore": 0.08482142857142858,
+                "globalScore": 0.00020806220887140372,
+                "source": "BABELFY"
+            },
+            {
+                "start": 296,
+                "end": 304,
+                "text": "pop group",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 62,
+                    "end": 63
+                },
+                "charFragment": {
+                    "start": 296,
+                    "end": 304
+                },
+                "babelSynsetID": "bn:00063562n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00063562n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 300,
+                "end": 315,
+                "text": "group,soundtrack",
+                "isEntity": false
+            },
+            {
+                "start": 317,
+                "end": 318,
+                "text": ".-",
+                "isEntity": false
+            },
+            {
+                "start": 320,
+                "end": 330,
+                "text": "lrb,america",
+                "isEntity": false
+            },
+            {
+                "start": 332,
+                "end": 333,
+                "text": ".-",
+                "isEntity": false
+            },
+            {
+                "start": 335,
+                "end": 343,
+                "text": "lrb,first",
+                "isEntity": false
+            },
+            {
+                "start": 345,
+                "end": 354,
+                "text": "discovered",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 76,
+                    "end": 76
+                },
+                "charFragment": {
+                    "start": 345,
+                    "end": 354
+                },
+                "babelSynsetID": "bn:00086708v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00086708v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 356,
+                "end": 368,
+                "text": "cocaine,first",
+                "isEntity": false
+            },
+            {
+                "start": 370,
+                "end": 375,
+                "text": "became",
+                "isEntity": false
+            },
+            {
+                "start": 377,
+                "end": 387,
+                "text": "famous,song",
+                "isEntity": false
+            },
+            {
+                "start": 389,
+                "end": 392,
+                "text": "also",
+                "isEntity": false
+            },
+            {
+                "start": 394,
+                "end": 409,
+                "text": "appeared,siobhan",
+                "isEntity": false
+            },
+            {
+                "start": 403,
+                "end": 415,
+                "text": "siobhan fahey",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 87,
+                    "end": 88
+                },
+                "charFragment": {
+                    "start": 403,
+                    "end": 415
+                },
+                "babelSynsetID": "bn:01011852n",
+                "DBpediaURL": "http://dbpedia.org/resource/Siobhan_Fahey",
+                "BabelNetURL": "http://babelnet.org/rdf/s01011852n",
+                "score": 1.0,
+                "coherenceScore": 0.15625,
+                "globalScore": 0.0008875783979555727,
+                "source": "BABELFY"
+            },
+            {
+                "start": 417,
+                "end": 429,
+                "text": "recalls,movie",
+                "isEntity": false
+            },
+            {
+                "start": 431,
+                "end": 440,
+                "text": "blue crush",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 92,
+                    "end": 93
+                },
+                "charFragment": {
+                    "start": 431,
+                    "end": 440
+                },
+                "babelSynsetID": "bn:02419826n",
+                "DBpediaURL": "http://dbpedia.org/resource/Blue_Crush",
+                "BabelNetURL": "http://babelnet.org/rdf/s02419826n",
+                "score": 1.0,
+                "coherenceScore": 0.07589285714285714,
+                "globalScore": 0.0001665650370189354,
+                "source": "BABELFY"
+            },
+            {
+                "start": 436,
+                "end": 449,
+                "text": "crush,guardian",
+                "isEntity": false
+            },
+            {
+                "start": 451,
+                "end": 457,
+                "text": "july 22",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 96,
+                    "end": 97
+                },
+                "charFragment": {
+                    "start": 451,
+                    "end": 457
+                },
+                "babelSynsetID": "bn:00837526n",
+                "DBpediaURL": "http://dbpedia.org/resource/July_22",
+                "BabelNetURL": "http://babelnet.org/rdf/s00837526n",
+                "score": 0.9767441860465116,
+                "coherenceScore": 0.09375,
+                "globalScore": 0.0003873069372897044,
+                "source": "BABELFY"
+            },
+            {
+                "start": 456,
+                "end": 460,
+                "text": "22,``",
+                "isEntity": false
+            },
+            {
+                "start": 462,
+                "end": 466,
+                "text": "cruel",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 100,
+                    "end": 100
+                },
+                "charFragment": {
+                    "start": 462,
+                    "end": 466
+                },
+                "babelSynsetID": "bn:00098042a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00098042a",
+                "score": 1.0,
+                "coherenceScore": 0.008928571428571428,
+                "globalScore": 2.3053984362482406e-06,
+                "source": "BABELFY"
+            },
+            {
+                "start": 468,
+                "end": 481,
+                "text": "summer,version",
+                "isEntity": false
+            },
+            {
+                "start": 483,
+                "end": 485,
+                "text": "hit",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 104,
+                    "end": 104
+                },
+                "charFragment": {
+                    "start": 483,
+                    "end": 485
+                },
+                "babelSynsetID": "bn:00089346v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00089346v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 487,
+                "end": 491,
+                "text": "uk,10",
+                "isEntity": false
+            },
+            {
+                "start": 493,
+                "end": 494,
+                "text": "uk",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 107,
+                    "end": 107
+                },
+                "charFragment": {
+                    "start": 493,
+                    "end": 494
+                },
+                "babelSynsetID": "bn:00013173n",
+                "DBpediaURL": "http://dbpedia.org/resource/United_Kingdom",
+                "BabelNetURL": "http://babelnet.org/rdf/s00013173n",
+                "score": 0.9944559944559944,
+                "coherenceScore": 0.8125,
+                "globalScore": 0.06451081174231639,
+                "source": "BABELFY"
+            },
+            {
+                "start": 496,
+                "end": 505,
+                "text": "hits,never",
+                "isEntity": false
+            },
+            {
+                "start": 507,
+                "end": 510,
+                "text": "done",
+                "isEntity": false
+            },
+            {
+                "start": 512,
+                "end": 522,
+                "text": "coke,summer",
+                "isEntity": false
+            },
+            {
+                "start": 524,
+                "end": 534,
+                "text": "songs,cruel",
+                "isEntity": false
+            },
+            {
+                "start": 536,
+                "end": 549,
+                "text": "summer,siobhan",
+                "isEntity": false
+            },
+            {
+                "start": 543,
+                "end": 555,
+                "text": "siobhan fahey",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 120,
+                    "end": 121
+                },
+                "charFragment": {
+                    "start": 543,
+                    "end": 555
+                },
+                "babelSynsetID": "bn:01011852n",
+                "DBpediaURL": "http://dbpedia.org/resource/Siobhan_Fahey",
+                "BabelNetURL": "http://babelnet.org/rdf/s01011852n",
+                "score": 1.0,
+                "coherenceScore": 0.15625,
+                "globalScore": 0.0008875783979555727,
+                "source": "BABELFY"
+            },
+            {
+                "start": 551,
+                "end": 558,
+                "text": "fahey,89",
+                "isEntity": false
+            },
+            {
+                "start": 560,
+                "end": 564,
+                "text": "'',''",
+                "isEntity": false
+            },
+            {
+                "start": 566,
+                "end": 580,
+                "text": "directed,summer",
+                "isEntity": false
+            },
+            {
+                "start": 582,
+                "end": 592,
+                "text": "ticked,huge",
+                "isEntity": false
+            },
+            {
+                "start": 594,
+                "end": 600,
+                "text": "hit,hot",
+                "isEntity": false
+            },
+            {
+                "start": 598,
+                "end": 605,
+                "text": "hot city",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 132,
+                    "end": 133
+                },
+                "charFragment": {
+                    "start": 598,
+                    "end": 605
+                },
+                "babelSynsetID": "bn:02517341n",
+                "DBpediaURL": "http://dbpedia.org/resource/Hot_City_(album)",
+                "BabelNetURL": "http://babelnet.org/rdf/s02517341n",
+                "score": 1.0,
+                "coherenceScore": 0.07142857142857142,
+                "globalScore": 0.0001475454999198874,
+                "source": "BABELFY"
+            },
+            {
+                "start": 602,
+                "end": 611,
+                "text": "city,cover",
+                "isEntity": false
+            },
+            {
+                "start": 607,
+                "end": 619,
+                "text": "cover version",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 135,
+                    "end": 136
+                },
+                "charFragment": {
+                    "start": 607,
+                    "end": 619
+                },
+                "babelSynsetID": "bn:00023352n",
+                "DBpediaURL": "http://dbpedia.org/resource/Cover_version",
+                "BabelNetURL": "http://babelnet.org/rdf/s00023352n",
+                "score": 0.993103448275862,
+                "coherenceScore": 0.36160714285714285,
+                "globalScore": 0.00672254184009987,
+                "source": "BABELFY"
+            },
+            {
+                "start": 613,
+                "end": 622,
+                "text": "version,``",
+                "isEntity": false
+            },
+            {
+                "start": 624,
+                "end": 632,
+                "text": "surfin,``",
+                "isEntity": false
+            },
+            {
+                "start": 634,
+                "end": 643,
+                "text": "played,saw",
+                "isEntity": false
+            },
+            {
+                "start": 645,
+                "end": 651,
+                "text": "us,gave",
+                "isEntity": false
+            },
+            {
+                "start": 653,
+                "end": 660,
+                "text": "us,first",
+                "isEntity": false
+            },
+            {
+                "start": 662,
+                "end": 672,
+                "text": "kissed,tony",
+                "isEntity": false
+            },
+            {
+                "start": 669,
+                "end": 678,
+                "text": "tony swain",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 153,
+                    "end": 154
+                },
+                "charFragment": {
+                    "start": 669,
+                    "end": 678
+                },
+                "babelSynsetID": "bn:01066260n",
+                "DBpediaURL": "http://dbpedia.org/resource/Jolley_&_Swain",
+                "BabelNetURL": "http://babelnet.org/rdf/s01066260n",
+                "score": 0.9675383228133454,
+                "coherenceScore": 0.12946428571428573,
+                "globalScore": 0.0006184231305235905,
+                "source": "BABELFY"
+            },
+            {
+                "start": 674,
+                "end": 684,
+                "text": "swain,steve",
+                "isEntity": false
+            },
+            {
+                "start": 680,
+                "end": 691,
+                "text": "steve jolley",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 156,
+                    "end": 157
+                },
+                "charFragment": {
+                    "start": 680,
+                    "end": 691
+                },
+                "babelSynsetID": "bn:01066260n",
+                "DBpediaURL": "http://dbpedia.org/resource/Jolley_&_Swain",
+                "BabelNetURL": "http://babelnet.org/rdf/s01066260n",
+                "score": 0.9853076216712581,
+                "coherenceScore": 0.12946428571428573,
+                "globalScore": 0.0006184231305235905,
+                "source": "BABELFY"
+            },
+            {
+                "start": 686,
+                "end": 699,
+                "text": "jolley,started",
+                "isEntity": false
+            },
+            {
+                "start": 701,
+                "end": 715,
+                "text": "chatting,singer",
+                "isEntity": false
+            },
+            {
+                "start": 717,
+                "end": 728,
+                "text": "finds,singer",
+                "isEntity": false
+            },
+            {
+                "start": 730,
+                "end": 740,
+                "text": "diana,sarah",
+                "isEntity": false
+            },
+            {
+                "start": 736,
+                "end": 747,
+                "text": "sarah dallin",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 168,
+                    "end": 169
+                },
+                "charFragment": {
+                    "start": 736,
+                    "end": 747
+                },
+                "babelSynsetID": "bn:02053757n",
+                "DBpediaURL": "http://dbpedia.org/resource/Sara_Dallin",
+                "BabelNetURL": "http://babelnet.org/rdf/s02053757n",
+                "score": 1.0,
+                "coherenceScore": 0.09821428571428571,
+                "globalScore": 0.00038039074198095973,
+                "source": "BABELFY"
+            },
+            {
+                "start": 742,
+                "end": 752,
+                "text": "dallin,sara",
+                "isEntity": false
+            },
+            {
+                "start": 749,
+                "end": 759,
+                "text": "sara dallin",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 171,
+                    "end": 172
+                },
+                "charFragment": {
+                    "start": 749,
+                    "end": 759
+                },
+                "babelSynsetID": "bn:02053757n",
+                "DBpediaURL": "http://dbpedia.org/resource/Sara_Dallin",
+                "BabelNetURL": "http://babelnet.org/rdf/s02053757n",
+                "score": 1.0,
+                "coherenceScore": 0.09821428571428571,
+                "globalScore": 0.00038039074198095973,
+                "source": "BABELFY"
+            },
+            {
+                "start": 754,
+                "end": 763,
+                "text": "dallin,rap",
+                "isEntity": false
+            },
+            {
+                "start": 765,
+                "end": 778,
+                "text": "mix,oppressive",
+                "isEntity": false
+            },
+            {
+                "start": 780,
+                "end": 789,
+                "text": "heat,mungo",
+                "isEntity": false
+            },
+            {
+                "start": 785,
+                "end": 795,
+                "text": "mungo jerry",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 180,
+                    "end": 181
+                },
+                "charFragment": {
+                    "start": 785,
+                    "end": 795
+                },
+                "babelSynsetID": "bn:03450959n",
+                "DBpediaURL": "http://dbpedia.org/resource/Mungo_Jerry",
+                "BabelNetURL": "http://babelnet.org/rdf/s03450959n",
+                "score": 0.7460815047021944,
+                "coherenceScore": 0.125,
+                "globalScore": 0.0005486848278270813,
+                "source": "BABELFY"
+            },
+            {
+                "start": 791,
+                "end": 802,
+                "text": "jerry,little",
+                "isEntity": false
+            },
+            {
+                "start": 804,
+                "end": 813,
+                "text": "vials,know",
+                "isEntity": false
+            },
+            {
+                "start": 815,
+                "end": 827,
+                "text": "anybody,keren",
+                "isEntity": false
+            },
+            {
+                "start": 823,
+                "end": 836,
+                "text": "keren woodward",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 189,
+                    "end": 190
+                },
+                "charFragment": {
+                    "start": 823,
+                    "end": 836
+                },
+                "babelSynsetID": "bn:03456982n",
+                "DBpediaURL": "http://dbpedia.org/resource/Keren_Woodward",
+                "BabelNetURL": "http://babelnet.org/rdf/s03456982n",
+                "score": 1.0,
+                "coherenceScore": 0.10267857142857142,
+                "globalScore": 0.00042419331226967627,
+                "source": "BABELFY"
+            },
+            {
+                "start": 829,
+                "end": 843,
+                "text": "woodward,karate",
+                "isEntity": false
+            },
+            {
+                "start": 845,
+                "end": 856,
+                "text": "kid,generous",
+                "isEntity": false
+            },
+            {
+                "start": 858,
+                "end": 867,
+                "text": "bumps,four",
+                "isEntity": false
+            },
+            {
+                "start": 869,
+                "end": 878,
+                "text": "top,darker",
+                "isEntity": false
+            },
+            {
+                "start": 880,
+                "end": 890,
+                "text": "side,dallin",
+                "isEntity": false
+            },
+            {
+                "start": 892,
+                "end": 905,
+                "text": "recalled,could",
+                "isEntity": false
+            },
+            {
+                "start": 907,
+                "end": 918,
+                "text": "afford,brian",
+                "isEntity": false
+            },
+            {
+                "start": 920,
+                "end": 932,
+                "text": "simmons,beach",
+                "isEntity": false
+            },
+            {
+                "start": 928,
+                "end": 937,
+                "text": "beach boys",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 213,
+                    "end": 214
+                },
+                "charFragment": {
+                    "start": 928,
+                    "end": 937
+                },
+                "babelSynsetID": "bn:03204350n",
+                "DBpediaURL": "http://dbpedia.org/resource/The_Beach_Boys",
+                "BabelNetURL": "http://babelnet.org/rdf/s03204350n",
+                "score": 0.8964613368283093,
+                "coherenceScore": 0.20089285714285715,
+                "globalScore": 0.0019711156629922456,
+                "source": "BABELFY"
+            },
+            {
+                "start": 934,
+                "end": 942,
+                "text": "boys,base",
+                "isEntity": false
+            },
+            {
+                "start": 944,
+                "end": 956,
+                "text": "recorded,base",
+                "isEntity": false
+            },
+            {
+                "start": 953,
+                "end": 961,
+                "text": "base camp",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 219,
+                    "end": 220
+                },
+                "charFragment": {
+                    "start": 953,
+                    "end": 961
+                },
+                "babelSynsetID": "bn:00056090n",
+                "DBpediaURL": "http://dbpedia.org/resource/Mountaineering",
+                "BabelNetURL": "http://babelnet.org/rdf/s00056090n",
+                "score": 1.0,
+                "coherenceScore": 0.05357142857142857,
+                "globalScore": 0.00011757532024866027,
+                "source": "BABELFY"
+            },
+            {
+                "start": 958,
+                "end": 972,
+                "text": "camp,bananarama",
+                "isEntity": false
+            },
+            {
+                "start": 974,
+                "end": 986,
+                "text": "told,anything",
+                "isEntity": false
+            },
+            {
+                "start": 988,
+                "end": 994,
+                "text": "goes,``",
+                "isEntity": false
+            },
+            {
+                "start": 996,
+                "end": 1002,
+                "text": "k,lunch",
+                "isEntity": false
+            },
+            {
+                "start": 1004,
+                "end": 1640,
+                "text": "shots,'',summer,hit,uk,lrb,group,``,us,first,song,never,movie,guardian,coke,10,lunch,k,youth,written,well,watch,wanting,wanted,want,vs,video,va,used,unbelievable,u,tracks,thanks,tavern,sun,summertime,someone,shot,scenes,rrb,romy,repaired,released,r,producers,primarily,point,people,paris,parents,nessie,n,mtv,misery,miserable,michele,met,manic,make,looked,like,left,la,intrigued,impact,hotel,holidays,go,france,felt,featured,existence,exhausted,euphoric,episode,england,dockworkers,danville,burst,bunch,brooklyn,boyfriend,boy,book,blestenation,bertrand,aware,appears,alone,album,addition,added,ace,8,2009,1998,1997,1989,1985,1984,1983,19",
+                "isEntity": false
+            }
+        ]
+    ]
+}

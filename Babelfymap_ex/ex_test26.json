@@ -1,0 +1,45 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 4,
+                "text": "happy",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 4
+                },
+                "babelSynsetID": "bn:00103933a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00103933a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 6,
+                "end": 7,
+                "text": ".-",
+                "isEntity": false
+            },
+            {
+                "start": 9,
+                "end": 16,
+                "text": "lrb,time",
+                "isEntity": false
+            },
+            {
+                "start": 18,
+                "end": 114,
+                "text": "'',lrb,want,toronto,thanks,singer,rrb,pregnant,period,n,james,girlfriend,finds,canada,believes,``",
+                "isEntity": false
+            }
+        ]
+    ]
+}

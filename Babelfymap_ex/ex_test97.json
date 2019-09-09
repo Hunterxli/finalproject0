@@ -1,0 +1,357 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "''",
+                "isEntity": false
+            },
+            {
+                "start": 3,
+                "end": 10,
+                "text": "tunstall",
+                "isEntity": false
+            },
+            {
+                "start": 12,
+                "end": 15,
+                "text": "told",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 12,
+                    "end": 15
+                },
+                "babelSynsetID": "bn:00093287v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00093287v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 17,
+                "end": 38,
+                "text": "musicremedy,songwriter",
+                "isEntity": false
+            },
+            {
+                "start": 40,
+                "end": 50,
+                "text": "kt tunstall",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 40,
+                    "end": 50
+                },
+                "babelSynsetID": "bn:01172031n",
+                "DBpediaURL": "http://dbpedia.org/resource/KT_Tunstall",
+                "BabelNetURL": "http://babelnet.org/rdf/s01172031n",
+                "score": 1.0,
+                "coherenceScore": 0.30612244897959184,
+                "globalScore": 0.0075800362652715435,
+                "source": "BABELFY"
+            },
+            {
+                "start": 43,
+                "end": 57,
+                "text": "tunstall,picked",
+                "isEntity": false
+            },
+            {
+                "start": 59,
+                "end": 66,
+                "text": "acoustic",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 59,
+                    "end": 66
+                },
+                "babelSynsetID": "bn:00096347a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00096347a",
+                "score": 1.0,
+                "coherenceScore": 0.061224489795918366,
+                "globalScore": 0.00026753069171546625,
+                "source": "BABELFY"
+            },
+            {
+                "start": 68,
+                "end": 76,
+                "text": "tune,many",
+                "isEntity": false
+            },
+            {
+                "start": 78,
+                "end": 86,
+                "text": "legendary",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 78,
+                    "end": 86
+                },
+                "babelSynsetID": "bn:00102682a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00102682a",
+                "score": 0.9,
+                "coherenceScore": 0.061224489795918366,
+                "globalScore": 0.00026753069171546625,
+                "source": "BABELFY"
+            },
+            {
+                "start": 88,
+                "end": 103,
+                "text": "albums,including",
+                "isEntity": false
+            },
+            {
+                "start": 105,
+                "end": 115,
+                "text": "david bowie",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 18
+                },
+                "charFragment": {
+                    "start": 105,
+                    "end": 115
+                },
+                "babelSynsetID": "bn:03767213n",
+                "DBpediaURL": "http://dbpedia.org/resource/David_Bowie",
+                "BabelNetURL": "http://babelnet.org/rdf/s03767213n",
+                "score": 0.8768197088465846,
+                "coherenceScore": 0.5510204081632653,
+                "globalScore": 0.04655034035849113,
+                "source": "BABELFY"
+            },
+            {
+                "start": 111,
+                "end": 127,
+                "text": "bowie,confronting",
+                "isEntity": false
+            },
+            {
+                "start": 129,
+                "end": 132,
+                "text": "fear",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 21,
+                    "end": 21
+                },
+                "charFragment": {
+                    "start": 129,
+                    "end": 132
+                },
+                "babelSynsetID": "bn:00033854n",
+                "DBpediaURL": "http://dbpedia.org/resource/Fear",
+                "BabelNetURL": "http://babelnet.org/rdf/s00033854n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 134,
+                "end": 142,
+                "text": "rather,''",
+                "isEntity": false
+            },
+            {
+                "start": 144,
+                "end": 153,
+                "text": "tiger suit",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 24,
+                    "end": 25
+                },
+                "charFragment": {
+                    "start": 144,
+                    "end": 153
+                },
+                "babelSynsetID": "bn:02226306n",
+                "DBpediaURL": "http://dbpedia.org/resource/Tiger_Suit",
+                "BabelNetURL": "http://babelnet.org/rdf/s02226306n",
+                "score": 1.0,
+                "coherenceScore": 0.2857142857142857,
+                "globalScore": 0.006242382806694213,
+                "source": "BABELFY"
+            },
+            {
+                "start": 150,
+                "end": 159,
+                "text": "suit,third",
+                "isEntity": false
+            },
+            {
+                "start": 155,
+                "end": 172,
+                "text": "third studio album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 27,
+                    "end": 29
+                },
+                "charFragment": {
+                    "start": 155,
+                    "end": 172
+                },
+                "babelSynsetID": "bn:00966822n",
+                "DBpediaURL": "http://dbpedia.org/resource/Day_&_Age",
+                "BabelNetURL": "http://babelnet.org/rdf/s00966822n",
+                "score": 1.0,
+                "coherenceScore": 0.12244897959183673,
+                "globalScore": 0.001070122766861865,
+                "source": "BABELFY"
+            },
+            {
+                "start": 168,
+                "end": 178,
+                "text": "album,tiger",
+                "isEntity": false
+            },
+            {
+                "start": 174,
+                "end": 183,
+                "text": "tiger suit",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 31,
+                    "end": 32
+                },
+                "charFragment": {
+                    "start": 174,
+                    "end": 183
+                },
+                "babelSynsetID": "bn:02226306n",
+                "DBpediaURL": "http://dbpedia.org/resource/Tiger_Suit",
+                "BabelNetURL": "http://babelnet.org/rdf/s02226306n",
+                "score": 1.0,
+                "coherenceScore": 0.2857142857142857,
+                "globalScore": 0.006242382806694213,
+                "source": "BABELFY"
+            },
+            {
+                "start": 180,
+                "end": 189,
+                "text": "suit,hansa",
+                "isEntity": false
+            },
+            {
+                "start": 191,
+                "end": 205,
+                "text": "studio,scottish",
+                "isEntity": false
+            },
+            {
+                "start": 207,
+                "end": 220,
+                "text": "singer,running",
+                "isEntity": false
+            },
+            {
+                "start": 222,
+                "end": 231,
+                "text": "away,magic",
+                "isEntity": false
+            },
+            {
+                "start": 233,
+                "end": 244,
+                "text": "step,located",
+                "isEntity": false
+            },
+            {
+                "start": 246,
+                "end": 257,
+                "text": "beside,first",
+                "isEntity": false
+            },
+            {
+                "start": 259,
+                "end": 274,
+                "text": "attempts,achtung",
+                "isEntity": false
+            },
+            {
+                "start": 268,
+                "end": 279,
+                "text": "achtung baby",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 52,
+                    "end": 53
+                },
+                "charFragment": {
+                    "start": 268,
+                    "end": 279
+                },
+                "babelSynsetID": "bn:01364594n",
+                "DBpediaURL": "http://dbpedia.org/resource/Achtung_Baby",
+                "BabelNetURL": "http://babelnet.org/rdf/s01364594n",
+                "score": 1.0,
+                "coherenceScore": 0.3469387755102041,
+                "globalScore": 0.011117386522398263,
+                "source": "BABELFY"
+            },
+            {
+                "start": 276,
+                "end": 289,
+                "text": "baby,signature",
+                "isEntity": false
+            },
+            {
+                "start": 291,
+                "end": 302,
+                "text": "track,berlin",
+                "isEntity": false
+            },
+            {
+                "start": 297,
+                "end": 307,
+                "text": "berlin wall",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 58,
+                    "end": 59
+                },
+                "charFragment": {
+                    "start": 297,
+                    "end": 307
+                },
+                "babelSynsetID": "bn:03082469n",
+                "DBpediaURL": "http://dbpedia.org/resource/Berlin_Wall",
+                "BabelNetURL": "http://babelnet.org/rdf/s03082469n",
+                "score": 1.0,
+                "coherenceScore": 0.16326530612244897,
+                "globalScore": 0.0047561011860527335,
+                "source": "BABELFY"
+            },
+            {
+                "start": 304,
+                "end": 394,
+                "text": "wall,album,track,berlin,u2,song,site,said,recorded,one,mixing,heroes,electronica,com,big,``",
+                "isEntity": false
+            }
+        ]
+    ]
+}

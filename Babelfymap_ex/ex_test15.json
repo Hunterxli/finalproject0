@@ -1,0 +1,360 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 6,
+                "text": "lambert",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 6
+                },
+                "babelSynsetID": "bn:00049537n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lambert_(unit)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00049537n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 8,
+                "end": 10,
+                "text": "top",
+                "isEntity": false
+            },
+            {
+                "start": 12,
+                "end": 17,
+                "text": "female",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 12,
+                    "end": 17
+                },
+                "babelSynsetID": "bn:00102884a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00102884a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 19,
+                "end": 34,
+                "text": "vocalist,country",
+                "isEntity": false
+            },
+            {
+                "start": 36,
+                "end": 41,
+                "text": "artist",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 36,
+                    "end": 41
+                },
+                "babelSynsetID": "bn:00060201n",
+                "DBpediaURL": "http://dbpedia.org/resource/Painting",
+                "BabelNetURL": "http://babelnet.org/rdf/s00060201n",
+                "score": 0.7882534775888718,
+                "coherenceScore": 0.30357142857142855,
+                "globalScore": 0.015603010463195252,
+                "source": "BABELFY"
+            },
+            {
+                "start": 43,
+                "end": 57,
+                "text": "miranda lambert",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 43,
+                    "end": 57
+                },
+                "babelSynsetID": "bn:02217533n",
+                "DBpediaURL": "http://dbpedia.org/resource/Miranda_Lambert",
+                "BabelNetURL": "http://babelnet.org/rdf/s02217533n",
+                "score": 1.0,
+                "coherenceScore": 0.25,
+                "globalScore": 0.008566358685675825,
+                "source": "BABELFY"
+            },
+            {
+                "start": 51,
+                "end": 60,
+                "text": "lambert,``",
+                "isEntity": false
+            },
+            {
+                "start": 62,
+                "end": 71,
+                "text": "white liar",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 62,
+                    "end": 71
+                },
+                "babelSynsetID": "bn:01748717n",
+                "DBpediaURL": "http://dbpedia.org/resource/White_Liar",
+                "BabelNetURL": "http://babelnet.org/rdf/s01748717n",
+                "score": 1.0,
+                "coherenceScore": 0.125,
+                "globalScore": 0.002141589671418956,
+                "source": "BABELFY"
+            },
+            {
+                "start": 73,
+                "end": 82,
+                "text": "'',telling",
+                "isEntity": false
+            },
+            {
+                "start": 84,
+                "end": 93,
+                "text": "white lies",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 84,
+                    "end": 93
+                },
+                "babelSynsetID": "bn:00081075n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00081075n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 90,
+                "end": 99,
+                "text": "lies,small",
+                "isEntity": false
+            },
+            {
+                "start": 95,
+                "end": 104,
+                "text": "small town",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 18,
+                    "end": 19
+                },
+                "charFragment": {
+                    "start": 95,
+                    "end": 104
+                },
+                "babelSynsetID": "bn:00070724n",
+                "DBpediaURL": "http://dbpedia.org/resource/Human_settlement",
+                "BabelNetURL": "http://babelnet.org/rdf/s00070724n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 106,
+                "end": 119,
+                "text": "basically,2010",
+                "isEntity": false
+            },
+            {
+                "start": 121,
+                "end": 130,
+                "text": "acm awards",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 22,
+                    "end": 23
+                },
+                "charFragment": {
+                    "start": 121,
+                    "end": 130
+                },
+                "babelSynsetID": "bn:00243690n",
+                "DBpediaURL": "http://dbpedia.org/resource/Academy_of_Country_Music_Awards",
+                "BabelNetURL": "http://babelnet.org/rdf/s00243690n",
+                "score": 1.0,
+                "coherenceScore": 0.16071428571428573,
+                "globalScore": 0.002753472434681515,
+                "source": "BABELFY"
+            },
+            {
+                "start": 125,
+                "end": 138,
+                "text": "awards,lambert",
+                "isEntity": false
+            },
+            {
+                "start": 140,
+                "end": 152,
+                "text": "wrote,lambert",
+                "isEntity": false
+            },
+            {
+                "start": 154,
+                "end": 163,
+                "text": "said,woman",
+                "isEntity": false
+            },
+            {
+                "start": 165,
+                "end": 182,
+                "text": "confronting,second",
+                "isEntity": false
+            },
+            {
+                "start": 184,
+                "end": 199,
+                "text": "single,publicity",
+                "isEntity": false
+            },
+            {
+                "start": 201,
+                "end": 217,
+                "text": "materials,natalie",
+                "isEntity": false
+            },
+            {
+                "start": 211,
+                "end": 223,
+                "text": "natalie hemby",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 40,
+                    "end": 41
+                },
+                "charFragment": {
+                    "start": 211,
+                    "end": 223
+                },
+                "babelSynsetID": "bn:16784690n",
+                "DBpediaURL": "http://dbpedia.org/resource/Natalie_Hemby",
+                "BabelNetURL": "http://babelnet.org/rdf/s16784690n",
+                "score": 1.0,
+                "coherenceScore": 0.08928571428571429,
+                "globalScore": 0.0012237655265251177,
+                "source": "BABELFY"
+            },
+            {
+                "start": 219,
+                "end": 229,
+                "text": "hemby,julie",
+                "isEntity": false
+            },
+            {
+                "start": 225,
+                "end": 236,
+                "text": "julie miller",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 43,
+                    "end": 44
+                },
+                "charFragment": {
+                    "start": 225,
+                    "end": 236
+                },
+                "babelSynsetID": "bn:03803795n",
+                "DBpediaURL": "http://dbpedia.org/resource/Julie_Miller",
+                "BabelNetURL": "http://babelnet.org/rdf/s03803795n",
+                "score": 1.0,
+                "coherenceScore": 0.16071428571428573,
+                "globalScore": 0.0024781251912133636,
+                "source": "BABELFY"
+            },
+            {
+                "start": 231,
+                "end": 246,
+                "text": "miller,bluegrass",
+                "isEntity": false
+            },
+            {
+                "start": 238,
+                "end": 252,
+                "text": "bluegrass music",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 46,
+                    "end": 47
+                },
+                "charFragment": {
+                    "start": 238,
+                    "end": 252
+                },
+                "babelSynsetID": "bn:00011585n",
+                "DBpediaURL": "http://dbpedia.org/resource/Bluegrass_music",
+                "BabelNetURL": "http://babelnet.org/rdf/s00011585n",
+                "score": 1.0,
+                "coherenceScore": 0.21428571428571427,
+                "globalScore": 0.005874074527320566,
+                "source": "BABELFY"
+            },
+            {
+                "start": 248,
+                "end": 258,
+                "text": "music,third",
+                "isEntity": false
+            },
+            {
+                "start": 254,
+                "end": 264,
+                "text": "third album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 49,
+                    "end": 50
+                },
+                "charFragment": {
+                    "start": 254,
+                    "end": 264
+                },
+                "babelSynsetID": "bn:01057016n",
+                "DBpediaURL": "http://dbpedia.org/resource/Third_Album",
+                "BabelNetURL": "http://babelnet.org/rdf/s01057016n",
+                "score": 0.7101449275362319,
+                "coherenceScore": 0.125,
+                "globalScore": 0.0014991127699932694,
+                "source": "BABELFY"
+            },
+            {
+                "start": 260,
+                "end": 269,
+                "text": "album,song",
+                "isEntity": false
+            },
+            {
+                "start": 271,
+                "end": 419,
+                "text": "also,``,'',song,album,year,well,video,tons,steeldrivers,rockin,revolution,man,listening,deceiving,cheating,cheatin,ceremony,calls,buddy,bridge,admits",
+                "isEntity": false
+            }
+        ]
+    ]
+}

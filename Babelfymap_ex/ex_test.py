@@ -25,7 +25,7 @@ print(len(jsonfiles))
 
 
 def find_Words():
-	with open("test%s.json" %(number), 'r') as f:
+	with open("ex_test%s.json" %(number), 'r') as f:
 		temp = json.loads(f.read())
 		#print(temp)
 		#print(temp['all_merged_entities'])

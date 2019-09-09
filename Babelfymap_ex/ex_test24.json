@@ -1,0 +1,219 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 5,
+                "text": "native",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 5
+                },
+                "babelSynsetID": "bn:00107144a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00107144a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 7,
+                "end": 22,
+                "text": "washington state",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 7,
+                    "end": 22
+                },
+                "babelSynsetID": "bn:00032035n",
+                "DBpediaURL": "http://dbpedia.org/resource/Washington_(state)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00032035n",
+                "score": 0.8928571428571429,
+                "coherenceScore": 0.10638297872340426,
+                "globalScore": 0.00337108953613808,
+                "source": "BABELFY"
+            },
+            {
+                "start": 18,
+                "end": 27,
+                "text": "state,feel",
+                "isEntity": false
+            },
+            {
+                "start": 29,
+                "end": 32,
+                "text": "even",
+                "isEntity": false
+            },
+            {
+                "start": 34,
+                "end": 46,
+                "text": "smaller,black",
+                "isEntity": false
+            },
+            {
+                "start": 42,
+                "end": 52,
+                "text": "black women",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 42,
+                    "end": 52
+                },
+                "babelSynsetID": "bn:00011005n",
+                "DBpediaURL": "http://dbpedia.org/resource/Black_people",
+                "BabelNetURL": "http://babelnet.org/rdf/s00011005n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 54,
+                "end": 69,
+                "text": "songwriters,make",
+                "isEntity": false
+            },
+            {
+                "start": 71,
+                "end": 79,
+                "text": "music,los",
+                "isEntity": false
+            },
+            {
+                "start": 77,
+                "end": 87,
+                "text": "los angeles",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 77,
+                    "end": 87
+                },
+                "babelSynsetID": "bn:00019336n",
+                "DBpediaURL": "http://dbpedia.org/resource/Los_Angeles",
+                "BabelNetURL": "http://babelnet.org/rdf/s00019336n",
+                "score": 0.9277310924369748,
+                "coherenceScore": 0.5106382978723404,
+                "globalScore": 0.0744336569579288,
+                "source": "BABELFY"
+            },
+            {
+                "start": 81,
+                "end": 96,
+                "text": "angeles,industry",
+                "isEntity": false
+            },
+            {
+                "start": 98,
+                "end": 105,
+                "text": "folk,got",
+                "isEntity": false
+            },
+            {
+                "start": 107,
+                "end": 121,
+                "text": "thunder,feeling",
+                "isEntity": false
+            },
+            {
+                "start": 123,
+                "end": 140,
+                "text": "horrible,difficult",
+                "isEntity": false
+            },
+            {
+                "start": 142,
+                "end": 153,
+                "text": "place,brenda",
+                "isEntity": false
+            },
+            {
+                "start": 155,
+                "end": 165,
+                "text": "russell,big",
+                "isEntity": false
+            },
+            {
+                "start": 163,
+                "end": 169,
+                "text": "big hit",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 33,
+                    "end": 34
+                },
+                "charFragment": {
+                    "start": 163,
+                    "end": 169
+                },
+                "babelSynsetID": "bn:15145690n",
+                "DBpediaURL": "http://dbpedia.org/resource/Big_Hit_(album)",
+                "BabelNetURL": "http://babelnet.org/rdf/s15145690n",
+                "score": 1.0,
+                "coherenceScore": 0.02127659574468085,
+                "globalScore": 6.742179072276159e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 167,
+                "end": 175,
+                "text": "hit,adams",
+                "isEntity": false
+            },
+            {
+                "start": 177,
+                "end": 187,
+                "text": "wrote,adams",
+                "isEntity": false
+            },
+            {
+                "start": 189,
+                "end": 202,
+                "text": "relocated,song",
+                "isEntity": false
+            },
+            {
+                "start": 204,
+                "end": 213,
+                "text": "came,found",
+                "isEntity": false
+            },
+            {
+                "start": 215,
+                "end": 218,
+                "text": "l,``",
+                "isEntity": false
+            },
+            {
+                "start": 220,
+                "end": 226,
+                "text": "get,one",
+                "isEntity": false
+            },
+            {
+                "start": 228,
+                "end": 356,
+                "text": "album,one,found,came,album,``,written,writing,thought,songs,made,lot,lonely,including,going,friends,felt,explains,craft,circle,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

@@ -1,0 +1,612 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 14,
+                "text": "jamaican reggae",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 14
+                },
+                "babelSynsetID": "bn:00964364n",
+                "DBpediaURL": "http://dbpedia.org/resource/Music_of_Jamaica",
+                "BabelNetURL": "http://babelnet.org/rdf/s00964364n",
+                "score": 1.0,
+                "coherenceScore": 0.13592233009708737,
+                "globalScore": 0.002325154500397724,
+                "source": "BABELFY"
+            },
+            {
+                "start": 16,
+                "end": 19,
+                "text": "star",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 16,
+                    "end": 19
+                },
+                "babelSynsetID": "bn:00073964n",
+                "DBpediaURL": "http://dbpedia.org/resource/Star",
+                "BabelNetURL": "http://babelnet.org/rdf/s00073964n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 21,
+                "end": 29,
+                "text": "half pint",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 21,
+                    "end": 29
+                },
+                "babelSynsetID": "bn:03331631n",
+                "DBpediaURL": "http://dbpedia.org/resource/Half_Pint",
+                "BabelNetURL": "http://babelnet.org/rdf/s03331631n",
+                "score": 1.0,
+                "coherenceScore": 0.10679611650485436,
+                "globalScore": 0.0010576830622109946,
+                "source": "BABELFY"
+            },
+            {
+                "start": 26,
+                "end": 38,
+                "text": "pint,jamaican",
+                "isEntity": false
+            },
+            {
+                "start": 31,
+                "end": 45,
+                "text": "jamaican reggae",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 31,
+                    "end": 45
+                },
+                "babelSynsetID": "bn:00964364n",
+                "DBpediaURL": "http://dbpedia.org/resource/Music_of_Jamaica",
+                "BabelNetURL": "http://babelnet.org/rdf/s00964364n",
+                "score": 1.0,
+                "coherenceScore": 0.13592233009708737,
+                "globalScore": 0.002325154500397724,
+                "source": "BABELFY"
+            },
+            {
+                "start": 47,
+                "end": 50,
+                "text": "star",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 47,
+                    "end": 50
+                },
+                "babelSynsetID": "bn:00073964n",
+                "DBpediaURL": "http://dbpedia.org/resource/Star",
+                "BabelNetURL": "http://babelnet.org/rdf/s00073964n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 52,
+                "end": 66,
+                "text": "surmised,reggae",
+                "isEntity": false
+            },
+            {
+                "start": 68,
+                "end": 71,
+                "text": "star",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 68,
+                    "end": 71
+                },
+                "babelSynsetID": "bn:00073964n",
+                "DBpediaURL": "http://dbpedia.org/resource/Star",
+                "BabelNetURL": "http://babelnet.org/rdf/s00073964n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 73,
+                "end": 83,
+                "text": "jimmy cliff",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 73,
+                    "end": 83
+                },
+                "babelSynsetID": "bn:01012840n",
+                "DBpediaURL": "http://dbpedia.org/resource/Jimmy_Cliff",
+                "BabelNetURL": "http://babelnet.org/rdf/s01012840n",
+                "score": 0.7557251908396947,
+                "coherenceScore": 0.23300970873786409,
+                "globalScore": 0.006923016407199238,
+                "source": "BABELFY"
+            },
+            {
+                "start": 79,
+                "end": 86,
+                "text": "cliff,''",
+                "isEntity": false
+            },
+            {
+                "start": 88,
+                "end": 96,
+                "text": "half pint",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 16,
+                    "end": 17
+                },
+                "charFragment": {
+                    "start": 88,
+                    "end": 96
+                },
+                "babelSynsetID": "bn:03331631n",
+                "DBpediaURL": "http://dbpedia.org/resource/Half_Pint",
+                "BabelNetURL": "http://babelnet.org/rdf/s03331631n",
+                "score": 1.0,
+                "coherenceScore": 0.10679611650485436,
+                "globalScore": 0.0010576830622109946,
+                "source": "BABELFY"
+            },
+            {
+                "start": 98,
+                "end": 107,
+                "text": "added,half",
+                "isEntity": false
+            },
+            {
+                "start": 109,
+                "end": 112,
+                "text": "pint",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 21,
+                    "end": 21
+                },
+                "charFragment": {
+                    "start": 109,
+                    "end": 112
+                },
+                "babelSynsetID": "bn:00062543n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00062543n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 114,
+                "end": 122,
+                "text": "heard,pop",
+                "isEntity": false
+            },
+            {
+                "start": 124,
+                "end": 127,
+                "text": "feel",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 25,
+                    "end": 25
+                },
+                "charFragment": {
+                    "start": 124,
+                    "end": 127
+                },
+                "babelSynsetID": "bn:00033959n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00033959n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 129,
+                "end": 144,
+                "text": "'',percussionist",
+                "isEntity": false
+            },
+            {
+                "start": 146,
+                "end": 151,
+                "text": "sydney",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 28,
+                    "end": 28
+                },
+                "charFragment": {
+                    "start": 146,
+                    "end": 151
+                },
+                "babelSynsetID": "bn:00075639n",
+                "DBpediaURL": "http://dbpedia.org/resource/Sydney",
+                "BabelNetURL": "http://babelnet.org/rdf/s00075639n",
+                "score": 0.7619047619047619,
+                "coherenceScore": 0.07766990291262135,
+                "globalScore": 0.000839153503902938,
+                "source": "BABELFY"
+            },
+            {
+                "start": 153,
+                "end": 161,
+                "text": "wolfe,hit",
+                "isEntity": false
+            },
+            {
+                "start": 163,
+                "end": 173,
+                "text": "years later",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 32,
+                    "end": 33
+                },
+                "charFragment": {
+                    "start": 163,
+                    "end": 173
+                },
+                "babelSynsetID": "bn:00367113n",
+                "DBpediaURL": "http://dbpedia.org/resource/Years_Later",
+                "BabelNetURL": "http://babelnet.org/rdf/s00367113n",
+                "score": 1.0,
+                "coherenceScore": 0.1262135922330097,
+                "globalScore": 0.0014772598141624637,
+                "source": "BABELFY"
+            },
+            {
+                "start": 169,
+                "end": 179,
+                "text": "later,keith",
+                "isEntity": false
+            },
+            {
+                "start": 175,
+                "end": 188,
+                "text": "keith richards",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 35,
+                    "end": 36
+                },
+                "charFragment": {
+                    "start": 175,
+                    "end": 188
+                },
+                "babelSynsetID": "bn:00801879n",
+                "DBpediaURL": "http://dbpedia.org/resource/Keith_Richards",
+                "BabelNetURL": "http://babelnet.org/rdf/s00801879n",
+                "score": 0.9983792544570502,
+                "coherenceScore": 0.21359223300970873,
+                "globalScore": 0.005384568316710518,
+                "source": "BABELFY"
+            },
+            {
+                "start": 190,
+                "end": 199,
+                "text": "sang,keith",
+                "isEntity": false
+            },
+            {
+                "start": 195,
+                "end": 208,
+                "text": "keith richards",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 39,
+                    "end": 40
+                },
+                "charFragment": {
+                    "start": 195,
+                    "end": 208
+                },
+                "babelSynsetID": "bn:00801879n",
+                "DBpediaURL": "http://dbpedia.org/resource/Keith_Richards",
+                "BabelNetURL": "http://babelnet.org/rdf/s00801879n",
+                "score": 0.9983792544570502,
+                "coherenceScore": 0.21359223300970873,
+                "globalScore": 0.005384568316710518,
+                "source": "BABELFY"
+            },
+            {
+                "start": 210,
+                "end": 217,
+                "text": "chose,``",
+                "isEntity": false
+            },
+            {
+                "start": 219,
+                "end": 229,
+                "text": "interesting",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 44,
+                    "end": 44
+                },
+                "charFragment": {
+                    "start": 219,
+                    "end": 229
+                },
+                "babelSynsetID": "bn:00089814v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00089814v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 231,
+                "end": 242,
+                "text": "still,titled",
+                "isEntity": false
+            },
+            {
+                "start": 244,
+                "end": 247,
+                "text": "rock",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 48,
+                    "end": 48
+                },
+                "charFragment": {
+                    "start": 244,
+                    "end": 247
+                },
+                "babelSynsetID": "bn:00068049n",
+                "DBpediaURL": "http://dbpedia.org/resource/Rock_music",
+                "BabelNetURL": "http://babelnet.org/rdf/s00068049n",
+                "score": 0.9741891078034931,
+                "coherenceScore": 0.6504854368932039,
+                "globalScore": 0.09897640754888506,
+                "source": "BABELFY"
+            },
+            {
+                "start": 249,
+                "end": 262,
+                "text": "version,stones",
+                "isEntity": false
+            },
+            {
+                "start": 264,
+                "end": 267,
+                "text": "also",
+                "isEntity": false
+            },
+            {
+                "start": 269,
+                "end": 275,
+                "text": "``,slow",
+                "isEntity": false
+            },
+            {
+                "start": 277,
+                "end": 281,
+                "text": "tempo",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 56,
+                    "end": 56
+                },
+                "charFragment": {
+                    "start": 277,
+                    "end": 281
+                },
+                "babelSynsetID": "bn:00060099n",
+                "DBpediaURL": "http://dbpedia.org/resource/Tempo",
+                "BabelNetURL": "http://babelnet.org/rdf/s00060099n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 283,
+                "end": 290,
+                "text": "way,half",
+                "isEntity": false
+            },
+            {
+                "start": 287,
+                "end": 295,
+                "text": "half pint",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 59,
+                    "end": 60
+                },
+                "charFragment": {
+                    "start": 287,
+                    "end": 295
+                },
+                "babelSynsetID": "bn:03331631n",
+                "DBpediaURL": "http://dbpedia.org/resource/Half_Pint",
+                "BabelNetURL": "http://babelnet.org/rdf/s03331631n",
+                "score": 1.0,
+                "coherenceScore": 0.10679611650485436,
+                "globalScore": 0.0010576830622109946,
+                "source": "BABELFY"
+            },
+            {
+                "start": 292,
+                "end": 302,
+                "text": "pint,reggae",
+                "isEntity": false
+            },
+            {
+                "start": 304,
+                "end": 316,
+                "text": "origins,wolfe",
+                "isEntity": false
+            },
+            {
+                "start": 318,
+                "end": 331,
+                "text": "relayed,stones",
+                "isEntity": false
+            },
+            {
+                "start": 333,
+                "end": 345,
+                "text": "covering,rude",
+                "isEntity": false
+            },
+            {
+                "start": 347,
+                "end": 355,
+                "text": "'',reggae",
+                "isEntity": false
+            },
+            {
+                "start": 357,
+                "end": 364,
+                "text": "song,big",
+                "isEntity": false
+            },
+            {
+                "start": 362,
+                "end": 368,
+                "text": "big hit",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 76,
+                    "end": 77
+                },
+                "charFragment": {
+                    "start": 362,
+                    "end": 368
+                },
+                "babelSynsetID": "bn:15145690n",
+                "DBpediaURL": "http://dbpedia.org/resource/Big_Hit_(album)",
+                "BabelNetURL": "http://babelnet.org/rdf/s15145690n",
+                "score": 1.0,
+                "coherenceScore": 0.038834951456310676,
+                "globalScore": 0.00013985891731715632,
+                "source": "BABELFY"
+            },
+            {
+                "start": 366,
+                "end": 371,
+                "text": "hit,``",
+                "isEntity": false
+            },
+            {
+                "start": 373,
+                "end": 386,
+                "text": "winsome,sunday",
+                "isEntity": false
+            },
+            {
+                "start": 381,
+                "end": 394,
+                "text": "sunday gleaner",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 82,
+                    "end": 83
+                },
+                "charFragment": {
+                    "start": 381,
+                    "end": 394
+                },
+                "babelSynsetID": "bn:01249290n",
+                "DBpediaURL": "http://dbpedia.org/resource/Gleaner_Company",
+                "BabelNetURL": "http://babelnet.org/rdf/s01249290n",
+                "score": 1.0,
+                "coherenceScore": 0.07766990291262135,
+                "globalScore": 0.0005594356692686253,
+                "source": "BABELFY"
+            },
+            {
+                "start": 388,
+                "end": 398,
+                "text": "gleaner,see",
+                "isEntity": false
+            },
+            {
+                "start": 400,
+                "end": 411,
+                "text": "clearly,rock",
+                "isEntity": false
+            },
+            {
+                "start": 413,
+                "end": 431,
+                "text": "attitude,originally",
+                "isEntity": false
+            },
+            {
+                "start": 433,
+                "end": 445,
+                "text": "recorded,home",
+                "isEntity": false
+            },
+            {
+                "start": 447,
+                "end": 460,
+                "text": "country,ballad",
+                "isEntity": false
+            },
+            {
+                "start": 462,
+                "end": 472,
+                "text": "tempo,could",
+                "isEntity": false
+            },
+            {
+                "start": 474,
+                "end": 483,
+                "text": "hear,album",
+                "isEntity": false
+            },
+            {
+                "start": 485,
+                "end": 713,
+                "text": "title,reggae,cliff,'',richards,``,way,tempo,rock,title,song,hear,used,time,studio,spend,rrb,realise,probably,popular,news,lrb,lot,like,jamaica,holland,forgotten,first,finds,far,difference,considered,concluded,charts,around,1,''``",
+                "isEntity": false
+            }
+        ]
+    ]
+}

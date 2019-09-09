@@ -1,0 +1,216 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 6,
+                "text": "inspire",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 6
+                },
+                "babelSynsetID": "bn:00083132v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00083132v",
+                "score": 1.0,
+                "coherenceScore": 0.10526315789473684,
+                "globalScore": 0.0017396977275198435,
+                "source": "BABELFY"
+            },
+            {
+                "start": 8,
+                "end": 9,
+                "text": "us",
+                "isEntity": false
+            },
+            {
+                "start": 11,
+                "end": 17,
+                "text": "regular",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 11,
+                    "end": 17
+                },
+                "babelSynsetID": "bn:00109636a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00109636a",
+                "score": 1.0,
+                "coherenceScore": 0.05263157894736842,
+                "globalScore": 0.0004349244318799609,
+                "source": "BABELFY"
+            },
+            {
+                "start": 19,
+                "end": 26,
+                "text": "folks,''",
+                "isEntity": false
+            },
+            {
+                "start": 28,
+                "end": 30,
+                "text": "ray",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 28,
+                    "end": 30
+                },
+                "babelSynsetID": "bn:00009316n",
+                "DBpediaURL": "http://dbpedia.org/resource/Light_beam",
+                "BabelNetURL": "http://babelnet.org/rdf/s00009316n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 32,
+                "end": 38,
+                "text": "charles",
+                "isEntity": false
+            },
+            {
+                "start": 40,
+                "end": 49,
+                "text": "gets,great",
+                "isEntity": false
+            },
+            {
+                "start": 51,
+                "end": 65,
+                "text": "baseball player",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 51,
+                    "end": 65
+                },
+                "babelSynsetID": "bn:00008804n",
+                "DBpediaURL": "http://dbpedia.org/resource/Baseball",
+                "BabelNetURL": "http://babelnet.org/rdf/s00008804n",
+                "score": 0.788659793814433,
+                "coherenceScore": 0.23684210526315788,
+                "globalScore": 0.0166358595194085,
+                "source": "BABELFY"
+            },
+            {
+                "start": 60,
+                "end": 70,
+                "text": "player,babe",
+                "isEntity": false
+            },
+            {
+                "start": 67,
+                "end": 75,
+                "text": "babe ruth",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 67,
+                    "end": 75
+                },
+                "babelSynsetID": "bn:00007633n",
+                "DBpediaURL": "http://dbpedia.org/resource/Babe_Ruth",
+                "BabelNetURL": "http://babelnet.org/rdf/s00007633n",
+                "score": 0.7692307692307693,
+                "coherenceScore": 0.07894736842105263,
+                "globalScore": 0.0032619332390997065,
+                "source": "BABELFY"
+            },
+            {
+                "start": 77,
+                "end": 90,
+                "text": "shows,ordinary",
+                "isEntity": false
+            },
+            {
+                "start": 92,
+                "end": 102,
+                "text": "people,hero",
+                "isEntity": false
+            },
+            {
+                "start": 104,
+                "end": 115,
+                "text": "even,biggest",
+                "isEntity": false
+            },
+            {
+                "start": 117,
+                "end": 124,
+                "text": "hero,big",
+                "isEntity": false
+            },
+            {
+                "start": 126,
+                "end": 136,
+                "text": "ears,became",
+                "isEntity": false
+            },
+            {
+                "start": 138,
+                "end": 158,
+                "text": "extraordinary,amazing",
+                "isEntity": false
+            },
+            {
+                "start": 152,
+                "end": 165,
+                "text": "amazing things",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 32,
+                    "end": 33
+                },
+                "charFragment": {
+                    "start": 152,
+                    "end": 165
+                },
+                "babelSynsetID": "bn:00612936n",
+                "DBpediaURL": "http://dbpedia.org/resource/Amazing_Things",
+                "BabelNetURL": "http://babelnet.org/rdf/s00612936n",
+                "score": 1.0,
+                "coherenceScore": 0.13157894736842105,
+                "globalScore": 0.002718277699249755,
+                "source": "BABELFY"
+            },
+            {
+                "start": 160,
+                "end": 171,
+                "text": "things,still",
+                "isEntity": false
+            },
+            {
+                "start": 173,
+                "end": 186,
+                "text": "became,jackson",
+                "isEntity": false
+            },
+            {
+                "start": 188,
+                "end": 288,
+                "text": "said,still,jackson,song,skinny,says,overcame,one,mention,meant,look,heroes,fat,blindness,beethoven,``",
+                "isEntity": false
+            }
+        ]
+    ]
+}

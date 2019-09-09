@@ -1,0 +1,1647 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "''",
+                "isEntity": false
+            },
+            {
+                "start": 3,
+                "end": 13,
+                "text": "bbc radio 2",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 3,
+                    "end": 13
+                },
+                "babelSynsetID": "bn:02732651n",
+                "DBpediaURL": "http://dbpedia.org/resource/BBC_Radio_2",
+                "BabelNetURL": "http://babelnet.org/rdf/s02732651n",
+                "score": 1.0,
+                "coherenceScore": 0.09433962264150944,
+                "globalScore": 0.00022901038071340005,
+                "source": "BABELFY"
+            },
+            {
+                "start": 15,
+                "end": 16,
+                "text": "dj",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 15,
+                    "end": 16
+                },
+                "babelSynsetID": "bn:00027461n",
+                "DBpediaURL": "http://dbpedia.org/resource/Disc_jockey",
+                "BabelNetURL": "http://babelnet.org/rdf/s00027461n",
+                "score": 0.8923529411764706,
+                "coherenceScore": 0.30943396226415093,
+                "globalScore": 0.0029777892646476677,
+                "source": "BABELFY"
+            },
+            {
+                "start": 18,
+                "end": 30,
+                "text": "sarah kennedy",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 18,
+                    "end": 30
+                },
+                "babelSynsetID": "bn:01143347n",
+                "DBpediaURL": "http://dbpedia.org/resource/Sarah_Kennedy",
+                "BabelNetURL": "http://babelnet.org/rdf/s01143347n",
+                "score": 0.9375,
+                "coherenceScore": 0.05660377358490566,
+                "globalScore": 7.851784481602288e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 32,
+                "end": 45,
+                "text": "dedicated,fine",
+                "isEntity": false
+            },
+            {
+                "start": 47,
+                "end": 59,
+                "text": "singing voice",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 47,
+                    "end": 59
+                },
+                "babelSynsetID": "bn:00071736n",
+                "DBpediaURL": "http://dbpedia.org/resource/Voice_type",
+                "BabelNetURL": "http://babelnet.org/rdf/s00071736n",
+                "score": 1.0,
+                "coherenceScore": 0.1471698113207547,
+                "globalScore": 0.0008931404847822602,
+                "source": "BABELFY"
+            },
+            {
+                "start": 61,
+                "end": 69,
+                "text": "triggered",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 61,
+                    "end": 69
+                },
+                "babelSynsetID": "bn:00082306v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00082306v",
+                "score": 1.0,
+                "coherenceScore": 0.011320754716981131,
+                "globalScore": 2.944419180600858e-06,
+                "source": "BABELFY"
+            },
+            {
+                "start": 71,
+                "end": 76,
+                "text": "global",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 71,
+                    "end": 76
+                },
+                "babelSynsetID": "bn:00103624a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00103624a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 78,
+                "end": 94,
+                "text": "interest,canadian",
+                "isEntity": false
+            },
+            {
+                "start": 96,
+                "end": 101,
+                "text": "artist",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 16,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 96,
+                    "end": 101
+                },
+                "babelSynsetID": "bn:00006182n",
+                "DBpediaURL": "http://dbpedia.org/resource/Artist",
+                "BabelNetURL": "http://babelnet.org/rdf/s00006182n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 103,
+                "end": 115,
+                "text": "michael bubl\u00e9",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 18
+                },
+                "charFragment": {
+                    "start": 103,
+                    "end": 115
+                },
+                "babelSynsetID": "bn:03461279n",
+                "DBpediaURL": "http://dbpedia.org/resource/Michael_Bubl\u00e9",
+                "BabelNetURL": "http://babelnet.org/rdf/s03461279n",
+                "score": 0.7894736842105263,
+                "coherenceScore": 0.11320754716981132,
+                "globalScore": 0.0003337008404680972,
+                "source": "BABELFY"
+            },
+            {
+                "start": 117,
+                "end": 125,
+                "text": "took,1984",
+                "isEntity": false
+            },
+            {
+                "start": 127,
+                "end": 138,
+                "text": "cult classic",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 21,
+                    "end": 22
+                },
+                "charFragment": {
+                    "start": 127,
+                    "end": 138
+                },
+                "babelSynsetID": "bn:03371639n",
+                "DBpediaURL": "http://dbpedia.org/resource/Cult_film",
+                "BabelNetURL": "http://babelnet.org/rdf/s03371639n",
+                "score": 0.9272727272727272,
+                "coherenceScore": 0.09056603773584905,
+                "globalScore": 0.00026696067237447777,
+                "source": "BABELFY"
+            },
+            {
+                "start": 140,
+                "end": 147,
+                "text": "repo man",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 23,
+                    "end": 24
+                },
+                "charFragment": {
+                    "start": 140,
+                    "end": 147
+                },
+                "babelSynsetID": "bn:02010095n",
+                "DBpediaURL": "http://dbpedia.org/resource/Repo_Man_(film)",
+                "BabelNetURL": "http://babelnet.org/rdf/s02010095n",
+                "score": 0.8617710583153347,
+                "coherenceScore": 0.07169811320754717,
+                "globalScore": 0.00013053591700663803,
+                "source": "BABELFY"
+            },
+            {
+                "start": 145,
+                "end": 155,
+                "text": "man,brother",
+                "isEntity": false
+            },
+            {
+                "start": 157,
+                "end": 167,
+                "text": "gerry boyle",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 27,
+                    "end": 28
+                },
+                "charFragment": {
+                    "start": 157,
+                    "end": 167
+                },
+                "babelSynsetID": "bn:00959617n",
+                "DBpediaURL": "http://dbpedia.org/resource/Gerry_Boyle",
+                "BabelNetURL": "http://babelnet.org/rdf/s00959617n",
+                "score": 1.0,
+                "coherenceScore": 0.022641509433962263,
+                "globalScore": 1.1777676722403432e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 169,
+                "end": 172,
+                "text": "told",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 29,
+                    "end": 29
+                },
+                "charFragment": {
+                    "start": 169,
+                    "end": 172
+                },
+                "babelSynsetID": "bn:00093287v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00093287v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 174,
+                "end": 189,
+                "text": "radaronline,1995",
+                "isEntity": false
+            },
+            {
+                "start": 191,
+                "end": 201,
+                "text": "comedy film",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 32,
+                    "end": 33
+                },
+                "charFragment": {
+                    "start": 191,
+                    "end": 201
+                },
+                "babelSynsetID": "bn:03371513n",
+                "DBpediaURL": "http://dbpedia.org/resource/Comedy_film",
+                "BabelNetURL": "http://babelnet.org/rdf/s03371513n",
+                "score": 1.0,
+                "coherenceScore": 0.09433962264150944,
+                "globalScore": 0.00026990509155507865,
+                "source": "BABELFY"
+            },
+            {
+                "start": 198,
+                "end": 206,
+                "text": "film four",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 33,
+                    "end": 34
+                },
+                "charFragment": {
+                    "start": 198,
+                    "end": 206
+                },
+                "babelSynsetID": "bn:03445962n",
+                "DBpediaURL": "http://dbpedia.org/resource/Film4",
+                "BabelNetURL": "http://babelnet.org/rdf/s03445962n",
+                "score": 1.0,
+                "coherenceScore": 0.07169811320754717,
+                "globalScore": 0.00011810392491076774,
+                "source": "BABELFY"
+            },
+            {
+                "start": 208,
+                "end": 221,
+                "text": "rooms,scottish",
+                "isEntity": false
+            },
+            {
+                "start": 223,
+                "end": 229,
+                "text": "amateur",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 38,
+                    "end": 38
+                },
+                "charFragment": {
+                    "start": 223,
+                    "end": 229
+                },
+                "babelSynsetID": "bn:00096919a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00096919a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 231,
+                "end": 236,
+                "text": "singer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 39,
+                    "end": 39
+                },
+                "charFragment": {
+                    "start": 231,
+                    "end": 236
+                },
+                "babelSynsetID": "bn:00071734n",
+                "DBpediaURL": "http://dbpedia.org/resource/Singing",
+                "BabelNetURL": "http://babelnet.org/rdf/s00071734n",
+                "score": 0.8128848886783515,
+                "coherenceScore": 0.4981132075471698,
+                "globalScore": 0.010666649218256708,
+                "source": "BABELFY"
+            },
+            {
+                "start": 238,
+                "end": 248,
+                "text": "susan boyle",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 40,
+                    "end": 41
+                },
+                "charFragment": {
+                    "start": 238,
+                    "end": 248
+                },
+                "babelSynsetID": "bn:01539561n",
+                "DBpediaURL": "http://dbpedia.org/resource/Susan_Boyle",
+                "BabelNetURL": "http://babelnet.org/rdf/s01539561n",
+                "score": 0.8210045662100457,
+                "coherenceScore": 0.2188679245283019,
+                "globalScore": 0.0011764590414934093,
+                "source": "BABELFY"
+            },
+            {
+                "start": 244,
+                "end": 253,
+                "text": "boyle,jazz",
+                "isEntity": false
+            },
+            {
+                "start": 250,
+                "end": 262,
+                "text": "jazz musician",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 43,
+                    "end": 44
+                },
+                "charFragment": {
+                    "start": 250,
+                    "end": 262
+                },
+                "babelSynsetID": "bn:00048069n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00048069n",
+                "score": 1.0,
+                "coherenceScore": 0.06792452830188679,
+                "globalScore": 0.00011777676722403431,
+                "source": "BABELFY"
+            },
+            {
+                "start": 264,
+                "end": 274,
+                "text": "bobby troup",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 45,
+                    "end": 46
+                },
+                "charFragment": {
+                    "start": 264,
+                    "end": 274
+                },
+                "babelSynsetID": "bn:03887822n",
+                "DBpediaURL": "http://dbpedia.org/resource/Bobby_Troup",
+                "BabelNetURL": "http://babelnet.org/rdf/s03887822n",
+                "score": 1.0,
+                "coherenceScore": 0.09433962264150944,
+                "globalScore": 0.00022083143854506433,
+                "source": "BABELFY"
+            },
+            {
+                "start": 270,
+                "end": 279,
+                "text": "troup,1961",
+                "isEntity": false
+            },
+            {
+                "start": 281,
+                "end": 285,
+                "text": "album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 48,
+                    "end": 48
+                },
+                "charFragment": {
+                    "start": 281,
+                    "end": 285
+                },
+                "babelSynsetID": "bn:00002488n",
+                "DBpediaURL": "http://dbpedia.org/resource/Album",
+                "BabelNetURL": "http://babelnet.org/rdf/s00002488n",
+                "score": 0.966221142162819,
+                "coherenceScore": 0.5283018867924528,
+                "globalScore": 0.013007789624521123,
+                "source": "BABELFY"
+            },
+            {
+                "start": 287,
+                "end": 290,
+                "text": "clap",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 49,
+                    "end": 49
+                },
+                "charFragment": {
+                    "start": 287,
+                    "end": 290
+                },
+                "babelSynsetID": "bn:03519693n",
+                "DBpediaURL": "http://dbpedia.org/resource/The_Yes_Album",
+                "BabelNetURL": "http://babelnet.org/rdf/s03519693n",
+                "score": 0.863481228668942,
+                "coherenceScore": 0.0830188679245283,
+                "globalScore": 0.0001655417894871149,
+                "source": "BABELFY"
+            },
+            {
+                "start": 292,
+                "end": 299,
+                "text": "hands,''",
+                "isEntity": false
+            },
+            {
+                "start": 301,
+                "end": 310,
+                "text": "soundtrack",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 52,
+                    "end": 52
+                },
+                "charFragment": {
+                    "start": 301,
+                    "end": 310
+                },
+                "babelSynsetID": "bn:00072920n",
+                "DBpediaURL": "http://dbpedia.org/resource/Soundtrack",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072920n",
+                "score": 0.9239130434782609,
+                "coherenceScore": 0.3584905660377358,
+                "globalScore": 0.004226877312595898,
+                "source": "BABELFY"
+            },
+            {
+                "start": 312,
+                "end": 316,
+                "text": "usage",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 53,
+                    "end": 53
+                },
+                "charFragment": {
+                    "start": 312,
+                    "end": 316
+                },
+                "babelSynsetID": "bn:00030627n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00030627n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 318,
+                "end": 330,
+                "text": "includes,2010",
+                "isEntity": false
+            },
+            {
+                "start": 332,
+                "end": 356,
+                "text": "vancouver winter olympics",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 56,
+                    "end": 58
+                },
+                "charFragment": {
+                    "start": 332,
+                    "end": 356
+                },
+                "babelSynsetID": "bn:01027178n",
+                "DBpediaURL": "http://dbpedia.org/resource/2010_Winter_Olympics",
+                "BabelNetURL": "http://babelnet.org/rdf/s01027178n",
+                "score": 1.0,
+                "coherenceScore": 0.06415094339622641,
+                "globalScore": 0.00013348033618723888,
+                "source": "BABELFY"
+            },
+            {
+                "start": 349,
+                "end": 365,
+                "text": "olympics,scotland",
+                "isEntity": false
+            },
+            {
+                "start": 367,
+                "end": 376,
+                "text": "many years",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 61,
+                    "end": 62
+                },
+                "charFragment": {
+                    "start": 367,
+                    "end": 376
+                },
+                "babelSynsetID": "bn:00859285n",
+                "DBpediaURL": "http://dbpedia.org/resource/Polychronion",
+                "BabelNetURL": "http://babelnet.org/rdf/s00859285n",
+                "score": 1.0,
+                "coherenceScore": 0.026415094339622643,
+                "globalScore": 1.6030726649938003e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 372,
+                "end": 380,
+                "text": "years ago",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 62,
+                    "end": 63
+                },
+                "charFragment": {
+                    "start": 372,
+                    "end": 380
+                },
+                "babelSynsetID": "bn:02774941n",
+                "DBpediaURL": "http://dbpedia.org/resource/Years_Ago",
+                "BabelNetURL": "http://babelnet.org/rdf/s02774941n",
+                "score": 0.8804878048780488,
+                "coherenceScore": 0.07169811320754717,
+                "globalScore": 0.00011810392491076774,
+                "source": "BABELFY"
+            },
+            {
+                "start": 378,
+                "end": 385,
+                "text": "ago,1955",
+                "isEntity": false
+            },
+            {
+                "start": 387,
+                "end": 390,
+                "text": "film",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 65,
+                    "end": 65
+                },
+                "charFragment": {
+                    "start": 387,
+                    "end": 390
+                },
+                "babelSynsetID": "bn:00034471n",
+                "DBpediaURL": "http://dbpedia.org/resource/Film",
+                "BabelNetURL": "http://babelnet.org/rdf/s00034471n",
+                "score": 0.9671670436630337,
+                "coherenceScore": 0.6264150943396226,
+                "globalScore": 0.018464779839234714,
+                "source": "BABELFY"
+            },
+            {
+                "start": 392,
+                "end": 395,
+                "text": "pete",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 66,
+                    "end": 66
+                },
+                "charFragment": {
+                    "start": 392,
+                    "end": 395
+                },
+                "babelSynsetID": "bn:15739645n",
+                "DBpediaURL": "http://dbpedia.org/resource/Polyethylene_terephthalate",
+                "BabelNetURL": "http://babelnet.org/rdf/s15739645n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 397,
+                "end": 405,
+                "text": "kelly,two",
+                "isEntity": false
+            },
+            {
+                "start": 407,
+                "end": 417,
+                "text": "years later",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 70,
+                    "end": 71
+                },
+                "charFragment": {
+                    "start": 407,
+                    "end": 417
+                },
+                "babelSynsetID": "bn:00367113n",
+                "DBpediaURL": "http://dbpedia.org/resource/Years_Later",
+                "BabelNetURL": "http://babelnet.org/rdf/s00367113n",
+                "score": 1.0,
+                "coherenceScore": 0.0830188679245283,
+                "globalScore": 0.00015834432037897946,
+                "source": "BABELFY"
+            },
+            {
+                "start": 413,
+                "end": 426,
+                "text": "later,uploaded",
+                "isEntity": false
+            },
+            {
+                "start": 428,
+                "end": 431,
+                "text": "onto",
+                "isEntity": false
+            },
+            {
+                "start": 433,
+                "end": 447,
+                "text": "youtube,reality",
+                "isEntity": false
+            },
+            {
+                "start": 441,
+                "end": 452,
+                "text": "reality show",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 77,
+                    "end": 78
+                },
+                "charFragment": {
+                    "start": 441,
+                    "end": 452
+                },
+                "babelSynsetID": "bn:03104027n",
+                "DBpediaURL": "http://dbpedia.org/resource/Reality_television",
+                "BabelNetURL": "http://babelnet.org/rdf/s03104027n",
+                "score": 0.9230769230769231,
+                "coherenceScore": 0.1471698113207547,
+                "globalScore": 0.0006634757886953932,
+                "source": "BABELFY"
+            },
+            {
+                "start": 454,
+                "end": 468,
+                "text": "britain,musical",
+                "isEntity": false
+            },
+            {
+                "start": 470,
+                "end": 472,
+                "text": "les",
+                "isEntity": false
+            },
+            {
+                "start": 474,
+                "end": 487,
+                "text": "miserables,joe",
+                "isEntity": false
+            },
+            {
+                "start": 485,
+                "end": 494,
+                "text": "joe cocker",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 85,
+                    "end": 86
+                },
+                "charFragment": {
+                    "start": 485,
+                    "end": 494
+                },
+                "babelSynsetID": "bn:03772753n",
+                "DBpediaURL": "http://dbpedia.org/resource/Joe_Cocker",
+                "BabelNetURL": "http://babelnet.org/rdf/s03772753n",
+                "score": 0.747072599531616,
+                "coherenceScore": 0.10943396226415095,
+                "globalScore": 0.00031308990620389123,
+                "source": "BABELFY"
+            },
+            {
+                "start": 496,
+                "end": 508,
+                "text": "generated,bay",
+                "isEntity": false
+            },
+            {
+                "start": 510,
+                "end": 513,
+                "text": "city",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 90,
+                    "end": 90
+                },
+                "charFragment": {
+                    "start": 510,
+                    "end": 513
+                },
+                "babelSynsetID": "bn:03335997n",
+                "DBpediaURL": "http://dbpedia.org/resource/City",
+                "BabelNetURL": "http://babelnet.org/rdf/s03335997n",
+                "score": 0.7547565386026521,
+                "coherenceScore": 0.3622641509433962,
+                "globalScore": 0.004711070688961373,
+                "source": "BABELFY"
+            },
+            {
+                "start": 515,
+                "end": 529,
+                "text": "rollers,actress",
+                "isEntity": false
+            },
+            {
+                "start": 531,
+                "end": 542,
+                "text": "denise welch",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 94,
+                    "end": 95
+                },
+                "charFragment": {
+                    "start": 531,
+                    "end": 542
+                },
+                "babelSynsetID": "bn:02909649n",
+                "DBpediaURL": "http://dbpedia.org/resource/Denise_Welch",
+                "BabelNetURL": "http://babelnet.org/rdf/s02909649n",
+                "score": 1.0,
+                "coherenceScore": 0.045283018867924525,
+                "globalScore": 4.7110706889613726e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 538,
+                "end": 548,
+                "text": "welch,susan",
+                "isEntity": false
+            },
+            {
+                "start": 544,
+                "end": 554,
+                "text": "susan boyle",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 97,
+                    "end": 98
+                },
+                "charFragment": {
+                    "start": 544,
+                    "end": 554
+                },
+                "babelSynsetID": "bn:01539561n",
+                "DBpediaURL": "http://dbpedia.org/resource/Susan_Boyle",
+                "BabelNetURL": "http://babelnet.org/rdf/s01539561n",
+                "score": 0.8210045662100457,
+                "coherenceScore": 0.2188679245283019,
+                "globalScore": 0.0011764590414934093,
+                "source": "BABELFY"
+            },
+            {
+                "start": 556,
+                "end": 566,
+                "text": "explained,x",
+                "isEntity": false
+            },
+            {
+                "start": 568,
+                "end": 573,
+                "text": "factor",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 102,
+                    "end": 102
+                },
+                "charFragment": {
+                    "start": 568,
+                    "end": 573
+                },
+                "babelSynsetID": "bn:00032661n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00032661n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 575,
+                "end": 597,
+                "text": "performance,performance",
+                "isEntity": false
+            },
+            {
+                "start": 599,
+                "end": 609,
+                "text": "immediately",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 106,
+                    "end": 106
+                },
+                "charFragment": {
+                    "start": 599,
+                    "end": 609
+                },
+                "babelSynsetID": "bn:00114424r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00114424r",
+                "score": 0.7272727272727273,
+                "coherenceScore": 0.01509433962264151,
+                "globalScore": 7.851784481602288e-06,
+                "source": "BABELFY"
+            },
+            {
+                "start": 611,
+                "end": 621,
+                "text": "became,girl",
+                "isEntity": false
+            },
+            {
+                "start": 623,
+                "end": 624,
+                "text": "ca",
+                "isEntity": false
+            },
+            {
+                "start": 626,
+                "end": 631,
+                "text": "n,ella",
+                "isEntity": false
+            },
+            {
+                "start": 633,
+                "end": 636,
+                "text": "went",
+                "isEntity": false
+            },
+            {
+                "start": 638,
+                "end": 650,
+                "text": "ahead,actress",
+                "isEntity": false
+            },
+            {
+                "start": 652,
+                "end": 663,
+                "text": "julie london",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 118,
+                    "end": 119
+                },
+                "charFragment": {
+                    "start": 652,
+                    "end": 663
+                },
+                "babelSynsetID": "bn:00131688n",
+                "DBpediaURL": "http://dbpedia.org/resource/Julie_London",
+                "BabelNetURL": "http://babelnet.org/rdf/s00131688n",
+                "score": 0.7951807228915663,
+                "coherenceScore": 0.12452830188679245,
+                "globalScore": 0.0003886633318393132,
+                "source": "BABELFY"
+            },
+            {
+                "start": 658,
+                "end": 667,
+                "text": "london,bbc",
+                "isEntity": false
+            },
+            {
+                "start": 665,
+                "end": 675,
+                "text": "bbc network",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 121,
+                    "end": 122
+                },
+                "charFragment": {
+                    "start": 665,
+                    "end": 675
+                },
+                "babelSynsetID": "bn:00275892n",
+                "DBpediaURL": "http://dbpedia.org/resource/Stations_of_the_BBC",
+                "BabelNetURL": "http://babelnet.org/rdf/s00275892n",
+                "score": 1.0,
+                "coherenceScore": 0.052830188679245285,
+                "globalScore": 6.870311421402002e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 669,
+                "end": 684,
+                "text": "network,american",
+                "isEntity": false
+            },
+            {
+                "start": 686,
+                "end": 688,
+                "text": "hit",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 125,
+                    "end": 125
+                },
+                "charFragment": {
+                    "start": 686,
+                    "end": 688
+                },
+                "babelSynsetID": "bn:00089346v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00089346v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 690,
+                "end": 702,
+                "text": "version,dream",
+                "isEntity": false
+            },
+            {
+                "start": 704,
+                "end": 711,
+                "text": "'',susan",
+                "isEntity": false
+            },
+            {
+                "start": 707,
+                "end": 717,
+                "text": "susan boyle",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 130,
+                    "end": 131
+                },
+                "charFragment": {
+                    "start": 707,
+                    "end": 717
+                },
+                "babelSynsetID": "bn:01539561n",
+                "DBpediaURL": "http://dbpedia.org/resource/Susan_Boyle",
+                "BabelNetURL": "http://babelnet.org/rdf/s01539561n",
+                "score": 0.8210045662100457,
+                "coherenceScore": 0.2188679245283019,
+                "globalScore": 0.0011764590414934093,
+                "source": "BABELFY"
+            },
+            {
+                "start": 713,
+                "end": 722,
+                "text": "boyle,repo",
+                "isEntity": false
+            },
+            {
+                "start": 719,
+                "end": 726,
+                "text": "repo men",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 133,
+                    "end": 134
+                },
+                "charFragment": {
+                    "start": 719,
+                    "end": 726
+                },
+                "babelSynsetID": "bn:00067189n",
+                "DBpediaURL": "http://dbpedia.org/resource/Repossession",
+                "BabelNetURL": "http://babelnet.org/rdf/s00067189n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 724,
+                "end": 732,
+                "text": "men,julie",
+                "isEntity": false
+            },
+            {
+                "start": 728,
+                "end": 739,
+                "text": "julie london",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 136,
+                    "end": 137
+                },
+                "charFragment": {
+                    "start": 728,
+                    "end": 739
+                },
+                "babelSynsetID": "bn:00131688n",
+                "DBpediaURL": "http://dbpedia.org/resource/Julie_London",
+                "BabelNetURL": "http://babelnet.org/rdf/s00131688n",
+                "score": 0.7951807228915663,
+                "coherenceScore": 0.12452830188679245,
+                "globalScore": 0.0003886633318393132,
+                "source": "BABELFY"
+            },
+            {
+                "start": 734,
+                "end": 751,
+                "text": "london,californian",
+                "isEntity": false
+            },
+            {
+                "start": 753,
+                "end": 763,
+                "text": "singer,1955",
+                "isEntity": false
+            },
+            {
+                "start": 765,
+                "end": 776,
+                "text": "peaking,film",
+                "isEntity": false
+            },
+            {
+                "start": 778,
+                "end": 790,
+                "text": "schedule,film",
+                "isEntity": false
+            },
+            {
+                "start": 792,
+                "end": 803,
+                "text": "breakfast,uk",
+                "isEntity": false
+            },
+            {
+                "start": 805,
+                "end": 822,
+                "text": "singer,performance",
+                "isEntity": false
+            },
+            {
+                "start": 824,
+                "end": 832,
+                "text": "back,gave",
+                "isEntity": false
+            },
+            {
+                "start": 834,
+                "end": 849,
+                "text": "susan,englishmen",
+                "isEntity": false
+            },
+            {
+                "start": 851,
+                "end": 859,
+                "text": "went,ella",
+                "isEntity": false
+            },
+            {
+                "start": 856,
+                "end": 870,
+                "text": "ella fitzgerald",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 162,
+                    "end": 163
+                },
+                "charFragment": {
+                    "start": 856,
+                    "end": 870
+                },
+                "babelSynsetID": "bn:03286792n",
+                "DBpediaURL": "http://dbpedia.org/resource/Ella_Fitzgerald",
+                "BabelNetURL": "http://babelnet.org/rdf/s03286792n",
+                "score": 0.8945664739884394,
+                "coherenceScore": 0.2,
+                "globalScore": 0.0012657730899716354,
+                "source": "BABELFY"
+            },
+            {
+                "start": 861,
+                "end": 878,
+                "text": "fitzgerald,appears",
+                "isEntity": false
+            },
+            {
+                "start": 880,
+                "end": 889,
+                "text": "susan,song",
+                "isEntity": false
+            },
+            {
+                "start": 891,
+                "end": 903,
+                "text": "became,within",
+                "isEntity": false
+            },
+            {
+                "start": 905,
+                "end": 914,
+                "text": "days,tough",
+                "isEntity": false
+            },
+            {
+                "start": 916,
+                "end": 928,
+                "text": "one,publicity",
+                "isEntity": false
+            },
+            {
+                "start": 930,
+                "end": 946,
+                "text": "materials,obscure",
+                "isEntity": false
+            },
+            {
+                "start": 948,
+                "end": 959,
+                "text": "covers,north",
+                "isEntity": false
+            },
+            {
+                "start": 961,
+                "end": 969,
+                "text": "west,moon",
+                "isEntity": false
+            },
+            {
+                "start": 971,
+                "end": 979,
+                "text": "river,mad",
+                "isEntity": false
+            },
+            {
+                "start": 981,
+                "end": 991,
+                "text": "dogs,justin",
+                "isEntity": false
+            },
+            {
+                "start": 986,
+                "end": 1002,
+                "text": "justin timberlake",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 192,
+                    "end": 193
+                },
+                "charFragment": {
+                    "start": 986,
+                    "end": 1002
+                },
+                "babelSynsetID": "bn:03553046n",
+                "DBpediaURL": "http://dbpedia.org/resource/Justin_Timberlake",
+                "BabelNetURL": "http://babelnet.org/rdf/s03553046n",
+                "score": 1.0,
+                "coherenceScore": 0.21509433962264152,
+                "globalScore": 0.001286711181922575,
+                "source": "BABELFY"
+            },
+            {
+                "start": 993,
+                "end": 1011,
+                "text": "timberlake,internet",
+                "isEntity": false
+            },
+            {
+                "start": 1013,
+                "end": 1035,
+                "text": "sensation,international",
+                "isEntity": false
+            },
+            {
+                "start": 1037,
+                "end": 1051,
+                "text": "smash,including",
+                "isEntity": false
+            },
+            {
+                "start": 1053,
+                "end": 1061,
+                "text": "one,human",
+                "isEntity": false
+            },
+            {
+                "start": 1057,
+                "end": 1071,
+                "text": "human condition",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 204,
+                    "end": 205
+                },
+                "charFragment": {
+                    "start": 1057,
+                    "end": 1071
+                },
+                "babelSynsetID": "bn:00899978n",
+                "DBpediaURL": "http://dbpedia.org/resource/Human_condition",
+                "BabelNetURL": "http://babelnet.org/rdf/s00899978n",
+                "score": 1.0,
+                "coherenceScore": 0.04905660377358491,
+                "globalScore": 6.804879884055316e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 1063,
+                "end": 1081,
+                "text": "condition,heartbeat",
+                "isEntity": false
+            },
+            {
+                "start": 1083,
+                "end": 1097,
+                "text": "studios,greater",
+                "isEntity": false
+            },
+            {
+                "start": 1099,
+                "end": 1112,
+                "text": "insight,former",
+                "isEntity": false
+            },
+            {
+                "start": 1114,
+                "end": 1126,
+                "text": "manager,first",
+                "isEntity": false
+            },
+            {
+                "start": 1128,
+                "end": 1142,
+                "text": "published,first",
+                "isEntity": false
+            },
+            {
+                "start": 1144,
+                "end": 1154,
+                "text": "break,films",
+                "isEntity": false
+            },
+            {
+                "start": 1156,
+                "end": 1168,
+                "text": "passion,david",
+                "isEntity": false
+            },
+            {
+                "start": 1170,
+                "end": 1184,
+                "text": "valentine,comes",
+                "isEntity": false
+            },
+            {
+                "start": 1186,
+                "end": 1204,
+                "text": "charlie,combustible",
+                "isEntity": false
+            },
+            {
+                "start": 1194,
+                "end": 1211,
+                "text": "combustible edison",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 231,
+                    "end": 232
+                },
+                "charFragment": {
+                    "start": 1194,
+                    "end": 1211
+                },
+                "babelSynsetID": "bn:01608715n",
+                "DBpediaURL": "http://dbpedia.org/resource/Combustible_Edison",
+                "BabelNetURL": "http://babelnet.org/rdf/s01608715n",
+                "score": 1.0,
+                "coherenceScore": 0.06037735849056604,
+                "globalScore": 8.375236780375773e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 1206,
+                "end": 1219,
+                "text": "edison,charity",
+                "isEntity": false
+            },
+            {
+                "start": 1213,
+                "end": 1226,
+                "text": "charity single",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 234,
+                    "end": 235
+                },
+                "charFragment": {
+                    "start": 1213,
+                    "end": 1226
+                },
+                "babelSynsetID": "bn:00415858n",
+                "DBpediaURL": "http://dbpedia.org/resource/Charity_record",
+                "BabelNetURL": "http://babelnet.org/rdf/s00415858n",
+                "score": 1.0,
+                "coherenceScore": 0.06792452830188679,
+                "globalScore": 0.00011188792886283259,
+                "source": "BABELFY"
+            },
+            {
+                "start": 1221,
+                "end": 1232,
+                "text": "single,blown",
+                "isEntity": false
+            },
+            {
+                "start": 1228,
+                "end": 1237,
+                "text": "blown away",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 237,
+                    "end": 238
+                },
+                "charFragment": {
+                    "start": 1228,
+                    "end": 1237
+                },
+                "babelSynsetID": "bn:13678710v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s13678710v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 1234,
+                "end": 1244,
+                "text": "away,arthur",
+                "isEntity": false
+            },
+            {
+                "start": 1239,
+                "end": 1253,
+                "text": "arthur hamilton",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 240,
+                    "end": 241
+                },
+                "charFragment": {
+                    "start": 1239,
+                    "end": 1253
+                },
+                "babelSynsetID": "bn:02237669n",
+                "DBpediaURL": "http://dbpedia.org/resource/Arthur_Hamilton",
+                "BabelNetURL": "http://babelnet.org/rdf/s02237669n",
+                "score": 0.9253139458030403,
+                "coherenceScore": 0.1320754716981132,
+                "globalScore": 0.0004580207614268001,
+                "source": "BABELFY"
+            },
+            {
+                "start": 1246,
+                "end": 1263,
+                "text": "hamilton,aerosmith",
+                "isEntity": false
+            },
+            {
+                "start": 1265,
+                "end": 1276,
+                "text": "covered,1999",
+                "isEntity": false
+            },
+            {
+                "start": 1278,
+                "end": 1291,
+                "text": "rendition,1970",
+                "isEntity": false
+            },
+            {
+                "start": 1293,
+                "end": 1307,
+                "text": "recording,torch",
+                "isEntity": false
+            },
+            {
+                "start": 1303,
+                "end": 1312,
+                "text": "torch song",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 250,
+                    "end": 251
+                },
+                "charFragment": {
+                    "start": 1303,
+                    "end": 1312
+                },
+                "babelSynsetID": "bn:00077660n",
+                "DBpediaURL": "http://dbpedia.org/resource/Torch_song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00077660n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 1309,
+                "end": 1321,
+                "text": "song,timeless",
+                "isEntity": false
+            },
+            {
+                "start": 1323,
+                "end": 1331,
+                "text": "song,song",
+                "isEntity": false
+            },
+            {
+                "start": 1333,
+                "end": 1342,
+                "text": "mixed,2002",
+                "isEntity": false
+            },
+            {
+                "start": 1344,
+                "end": 1356,
+                "text": "song,'',theme",
+                "isEntity": false
+            },
+            {
+                "start": 1352,
+                "end": 1362,
+                "text": "theme music",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 262,
+                    "end": 263
+                },
+                "charFragment": {
+                    "start": 1352,
+                    "end": 1362
+                },
+                "babelSynsetID": "bn:00071549n",
+                "DBpediaURL": "http://dbpedia.org/resource/Theme_music",
+                "BabelNetURL": "http://babelnet.org/rdf/s00071549n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 1358,
+                "end": 1367,
+                "text": "music,sang",
+                "isEntity": false
+            },
+            {
+                "start": 1369,
+                "end": 1373,
+                "text": "``,``",
+                "isEntity": false
+            },
+            {
+                "start": 1375,
+                "end": 1386,
+                "text": "vertigogo,23",
+                "isEntity": false
+            },
+            {
+                "start": 1388,
+                "end": 1395,
+                "text": "uk,mousy",
+                "isEntity": false
+            },
+            {
+                "start": 1397,
+                "end": 1410,
+                "text": "appearance,got",
+                "isEntity": false
+            },
+            {
+                "start": 1408,
+                "end": 1417,
+                "text": "got talent",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 276,
+                    "end": 277
+                },
+                "charFragment": {
+                    "start": 1408,
+                    "end": 1417
+                },
+                "babelSynsetID": "bn:00928324n",
+                "DBpediaURL": "http://dbpedia.org/resource/Got_Talent",
+                "BabelNetURL": "http://babelnet.org/rdf/s00928324n",
+                "score": 0.7125890736342043,
+                "coherenceScore": 0.05660377358490566,
+                "globalScore": 9.814730602002859e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 1412,
+                "end": 1420,
+                "text": "talent,.-",
+                "isEntity": false
+            },
+            {
+                "start": 1422,
+                "end": 1436,
+                "text": "lrb,boyle,theme",
+                "isEntity": false
+            },
+            {
+                "start": 1432,
+                "end": 1441,
+                "text": "theme tune",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 285,
+                    "end": 286
+                },
+                "charFragment": {
+                    "start": 1432,
+                    "end": 1441
+                },
+                "babelSynsetID": "bn:00071549n",
+                "DBpediaURL": "http://dbpedia.org/resource/Theme_music",
+                "BabelNetURL": "http://babelnet.org/rdf/s00071549n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 1438,
+                "end": 1452,
+                "text": "tune,originally",
+                "isEntity": false
+            },
+            {
+                "start": 1454,
+                "end": 1980,
+                "text": "recorded,1995,film,susan,many,2010,version,hit,girl,song,uk,theme,``,tune,recorded,originally,lrb,got,appearance,yes,wrote,written,well,vendetta,v,used,us,tiffany,tension,technicians,sung,squeezed,sorry,series,seen,said,rrb,resurgence,release,relationship,recalled,popularity,people,ones,note,name,movie,mind,intended,husband,homes,help,head,get,forced,floods,featuring,far,evacuate,england,ended,dreamed,dozens,cumbria,contrast,confused,com,coattails,boy,blues,bitterness,anyway,anger,aaaaalll,9,34,2009,2006,2000,1982,1953,11",
+                "isEntity": false
+            }
+        ]
+    ]
+}

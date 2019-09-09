@@ -1,0 +1,312 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 11,
+                "text": "american pop",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 11
+                },
+                "babelSynsetID": "bn:00221601n",
+                "DBpediaURL": "http://dbpedia.org/resource/American_Pop_(soundtrack)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00221601n",
+                "score": 0.7658227848101266,
+                "coherenceScore": 0.15492957746478872,
+                "globalScore": 0.0019208178556687939,
+                "source": "BABELFY"
+            },
+            {
+                "start": 9,
+                "end": 16,
+                "text": "pop punk",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 9,
+                    "end": 16
+                },
+                "babelSynsetID": "bn:01270735n",
+                "DBpediaURL": "http://dbpedia.org/resource/Pop_punk",
+                "BabelNetURL": "http://babelnet.org/rdf/s01270735n",
+                "score": 1.0,
+                "coherenceScore": 0.19718309859154928,
+                "globalScore": 0.004889354541702385,
+                "source": "BABELFY"
+            },
+            {
+                "start": 13,
+                "end": 21,
+                "text": "punk band",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 13,
+                    "end": 21
+                },
+                "babelSynsetID": "bn:00065237n",
+                "DBpediaURL": "http://dbpedia.org/resource/Punk_rock",
+                "BabelNetURL": "http://babelnet.org/rdf/s00065237n",
+                "score": 1.0,
+                "coherenceScore": 0.5070422535211268,
+                "globalScore": 0.04228974188017907,
+                "source": "BABELFY"
+            },
+            {
+                "start": 23,
+                "end": 44,
+                "text": "motion city soundtrack",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 23,
+                    "end": 44
+                },
+                "babelSynsetID": "bn:01807121n",
+                "DBpediaURL": "http://dbpedia.org/resource/Motion_City_Soundtrack",
+                "BabelNetURL": "http://babelnet.org/rdf/s01807121n",
+                "score": 1.0,
+                "coherenceScore": 0.16901408450704225,
+                "globalScore": 0.0036193923230783886,
+                "source": "BABELFY"
+            },
+            {
+                "start": 35,
+                "end": 53,
+                "text": "soundtrack,frontman",
+                "isEntity": false
+            },
+            {
+                "start": 55,
+                "end": 67,
+                "text": "justin pierre",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 55,
+                    "end": 67
+                },
+                "babelSynsetID": "bn:02297173n",
+                "DBpediaURL": "http://dbpedia.org/resource/Justin_Pierre",
+                "BabelNetURL": "http://babelnet.org/rdf/s02297173n",
+                "score": 0.987460815047022,
+                "coherenceScore": 0.2112676056338028,
+                "globalScore": 0.005000476235831984,
+                "source": "BABELFY"
+            },
+            {
+                "start": 69,
+                "end": 79,
+                "text": "told,fourth",
+                "isEntity": false
+            },
+            {
+                "start": 74,
+                "end": 92,
+                "text": "fourth studio album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 15
+                },
+                "charFragment": {
+                    "start": 74,
+                    "end": 92
+                },
+                "babelSynsetID": "bn:02765925n",
+                "DBpediaURL": "http://dbpedia.org/resource/Kids_in_the_Street",
+                "BabelNetURL": "http://babelnet.org/rdf/s02765925n",
+                "score": 0.7750865051903114,
+                "coherenceScore": 0.19718309859154928,
+                "globalScore": 0.0035558942121471887,
+                "source": "BABELFY"
+            },
+            {
+                "start": 88,
+                "end": 98,
+                "text": "album,wrote",
+                "isEntity": false
+            },
+            {
+                "start": 100,
+                "end": 115,
+                "text": "almost,wandering",
+                "isEntity": false
+            },
+            {
+                "start": 117,
+                "end": 130,
+                "text": "around,staying",
+                "isEntity": false
+            },
+            {
+                "start": 132,
+                "end": 145,
+                "text": "positive,rough",
+                "isEntity": false
+            },
+            {
+                "start": 141,
+                "end": 151,
+                "text": "rough patch",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 26,
+                    "end": 27
+                },
+                "charFragment": {
+                    "start": 141,
+                    "end": 151
+                },
+                "babelSynsetID": "bn:01846629n",
+                "DBpediaURL": "http://dbpedia.org/resource/The_Rough_Patch",
+                "BabelNetURL": "http://babelnet.org/rdf/s01846629n",
+                "score": 1.0,
+                "coherenceScore": 0.014084507042253521,
+                "globalScore": 1.587452773279995e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 147,
+                "end": 159,
+                "text": "patch,opening",
+                "isEntity": false
+            },
+            {
+                "start": 153,
+                "end": 165,
+                "text": "opening track",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 29,
+                    "end": 30
+                },
+                "charFragment": {
+                    "start": 153,
+                    "end": 165
+                },
+                "babelSynsetID": "bn:00002488n",
+                "DBpediaURL": "http://dbpedia.org/resource/Album",
+                "BabelNetURL": "http://babelnet.org/rdf/s00002488n",
+                "score": 1.0,
+                "coherenceScore": 0.4647887323943662,
+                "globalScore": 0.051862082103057434,
+                "source": "BABELFY"
+            },
+            {
+                "start": 161,
+                "end": 169,
+                "text": "track,one",
+                "isEntity": false
+            },
+            {
+                "start": 171,
+                "end": 181,
+                "text": "sitting,one",
+                "isEntity": false
+            },
+            {
+                "start": 183,
+                "end": 196,
+                "text": "night,dinosaur",
+                "isEntity": false
+            },
+            {
+                "start": 198,
+                "end": 216,
+                "text": "life,congratulatory",
+                "isEntity": false
+            },
+            {
+                "start": 218,
+                "end": 236,
+                "text": "defeats,alternative",
+                "isEntity": false
+            },
+            {
+                "start": 226,
+                "end": 242,
+                "text": "alternative press",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 44,
+                    "end": 45
+                },
+                "charFragment": {
+                    "start": 226,
+                    "end": 242
+                },
+                "babelSynsetID": "bn:03523770n",
+                "DBpediaURL": "http://dbpedia.org/resource/Alternative_Press",
+                "BabelNetURL": "http://babelnet.org/rdf/s03523770n",
+                "score": 1.0,
+                "coherenceScore": 0.1267605633802817,
+                "globalScore": 0.001571578245547195,
+                "source": "BABELFY"
+            },
+            {
+                "start": 238,
+                "end": 251,
+                "text": "press,acoustic",
+                "isEntity": false
+            },
+            {
+                "start": 244,
+                "end": 258,
+                "text": "acoustic guitar",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 47,
+                    "end": 48
+                },
+                "charFragment": {
+                    "start": 244,
+                    "end": 258
+                },
+                "babelSynsetID": "bn:00000975n",
+                "DBpediaURL": "http://dbpedia.org/resource/Acoustic_guitar",
+                "BabelNetURL": "http://babelnet.org/rdf/s00000975n",
+                "score": 0.7549019607843137,
+                "coherenceScore": 0.15492957746478872,
+                "globalScore": 0.0024446772708511923,
+                "source": "BABELFY"
+            },
+            {
+                "start": 253,
+                "end": 264,
+                "text": "guitar,basic",
+                "isEntity": false
+            },
+            {
+                "start": 266,
+                "end": 277,
+                "text": "outline,song",
+                "isEntity": false
+            },
+            {
+                "start": 279,
+                "end": 509,
+                "text": "came,song,outline,came,yet,words,went,two,try,tongue,therefore,story,side,set,serious,self,seemed,rsb,resist,purpose,pick,okay,might,made,lsb,laugh,kills,even,ended,destined,course,come,cheek,apartment,act,accomplishment,``,2007,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

@@ -1,0 +1,522 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 2,
+                "text": "con",
+                "isEntity": false
+            },
+            {
+                "start": 4,
+                "end": 7,
+                "text": "also",
+                "isEntity": false
+            },
+            {
+                "start": 9,
+                "end": 16,
+                "text": "includes",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 9,
+                    "end": 16
+                },
+                "babelSynsetID": "bn:00082370v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00082370v",
+                "score": 1.0,
+                "coherenceScore": 0.010752688172043012,
+                "globalScore": 1.3177140297012742e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 18,
+                "end": 22,
+                "text": "guest",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 18,
+                    "end": 22
+                },
+                "babelSynsetID": "bn:01115171n",
+                "DBpediaURL": "http://dbpedia.org/resource/Guest_(album)",
+                "BabelNetURL": "http://babelnet.org/rdf/s01115171n",
+                "score": 0.7903225806451613,
+                "coherenceScore": 0.07526881720430108,
+                "globalScore": 0.0006456798745536244,
+                "source": "BABELFY"
+            },
+            {
+                "start": 24,
+                "end": 32,
+                "text": "musicians",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 24,
+                    "end": 32
+                },
+                "babelSynsetID": "bn:00046975n",
+                "DBpediaURL": "http://dbpedia.org/resource/Musician",
+                "BabelNetURL": "http://babelnet.org/rdf/s00046975n",
+                "score": 0.9484722941481097,
+                "coherenceScore": 0.3978494623655914,
+                "globalScore": 0.048267864907957675,
+                "source": "BABELFY"
+            },
+            {
+                "start": 34,
+                "end": 45,
+                "text": "jason mcgerr",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 34,
+                    "end": 45
+                },
+                "babelSynsetID": "bn:01342420n",
+                "DBpediaURL": "http://dbpedia.org/resource/Jason_McGerr",
+                "BabelNetURL": "http://babelnet.org/rdf/s01342420n",
+                "score": 1.0,
+                "coherenceScore": 0.13978494623655913,
+                "globalScore": 0.0027408451817786503,
+                "source": "BABELFY"
+            },
+            {
+                "start": 40,
+                "end": 50,
+                "text": "mcgerr,sara",
+                "isEntity": false
+            },
+            {
+                "start": 52,
+                "end": 56,
+                "text": "songs",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 52,
+                    "end": 56
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 0.9287541822475891,
+                "coherenceScore": 0.41935483870967744,
+                "globalScore": 0.06218292506160313,
+                "source": "BABELFY"
+            },
+            {
+                "start": 58,
+                "end": 64,
+                "text": "stumble",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 58,
+                    "end": 64
+                },
+                "babelSynsetID": "bn:00084228v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00084228v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 66,
+                "end": 70,
+                "text": "along",
+                "isEntity": false
+            },
+            {
+                "start": 72,
+                "end": 86,
+                "text": "recklessly,sara",
+                "isEntity": false
+            },
+            {
+                "start": 83,
+                "end": 91,
+                "text": "sara quin",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 15
+                },
+                "charFragment": {
+                    "start": 83,
+                    "end": 91
+                },
+                "babelSynsetID": "bn:03604949n",
+                "DBpediaURL": "http://dbpedia.org/resource/Tegan_and_Sara",
+                "BabelNetURL": "http://babelnet.org/rdf/s03604949n",
+                "score": 0.9518304431599229,
+                "coherenceScore": 0.20430107526881722,
+                "globalScore": 0.006509507306724295,
+                "source": "BABELFY"
+            },
+            {
+                "start": 93,
+                "end": 104,
+                "text": "wrote,melody",
+                "isEntity": false
+            },
+            {
+                "start": 106,
+                "end": 111,
+                "text": "almost",
+                "isEntity": false
+            },
+            {
+                "start": 113,
+                "end": 128,
+                "text": "accidentally,lap",
+                "isEntity": false
+            },
+            {
+                "start": 126,
+                "end": 141,
+                "text": "lap steel guitar",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 22,
+                    "end": 24
+                },
+                "charFragment": {
+                    "start": 126,
+                    "end": 141
+                },
+                "babelSynsetID": "bn:03299858n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lap_steel_guitar",
+                "BabelNetURL": "http://babelnet.org/rdf/s03299858n",
+                "score": 1.0,
+                "coherenceScore": 0.0967741935483871,
+                "globalScore": 0.0015417254147504908,
+                "source": "BABELFY"
+            },
+            {
+                "start": 136,
+                "end": 145,
+                "text": "guitar,die",
+                "isEntity": false
+            },
+            {
+                "start": 147,
+                "end": 148,
+                "text": ".-",
+                "isEntity": false
+            },
+            {
+                "start": 150,
+                "end": 161,
+                "text": "lrb,composer",
+                "isEntity": false
+            },
+            {
+                "start": 163,
+                "end": 171,
+                "text": "kaki king",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 32,
+                    "end": 33
+                },
+                "charFragment": {
+                    "start": 163,
+                    "end": 171
+                },
+                "babelSynsetID": "bn:00501928n",
+                "DBpediaURL": "http://dbpedia.org/resource/Kaki_King",
+                "BabelNetURL": "http://babelnet.org/rdf/s00501928n",
+                "score": 1.0,
+                "coherenceScore": 0.15053763440860216,
+                "globalScore": 0.0031361593906890327,
+                "source": "BABELFY"
+            },
+            {
+                "start": 168,
+                "end": 177,
+                "text": "king,indie",
+                "isEntity": false
+            },
+            {
+                "start": 173,
+                "end": 183,
+                "text": "indie music",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 35,
+                    "end": 36
+                },
+                "charFragment": {
+                    "start": 173,
+                    "end": 183
+                },
+                "babelSynsetID": "bn:13896577n",
+                "DBpediaURL": "http://dbpedia.org/resource/Independent_music",
+                "BabelNetURL": "http://babelnet.org/rdf/s13896577n",
+                "score": 1.0,
+                "coherenceScore": 0.13978494623655913,
+                "globalScore": 0.002569542357917485,
+                "source": "BABELFY"
+            },
+            {
+                "start": 185,
+                "end": 194,
+                "text": "peers,year",
+                "isEntity": false
+            },
+            {
+                "start": 196,
+                "end": 213,
+                "text": "relationship,whole",
+                "isEntity": false
+            },
+            {
+                "start": 215,
+                "end": 229,
+                "text": "album,turbulent",
+                "isEntity": false
+            },
+            {
+                "start": 231,
+                "end": 243,
+                "text": "point,someone",
+                "isEntity": false
+            },
+            {
+                "start": 245,
+                "end": 260,
+                "text": "stabbed,renowned",
+                "isEntity": false
+            },
+            {
+                "start": 262,
+                "end": 272,
+                "text": "multi,quite",
+                "isEntity": false
+            },
+            {
+                "start": 274,
+                "end": 284,
+                "text": "chummy,matt",
+                "isEntity": false
+            },
+            {
+                "start": 281,
+                "end": 290,
+                "text": "matt sharp",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 57,
+                    "end": 58
+                },
+                "charFragment": {
+                    "start": 281,
+                    "end": 290
+                },
+                "babelSynsetID": "bn:02311194n",
+                "DBpediaURL": "http://dbpedia.org/resource/Matt_Sharp",
+                "BabelNetURL": "http://babelnet.org/rdf/s02311194n",
+                "score": 0.9090909090909091,
+                "coherenceScore": 0.10752688172043011,
+                "globalScore": 0.002767199462372676,
+                "source": "BABELFY"
+            },
+            {
+                "start": 286,
+                "end": 297,
+                "text": "sharp,hunter",
+                "isEntity": false
+            },
+            {
+                "start": 292,
+                "end": 304,
+                "text": "hunter burgan",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 60,
+                    "end": 61
+                },
+                "charFragment": {
+                    "start": 292,
+                    "end": 304
+                },
+                "babelSynsetID": "bn:00308916n",
+                "DBpediaURL": "http://dbpedia.org/resource/Hunter_Burgan",
+                "BabelNetURL": "http://babelnet.org/rdf/s00308916n",
+                "score": 1.0,
+                "coherenceScore": 0.07526881720430108,
+                "globalScore": 0.0007379198566327135,
+                "source": "BABELFY"
+            },
+            {
+                "start": 299,
+                "end": 312,
+                "text": "burgan,falling",
+                "isEntity": false
+            },
+            {
+                "start": 306,
+                "end": 321,
+                "text": "falling together",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 63,
+                    "end": 64
+                },
+                "charFragment": {
+                    "start": 306,
+                    "end": 321
+                },
+                "babelSynsetID": "bn:13736271v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s13736271v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 314,
+                "end": 327,
+                "text": "together,death",
+                "isEntity": false
+            },
+            {
+                "start": 323,
+                "end": 331,
+                "text": "death cab",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 66,
+                    "end": 67
+                },
+                "charFragment": {
+                    "start": 323,
+                    "end": 331
+                },
+                "babelSynsetID": "bn:03419627n",
+                "DBpediaURL": "http://dbpedia.org/resource/Death_Cab_for_Cutie",
+                "BabelNetURL": "http://babelnet.org/rdf/s03419627n",
+                "score": 1.0,
+                "coherenceScore": 0.10752688172043011,
+                "globalScore": 0.0017130282386116566,
+                "source": "BABELFY"
+            },
+            {
+                "start": 329,
+                "end": 340,
+                "text": "cab,con,come",
+                "isEntity": false
+            },
+            {
+                "start": 337,
+                "end": 349,
+                "text": "come together",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 71,
+                    "end": 72
+                },
+                "charFragment": {
+                    "start": 337,
+                    "end": 349
+                },
+                "babelSynsetID": "bn:00085172v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00085172v",
+                "score": 1.0,
+                "coherenceScore": 0.010752688172043012,
+                "globalScore": 1.3177140297012742e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 342,
+                "end": 355,
+                "text": "together,chris",
+                "isEntity": false
+            },
+            {
+                "start": 351,
+                "end": 361,
+                "text": "chris walla",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 74,
+                    "end": 75
+                },
+                "charFragment": {
+                    "start": 351,
+                    "end": 361
+                },
+                "babelSynsetID": "bn:01308999n",
+                "DBpediaURL": "http://dbpedia.org/resource/Chris_Walla",
+                "BabelNetURL": "http://babelnet.org/rdf/s01308999n",
+                "score": 1.0,
+                "coherenceScore": 0.11827956989247312,
+                "globalScore": 0.0020292796057399622,
+                "source": "BABELFY"
+            },
+            {
+                "start": 357,
+                "end": 368,
+                "text": "walla,canada",
+                "isEntity": false
+            },
+            {
+                "start": 370,
+                "end": 382,
+                "text": "finalized,box",
+                "isEntity": false
+            },
+            {
+                "start": 384,
+                "end": 402,
+                "text": "quality,grandmother",
+                "isEntity": false
+            },
+            {
+                "start": 404,
+                "end": 413,
+                "text": "died,cutie",
+                "isEntity": false
+            },
+            {
+                "start": 415,
+                "end": 423,
+                "text": "fame,best",
+                "isEntity": false
+            },
+            {
+                "start": 425,
+                "end": 685,
+                "text": "tegan,sara,music,tegan,grandmother,cutie,written,weezer,way,wa,v,tinkling,thanks,struggling,song,significant,seem,rrb,reminds,quote,pangs,odd,notice,n,lives,known,instrumentals,instrumentalist,immigration,get,five,feeling,everson,end,dream,club,bedroom,bass,afi",
+                "isEntity": false
+            }
+        ]
+    ]
+}

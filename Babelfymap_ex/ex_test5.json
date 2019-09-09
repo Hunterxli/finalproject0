@@ -1,0 +1,78 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "``",
+                "isEntity": false
+            },
+            {
+                "start": 3,
+                "end": 12,
+                "text": "black rain",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 3,
+                    "end": 12
+                },
+                "babelSynsetID": "bn:03002301n",
+                "DBpediaURL": "http://dbpedia.org/resource/The_Last_Wave",
+                "BabelNetURL": "http://babelnet.org/rdf/s03002301n",
+                "score": 0.7619047619047619,
+                "coherenceScore": 0.3076923076923077,
+                "globalScore": 0.019300361881785282,
+                "source": "BABELFY"
+            },
+            {
+                "start": 14,
+                "end": 20,
+                "text": "'',song",
+                "isEntity": false
+            },
+            {
+                "start": 22,
+                "end": 30,
+                "text": "expresses",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 22,
+                    "end": 30
+                },
+                "babelSynsetID": "bn:00087778v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00087778v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 32,
+                "end": 39,
+                "text": "ozzy,oil",
+                "isEntity": false
+            },
+            {
+                "start": 41,
+                "end": 42,
+                "text": ".-",
+                "isEntity": false
+            },
+            {
+                "start": 44,
+                "end": 114,
+                "text": "lrb,oil,war,thanks,sean,rrb,motivated,mi,metaphor,iraq,feelings,detroit",
+                "isEntity": false
+            }
+        ]
+    ]
+}

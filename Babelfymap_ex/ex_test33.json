@@ -1,0 +1,456 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 5,
+                "text": "muthaf",
+                "isEntity": false
+            },
+            {
+                "start": 7,
+                "end": 8,
+                "text": "--",
+                "isEntity": false
+            },
+            {
+                "start": 10,
+                "end": 11,
+                "text": "ka",
+                "isEntity": false
+            },
+            {
+                "start": 13,
+                "end": 17,
+                "text": "right",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 13,
+                    "end": 17
+                },
+                "babelSynsetID": "bn:00116860r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00116860r",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 19,
+                "end": 22,
+                "text": "back",
+                "isEntity": false
+            },
+            {
+                "start": 24,
+                "end": 34,
+                "text": "like,better",
+                "isEntity": false
+            },
+            {
+                "start": 36,
+                "end": 39,
+                "text": "feel",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 36,
+                    "end": 39
+                },
+                "babelSynsetID": "bn:00087864v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00087864v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 41,
+                "end": 44,
+                "text": "even",
+                "isEntity": false
+            },
+            {
+                "start": 46,
+                "end": 55,
+                "text": "though,two",
+                "isEntity": false
+            },
+            {
+                "start": 57,
+                "end": 60,
+                "text": "days",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 57,
+                    "end": 60
+                },
+                "babelSynsetID": "bn:00000086n",
+                "DBpediaURL": "http://dbpedia.org/resource/Day",
+                "BabelNetURL": "http://babelnet.org/rdf/s00000086n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 62,
+                "end": 66,
+                "text": "later",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 62,
+                    "end": 66
+                },
+                "babelSynsetID": "bn:00114165r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00114165r",
+                "score": 1.0,
+                "coherenceScore": 0.052083333333333336,
+                "globalScore": 0.00034672060098237504,
+                "source": "BABELFY"
+            },
+            {
+                "start": 68,
+                "end": 78,
+                "text": "called,like",
+                "isEntity": false
+            },
+            {
+                "start": 80,
+                "end": 89,
+                "text": "right away",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 18,
+                    "end": 19
+                },
+                "charFragment": {
+                    "start": 80,
+                    "end": 89
+                },
+                "babelSynsetID": "bn:00116721r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00116721r",
+                "score": 0.8,
+                "coherenceScore": 0.020833333333333332,
+                "globalScore": 4.622941346431667e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 86,
+                "end": 93,
+                "text": "away,two",
+                "isEntity": false
+            },
+            {
+                "start": 95,
+                "end": 100,
+                "text": "verses",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 22,
+                    "end": 22
+                },
+                "charFragment": {
+                    "start": 95,
+                    "end": 100
+                },
+                "babelSynsetID": "bn:00063195n",
+                "DBpediaURL": "http://dbpedia.org/resource/Poetry",
+                "BabelNetURL": "http://babelnet.org/rdf/s00063195n",
+                "score": 0.7425742574257426,
+                "coherenceScore": 0.3125,
+                "globalScore": 0.022536839063854376,
+                "source": "BABELFY"
+            },
+            {
+                "start": 102,
+                "end": 111,
+                "text": "rather,sun",
+                "isEntity": false
+            },
+            {
+                "start": 113,
+                "end": 124,
+                "text": "september 12",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 26,
+                    "end": 27
+                },
+                "charFragment": {
+                    "start": 113,
+                    "end": 124
+                },
+                "babelSynsetID": "bn:02164043n",
+                "DBpediaURL": "http://dbpedia.org/resource/September_12",
+                "BabelNetURL": "http://babelnet.org/rdf/s02164043n",
+                "score": 1.0,
+                "coherenceScore": 0.052083333333333336,
+                "globalScore": 0.00034672060098237504,
+                "source": "BABELFY"
+            },
+            {
+                "start": 123,
+                "end": 131,
+                "text": "12,record",
+                "isEntity": false
+            },
+            {
+                "start": 133,
+                "end": 138,
+                "text": "coming",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 30,
+                    "end": 30
+                },
+                "charFragment": {
+                    "start": 133,
+                    "end": 138
+                },
+                "babelSynsetID": "bn:00085319v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00085319v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 140,
+                "end": 147,
+                "text": "soon,boy",
+                "isEntity": false
+            },
+            {
+                "start": 145,
+                "end": 152,
+                "text": "boy band",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 33,
+                    "end": 34
+                },
+                "charFragment": {
+                    "start": 145,
+                    "end": 152
+                },
+                "babelSynsetID": "bn:03234616n",
+                "DBpediaURL": "http://dbpedia.org/resource/Boy_band",
+                "BabelNetURL": "http://babelnet.org/rdf/s03234616n",
+                "score": 1.0,
+                "coherenceScore": 0.125,
+                "globalScore": 0.0029124530482519504,
+                "source": "BABELFY"
+            },
+            {
+                "start": 154,
+                "end": 165,
+                "text": "b2k,versions",
+                "isEntity": false
+            },
+            {
+                "start": 167,
+                "end": 170,
+                "text": "akon",
+                "isEntity": false
+            },
+            {
+                "start": 172,
+                "end": 181,
+                "text": "sings,akon",
+                "isEntity": false
+            },
+            {
+                "start": 183,
+                "end": 192,
+                "text": "originally",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 42,
+                    "end": 42
+                },
+                "charFragment": {
+                    "start": 183,
+                    "end": 192
+                },
+                "babelSynsetID": "bn:00116472r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00116472r",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 194,
+                "end": 203,
+                "text": "wrote,also",
+                "isEntity": false
+            },
+            {
+                "start": 205,
+                "end": 212,
+                "text": "features",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 46,
+                    "end": 46
+                },
+                "charFragment": {
+                    "start": 205,
+                    "end": 212
+                },
+                "babelSynsetID": "bn:00088078v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00088078v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 214,
+                "end": 225,
+                "text": "ashanti,song",
+                "isEntity": false
+            },
+            {
+                "start": 227,
+                "end": 239,
+                "text": "back,features",
+                "isEntity": false
+            },
+            {
+                "start": 241,
+                "end": 249,
+                "text": "akon,also",
+                "isEntity": false
+            },
+            {
+                "start": 251,
+                "end": 262,
+                "text": "released,xxl",
+                "isEntity": false
+            },
+            {
+                "start": 260,
+                "end": 271,
+                "text": "xxl magazine",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 58,
+                    "end": 59
+                },
+                "charFragment": {
+                    "start": 260,
+                    "end": 271
+                },
+                "babelSynsetID": "bn:00895293n",
+                "DBpediaURL": "http://dbpedia.org/resource/XXL_(magazine)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00895293n",
+                "score": 1.0,
+                "coherenceScore": 0.10416666666666667,
+                "globalScore": 0.0013868824039295002,
+                "source": "BABELFY"
+            },
+            {
+                "start": 264,
+                "end": 278,
+                "text": "magazine,single",
+                "isEntity": false
+            },
+            {
+                "start": 280,
+                "end": 292,
+                "text": "one,sengalese",
+                "isEntity": false
+            },
+            {
+                "start": 294,
+                "end": 304,
+                "text": "rapper,past",
+                "isEntity": false
+            },
+            {
+                "start": 306,
+                "end": 324,
+                "text": "relationship,former",
+                "isEntity": false
+            },
+            {
+                "start": 326,
+                "end": 341,
+                "text": "member,different",
+                "isEntity": false
+            },
+            {
+                "start": 343,
+                "end": 351,
+                "text": "version,b",
+                "isEntity": false
+            },
+            {
+                "start": 353,
+                "end": 363,
+                "text": "singer,akon",
+                "isEntity": false
+            },
+            {
+                "start": 365,
+                "end": 373,
+                "text": "took,song",
+                "isEntity": false
+            },
+            {
+                "start": 375,
+                "end": 385,
+                "text": "plays,nelly",
+                "isEntity": false
+            },
+            {
+                "start": 387,
+                "end": 396,
+                "text": "told,nelly",
+                "isEntity": false
+            },
+            {
+                "start": 398,
+                "end": 409,
+                "text": "recalled,way",
+                "isEntity": false
+            },
+            {
+                "start": 411,
+                "end": 427,
+                "text": "home,--,like,fizz",
+                "isEntity": false
+            },
+            {
+                "start": 429,
+                "end": 831,
+                "text": "would,called,akon,ashanti,song,nelly,would,took,home,fizz,yo,tricky,track,thought,system,studio,speak,something,sent,said,rsb,releasing,recording,reason,r,played,originated,n,music,mind,lsb,louder,line,lil,laughs,know,knocking,kind,judge,joint,hot,hit,got,getting,get,gave,explained,develop,declaration,decided,cuz,cranked,collaboration,chorus,changed,cd,car,came,busy,burned,board,album,``,2008,2006,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

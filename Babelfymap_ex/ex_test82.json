@@ -1,0 +1,474 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 1,
+                "text": "''",
+                "isEntity": false
+            },
+            {
+                "start": 3,
+                "end": 9,
+                "text": "lil jon",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 3,
+                    "end": 9
+                },
+                "babelSynsetID": "bn:00353921n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lil_Jon",
+                "BabelNetURL": "http://babelnet.org/rdf/s00353921n",
+                "score": 1.0,
+                "coherenceScore": 0.3717948717948718,
+                "globalScore": 0.010310444577320254,
+                "source": "BABELFY"
+            },
+            {
+                "start": 11,
+                "end": 14,
+                "text": "told",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 11,
+                    "end": 14
+                },
+                "babelSynsetID": "bn:00093287v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00093287v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 16,
+                "end": 28,
+                "text": "rolling stone",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 16,
+                    "end": 28
+                },
+                "babelSynsetID": "bn:01891254n",
+                "DBpediaURL": "http://dbpedia.org/resource/Rolling_Stone",
+                "BabelNetURL": "http://babelnet.org/rdf/s01891254n",
+                "score": 0.9183673469387755,
+                "coherenceScore": 0.3076923076923077,
+                "globalScore": 0.008726708576415262,
+                "source": "BABELFY"
+            },
+            {
+                "start": 30,
+                "end": 44,
+                "text": ".``,electrified",
+                "isEntity": false
+            },
+            {
+                "start": 34,
+                "end": 50,
+                "text": "electrified track",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 34,
+                    "end": 50
+                },
+                "babelSynsetID": "bn:15711217n",
+                "DBpediaURL": "http://dbpedia.org/resource/Railway_electrification_system",
+                "BabelNetURL": "http://babelnet.org/rdf/s15711217n",
+                "score": 1.0,
+                "coherenceScore": 0.038461538461538464,
+                "globalScore": 9.696342862683624e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 52,
+                "end": 59,
+                "text": "features",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 52,
+                    "end": 59
+                },
+                "babelSynsetID": "bn:00017761n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00017761n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 61,
+                "end": 71,
+                "text": "los angeles",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 61,
+                    "end": 71
+                },
+                "babelSynsetID": "bn:00019336n",
+                "DBpediaURL": "http://dbpedia.org/resource/Los_Angeles",
+                "BabelNetURL": "http://babelnet.org/rdf/s00019336n",
+                "score": 0.8821746160064673,
+                "coherenceScore": 0.5769230769230769,
+                "globalScore": 0.035270447163011684,
+                "source": "BABELFY"
+            },
+            {
+                "start": 73,
+                "end": 82,
+                "text": "electro,''",
+                "isEntity": false
+            },
+            {
+                "start": 84,
+                "end": 93,
+                "text": "crunk rock",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 84,
+                    "end": 93
+                },
+                "babelSynsetID": "bn:01772102n",
+                "DBpediaURL": "http://dbpedia.org/resource/Crunkcore",
+                "BabelNetURL": "http://babelnet.org/rdf/s01772102n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 95,
+                "end": 99,
+                "text": "moved",
+                "isEntity": false
+            },
+            {
+                "start": 101,
+                "end": 108,
+                "text": "away,jon",
+                "isEntity": false
+            },
+            {
+                "start": 110,
+                "end": 114,
+                "text": "later",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 21,
+                    "end": 21
+                },
+                "charFragment": {
+                    "start": 110,
+                    "end": 114
+                },
+                "babelSynsetID": "bn:00114165r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00114165r",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 116,
+                "end": 128,
+                "text": "returned,took",
+                "isEntity": false
+            },
+            {
+                "start": 130,
+                "end": 139,
+                "text": "crunk rock",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 25,
+                    "end": 26
+                },
+                "charFragment": {
+                    "start": 130,
+                    "end": 139
+                },
+                "babelSynsetID": "bn:01772102n",
+                "DBpediaURL": "http://dbpedia.org/resource/Crunkcore",
+                "BabelNetURL": "http://babelnet.org/rdf/s01772102n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 136,
+                "end": 143,
+                "text": "rock,hop",
+                "isEntity": false
+            },
+            {
+                "start": 145,
+                "end": 149,
+                "text": "group",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 29,
+                    "end": 29
+                },
+                "charFragment": {
+                    "start": 145,
+                    "end": 149
+                },
+                "babelSynsetID": "bn:00068051n",
+                "DBpediaURL": "http://dbpedia.org/resource/Musical_ensemble",
+                "BabelNetURL": "http://babelnet.org/rdf/s00068051n",
+                "score": 0.7106325706594886,
+                "coherenceScore": 0.46153846153846156,
+                "globalScore": 0.02559834515748477,
+                "source": "BABELFY"
+            },
+            {
+                "start": 151,
+                "end": 161,
+                "text": "lmfao,stand",
+                "isEntity": false
+            },
+            {
+                "start": 163,
+                "end": 168,
+                "text": "around",
+                "isEntity": false
+            },
+            {
+                "start": 170,
+                "end": 182,
+                "text": "trying,people",
+                "isEntity": false
+            },
+            {
+                "start": 184,
+                "end": 190,
+                "text": "stopped",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 37,
+                    "end": 37
+                },
+                "charFragment": {
+                    "start": 184,
+                    "end": 190
+                },
+                "babelSynsetID": "bn:00089154v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00089154v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 192,
+                "end": 201,
+                "text": "partying,b",
+                "isEntity": false
+            },
+            {
+                "start": 203,
+                "end": 214,
+                "text": ".``,original",
+                "isEntity": false
+            },
+            {
+                "start": 216,
+                "end": 228,
+                "text": "crunk,getting",
+                "isEntity": false
+            },
+            {
+                "start": 230,
+                "end": 240,
+                "text": "crunk,crunk",
+                "isEntity": false
+            },
+            {
+                "start": 236,
+                "end": 246,
+                "text": "crunk music",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 50,
+                    "end": 51
+                },
+                "charFragment": {
+                    "start": 236,
+                    "end": 246
+                },
+                "babelSynsetID": "bn:02769706n",
+                "DBpediaURL": "http://dbpedia.org/resource/Crunk",
+                "BabelNetURL": "http://babelnet.org/rdf/s02769706n",
+                "score": 1.0,
+                "coherenceScore": 0.2948717948717949,
+                "globalScore": 0.005575397146043084,
+                "source": "BABELFY"
+            },
+            {
+                "start": 242,
+                "end": 251,
+                "text": "music,rock",
+                "isEntity": false
+            },
+            {
+                "start": 253,
+                "end": 265,
+                "text": "mash,partying",
+                "isEntity": false
+            },
+            {
+                "start": 267,
+                "end": 273,
+                "text": "...,hop",
+                "isEntity": false
+            },
+            {
+                "start": 275,
+                "end": 287,
+                "text": "party,'',want",
+                "isEntity": false
+            },
+            {
+                "start": 289,
+                "end": 299,
+                "text": "people,mosh",
+                "isEntity": false
+            },
+            {
+                "start": 296,
+                "end": 303,
+                "text": "mosh pit",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 66,
+                    "end": 67
+                },
+                "charFragment": {
+                    "start": 296,
+                    "end": 303
+                },
+                "babelSynsetID": "bn:00072047n",
+                "DBpediaURL": "http://dbpedia.org/resource/Moshing",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072047n",
+                "score": 1.0,
+                "coherenceScore": 0.1282051282051282,
+                "globalScore": 0.0008080285718903021,
+                "source": "BABELFY"
+            },
+            {
+                "start": 301,
+                "end": 308,
+                "text": "pit,look",
+                "isEntity": false
+            },
+            {
+                "start": 310,
+                "end": 320,
+                "text": "hard,living",
+                "isEntity": false
+            },
+            {
+                "start": 322,
+                "end": 331,
+                "text": "life,house",
+                "isEntity": false
+            },
+            {
+                "start": 327,
+                "end": 337,
+                "text": "house music",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 75,
+                    "end": 76
+                },
+                "charFragment": {
+                    "start": 327,
+                    "end": 337
+                },
+                "babelSynsetID": "bn:00598308n",
+                "DBpediaURL": "http://dbpedia.org/resource/House_music",
+                "BabelNetURL": "http://babelnet.org/rdf/s00598308n",
+                "score": 0.9754098360655737,
+                "coherenceScore": 0.358974358974359,
+                "globalScore": 0.015384864008791351,
+                "source": "BABELFY"
+            },
+            {
+                "start": 333,
+                "end": 345,
+                "text": "music,getting",
+                "isEntity": false
+            },
+            {
+                "start": 347,
+                "end": 354,
+                "text": "crazy,em",
+                "isEntity": false
+            },
+            {
+                "start": 356,
+                "end": 369,
+                "text": "dance,eclectic",
+                "isEntity": false
+            },
+            {
+                "start": 371,
+                "end": 383,
+                "text": "album,another",
+                "isEntity": false
+            },
+            {
+                "start": 385,
+                "end": 392,
+                "text": "level,``",
+                "isEntity": false
+            },
+            {
+                "start": 394,
+                "end": 403,
+                "text": "shots,make",
+                "isEntity": false
+            },
+            {
+                "start": 405,
+                "end": 567,
+                "text": "everybody,electro,rock,trying,people,make,wild,sweat,single,rap,r,pop,lifestyle,kind,hip,guested,go,fun,fullest,flirts,favor,far,duo,dealing,cool,concept,basically",
+                "isEntity": false
+            }
+        ]
+    ]
+}

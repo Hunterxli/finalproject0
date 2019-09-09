@@ -1,0 +1,282 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 10,
+                "text": "experienced",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 10
+                },
+                "babelSynsetID": "bn:00102577a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00102577a",
+                "score": 1.0,
+                "coherenceScore": 0.043478260869565216,
+                "globalScore": 0.0003795066413662239,
+                "source": "BABELFY"
+            },
+            {
+                "start": 12,
+                "end": 19,
+                "text": "bullying",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 12,
+                    "end": 19
+                },
+                "babelSynsetID": "bn:00083061v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00083061v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 21,
+                "end": 24,
+                "text": "like",
+                "isEntity": false
+            },
+            {
+                "start": 26,
+                "end": 31,
+                "text": "anyone",
+                "isEntity": false
+            },
+            {
+                "start": 33,
+                "end": 42,
+                "text": "else,metro",
+                "isEntity": false
+            },
+            {
+                "start": 44,
+                "end": 52,
+                "text": "newspaper",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 44,
+                    "end": 52
+                },
+                "babelSynsetID": "bn:00057563n",
+                "DBpediaURL": "http://dbpedia.org/resource/Newspaper",
+                "BabelNetURL": "http://babelnet.org/rdf/s00057563n",
+                "score": 0.9137055837563451,
+                "coherenceScore": 0.17391304347826086,
+                "globalScore": 0.007590132827324478,
+                "source": "BABELFY"
+            },
+            {
+                "start": 54,
+                "end": 62,
+                "text": "august 19",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 54,
+                    "end": 62
+                },
+                "babelSynsetID": "bn:00712050n",
+                "DBpediaURL": "http://dbpedia.org/resource/August_19",
+                "BabelNetURL": "http://babelnet.org/rdf/s00712050n",
+                "score": 1.0,
+                "coherenceScore": 0.057971014492753624,
+                "globalScore": 0.0010120177103099305,
+                "source": "BABELFY"
+            },
+            {
+                "start": 61,
+                "end": 68,
+                "text": "19,every",
+                "isEntity": false
+            },
+            {
+                "start": 70,
+                "end": 72,
+                "text": "day",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 70,
+                    "end": 72
+                },
+                "babelSynsetID": "bn:00000086n",
+                "DBpediaURL": "http://dbpedia.org/resource/Day",
+                "BabelNetURL": "http://babelnet.org/rdf/s00000086n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 74,
+                "end": 87,
+                "text": "thinking,craig",
+                "isEntity": false
+            },
+            {
+                "start": 83,
+                "end": 93,
+                "text": "craig david",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 83,
+                    "end": 93
+                },
+                "babelSynsetID": "bn:03480315n",
+                "DBpediaURL": "http://dbpedia.org/resource/Craig_David",
+                "BabelNetURL": "http://babelnet.org/rdf/s03480315n",
+                "score": 1.0,
+                "coherenceScore": 0.057971014492753624,
+                "globalScore": 0.0006746784735399536,
+                "source": "BABELFY"
+            },
+            {
+                "start": 95,
+                "end": 111,
+                "text": "explained,someone",
+                "isEntity": false
+            },
+            {
+                "start": 113,
+                "end": 120,
+                "text": "else,yin",
+                "isEntity": false
+            },
+            {
+                "start": 118,
+                "end": 125,
+                "text": "yin yang",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 22,
+                    "end": 23
+                },
+                "charFragment": {
+                    "start": 118,
+                    "end": 125
+                },
+                "babelSynsetID": "bn:00655124n",
+                "DBpediaURL": "http://dbpedia.org/resource/Yin_and_yang",
+                "BabelNetURL": "http://babelnet.org/rdf/s00655124n",
+                "score": 1.0,
+                "coherenceScore": 0.07246376811594203,
+                "globalScore": 0.0018975332068311196,
+                "source": "BABELFY"
+            },
+            {
+                "start": 122,
+                "end": 130,
+                "text": "yang,song",
+                "isEntity": false
+            },
+            {
+                "start": 132,
+                "end": 143,
+                "text": "deals,school",
+                "isEntity": false
+            },
+            {
+                "start": 145,
+                "end": 160,
+                "text": "without,positive",
+                "isEntity": false
+            },
+            {
+                "start": 162,
+                "end": 173,
+                "text": "meaning,look",
+                "isEntity": false
+            },
+            {
+                "start": 170,
+                "end": 178,
+                "text": "look back",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 34,
+                    "end": 35
+                },
+                "charFragment": {
+                    "start": 170,
+                    "end": 178
+                },
+                "babelSynsetID": "bn:00090458v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00090458v",
+                "score": 0.7692307692307693,
+                "coherenceScore": 0.057971014492753624,
+                "globalScore": 0.000843348091924942,
+                "source": "BABELFY"
+            },
+            {
+                "start": 175,
+                "end": 186,
+                "text": "back,another",
+                "isEntity": false
+            },
+            {
+                "start": 188,
+                "end": 199,
+                "text": "person,write",
+                "isEntity": false
+            },
+            {
+                "start": 201,
+                "end": 214,
+                "text": "something,show",
+                "isEntity": false
+            },
+            {
+                "start": 216,
+                "end": 227,
+                "text": "people,first",
+                "isEntity": false
+            },
+            {
+                "start": 229,
+                "end": 236,
+                "text": "album,ca",
+                "isEntity": false
+            },
+            {
+                "start": 238,
+                "end": 265,
+                "text": "n,experienced,bullying,badly",
+                "isEntity": false
+            },
+            {
+                "start": 267,
+                "end": 599,
+                "text": "bullied,something,people,n,bullied,badly,album,wrote,wanted,want,wake,topic,time,think,thing,subject,still,situation,say,realize,put,psyche,problems,problem,preach,might,make,insecure,heads,happened,got,going,go,get,generations,force,felt,experience,deal,confident,come,close,chose,bit,begin,beaten,bad,answer,affect,``,2005,18,15,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

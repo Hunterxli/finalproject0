@@ -1,0 +1,225 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 8,
+                "text": "guitarist",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 8
+                },
+                "babelSynsetID": "bn:00042152n",
+                "DBpediaURL": "http://dbpedia.org/resource/Guitarist",
+                "BabelNetURL": "http://babelnet.org/rdf/s00042152n",
+                "score": 0.9322033898305084,
+                "coherenceScore": 0.25,
+                "globalScore": 0.014732471706957745,
+                "source": "BABELFY"
+            },
+            {
+                "start": 10,
+                "end": 14,
+                "text": "chris",
+                "isEntity": false
+            },
+            {
+                "start": 16,
+                "end": 21,
+                "text": "howard",
+                "isEntity": false
+            },
+            {
+                "start": 23,
+                "end": 26,
+                "text": "told",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 23,
+                    "end": 26
+                },
+                "babelSynsetID": "bn:00091011v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00091011v",
+                "score": 0.7692307692307693,
+                "coherenceScore": 0.125,
+                "globalScore": 0.002008973414585147,
+                "source": "BABELFY"
+            },
+            {
+                "start": 28,
+                "end": 33,
+                "text": "artist",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 28,
+                    "end": 33
+                },
+                "babelSynsetID": "bn:00006182n",
+                "DBpediaURL": "http://dbpedia.org/resource/Artist",
+                "BabelNetURL": "http://babelnet.org/rdf/s00006182n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 35,
+                "end": 45,
+                "text": "direct,main",
+                "isEntity": false
+            },
+            {
+                "start": 47,
+                "end": 63,
+                "text": "chord progression",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 47,
+                    "end": 63
+                },
+                "babelSynsetID": "bn:00061057n",
+                "DBpediaURL": "http://dbpedia.org/resource/Chord_progression",
+                "BabelNetURL": "http://babelnet.org/rdf/s00061057n",
+                "score": 1.0,
+                "coherenceScore": 0.25,
+                "globalScore": 0.011384182682649166,
+                "source": "BABELFY"
+            },
+            {
+                "start": 53,
+                "end": 69,
+                "text": "progression,piece",
+                "isEntity": false
+            },
+            {
+                "start": 71,
+                "end": 78,
+                "text": "together",
+                "isEntity": false
+            },
+            {
+                "start": 80,
+                "end": 92,
+                "text": "parts,musical",
+                "isEntity": false
+            },
+            {
+                "start": 86,
+                "end": 98,
+                "text": "musical piece",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 86,
+                    "end": 98
+                },
+                "babelSynsetID": "bn:00021408n",
+                "DBpediaURL": "http://dbpedia.org/resource/Musical_composition",
+                "BabelNetURL": "http://babelnet.org/rdf/s00021408n",
+                "score": 1.0,
+                "coherenceScore": 0.525,
+                "globalScore": 0.05765753699859372,
+                "source": "BABELFY"
+            },
+            {
+                "start": 94,
+                "end": 103,
+                "text": "piece,said",
+                "isEntity": false
+            },
+            {
+                "start": 105,
+                "end": 110,
+                "text": ".``,go",
+                "isEntity": false
+            },
+            {
+                "start": 109,
+                "end": 115,
+                "text": "go back",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 22,
+                    "end": 23
+                },
+                "charFragment": {
+                    "start": 109,
+                    "end": 115
+                },
+                "babelSynsetID": "bn:00086301v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00086301v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 112,
+                "end": 120,
+                "text": "back,cool",
+                "isEntity": false
+            },
+            {
+                "start": 122,
+                "end": 133,
+                "text": "way,acoustic",
+                "isEntity": false
+            },
+            {
+                "start": 126,
+                "end": 141,
+                "text": "acoustic guitars",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 28,
+                    "end": 29
+                },
+                "charFragment": {
+                    "start": 126,
+                    "end": 141
+                },
+                "babelSynsetID": "bn:00000975n",
+                "DBpediaURL": "http://dbpedia.org/resource/Acoustic_guitar",
+                "BabelNetURL": "http://babelnet.org/rdf/s00000975n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 135,
+                "end": 147,
+                "text": "guitars,eerie",
+                "isEntity": false
+            },
+            {
+                "start": 149,
+                "end": 305,
+                "text": "song,song,wrote,work,wanted,vocals,studio,story,started,scarlet,rrb,record,maria,make,lyrics,lrb,listen,ideas,hears,dark,concepts,comes,come,came,brink,``,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

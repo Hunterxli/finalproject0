@@ -1,0 +1,924 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 10,
+                "text": "lead singer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 10
+                },
+                "babelSynsetID": "bn:03464733n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lead_vocalist",
+                "BabelNetURL": "http://babelnet.org/rdf/s03464733n",
+                "score": 1.0,
+                "coherenceScore": 0.21341463414634146,
+                "globalScore": 0.0036320562500474574,
+                "source": "BABELFY"
+            },
+            {
+                "start": 12,
+                "end": 21,
+                "text": "rob thomas",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 12,
+                    "end": 21
+                },
+                "babelSynsetID": "bn:03396426n",
+                "DBpediaURL": "http://dbpedia.org/resource/Rob_Thomas_(musician)",
+                "BabelNetURL": "http://babelnet.org/rdf/s03396426n",
+                "score": 0.9584745762711865,
+                "coherenceScore": 0.17682926829268292,
+                "globalScore": 0.0028626171559607487,
+                "source": "BABELFY"
+            },
+            {
+                "start": 23,
+                "end": 31,
+                "text": "wrote,lot",
+                "isEntity": false
+            },
+            {
+                "start": 33,
+                "end": 36,
+                "text": "like",
+                "isEntity": false
+            },
+            {
+                "start": 38,
+                "end": 48,
+                "text": "matchbox 20",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 38,
+                    "end": 48
+                },
+                "babelSynsetID": "bn:03858429n",
+                "DBpediaURL": "http://dbpedia.org/resource/Matchbox_Twenty",
+                "BabelNetURL": "http://babelnet.org/rdf/s03858429n",
+                "score": 1.0,
+                "coherenceScore": 0.14634146341463414,
+                "globalScore": 0.0029765143902827943,
+                "source": "BABELFY"
+            },
+            {
+                "start": 47,
+                "end": 55,
+                "text": "20,helped",
+                "isEntity": false
+            },
+            {
+                "start": 57,
+                "end": 59,
+                "text": "get",
+                "isEntity": false
+            },
+            {
+                "start": 61,
+                "end": 71,
+                "text": "matchbox 20",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 61,
+                    "end": 71
+                },
+                "babelSynsetID": "bn:03858429n",
+                "DBpediaURL": "http://dbpedia.org/resource/Matchbox_Twenty",
+                "BabelNetURL": "http://babelnet.org/rdf/s03858429n",
+                "score": 1.0,
+                "coherenceScore": 0.14634146341463414,
+                "globalScore": 0.0029765143902827943,
+                "source": "BABELFY"
+            },
+            {
+                "start": 70,
+                "end": 76,
+                "text": "20,form",
+                "isEntity": false
+            },
+            {
+                "start": 78,
+                "end": 88,
+                "text": "matchbox 20",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 18
+                },
+                "charFragment": {
+                    "start": 78,
+                    "end": 88
+                },
+                "babelSynsetID": "bn:03858429n",
+                "DBpediaURL": "http://dbpedia.org/resource/Matchbox_Twenty",
+                "BabelNetURL": "http://babelnet.org/rdf/s03858429n",
+                "score": 1.0,
+                "coherenceScore": 0.14634146341463414,
+                "globalScore": 0.0029765143902827943,
+                "source": "BABELFY"
+            },
+            {
+                "start": 87,
+                "end": 91,
+                "text": "20,tv",
+                "isEntity": false
+            },
+            {
+                "start": 90,
+                "end": 96,
+                "text": "tv show",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 20,
+                    "end": 21
+                },
+                "charFragment": {
+                    "start": 90,
+                    "end": 96
+                },
+                "babelSynsetID": "bn:00076429n",
+                "DBpediaURL": "http://dbpedia.org/resource/Television_program",
+                "BabelNetURL": "http://babelnet.org/rdf/s00076429n",
+                "score": 0.9786689419795221,
+                "coherenceScore": 0.18902439024390244,
+                "globalScore": 0.002903113950386365,
+                "source": "BABELFY"
+            },
+            {
+                "start": 98,
+                "end": 112,
+                "text": "bewitched,given",
+                "isEntity": false
+            },
+            {
+                "start": 114,
+                "end": 114,
+                "text": "6",
+                "isEntity": false
+            },
+            {
+                "start": 116,
+                "end": 126,
+                "text": "months,bars",
+                "isEntity": false
+            },
+            {
+                "start": 128,
+                "end": 134,
+                "text": "usually",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 29,
+                    "end": 29
+                },
+                "charFragment": {
+                    "start": 128,
+                    "end": 134
+                },
+                "babelSynsetID": "bn:00114778r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00114778r",
+                "score": 1.0,
+                "coherenceScore": 0.18292682926829268,
+                "globalScore": 0.0025816706446330356,
+                "source": "BABELFY"
+            },
+            {
+                "start": 136,
+                "end": 144,
+                "text": "closed,12",
+                "isEntity": false
+            },
+            {
+                "start": 146,
+                "end": 150,
+                "text": "years",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 32,
+                    "end": 32
+                },
+                "charFragment": {
+                    "start": 146,
+                    "end": 150
+                },
+                "babelSynsetID": "bn:00078738n",
+                "DBpediaURL": "http://dbpedia.org/resource/Year",
+                "BabelNetURL": "http://babelnet.org/rdf/s00078738n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 152,
+                "end": 158,
+                "text": "old,rob",
+                "isEntity": false
+            },
+            {
+                "start": 156,
+                "end": 165,
+                "text": "rob thomas",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 35,
+                    "end": 36
+                },
+                "charFragment": {
+                    "start": 156,
+                    "end": 165
+                },
+                "babelSynsetID": "bn:03396426n",
+                "DBpediaURL": "http://dbpedia.org/resource/Rob_Thomas_(musician)",
+                "BabelNetURL": "http://babelnet.org/rdf/s03396426n",
+                "score": 0.9584745762711865,
+                "coherenceScore": 0.17682926829268292,
+                "globalScore": 0.0028626171559607487,
+                "source": "BABELFY"
+            },
+            {
+                "start": 160,
+                "end": 170,
+                "text": "thomas said",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 36,
+                    "end": 37
+                },
+                "charFragment": {
+                    "start": 160,
+                    "end": 170
+                },
+                "babelSynsetID": "bn:03461226n",
+                "DBpediaURL": "http://dbpedia.org/resource/Thomas_Say",
+                "BabelNetURL": "http://babelnet.org/rdf/s03461226n",
+                "score": 1.0,
+                "coherenceScore": 0.006097560975609756,
+                "globalScore": 2.5310496516010154e-06,
+                "source": "BABELFY"
+            },
+            {
+                "start": 167,
+                "end": 179,
+                "text": "said,features",
+                "isEntity": false
+            },
+            {
+                "start": 181,
+                "end": 190,
+                "text": "rob thomas",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 40,
+                    "end": 41
+                },
+                "charFragment": {
+                    "start": 181,
+                    "end": 190
+                },
+                "babelSynsetID": "bn:03396426n",
+                "DBpediaURL": "http://dbpedia.org/resource/Rob_Thomas_(musician)",
+                "BabelNetURL": "http://babelnet.org/rdf/s03396426n",
+                "score": 0.9584745762711865,
+                "coherenceScore": 0.17682926829268292,
+                "globalScore": 0.0028626171559607487,
+                "source": "BABELFY"
+            },
+            {
+                "start": 185,
+                "end": 195,
+                "text": "thomas,paul",
+                "isEntity": false
+            },
+            {
+                "start": 192,
+                "end": 204,
+                "text": "paul doucette",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 43,
+                    "end": 44
+                },
+                "charFragment": {
+                    "start": 192,
+                    "end": 204
+                },
+                "babelSynsetID": "bn:01595343n",
+                "DBpediaURL": "http://dbpedia.org/resource/Paul_Doucette",
+                "BabelNetURL": "http://babelnet.org/rdf/s01595343n",
+                "score": 1.0,
+                "coherenceScore": 0.12195121951219512,
+                "globalScore": 0.0016198717770246499,
+                "source": "BABELFY"
+            },
+            {
+                "start": 206,
+                "end": 220,
+                "text": "signed,matchbox",
+                "isEntity": false
+            },
+            {
+                "start": 213,
+                "end": 223,
+                "text": "matchbox 20",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 47,
+                    "end": 48
+                },
+                "charFragment": {
+                    "start": 213,
+                    "end": 223
+                },
+                "babelSynsetID": "bn:03858429n",
+                "DBpediaURL": "http://dbpedia.org/resource/Matchbox_Twenty",
+                "BabelNetURL": "http://babelnet.org/rdf/s03858429n",
+                "score": 1.0,
+                "coherenceScore": 0.14634146341463414,
+                "globalScore": 0.0029765143902827943,
+                "source": "BABELFY"
+            },
+            {
+                "start": 225,
+                "end": 237,
+                "text": "recorded,left",
+                "isEntity": false
+            },
+            {
+                "start": 234,
+                "end": 244,
+                "text": "left behind",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 51,
+                    "end": 52
+                },
+                "charFragment": {
+                    "start": 234,
+                    "end": 244
+                },
+                "babelSynsetID": "bn:00090276v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00090276v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 246,
+                "end": 257,
+                "text": "continued,``",
+                "isEntity": false
+            },
+            {
+                "start": 259,
+                "end": 262,
+                "text": "push",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 56,
+                    "end": 56
+                },
+                "charFragment": {
+                    "start": 259,
+                    "end": 262
+                },
+                "babelSynsetID": "bn:00065342n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00065342n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 264,
+                "end": 270,
+                "text": "'',2006",
+                "isEntity": false
+            },
+            {
+                "start": 272,
+                "end": 285,
+                "text": "cleveland show",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 58,
+                    "end": 59
+                },
+                "charFragment": {
+                    "start": 272,
+                    "end": 285
+                },
+                "babelSynsetID": "bn:01786618n",
+                "DBpediaURL": "http://dbpedia.org/resource/The_Cleveland_Show_(season_1)",
+                "BabelNetURL": "http://babelnet.org/rdf/s01786618n",
+                "score": 0.7974683544303798,
+                "coherenceScore": 0.042682926829268296,
+                "globalScore": 0.00015945612805086398,
+                "source": "BABELFY"
+            },
+            {
+                "start": 282,
+                "end": 287,
+                "text": "show,2",
+                "isEntity": false
+            },
+            {
+                "start": 289,
+                "end": 297,
+                "text": "remaining",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 61,
+                    "end": 61
+                },
+                "charFragment": {
+                    "start": 289,
+                    "end": 297
+                },
+                "babelSynsetID": "bn:00092756v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00092756v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 299,
+                "end": 314,
+                "text": "members,matchbox",
+                "isEntity": false
+            },
+            {
+                "start": 307,
+                "end": 317,
+                "text": "matchbox 20",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 64,
+                    "end": 65
+                },
+                "charFragment": {
+                    "start": 307,
+                    "end": 317
+                },
+                "babelSynsetID": "bn:03858429n",
+                "DBpediaURL": "http://dbpedia.org/resource/Matchbox_Twenty",
+                "BabelNetURL": "http://babelnet.org/rdf/s03858429n",
+                "score": 1.0,
+                "coherenceScore": 0.14634146341463414,
+                "globalScore": 0.0029765143902827943,
+                "source": "BABELFY"
+            },
+            {
+                "start": 316,
+                "end": 324,
+                "text": "20,helped",
+                "isEntity": false
+            },
+            {
+                "start": 326,
+                "end": 332,
+                "text": "get,rob",
+                "isEntity": false
+            },
+            {
+                "start": 330,
+                "end": 339,
+                "text": "rob thomas",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 70,
+                    "end": 71
+                },
+                "charFragment": {
+                    "start": 330,
+                    "end": 339
+                },
+                "babelSynsetID": "bn:03396426n",
+                "DBpediaURL": "http://dbpedia.org/resource/Rob_Thomas_(musician)",
+                "BabelNetURL": "http://babelnet.org/rdf/s03396426n",
+                "score": 0.9584745762711865,
+                "coherenceScore": 0.17682926829268292,
+                "globalScore": 0.0028626171559607487,
+                "source": "BABELFY"
+            },
+            {
+                "start": 334,
+                "end": 348,
+                "text": "thomas,matchbox",
+                "isEntity": false
+            },
+            {
+                "start": 341,
+                "end": 355,
+                "text": "matchbox twenty",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 73,
+                    "end": 74
+                },
+                "charFragment": {
+                    "start": 341,
+                    "end": 355
+                },
+                "babelSynsetID": "bn:03858429n",
+                "DBpediaURL": "http://dbpedia.org/resource/Matchbox_Twenty",
+                "BabelNetURL": "http://babelnet.org/rdf/s03858429n",
+                "score": 1.0,
+                "coherenceScore": 0.14634146341463414,
+                "globalScore": 0.0029765143902827943,
+                "source": "BABELFY"
+            },
+            {
+                "start": 350,
+                "end": 357,
+                "text": "twenty,2",
+                "isEntity": false
+            },
+            {
+                "start": 359,
+                "end": 370,
+                "text": "members,time",
+                "isEntity": false
+            },
+            {
+                "start": 372,
+                "end": 378,
+                "text": "rob,get",
+                "isEntity": false
+            },
+            {
+                "start": 376,
+                "end": 385,
+                "text": "get around",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 81,
+                    "end": 82
+                },
+                "charFragment": {
+                    "start": 376,
+                    "end": 385
+                },
+                "babelSynsetID": "bn:00088748v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00088748v",
+                "score": 0.9722222222222222,
+                "coherenceScore": 0.042682926829268296,
+                "globalScore": 0.00017717347561207108,
+                "source": "BABELFY"
+            },
+            {
+                "start": 380,
+                "end": 392,
+                "text": "around,thomas",
+                "isEntity": false
+            },
+            {
+                "start": 394,
+                "end": 408,
+                "text": "chose,including",
+                "isEntity": false
+            },
+            {
+                "start": 410,
+                "end": 421,
+                "text": "thomas,first",
+                "isEntity": false
+            },
+            {
+                "start": 423,
+                "end": 432,
+                "text": "wrote,ever",
+                "isEntity": false
+            },
+            {
+                "start": 434,
+                "end": 440,
+                "text": "wrote,5",
+                "isEntity": false
+            },
+            {
+                "start": 442,
+                "end": 453,
+                "text": "members,band",
+                "isEntity": false
+            },
+            {
+                "start": 455,
+                "end": 468,
+                "text": "signed,version",
+                "isEntity": false
+            },
+            {
+                "start": 470,
+                "end": 481,
+                "text": "sounds,still",
+                "isEntity": false
+            },
+            {
+                "start": 483,
+                "end": 493,
+                "text": "think,spent",
+                "isEntity": false
+            },
+            {
+                "start": 495,
+                "end": 508,
+                "text": "caring,orlando",
+                "isEntity": false
+            },
+            {
+                "start": 502,
+                "end": 513,
+                "text": "orlando area",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 110,
+                    "end": 111
+                },
+                "charFragment": {
+                    "start": 502,
+                    "end": 513
+                },
+                "babelSynsetID": "bn:00677198n",
+                "DBpediaURL": "http://dbpedia.org/resource/Greater_Orlando",
+                "BabelNetURL": "http://babelnet.org/rdf/s00677198n",
+                "score": 1.0,
+                "coherenceScore": 0.012195121951219513,
+                "globalScore": 1.5186297909606092e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 510,
+                "end": 522,
+                "text": "area,original",
+                "isEntity": false
+            },
+            {
+                "start": 515,
+                "end": 530,
+                "text": "original version",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 113,
+                    "end": 114
+                },
+                "charFragment": {
+                    "start": 515,
+                    "end": 530
+                },
+                "babelSynsetID": "bn:00028995n",
+                "DBpediaURL": "http://dbpedia.org/resource/Dubbing_(filmmaking)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00028995n",
+                "score": 1.0,
+                "coherenceScore": 0.0975609756097561,
+                "globalScore": 0.0008099358885123249,
+                "source": "BABELFY"
+            },
+            {
+                "start": 524,
+                "end": 535,
+                "text": "version,much",
+                "isEntity": false
+            },
+            {
+                "start": 537,
+                "end": 550,
+                "text": "slower,looking",
+                "isEntity": false
+            },
+            {
+                "start": 552,
+                "end": 560,
+                "text": "back,left",
+                "isEntity": false
+            },
+            {
+                "start": 562,
+                "end": 572,
+                "text": "home,faster",
+                "isEntity": false
+            },
+            {
+                "start": 574,
+                "end": 583,
+                "text": "tempo,came",
+                "isEntity": false
+            },
+            {
+                "start": 580,
+                "end": 592,
+                "text": "came together",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 128,
+                    "end": 129
+                },
+                "charFragment": {
+                    "start": 580,
+                    "end": 592
+                },
+                "babelSynsetID": "bn:00085172v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00085172v",
+                "score": 1.0,
+                "coherenceScore": 0.036585365853658534,
+                "globalScore": 0.00012149038327684874,
+                "source": "BABELFY"
+            },
+            {
+                "start": 585,
+                "end": 598,
+                "text": "together,brain",
+                "isEntity": false
+            },
+            {
+                "start": 600,
+                "end": 609,
+                "text": "yale,wrote",
+                "isEntity": false
+            },
+            {
+                "start": 611,
+                "end": 620,
+                "text": "songs,time",
+                "isEntity": false
+            },
+            {
+                "start": 617,
+                "end": 622,
+                "text": "time 3",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 137,
+                    "end": 138
+                },
+                "charFragment": {
+                    "start": 617,
+                    "end": 622
+                },
+                "babelSynsetID": "bn:01238341n",
+                "DBpediaURL": "http://dbpedia.org/resource/Time3",
+                "BabelNetURL": "http://babelnet.org/rdf/s01238341n",
+                "score": 1.0,
+                "coherenceScore": 0.036585365853658534,
+                "globalScore": 9.111778745763656e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 622,
+                "end": 628,
+                "text": "3,first",
+                "isEntity": false
+            },
+            {
+                "start": 630,
+                "end": 640,
+                "text": "album,album",
+                "isEntity": false
+            },
+            {
+                "start": 636,
+                "end": 646,
+                "text": "album cover",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 143,
+                    "end": 144
+                },
+                "charFragment": {
+                    "start": 636,
+                    "end": 646
+                },
+                "babelSynsetID": "bn:00066582n",
+                "DBpediaURL": "http://dbpedia.org/resource/Record_sleeve",
+                "BabelNetURL": "http://babelnet.org/rdf/s00066582n",
+                "score": 1.0,
+                "coherenceScore": 0.12804878048780488,
+                "globalScore": 0.002338689878079338,
+                "source": "BABELFY"
+            },
+            {
+                "start": 642,
+                "end": 649,
+                "text": "cover,.-",
+                "isEntity": false
+            },
+            {
+                "start": 651,
+                "end": 657,
+                "text": "lrb,''-",
+                "isEntity": false
+            },
+            {
+                "start": 659,
+                "end": 668,
+                "text": "lrb,secret",
+                "isEntity": false
+            },
+            {
+                "start": 670,
+                "end": 684,
+                "text": "released,second",
+                "isEntity": false
+            },
+            {
+                "start": 686,
+                "end": 695,
+                "text": "hit,record",
+                "isEntity": false
+            },
+            {
+                "start": 690,
+                "end": 700,
+                "text": "record deal",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 159,
+                    "end": 160
+                },
+                "charFragment": {
+                    "start": 690,
+                    "end": 700
+                },
+                "babelSynsetID": "bn:01790906n",
+                "DBpediaURL": "http://dbpedia.org/resource/Recording_contract",
+                "BabelNetURL": "http://babelnet.org/rdf/s01790906n",
+                "score": 1.0,
+                "coherenceScore": 0.11585365853658537,
+                "globalScore": 0.001154158641130063,
+                "source": "BABELFY"
+            },
+            {
+                "start": 697,
+                "end": 706,
+                "text": "deal,first",
+                "isEntity": false
+            },
+            {
+                "start": 702,
+                "end": 711,
+                "text": "first song",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 162,
+                    "end": 163
+                },
+                "charFragment": {
+                    "start": 702,
+                    "end": 711
+                },
+                "babelSynsetID": "bn:02752617n",
+                "DBpediaURL": "http://dbpedia.org/resource/First_Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s02752617n",
+                "score": 1.0,
+                "coherenceScore": 0.06707317073170732,
+                "globalScore": 0.0003062570078437229,
+                "source": "BABELFY"
+            },
+            {
+                "start": 708,
+                "end": 717,
+                "text": "song,could",
+                "isEntity": false
+            },
+            {
+                "start": 719,
+                "end": 724,
+                "text": "n,band",
+                "isEntity": false
+            },
+            {
+                "start": 726,
+                "end": 1170,
+                "text": "played,thomas,wrote,recorded,left,cleveland,``,time,lrb,band,album,songs,song,secret,record,played,n,hit,younger,wonder,vocals,use,tracy,thought,thanks,tabitha,since,sick,set,rrb,rights,result,release,recently,put,proved,play,photos,one,oh,names,mother,mention,megan,matches,looked,live,lawsuit,known,jewel,jen,important,hour,healthy,great,granted,got,good,gave,disease,demo,daughter,cancer,ca,beat,association,allowed,acoustic,1998,1996,1993,17",
+                "isEntity": false
+            }
+        ]
+    ]
+}

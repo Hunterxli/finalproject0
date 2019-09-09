@@ -1,0 +1,171 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 11,
+                "text": "water bottle",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 11
+                },
+                "babelSynsetID": "bn:00080579n",
+                "DBpediaURL": "http://dbpedia.org/resource/Water_bottle",
+                "BabelNetURL": "http://babelnet.org/rdf/s00080579n",
+                "score": 1.0,
+                "coherenceScore": 0.11538461538461539,
+                "globalScore": 0.00322061191626409,
+                "source": "BABELFY"
+            },
+            {
+                "start": 13,
+                "end": 25,
+                "text": "around,sprays",
+                "isEntity": false
+            },
+            {
+                "start": 27,
+                "end": 31,
+                "text": "water",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 27,
+                    "end": 31
+                },
+                "babelSynsetID": "bn:00042379n",
+                "DBpediaURL": "http://dbpedia.org/resource/Water",
+                "BabelNetURL": "http://babelnet.org/rdf/s00042379n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 33,
+                "end": 49,
+                "text": "everywhere,opiate",
+                "isEntity": false
+            },
+            {
+                "start": 51,
+                "end": 52,
+                "text": ".-",
+                "isEntity": false
+            },
+            {
+                "start": 54,
+                "end": 59,
+                "text": "lrb,``",
+                "isEntity": false
+            },
+            {
+                "start": 61,
+                "end": 64,
+                "text": "self",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 61,
+                    "end": 64
+                },
+                "babelSynsetID": "bn:02734108n",
+                "DBpediaURL": "http://dbpedia.org/resource/Self_(album)",
+                "BabelNetURL": "http://babelnet.org/rdf/s02734108n",
+                "score": 0.8181818181818182,
+                "coherenceScore": 0.11538461538461539,
+                "globalScore": 0.001610305958132045,
+                "source": "BABELFY"
+            },
+            {
+                "start": 66,
+                "end": 75,
+                "text": "satisfy,``",
+                "isEntity": false
+            },
+            {
+                "start": 77,
+                "end": 80,
+                "text": "jerk",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 18,
+                    "end": 18
+                },
+                "charFragment": {
+                    "start": 77,
+                    "end": 80
+                },
+                "babelSynsetID": "bn:00028286n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00028286n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 82,
+                "end": 88,
+                "text": "'',song",
+                "isEntity": false
+            },
+            {
+                "start": 90,
+                "end": 103,
+                "text": "maynard keenan",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 21,
+                    "end": 22
+                },
+                "charFragment": {
+                    "start": 90,
+                    "end": 103
+                },
+                "babelSynsetID": "bn:03814221n",
+                "DBpediaURL": "http://dbpedia.org/resource/Maynard_James_Keenan",
+                "BabelNetURL": "http://babelnet.org/rdf/s03814221n",
+                "score": 1.0,
+                "coherenceScore": 0.19230769230769232,
+                "globalScore": 0.005367686527106817,
+                "source": "BABELFY"
+            },
+            {
+                "start": 98,
+                "end": 106,
+                "text": "keenan,``",
+                "isEntity": false
+            },
+            {
+                "start": 108,
+                "end": 119,
+                "text": "part,similar",
+                "isEntity": false
+            },
+            {
+                "start": 121,
+                "end": 130,
+                "text": "song,first",
+                "isEntity": false
+            },
+            {
+                "start": 132,
+                "end": 216,
+                "text": "time,song,keenan,'',tx,toward,tool,thanks,rrb,learn,jim,garland,end,concerts,climax,2",
+                "isEntity": false
+            }
+        ]
+    ]
+}

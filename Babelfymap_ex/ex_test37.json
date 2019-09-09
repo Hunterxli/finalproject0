@@ -1,0 +1,318 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 19,
+                "text": "rikers island prison",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 19
+                },
+                "babelSynsetID": "bn:03569505n",
+                "DBpediaURL": "http://dbpedia.org/resource/Rikers_Island",
+                "BabelNetURL": "http://babelnet.org/rdf/s03569505n",
+                "score": 1.0,
+                "coherenceScore": 0.15384615384615385,
+                "globalScore": 0.0027193266429265135,
+                "source": "BABELFY"
+            },
+            {
+                "start": 21,
+                "end": 34,
+                "text": "facility,fifth",
+                "isEntity": false
+            },
+            {
+                "start": 30,
+                "end": 47,
+                "text": "fifth studio album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 30,
+                    "end": 47
+                },
+                "babelSynsetID": "bn:02963871n",
+                "DBpediaURL": "http://dbpedia.org/resource/Street_King_Immortal",
+                "BabelNetURL": "http://babelnet.org/rdf/s02963871n",
+                "score": 1.0,
+                "coherenceScore": 0.15384615384615385,
+                "globalScore": 0.0023308514082227257,
+                "source": "BABELFY"
+            },
+            {
+                "start": 49,
+                "end": 58,
+                "text": "bigga,2006",
+                "isEntity": false
+            },
+            {
+                "start": 60,
+                "end": 62,
+                "text": "set",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 60,
+                    "end": 62
+                },
+                "babelSynsetID": "bn:00090224v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00090224v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 64,
+                "end": 67,
+                "text": "like",
+                "isEntity": false
+            },
+            {
+                "start": 69,
+                "end": 79,
+                "text": "father,song",
+                "isEntity": false
+            },
+            {
+                "start": 81,
+                "end": 84,
+                "text": "also",
+                "isEntity": false
+            },
+            {
+                "start": 86,
+                "end": 98,
+                "text": "appears,first",
+                "isEntity": false
+            },
+            {
+                "start": 100,
+                "end": 105,
+                "text": "vocals",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 19,
+                    "end": 19
+                },
+                "charFragment": {
+                    "start": 100,
+                    "end": 105
+                },
+                "babelSynsetID": "bn:00080173n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00080173n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 107,
+                "end": 120,
+                "text": "since,features",
+                "isEntity": false
+            },
+            {
+                "start": 122,
+                "end": 130,
+                "text": "lil wayne",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 23,
+                    "end": 24
+                },
+                "charFragment": {
+                    "start": 122,
+                    "end": 130
+                },
+                "babelSynsetID": "bn:00924992n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lil_Wayne",
+                "BabelNetURL": "http://babelnet.org/rdf/s00924992n",
+                "score": 1.0,
+                "coherenceScore": 0.46153846153846156,
+                "globalScore": 0.029135642602784072,
+                "source": "BABELFY"
+            },
+            {
+                "start": 126,
+                "end": 136,
+                "text": "wayne,eight",
+                "isEntity": false
+            },
+            {
+                "start": 138,
+                "end": 142,
+                "text": "month",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 27,
+                    "end": 27
+                },
+                "charFragment": {
+                    "start": 138,
+                    "end": 142
+                },
+                "babelSynsetID": "bn:00014710n",
+                "DBpediaURL": "http://dbpedia.org/resource/Month",
+                "BabelNetURL": "http://babelnet.org/rdf/s00014710n",
+                "score": 0.8888888888888888,
+                "coherenceScore": 0.05128205128205128,
+                "globalScore": 0.0005179669796050502,
+                "source": "BABELFY"
+            },
+            {
+                "start": 144,
+                "end": 156,
+                "text": "stay,american",
+                "isEntity": false
+            },
+            {
+                "start": 158,
+                "end": 163,
+                "text": "rapper",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 31,
+                    "end": 31
+                },
+                "charFragment": {
+                    "start": 158,
+                    "end": 163
+                },
+                "babelSynsetID": "bn:00066191n",
+                "DBpediaURL": "http://dbpedia.org/resource/Rapping",
+                "BabelNetURL": "http://babelnet.org/rdf/s00066191n",
+                "score": 0.9727891156462585,
+                "coherenceScore": 0.5641025641025641,
+                "globalScore": 0.07406927808352218,
+                "source": "BABELFY"
+            },
+            {
+                "start": 165,
+                "end": 176,
+                "text": "birdman,like",
+                "isEntity": false
+            },
+            {
+                "start": 178,
+                "end": 180,
+                "text": "son",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 35,
+                    "end": 35
+                },
+                "charFragment": {
+                    "start": 178,
+                    "end": 180
+                },
+                "babelSynsetID": "bn:00012571n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00012571n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 182,
+                "end": 188,
+                "text": "2,first",
+                "isEntity": false
+            },
+            {
+                "start": 190,
+                "end": 197,
+                "text": "official",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 39,
+                    "end": 39
+                },
+                "charFragment": {
+                    "start": 190,
+                    "end": 197
+                },
+                "babelSynsetID": "bn:00107774a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00107774a",
+                "score": 0.8,
+                "coherenceScore": 0.05128205128205128,
+                "globalScore": 0.0002589834898025251,
+                "source": "BABELFY"
+            },
+            {
+                "start": 199,
+                "end": 209,
+                "text": "single,like",
+                "isEntity": false
+            },
+            {
+                "start": 211,
+                "end": 221,
+                "text": "father,like",
+                "isEntity": false
+            },
+            {
+                "start": 223,
+                "end": 239,
+                "text": "son,collaboration",
+                "isEntity": false
+            },
+            {
+                "start": 241,
+                "end": 253,
+                "text": "album,weapons",
+                "isEntity": false
+            },
+            {
+                "start": 255,
+                "end": 270,
+                "text": "charges,november",
+                "isEntity": false
+            },
+            {
+                "start": 263,
+                "end": 273,
+                "text": "november 22",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 54,
+                    "end": 55
+                },
+                "charFragment": {
+                    "start": 263,
+                    "end": 273
+                },
+                "babelSynsetID": "bn:01436274n",
+                "DBpediaURL": "http://dbpedia.org/resource/November_22",
+                "BabelNetURL": "http://babelnet.org/rdf/s01436274n",
+                "score": 1.0,
+                "coherenceScore": 0.02564102564102564,
+                "globalScore": 0.00012949174490126255,
+                "source": "BABELFY"
+            },
+            {
+                "start": 272,
+                "end": 310,
+                "text": "22,single,released,life,follow,duo,2010",
+                "isEntity": false
+            }
+        ]
+    ]
+}

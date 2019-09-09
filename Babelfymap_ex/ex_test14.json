@@ -1,0 +1,192 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 3,
+                "text": "utah",
+                "isEntity": false
+            },
+            {
+                "start": 5,
+                "end": 10,
+                "text": "singer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 5,
+                    "end": 10
+                },
+                "babelSynsetID": "bn:00071734n",
+                "DBpediaURL": "http://dbpedia.org/resource/Singing",
+                "BabelNetURL": "http://babelnet.org/rdf/s00071734n",
+                "score": 0.7652173913043478,
+                "coherenceScore": 0.3333333333333333,
+                "globalScore": 0.07392887146457575,
+                "source": "BABELFY"
+            },
+            {
+                "start": 12,
+                "end": 15,
+                "text": "told",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 12,
+                    "end": 15
+                },
+                "babelSynsetID": "bn:00093287v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00093287v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 17,
+                "end": 19,
+                "text": "mtv",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 17,
+                    "end": 19
+                },
+                "babelSynsetID": "bn:01145422n",
+                "DBpediaURL": "http://dbpedia.org/resource/MTV",
+                "BabelNetURL": "http://babelnet.org/rdf/s01145422n",
+                "score": 1.0,
+                "coherenceScore": 0.30303030303030304,
+                "globalScore": 0.04200504060487258,
+                "source": "BABELFY"
+            },
+            {
+                "start": 21,
+                "end": 31,
+                "text": "news,titled",
+                "isEntity": false
+            },
+            {
+                "start": 33,
+                "end": 37,
+                "text": "debut",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 33,
+                    "end": 37
+                },
+                "babelSynsetID": "bn:01247692n",
+                "DBpediaURL": "http://dbpedia.org/resource/Debut_(Bj\u00f6rk_album)",
+                "BabelNetURL": "http://babelnet.org/rdf/s01247692n",
+                "score": 1.0,
+                "coherenceScore": 0.06060606060606061,
+                "globalScore": 0.0011201344161299357,
+                "source": "BABELFY"
+            },
+            {
+                "start": 39,
+                "end": 46,
+                "text": "album,er",
+                "isEntity": false
+            },
+            {
+                "start": 48,
+                "end": 56,
+                "text": "jc chasez",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 48,
+                    "end": 56
+                },
+                "babelSynsetID": "bn:03536228n",
+                "DBpediaURL": "http://dbpedia.org/resource/JC_Chasez",
+                "BabelNetURL": "http://babelnet.org/rdf/s03536228n",
+                "score": 1.0,
+                "coherenceScore": 0.12121212121212122,
+                "globalScore": 0.00784094091290955,
+                "source": "BABELFY"
+            },
+            {
+                "start": 51,
+                "end": 64,
+                "text": "chasez,singing",
+                "isEntity": false
+            },
+            {
+                "start": 66,
+                "end": 77,
+                "text": "someone else",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 66,
+                    "end": 77
+                },
+                "babelSynsetID": "bn:14727401n",
+                "DBpediaURL": "http://dbpedia.org/resource/Bangerz",
+                "BabelNetURL": "http://babelnet.org/rdf/s14727401n",
+                "score": 0.9411764705882353,
+                "coherenceScore": 0.24242424242424243,
+                "globalScore": 0.01792215065807897,
+                "source": "BABELFY"
+            },
+            {
+                "start": 74,
+                "end": 85,
+                "text": "else,writing",
+                "isEntity": false
+            },
+            {
+                "start": 87,
+                "end": 97,
+                "text": "credits,two",
+                "isEntity": false
+            },
+            {
+                "start": 99,
+                "end": 110,
+                "text": "songs,really",
+                "isEntity": false
+            },
+            {
+                "start": 112,
+                "end": 128,
+                "text": "understood,better",
+                "isEntity": false
+            },
+            {
+                "start": 130,
+                "end": 152,
+                "text": "understanding,archuleta",
+                "isEntity": false
+            },
+            {
+                "start": 154,
+                "end": 300,
+                "text": "penned,singing,archuleta,song,self,recording,record,plea,one,nsync,n,lot,little,hold,hand,fun,former,explained,difficult,crafting,cause,allow,``,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

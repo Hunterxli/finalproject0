@@ -1,0 +1,288 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 5,
+                "text": "former",
+                "isEntity": false
+            },
+            {
+                "start": 7,
+                "end": 9,
+                "text": "ten",
+                "isEntity": false
+            },
+            {
+                "start": 11,
+                "end": 14,
+                "text": "inch",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 11,
+                    "end": 14
+                },
+                "babelSynsetID": "bn:00046209n",
+                "DBpediaURL": "http://dbpedia.org/resource/Inch",
+                "BabelNetURL": "http://babelnet.org/rdf/s00046209n",
+                "score": 0.7954545454545454,
+                "coherenceScore": 0.16129032258064516,
+                "globalScore": 0.003361505954667691,
+                "source": "BABELFY"
+            },
+            {
+                "start": 16,
+                "end": 18,
+                "text": "men",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 16,
+                    "end": 18
+                },
+                "babelSynsetID": "bn:00044576n",
+                "DBpediaURL": "http://dbpedia.org/resource/Human",
+                "BabelNetURL": "http://babelnet.org/rdf/s00044576n",
+                "score": 0.800561797752809,
+                "coherenceScore": 0.6129032258064516,
+                "globalScore": 0.08211678832116788,
+                "source": "BABELFY"
+            },
+            {
+                "start": 20,
+                "end": 27,
+                "text": "vocalist",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 20,
+                    "end": 27
+                },
+                "babelSynsetID": "bn:00071734n",
+                "DBpediaURL": "http://dbpedia.org/resource/Singing",
+                "BabelNetURL": "http://babelnet.org/rdf/s00071734n",
+                "score": 0.7628205128205128,
+                "coherenceScore": 0.5483870967741935,
+                "globalScore": 0.08000384172109105,
+                "source": "BABELFY"
+            },
+            {
+                "start": 29,
+                "end": 39,
+                "text": "dave coutts",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 29,
+                    "end": 39
+                },
+                "babelSynsetID": "bn:03113776n",
+                "DBpediaURL": "http://dbpedia.org/resource/Ten_Inch_Men",
+                "BabelNetURL": "http://babelnet.org/rdf/s03113776n",
+                "score": 1.0,
+                "coherenceScore": 0.2903225806451613,
+                "globalScore": 0.013830195927775643,
+                "source": "BABELFY"
+            },
+            {
+                "start": 41,
+                "end": 42,
+                "text": ".-",
+                "isEntity": false
+            },
+            {
+                "start": 44,
+                "end": 58,
+                "text": "lrb,essentially",
+                "isEntity": false
+            },
+            {
+                "start": 60,
+                "end": 64,
+                "text": "stone",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 60,
+                    "end": 64
+                },
+                "babelSynsetID": "bn:00068045n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00068045n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 66,
+                "end": 71,
+                "text": "temple",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 66,
+                    "end": 71
+                },
+                "babelSynsetID": "bn:00076465n",
+                "DBpediaURL": "http://dbpedia.org/resource/Temple",
+                "BabelNetURL": "http://babelnet.org/rdf/s00076465n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 73,
+                "end": 88,
+                "text": "pilots,different",
+                "isEntity": false
+            },
+            {
+                "start": 90,
+                "end": 106,
+                "text": "vocalist,lrb,talk",
+                "isEntity": false
+            },
+            {
+                "start": 103,
+                "end": 111,
+                "text": "talk show",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 21,
+                    "end": 22
+                },
+                "charFragment": {
+                    "start": 103,
+                    "end": 111
+                },
+                "babelSynsetID": "bn:00017941n",
+                "DBpediaURL": "http://dbpedia.org/resource/Talk_show",
+                "BabelNetURL": "http://babelnet.org/rdf/s00017941n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 108,
+                "end": 116,
+                "text": "show,song",
+                "isEntity": false
+            },
+            {
+                "start": 118,
+                "end": 132,
+                "text": "received,robert",
+                "isEntity": false
+            },
+            {
+                "start": 127,
+                "end": 138,
+                "text": "robert deleo",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 27,
+                    "end": 28
+                },
+                "charFragment": {
+                    "start": 127,
+                    "end": 138
+                },
+                "babelSynsetID": "bn:03033465n",
+                "DBpediaURL": "http://dbpedia.org/resource/Robert_DeLeo",
+                "BabelNetURL": "http://babelnet.org/rdf/s03033465n",
+                "score": 1.0,
+                "coherenceScore": 0.3225806451612903,
+                "globalScore": 0.01824817518248175,
+                "source": "BABELFY"
+            },
+            {
+                "start": 134,
+                "end": 143,
+                "text": "deleo,eric",
+                "isEntity": false
+            },
+            {
+                "start": 140,
+                "end": 149,
+                "text": "eric kretz",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 30,
+                    "end": 31
+                },
+                "charFragment": {
+                    "start": 140,
+                    "end": 149
+                },
+                "babelSynsetID": "bn:03033659n",
+                "DBpediaURL": "http://dbpedia.org/resource/Eric_Kretz",
+                "BabelNetURL": "http://babelnet.org/rdf/s03033659n",
+                "score": 1.0,
+                "coherenceScore": 0.25806451612903225,
+                "globalScore": 0.01152516327314637,
+                "source": "BABELFY"
+            },
+            {
+                "start": 145,
+                "end": 154,
+                "text": "kretz,dean",
+                "isEntity": false
+            },
+            {
+                "start": 151,
+                "end": 160,
+                "text": "dean deleo",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 33,
+                    "end": 34
+                },
+                "charFragment": {
+                    "start": 151,
+                    "end": 160
+                },
+                "babelSynsetID": "bn:03033520n",
+                "DBpediaURL": "http://dbpedia.org/resource/Dean_DeLeo",
+                "BabelNetURL": "http://babelnet.org/rdf/s03033520n",
+                "score": 1.0,
+                "coherenceScore": 0.22580645161290322,
+                "globalScore": 0.009412216673069535,
+                "source": "BABELFY"
+            },
+            {
+                "start": 156,
+                "end": 171,
+                "text": "deleo,commercial",
+                "isEntity": false
+            },
+            {
+                "start": 173,
+                "end": 242,
+                "text": "success,tx,thanks,rrb,ricky,joined,houston,guitar,drums,bass,airplay,2",
+                "isEntity": false
+            }
+        ]
+    ]
+}

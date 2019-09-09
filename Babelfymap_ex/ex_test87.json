@@ -1,0 +1,315 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 7,
+                "text": "clarence",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 7
+                },
+                "babelSynsetID": "bn:00019445n",
+                "DBpediaURL": "http://dbpedia.org/resource/Clarence_(carriage)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00019445n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 9,
+                "end": 14,
+                "text": "fuller",
+                "isEntity": false
+            },
+            {
+                "start": 16,
+                "end": 23,
+                "text": "directed",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 16,
+                    "end": 23
+                },
+                "babelSynsetID": "bn:00086865v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00086865v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 25,
+                "end": 29,
+                "text": "video",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 25,
+                    "end": 29
+                },
+                "babelSynsetID": "bn:00076373n",
+                "DBpediaURL": "http://dbpedia.org/resource/Television",
+                "BabelNetURL": "http://babelnet.org/rdf/s00076373n",
+                "score": 0.948016415868673,
+                "coherenceScore": 0.4375,
+                "globalScore": 0.04396650171298059,
+                "source": "BABELFY"
+            },
+            {
+                "start": 31,
+                "end": 38,
+                "text": "features",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 31,
+                    "end": 38
+                },
+                "babelSynsetID": "bn:00017761n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00017761n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 40,
+                "end": 50,
+                "text": "greyson,two",
+                "isEntity": false
+            },
+            {
+                "start": 52,
+                "end": 62,
+                "text": "long island",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 52,
+                    "end": 62
+                },
+                "babelSynsetID": "bn:00215952n",
+                "DBpediaURL": "http://dbpedia.org/resource/Long_Island_(Tennessee)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00215952n",
+                "score": 1.0,
+                "coherenceScore": 0.10416666666666667,
+                "globalScore": 0.0025377490166222563,
+                "source": "BABELFY"
+            },
+            {
+                "start": 64,
+                "end": 67,
+                "text": "kids",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 64,
+                    "end": 67
+                },
+                "babelSynsetID": "bn:00018346n",
+                "DBpediaURL": "http://dbpedia.org/resource/Child",
+                "BabelNetURL": "http://babelnet.org/rdf/s00018346n",
+                "score": 0.8230088495575221,
+                "coherenceScore": 0.375,
+                "globalScore": 0.03540159878188047,
+                "source": "BABELFY"
+            },
+            {
+                "start": 69,
+                "end": 81,
+                "text": "sneaking,told",
+                "isEntity": false
+            },
+            {
+                "start": 83,
+                "end": 86,
+                "text": "part",
+                "isEntity": false
+            },
+            {
+                "start": 88,
+                "end": 88,
+                "text": "1",
+                "isEntity": false
+            },
+            {
+                "start": 90,
+                "end": 99,
+                "text": "ep,friends",
+                "isEntity": false
+            },
+            {
+                "start": 101,
+                "end": 104,
+                "text": "back",
+                "isEntity": false
+            },
+            {
+                "start": 106,
+                "end": 114,
+                "text": "home,teen",
+                "isEntity": false
+            },
+            {
+                "start": 116,
+                "end": 121,
+                "text": "singer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 23,
+                    "end": 23
+                },
+                "charFragment": {
+                    "start": 116,
+                    "end": 121
+                },
+                "babelSynsetID": "bn:00071734n",
+                "DBpediaURL": "http://dbpedia.org/resource/Singing",
+                "BabelNetURL": "http://babelnet.org/rdf/s00071734n",
+                "score": 0.9076005961251863,
+                "coherenceScore": 0.4375,
+                "globalScore": 0.03863722877807385,
+                "source": "BABELFY"
+            },
+            {
+                "start": 123,
+                "end": 135,
+                "text": "explained,big",
+                "isEntity": false
+            },
+            {
+                "start": 137,
+                "end": 140,
+                "text": "city",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 27,
+                    "end": 27
+                },
+                "charFragment": {
+                    "start": 137,
+                    "end": 140
+                },
+                "babelSynsetID": "bn:03335997n",
+                "DBpediaURL": "http://dbpedia.org/resource/City",
+                "BabelNetURL": "http://babelnet.org/rdf/s03335997n",
+                "score": 0.7793493635077794,
+                "coherenceScore": 0.6041666666666666,
+                "globalScore": 0.10487247811191473,
+                "source": "BABELFY"
+            },
+            {
+                "start": 142,
+                "end": 158,
+                "text": "overnight,greyson",
+                "isEntity": false
+            },
+            {
+                "start": 160,
+                "end": 176,
+                "text": "explained,greyson",
+                "isEntity": false
+            },
+            {
+                "start": 170,
+                "end": 183,
+                "text": "greyson chance",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 33,
+                    "end": 34
+                },
+                "charFragment": {
+                    "start": 170,
+                    "end": 183
+                },
+                "babelSynsetID": "bn:02093484n",
+                "DBpediaURL": "http://dbpedia.org/resource/Greyson_Chance",
+                "BabelNetURL": "http://babelnet.org/rdf/s02093484n",
+                "score": 1.0,
+                "coherenceScore": 0.10416666666666667,
+                "globalScore": 0.00158609313538891,
+                "source": "BABELFY"
+            },
+            {
+                "start": 178,
+                "end": 191,
+                "text": "chance,staying",
+                "isEntity": false
+            },
+            {
+                "start": 193,
+                "end": 206,
+                "text": "young,oklahoma",
+                "isEntity": false
+            },
+            {
+                "start": 208,
+                "end": 225,
+                "text": "native,mischievous",
+                "isEntity": false
+            },
+            {
+                "start": 227,
+                "end": 243,
+                "text": "sometimes,meaning",
+                "isEntity": false
+            },
+            {
+                "start": 245,
+                "end": 256,
+                "text": "behind,first",
+                "isEntity": false
+            },
+            {
+                "start": 258,
+                "end": 268,
+                "text": "single,city",
+                "isEntity": false
+            },
+            {
+                "start": 270,
+                "end": 280,
+                "text": "lights,song",
+                "isEntity": false
+            },
+            {
+                "start": 282,
+                "end": 287,
+                "text": ".``,``",
+                "isEntity": false
+            },
+            {
+                "start": 289,
+                "end": 403,
+                "text": "sunshine,city,song,``,youth,writing,truth,teenagers,take,said,love,inspired,girl,fun,falling,extension,even,clip,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

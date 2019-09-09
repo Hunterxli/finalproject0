@@ -1,0 +1,408 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 4,
+                "text": "edens",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 4
+                },
+                "babelSynsetID": "bn:00029734n",
+                "DBpediaURL": "http://dbpedia.org/resource/Heaven",
+                "BabelNetURL": "http://babelnet.org/rdf/s00029734n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 6,
+                "end": 9,
+                "text": "edge",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 6,
+                    "end": 9
+                },
+                "babelSynsetID": "bn:00082188v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00082188v",
+                "score": 0.8,
+                "coherenceScore": 0.041666666666666664,
+                "globalScore": 0.00035278035013449753,
+                "source": "BABELFY"
+            },
+            {
+                "start": 11,
+                "end": 19,
+                "text": "guitarist",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 11,
+                    "end": 19
+                },
+                "babelSynsetID": "bn:00042152n",
+                "DBpediaURL": "http://dbpedia.org/resource/Guitarist",
+                "BabelNetURL": "http://babelnet.org/rdf/s00042152n",
+                "score": 0.9344262295081968,
+                "coherenceScore": 0.25,
+                "globalScore": 0.010054239978833179,
+                "source": "BABELFY"
+            },
+            {
+                "start": 21,
+                "end": 24,
+                "text": "dean",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 21,
+                    "end": 24
+                },
+                "babelSynsetID": "bn:00025571n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00025571n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 26,
+                "end": 31,
+                "text": "berner",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 26,
+                    "end": 31
+                },
+                "babelSynsetID": "bn:16710957n",
+                "DBpediaURL": "http://dbpedia.org/resource/Berner",
+                "BabelNetURL": "http://babelnet.org/rdf/s16710957n",
+                "score": 0.8,
+                "coherenceScore": 0.041666666666666664,
+                "globalScore": 0.00017639017506724877,
+                "source": "BABELFY"
+            },
+            {
+                "start": 33,
+                "end": 42,
+                "text": "wrote,2011",
+                "isEntity": false
+            },
+            {
+                "start": 44,
+                "end": 47,
+                "text": "fall",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 44,
+                    "end": 47
+                },
+                "babelSynsetID": "bn:00007406n",
+                "DBpediaURL": "http://dbpedia.org/resource/Autumn",
+                "BabelNetURL": "http://babelnet.org/rdf/s00007406n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 49,
+                "end": 61,
+                "text": "reba mcentire",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 49,
+                    "end": 61
+                },
+                "babelSynsetID": "bn:01364627n",
+                "DBpediaURL": "http://dbpedia.org/resource/Reba_McEntire",
+                "BabelNetURL": "http://babelnet.org/rdf/s01364627n",
+                "score": 0.7544642857142857,
+                "coherenceScore": 0.2708333333333333,
+                "globalScore": 0.01490496979318252,
+                "source": "BABELFY"
+            },
+            {
+                "start": 63,
+                "end": 72,
+                "text": "tour,track",
+                "isEntity": false
+            },
+            {
+                "start": 74,
+                "end": 75,
+                "text": "``",
+                "isEntity": false
+            },
+            {
+                "start": 77,
+                "end": 86,
+                "text": "cherry pie",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 15
+                },
+                "charFragment": {
+                    "start": 77,
+                    "end": 86
+                },
+                "babelSynsetID": "bn:00062293n",
+                "DBpediaURL": "http://dbpedia.org/resource/Pie",
+                "BabelNetURL": "http://babelnet.org/rdf/s00062293n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 88,
+                "end": 95,
+                "text": "'',edens",
+                "isEntity": false
+            },
+            {
+                "start": 97,
+                "end": 100,
+                "text": "edge",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 18,
+                    "end": 18
+                },
+                "charFragment": {
+                    "start": 97,
+                    "end": 100
+                },
+                "babelSynsetID": "bn:00012214n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00012214n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 102,
+                "end": 108,
+                "text": "started",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 19,
+                    "end": 19
+                },
+                "charFragment": {
+                    "start": 102,
+                    "end": 108
+                },
+                "babelSynsetID": "bn:00083340v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00083340v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 110,
+                "end": 126,
+                "text": "playing,nashville",
+                "isEntity": false
+            },
+            {
+                "start": 128,
+                "end": 138,
+                "text": "songwriters",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 23,
+                    "end": 23
+                },
+                "charFragment": {
+                    "start": 128,
+                    "end": 138
+                },
+                "babelSynsetID": "bn:00008155n",
+                "DBpediaURL": "http://dbpedia.org/resource/Songster",
+                "BabelNetURL": "http://babelnet.org/rdf/s00008155n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 140,
+                "end": 144,
+                "text": "laura",
+                "isEntity": false
+            },
+            {
+                "start": 146,
+                "end": 155,
+                "text": "veltz,trio",
+                "isEntity": false
+            },
+            {
+                "start": 157,
+                "end": 160,
+                "text": "also",
+                "isEntity": false
+            },
+            {
+                "start": 162,
+                "end": 177,
+                "text": "penned,eponymous",
+                "isEntity": false
+            },
+            {
+                "start": 179,
+                "end": 183,
+                "text": "debut",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 32,
+                    "end": 32
+                },
+                "charFragment": {
+                    "start": 179,
+                    "end": 183
+                },
+                "babelSynsetID": "bn:00025643n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00025643n",
+                "score": 0.7333333333333333,
+                "coherenceScore": 0.041666666666666664,
+                "globalScore": 0.0009701459628698681,
+                "source": "BABELFY"
+            },
+            {
+                "start": 185,
+                "end": 194,
+                "text": "album,said",
+                "isEntity": false
+            },
+            {
+                "start": 196,
+                "end": 207,
+                "text": "berner,debut",
+                "isEntity": false
+            },
+            {
+                "start": 209,
+                "end": 218,
+                "text": "album,trio",
+                "isEntity": false
+            },
+            {
+                "start": 220,
+                "end": 229,
+                "text": "knew,vince",
+                "isEntity": false
+            },
+            {
+                "start": 225,
+                "end": 237,
+                "text": "vince melamed",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 44,
+                    "end": 45
+                },
+                "charFragment": {
+                    "start": 225,
+                    "end": 237
+                },
+                "babelSynsetID": "bn:02211187n",
+                "DBpediaURL": "http://dbpedia.org/resource/Vince_Melamed",
+                "BabelNetURL": "http://babelnet.org/rdf/s02211187n",
+                "score": 1.0,
+                "coherenceScore": 0.08333333333333333,
+                "globalScore": 0.0010583410504034925,
+                "source": "BABELFY"
+            },
+            {
+                "start": 231,
+                "end": 246,
+                "text": "melamed,probably",
+                "isEntity": false
+            },
+            {
+                "start": 248,
+                "end": 257,
+                "text": "done,crowd",
+                "isEntity": false
+            },
+            {
+                "start": 259,
+                "end": 273,
+                "text": "reaction,always",
+                "isEntity": false
+            },
+            {
+                "start": 275,
+                "end": 284,
+                "text": "say,cheeky",
+                "isEntity": false
+            },
+            {
+                "start": 279,
+                "end": 289,
+                "text": "cheeky song",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 56,
+                    "end": 57
+                },
+                "charFragment": {
+                    "start": 279,
+                    "end": 289
+                },
+                "babelSynsetID": "bn:01291402n",
+                "DBpediaURL": "http://dbpedia.org/resource/Cheeky_Song_(Touch_My_Bum)",
+                "BabelNetURL": "http://babelnet.org/rdf/s01291402n",
+                "score": 1.0,
+                "coherenceScore": 0.0625,
+                "globalScore": 0.0003968778939013097,
+                "source": "BABELFY"
+            },
+            {
+                "start": 286,
+                "end": 357,
+                "text": "song,``,'',song,whether,want,rrb,lrb,include,hear,country,bet,band,admit",
+                "isEntity": false
+            }
+        ]
+    ]
+}

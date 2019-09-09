@@ -1,0 +1,606 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 17,
+                "text": "democratic process",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 17
+                },
+                "babelSynsetID": "bn:00021207n",
+                "DBpediaURL": "http://dbpedia.org/resource/Democracy",
+                "BabelNetURL": "http://babelnet.org/rdf/s00021207n",
+                "score": 1.0,
+                "coherenceScore": 0.20512820512820512,
+                "globalScore": 0.007967274207020624,
+                "source": "BABELFY"
+            },
+            {
+                "start": 19,
+                "end": 22,
+                "text": "gave",
+                "isEntity": false
+            },
+            {
+                "start": 24,
+                "end": 31,
+                "text": "claypool",
+                "isEntity": false
+            },
+            {
+                "start": 33,
+                "end": 41,
+                "text": "different",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 33,
+                    "end": 41
+                },
+                "babelSynsetID": "bn:00101347a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00101347a",
+                "score": 0.75,
+                "coherenceScore": 0.03418803418803419,
+                "globalScore": 0.0002570088453877621,
+                "source": "BABELFY"
+            },
+            {
+                "start": 43,
+                "end": 60,
+                "text": "perspectives,whole",
+                "isEntity": false
+            },
+            {
+                "start": 56,
+                "end": 66,
+                "text": "whole notes",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 56,
+                    "end": 66
+                },
+                "babelSynsetID": "bn:00070417n",
+                "DBpediaURL": "http://dbpedia.org/resource/Whole_note",
+                "BabelNetURL": "http://babelnet.org/rdf/s00070417n",
+                "score": 1.0,
+                "coherenceScore": 0.05128205128205128,
+                "globalScore": 0.0007710265361632863,
+                "source": "BABELFY"
+            },
+            {
+                "start": 68,
+                "end": 69,
+                "text": ".`",
+                "isEntity": false
+            },
+            {
+                "start": 71,
+                "end": 82,
+                "text": "hey,claypool",
+                "isEntity": false
+            },
+            {
+                "start": 84,
+                "end": 87,
+                "text": "told",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 84,
+                    "end": 87
+                },
+                "babelSynsetID": "bn:00093287v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00093287v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 89,
+                "end": 101,
+                "text": "artist direct",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 89,
+                    "end": 101
+                },
+                "babelSynsetID": "bn:03403284n",
+                "DBpediaURL": "http://dbpedia.org/resource/Artistdirect",
+                "BabelNetURL": "http://babelnet.org/rdf/s03403284n",
+                "score": 1.0,
+                "coherenceScore": 0.02564102564102564,
+                "globalScore": 0.00022488273971429183,
+                "source": "BABELFY"
+            },
+            {
+                "start": 96,
+                "end": 105,
+                "text": "direct,les",
+                "isEntity": false
+            },
+            {
+                "start": 107,
+                "end": 114,
+                "text": "claypool",
+                "isEntity": false
+            },
+            {
+                "start": 116,
+                "end": 131,
+                "text": "shared,wonderful",
+                "isEntity": false
+            },
+            {
+                "start": 133,
+                "end": 142,
+                "text": "successful",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 23,
+                    "end": 23
+                },
+                "charFragment": {
+                    "start": 133,
+                    "end": 142
+                },
+                "babelSynsetID": "bn:00111409a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00111409a",
+                "score": 1.0,
+                "coherenceScore": 0.042735042735042736,
+                "globalScore": 0.00032126105673470264,
+                "source": "BABELFY"
+            },
+            {
+                "start": 144,
+                "end": 156,
+                "text": "person,random",
+                "isEntity": false
+            },
+            {
+                "start": 158,
+                "end": 178,
+                "text": "chemical dependencies",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 27,
+                    "end": 28
+                },
+                "charFragment": {
+                    "start": 158,
+                    "end": 178
+                },
+                "babelSynsetID": "bn:00028875n",
+                "DBpediaURL": "http://dbpedia.org/resource/Substance_dependence",
+                "BabelNetURL": "http://babelnet.org/rdf/s00028875n",
+                "score": 1.0,
+                "coherenceScore": 0.1111111111111111,
+                "globalScore": 0.004315606862136172,
+                "source": "BABELFY"
+            },
+            {
+                "start": 167,
+                "end": 182,
+                "text": "dependencies,old",
+                "isEntity": false
+            },
+            {
+                "start": 184,
+                "end": 188,
+                "text": "magic",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 31,
+                    "end": 31
+                },
+                "charFragment": {
+                    "start": 184,
+                    "end": 188
+                },
+                "babelSynsetID": "bn:00099543a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00099543a",
+                "score": 1.0,
+                "coherenceScore": 0.008547008547008548,
+                "globalScore": 1.0708701891156754e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 190,
+                "end": 202,
+                "text": "poppy,drummer",
+                "isEntity": false
+            },
+            {
+                "start": 204,
+                "end": 211,
+                "text": "jay lane",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 35,
+                    "end": 36
+                },
+                "charFragment": {
+                    "start": 204,
+                    "end": 211
+                },
+                "babelSynsetID": "bn:02087437n",
+                "DBpediaURL": "http://dbpedia.org/resource/Jay_Lane",
+                "BabelNetURL": "http://babelnet.org/rdf/s02087437n",
+                "score": 1.0,
+                "coherenceScore": 0.07692307692307693,
+                "globalScore": 0.0015420530723265725,
+                "source": "BABELFY"
+            },
+            {
+                "start": 208,
+                "end": 217,
+                "text": "lane,would",
+                "isEntity": false
+            },
+            {
+                "start": 219,
+                "end": 223,
+                "text": "never",
+                "isEntity": false
+            },
+            {
+                "start": 225,
+                "end": 233,
+                "text": "write,gon",
+                "isEntity": false
+            },
+            {
+                "start": 235,
+                "end": 236,
+                "text": "na",
+                "isEntity": false
+            },
+            {
+                "start": 238,
+                "end": 248,
+                "text": "work,primus",
+                "isEntity": false
+            },
+            {
+                "start": 250,
+                "end": 257,
+                "text": "frontman",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 47,
+                    "end": 47
+                },
+                "charFragment": {
+                    "start": 250,
+                    "end": 257
+                },
+                "babelSynsetID": "bn:03464733n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lead_vocalist",
+                "BabelNetURL": "http://babelnet.org/rdf/s03464733n",
+                "score": 1.0,
+                "coherenceScore": 0.1111111111111111,
+                "globalScore": 0.002645049367115718,
+                "source": "BABELFY"
+            },
+            {
+                "start": 259,
+                "end": 272,
+                "text": "insisted,jerry",
+                "isEntity": false
+            },
+            {
+                "start": 274,
+                "end": 283,
+                "text": "gets drunk",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 51,
+                    "end": 52
+                },
+                "charFragment": {
+                    "start": 274,
+                    "end": 283
+                },
+                "babelSynsetID": "bn:13720790v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s13720790v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 279,
+                "end": 286,
+                "text": "drunk,``",
+                "isEntity": false
+            },
+            {
+                "start": 288,
+                "end": 291,
+                "text": "take",
+                "isEntity": false
+            },
+            {
+                "start": 293,
+                "end": 300,
+                "text": "ler,told",
+                "isEntity": false
+            },
+            {
+                "start": 302,
+                "end": 316,
+                "text": "musicradar,work",
+                "isEntity": false
+            },
+            {
+                "start": 318,
+                "end": 327,
+                "text": "like,never",
+                "isEntity": false
+            },
+            {
+                "start": 329,
+                "end": 344,
+                "text": "happened,watched",
+                "isEntity": false
+            },
+            {
+                "start": 346,
+                "end": 355,
+                "text": "go,various",
+                "isEntity": false
+            },
+            {
+                "start": 357,
+                "end": 370,
+                "text": "times,tweekers",
+                "isEntity": false
+            },
+            {
+                "start": 372,
+                "end": 388,
+                "text": "hanging,telephone",
+                "isEntity": false
+            },
+            {
+                "start": 390,
+                "end": 403,
+                "text": "poll,substance",
+                "isEntity": false
+            },
+            {
+                "start": 395,
+                "end": 409,
+                "text": "substance abuse",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 79,
+                    "end": 80
+                },
+                "charFragment": {
+                    "start": 395,
+                    "end": 409
+                },
+                "babelSynsetID": "bn:00028873n",
+                "DBpediaURL": "http://dbpedia.org/resource/Substance_abuse",
+                "BabelNetURL": "http://babelnet.org/rdf/s00028873n",
+                "score": 0.937984496124031,
+                "coherenceScore": 0.09401709401709402,
+                "globalScore": 0.0025915058576599344,
+                "source": "BABELFY"
+            },
+            {
+                "start": 405,
+                "end": 416,
+                "text": "abuse,really",
+                "isEntity": false
+            },
+            {
+                "start": 418,
+                "end": 434,
+                "text": "struggled,racecar",
+                "isEntity": false
+            },
+            {
+                "start": 428,
+                "end": 441,
+                "text": "racecar driver",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 85,
+                    "end": 86
+                },
+                "charFragment": {
+                    "start": 428,
+                    "end": 441
+                },
+                "babelSynsetID": "bn:00007323n",
+                "DBpediaURL": "http://dbpedia.org/resource/Auto_racing",
+                "BabelNetURL": "http://babelnet.org/rdf/s00007323n",
+                "score": 0.875,
+                "coherenceScore": 0.03418803418803419,
+                "globalScore": 0.0002998436529523891,
+                "source": "BABELFY"
+            },
+            {
+                "start": 436,
+                "end": 445,
+                "text": "driver,one",
+                "isEntity": false
+            },
+            {
+                "start": 447,
+                "end": 454,
+                "text": "side,one",
+                "isEntity": false
+            },
+            {
+                "start": 456,
+                "end": 470,
+                "text": "flips,guitarist",
+                "isEntity": false
+            },
+            {
+                "start": 472,
+                "end": 483,
+                "text": "larry,guitar",
+                "isEntity": false
+            },
+            {
+                "start": 485,
+                "end": 494,
+                "text": "part,green",
+                "isEntity": false
+            },
+            {
+                "start": 490,
+                "end": 504,
+                "text": "green naugahyde",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 100,
+                    "end": 101
+                },
+                "charFragment": {
+                    "start": 490,
+                    "end": 504
+                },
+                "babelSynsetID": "bn:02545492n",
+                "DBpediaURL": "http://dbpedia.org/resource/Green_Naugahyde",
+                "BabelNetURL": "http://babelnet.org/rdf/s02545492n",
+                "score": 1.0,
+                "coherenceScore": 0.08547008547008547,
+                "globalScore": 0.001392131245850378,
+                "source": "BABELFY"
+            },
+            {
+                "start": 496,
+                "end": 511,
+                "text": "naugahyde,damned",
+                "isEntity": false
+            },
+            {
+                "start": 513,
+                "end": 523,
+                "text": "blue,collar",
+                "isEntity": false
+            },
+            {
+                "start": 525,
+                "end": 536,
+                "text": "tweekers,car",
+                "isEntity": false
+            },
+            {
+                "start": 538,
+                "end": 552,
+                "text": "around,baseball",
+                "isEntity": false
+            },
+            {
+                "start": 545,
+                "end": 556,
+                "text": "baseball bat",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 112,
+                    "end": 113
+                },
+                "charFragment": {
+                    "start": 545,
+                    "end": 556
+                },
+                "babelSynsetID": "bn:00008806n",
+                "DBpediaURL": "http://dbpedia.org/resource/Baseball_bat",
+                "BabelNetURL": "http://babelnet.org/rdf/s00008806n",
+                "score": 1.0,
+                "coherenceScore": 0.008547008547008548,
+                "globalScore": 1.0708701891156754e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 554,
+                "end": 561,
+                "text": "bat,song",
+                "isEntity": false
+            },
+            {
+                "start": 563,
+                "end": 572,
+                "text": "almost,lot",
+                "isEntity": false
+            },
+            {
+                "start": 574,
+                "end": 587,
+                "text": "dealing,heroin",
+                "isEntity": false
+            },
+            {
+                "start": 582,
+                "end": 597,
+                "text": "heroin addiction",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 121,
+                    "end": 122
+                },
+                "charFragment": {
+                    "start": 582,
+                    "end": 597
+                },
+                "babelSynsetID": "bn:00043865n",
+                "DBpediaURL": "http://dbpedia.org/resource/Opioid_dependence",
+                "BabelNetURL": "http://babelnet.org/rdf/s00043865n",
+                "score": 1.0,
+                "coherenceScore": 0.05982905982905983,
+                "globalScore": 0.001349296438285751,
+                "source": "BABELFY"
+            },
+            {
+                "start": 589,
+                "end": 607,
+                "text": "addiction,everybody",
+                "isEntity": false
+            },
+            {
+                "start": 609,
+                "end": 620,
+                "text": "brought,band",
+                "isEntity": false
+            },
+            {
+                "start": 622,
+                "end": 1004,
+                "text": "previously,primus,ler,jerry,``,song,lot,heroin,everybody,band,years,wrote,writing,wraps,us,turbulence,trade,supported,sudden,sort,songs,something,smashes,smack,saw,rsb,played,perspective,name,music,mud,mess,material,lsb,lost,look,laughs,lalonde,know,jilly,holiday,head,gratifying,going,friends,friend,follow,family,disappeared,couple,carpentry,came,bunch,arrangement,always,...,--,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

@@ -1,0 +1,648 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 3,
+                "text": "band",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 3
+                },
+                "babelSynsetID": "bn:00008279n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00008279n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 5,
+                "end": 10,
+                "text": "member",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 5,
+                    "end": 10
+                },
+                "babelSynsetID": "bn:00054278n",
+                "DBpediaURL": "http://dbpedia.org/resource/Penis",
+                "BabelNetURL": "http://babelnet.org/rdf/s00054278n",
+                "score": 0.875,
+                "coherenceScore": 0.05084745762711865,
+                "globalScore": 0.00031041899172955115,
+                "source": "BABELFY"
+            },
+            {
+                "start": 12,
+                "end": 20,
+                "text": "gary kemp",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 12,
+                    "end": 20
+                },
+                "babelSynsetID": "bn:03456868n",
+                "DBpediaURL": "http://dbpedia.org/resource/Gary_Kemp",
+                "BabelNetURL": "http://babelnet.org/rdf/s03456868n",
+                "score": 1.0,
+                "coherenceScore": 0.11864406779661017,
+                "globalScore": 0.0020694599448636743,
+                "source": "BABELFY"
+            },
+            {
+                "start": 22,
+                "end": 28,
+                "text": "started",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 22,
+                    "end": 28
+                },
+                "babelSynsetID": "bn:00083340v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00083340v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 30,
+                "end": 40,
+                "text": "writing,bbc",
+                "isEntity": false
+            },
+            {
+                "start": 42,
+                "end": 51,
+                "text": "soap opera",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 42,
+                    "end": 51
+                },
+                "babelSynsetID": "bn:00072505n",
+                "DBpediaURL": "http://dbpedia.org/resource/Soap_opera",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072505n",
+                "score": 0.9552715654952076,
+                "coherenceScore": 0.11016949152542373,
+                "globalScore": 0.0022098875839794236,
+                "source": "BABELFY"
+            },
+            {
+                "start": 53,
+                "end": 63,
+                "text": "east enders",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 53,
+                    "end": 63
+                },
+                "babelSynsetID": "bn:03897934n",
+                "DBpediaURL": "http://dbpedia.org/resource/EastEnders",
+                "BabelNetURL": "http://babelnet.org/rdf/s03897934n",
+                "score": 1.0,
+                "coherenceScore": 0.11864406779661017,
+                "globalScore": 0.0017590409531341232,
+                "source": "BABELFY"
+            },
+            {
+                "start": 58,
+                "end": 69,
+                "text": "enders,james",
+                "isEntity": false
+            },
+            {
+                "start": 65,
+                "end": 86,
+                "text": "james bond theme songs",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 65,
+                    "end": 86
+                },
+                "babelSynsetID": "bn:00476705n",
+                "DBpediaURL": "http://dbpedia.org/resource/James_Bond_Theme",
+                "BabelNetURL": "http://babelnet.org/rdf/s00476705n",
+                "score": 1.0,
+                "coherenceScore": 0.06779661016949153,
+                "globalScore": 0.0010051662589337846,
+                "source": "BABELFY"
+            },
+            {
+                "start": 82,
+                "end": 93,
+                "text": "songs,martin",
+                "isEntity": false
+            },
+            {
+                "start": 88,
+                "end": 98,
+                "text": "martin kemp",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 18,
+                    "end": 19
+                },
+                "charFragment": {
+                    "start": 88,
+                    "end": 98
+                },
+                "babelSynsetID": "bn:16103807n",
+                "DBpediaURL": "http://dbpedia.org/resource/Martin_Kemp",
+                "BabelNetURL": "http://babelnet.org/rdf/s16103807n",
+                "score": 0.99812382739212,
+                "coherenceScore": 0.16101694915254236,
+                "globalScore": 0.003931973895240981,
+                "source": "BABELFY"
+            },
+            {
+                "start": 100,
+                "end": 104,
+                "text": "later",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 20,
+                    "end": 20
+                },
+                "charFragment": {
+                    "start": 100,
+                    "end": 104
+                },
+                "babelSynsetID": "bn:00114165r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00114165r",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 106,
+                "end": 117,
+                "text": "acted,keeble",
+                "isEntity": false
+            },
+            {
+                "start": 119,
+                "end": 122,
+                "text": "sued",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 24,
+                    "end": 24
+                },
+                "charFragment": {
+                    "start": 119,
+                    "end": 122
+                },
+                "babelSynsetID": "bn:00082305v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00082305v",
+                "score": 1.0,
+                "coherenceScore": 0.00847457627118644,
+                "globalScore": 7.390928374513123e-06,
+                "source": "BABELFY"
+            },
+            {
+                "start": 124,
+                "end": 132,
+                "text": "gary kemp",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 25,
+                    "end": 26
+                },
+                "charFragment": {
+                    "start": 124,
+                    "end": 132
+                },
+                "babelSynsetID": "bn:03456868n",
+                "DBpediaURL": "http://dbpedia.org/resource/Gary_Kemp",
+                "BabelNetURL": "http://babelnet.org/rdf/s03456868n",
+                "score": 1.0,
+                "coherenceScore": 0.11864406779661017,
+                "globalScore": 0.0020694599448636743,
+                "source": "BABELFY"
+            },
+            {
+                "start": 129,
+                "end": 137,
+                "text": "kemp,gary",
+                "isEntity": false
+            },
+            {
+                "start": 134,
+                "end": 142,
+                "text": "gary kemp",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 28,
+                    "end": 29
+                },
+                "charFragment": {
+                    "start": 134,
+                    "end": 142
+                },
+                "babelSynsetID": "bn:03456868n",
+                "DBpediaURL": "http://dbpedia.org/resource/Gary_Kemp",
+                "BabelNetURL": "http://babelnet.org/rdf/s03456868n",
+                "score": 1.0,
+                "coherenceScore": 0.11864406779661017,
+                "globalScore": 0.0020694599448636743,
+                "source": "BABELFY"
+            },
+            {
+                "start": 144,
+                "end": 156,
+                "text": "recalled,kemp",
+                "isEntity": false
+            },
+            {
+                "start": 158,
+                "end": 165,
+                "text": "brothers",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 33,
+                    "end": 33
+                },
+                "charFragment": {
+                    "start": 158,
+                    "end": 165
+                },
+                "babelSynsetID": "bn:00011357n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00011357n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 167,
+                "end": 182,
+                "text": "appeared,brother",
+                "isEntity": false
+            },
+            {
+                "start": 184,
+                "end": 194,
+                "text": "martin kemp",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 37,
+                    "end": 38
+                },
+                "charFragment": {
+                    "start": 184,
+                    "end": 194
+                },
+                "babelSynsetID": "bn:16103807n",
+                "DBpediaURL": "http://dbpedia.org/resource/Martin_Kemp",
+                "BabelNetURL": "http://babelnet.org/rdf/s16103807n",
+                "score": 0.99812382739212,
+                "coherenceScore": 0.16101694915254236,
+                "globalScore": 0.003931973895240981,
+                "source": "BABELFY"
+            },
+            {
+                "start": 191,
+                "end": 201,
+                "text": "kemp,sunday",
+                "isEntity": false
+            },
+            {
+                "start": 203,
+                "end": 207,
+                "text": "march",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 41,
+                    "end": 41
+                },
+                "charFragment": {
+                    "start": 203,
+                    "end": 207
+                },
+                "babelSynsetID": "bn:00082188v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00082188v",
+                "score": 0.9411764705882353,
+                "coherenceScore": 0.03389830508474576,
+                "globalScore": 0.00011825485399220997,
+                "source": "BABELFY"
+            },
+            {
+                "start": 209,
+                "end": 216,
+                "text": "13,great",
+                "isEntity": false
+            },
+            {
+                "start": 218,
+                "end": 229,
+                "text": "opening line",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 45,
+                    "end": 46
+                },
+                "charFragment": {
+                    "start": 218,
+                    "end": 229
+                },
+                "babelSynsetID": "bn:00059102n",
+                "DBpediaURL": "http://dbpedia.org/resource/Opening_sentence",
+                "BabelNetURL": "http://babelnet.org/rdf/s00059102n",
+                "score": 1.0,
+                "coherenceScore": 0.00847457627118644,
+                "globalScore": 1.4781856749026246e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 226,
+                "end": 234,
+                "text": "line,gary",
+                "isEntity": false
+            },
+            {
+                "start": 231,
+                "end": 239,
+                "text": "gary kemp",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 48,
+                    "end": 49
+                },
+                "charFragment": {
+                    "start": 231,
+                    "end": 239
+                },
+                "babelSynsetID": "bn:03456868n",
+                "DBpediaURL": "http://dbpedia.org/resource/Gary_Kemp",
+                "BabelNetURL": "http://babelnet.org/rdf/s03456868n",
+                "score": 1.0,
+                "coherenceScore": 0.11864406779661017,
+                "globalScore": 0.0020694599448636743,
+                "source": "BABELFY"
+            },
+            {
+                "start": 236,
+                "end": 247,
+                "text": "kemp,writing",
+                "isEntity": false
+            },
+            {
+                "start": 249,
+                "end": 261,
+                "text": "songs,brother",
+                "isEntity": false
+            },
+            {
+                "start": 263,
+                "end": 273,
+                "text": "martin,john",
+                "isEntity": false
+            },
+            {
+                "start": 270,
+                "end": 280,
+                "text": "john keeble",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 57,
+                    "end": 58
+                },
+                "charFragment": {
+                    "start": 270,
+                    "end": 280
+                },
+                "babelSynsetID": "bn:03456862n",
+                "DBpediaURL": "http://dbpedia.org/resource/John_Keeble",
+                "BabelNetURL": "http://babelnet.org/rdf/s03456862n",
+                "score": 1.0,
+                "coherenceScore": 0.1694915254237288,
+                "globalScore": 0.004138919889727349,
+                "source": "BABELFY"
+            },
+            {
+                "start": 275,
+                "end": 284,
+                "text": "keeble,bbc",
+                "isEntity": false
+            },
+            {
+                "start": 286,
+                "end": 295,
+                "text": "used,point",
+                "isEntity": false
+            },
+            {
+                "start": 297,
+                "end": 308,
+                "text": "writing,tony",
+                "isEntity": false
+            },
+            {
+                "start": 305,
+                "end": 315,
+                "text": "tony hadley",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 66,
+                    "end": 67
+                },
+                "charFragment": {
+                    "start": 305,
+                    "end": 315
+                },
+                "babelSynsetID": "bn:02007937n",
+                "DBpediaURL": "http://dbpedia.org/resource/Tony_Hadley",
+                "BabelNetURL": "http://babelnet.org/rdf/s02007937n",
+                "score": 0.9986842105263158,
+                "coherenceScore": 0.19491525423728814,
+                "globalScore": 0.00560971463625546,
+                "source": "BABELFY"
+            },
+            {
+                "start": 310,
+                "end": 321,
+                "text": "hadley,steve",
+                "isEntity": false
+            },
+            {
+                "start": 317,
+                "end": 326,
+                "text": "steve owen",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 69,
+                    "end": 70
+                },
+                "charFragment": {
+                    "start": 317,
+                    "end": 326
+                },
+                "babelSynsetID": "bn:01871859n",
+                "DBpediaURL": "http://dbpedia.org/resource/Steve_Owen_(EastEnders)",
+                "BabelNetURL": "http://babelnet.org/rdf/s01871859n",
+                "score": 0.994475138121547,
+                "coherenceScore": 0.1016949152542373,
+                "globalScore": 0.001330367107412362,
+                "source": "BABELFY"
+            },
+            {
+                "start": 323,
+                "end": 339,
+                "text": "owen,specifically",
+                "isEntity": false
+            },
+            {
+                "start": 341,
+                "end": 356,
+                "text": "goldfinger,right",
+                "isEntity": false
+            },
+            {
+                "start": 358,
+                "end": 370,
+                "text": "direction,los",
+                "isEntity": false
+            },
+            {
+                "start": 368,
+                "end": 378,
+                "text": "los angeles",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 78,
+                    "end": 79
+                },
+                "charFragment": {
+                    "start": 368,
+                    "end": 378
+                },
+                "babelSynsetID": "bn:00019336n",
+                "DBpediaURL": "http://dbpedia.org/resource/Los_Angeles",
+                "BabelNetURL": "http://babelnet.org/rdf/s00019336n",
+                "score": 0.9612623142427784,
+                "coherenceScore": 0.4830508474576271,
+                "globalScore": 0.04254957465207205,
+                "source": "BABELFY"
+            },
+            {
+                "start": 372,
+                "end": 386,
+                "text": "angeles,greater",
+                "isEntity": false
+            },
+            {
+                "start": 388,
+                "end": 398,
+                "text": "share,found",
+                "isEntity": false
+            },
+            {
+                "start": 400,
+                "end": 407,
+                "text": "--,chief",
+                "isEntity": false
+            },
+            {
+                "start": 409,
+                "end": 423,
+                "text": "songwriter,1998",
+                "isEntity": false
+            },
+            {
+                "start": 425,
+                "end": 435,
+                "text": "hadley,1984",
+                "isEntity": false
+            },
+            {
+                "start": 437,
+                "end": 450,
+                "text": "olympics,great",
+                "isEntity": false
+            },
+            {
+                "start": 452,
+                "end": 462,
+                "text": "title,great",
+                "isEntity": false
+            },
+            {
+                "start": 464,
+                "end": 475,
+                "text": "melody,steve",
+                "isEntity": false
+            },
+            {
+                "start": 471,
+                "end": 482,
+                "text": "steve norman",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 100,
+                    "end": 101
+                },
+                "charFragment": {
+                    "start": 471,
+                    "end": 482
+                },
+                "babelSynsetID": "bn:02008046n",
+                "DBpediaURL": "http://dbpedia.org/resource/Steve_Norman",
+                "BabelNetURL": "http://babelnet.org/rdf/s02008046n",
+                "score": 1.0,
+                "coherenceScore": 0.16101694915254236,
+                "globalScore": 0.003791546256125232,
+                "source": "BABELFY"
+            },
+            {
+                "start": 477,
+                "end": 487,
+                "text": "norman,song",
+                "isEntity": false
+            },
+            {
+                "start": 489,
+                "end": 756,
+                "text": "like,band,writing,used,title,song,norman,melody,vocals,think,start,spoof,something,see,rrb,royalties,put,opinion,muck,make,mail,made,lrb,loved,lost,krays,knowing,knew,key,hard,guitar,gold,going,give,get,formula,film,drums,coverage,come,case,better,bass,``,2011,1990,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

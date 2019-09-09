@@ -1,0 +1,111 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 21,
+                "text": "rolling stone magazine",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 21
+                },
+                "babelSynsetID": "bn:01891254n",
+                "DBpediaURL": "http://dbpedia.org/resource/Rolling_Stone",
+                "BabelNetURL": "http://babelnet.org/rdf/s01891254n",
+                "score": 1.0,
+                "coherenceScore": 0.18181818181818182,
+                "globalScore": 0.04247787610619469,
+                "source": "BABELFY"
+            },
+            {
+                "start": 14,
+                "end": 29,
+                "text": "magazine,actress",
+                "isEntity": false
+            },
+            {
+                "start": 31,
+                "end": 42,
+                "text": "paula patton",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 31,
+                    "end": 42
+                },
+                "babelSynsetID": "bn:03518493n",
+                "DBpediaURL": "http://dbpedia.org/resource/Paula_Patton",
+                "BabelNetURL": "http://babelnet.org/rdf/s03518493n",
+                "score": 1.0,
+                "coherenceScore": 0.045454545454545456,
+                "globalScore": 0.0035398230088495575,
+                "source": "BABELFY"
+            },
+            {
+                "start": 37,
+                "end": 49,
+                "text": "patton,thicke",
+                "isEntity": false
+            },
+            {
+                "start": 51,
+                "end": 66,
+                "text": "explained,racism",
+                "isEntity": false
+            },
+            {
+                "start": 68,
+                "end": 80,
+                "text": "thicke,direct",
+                "isEntity": false
+            },
+            {
+                "start": 75,
+                "end": 89,
+                "text": "direct response",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 15
+                },
+                "charFragment": {
+                    "start": 75,
+                    "end": 89
+                },
+                "babelSynsetID": "bn:00027340n",
+                "DBpediaURL": "http://dbpedia.org/resource/Direct_marketing",
+                "BabelNetURL": "http://babelnet.org/rdf/s00027340n",
+                "score": 1.0,
+                "coherenceScore": 0.045454545454545456,
+                "globalScore": 0.0017699115044247787,
+                "source": "BABELFY"
+            },
+            {
+                "start": 82,
+                "end": 98,
+                "text": "response,american",
+                "isEntity": false
+            },
+            {
+                "start": 100,
+                "end": 108,
+                "text": "wife,song",
+                "isEntity": false
+            },
+            {
+                "start": 110,
+                "end": 195,
+                "text": "addresses,song,walking,traveling,sideways,mississippi,looked,experienced,african,``,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

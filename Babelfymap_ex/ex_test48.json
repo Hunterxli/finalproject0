@@ -1,0 +1,159 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 18,
+                "text": "bush administration",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 18
+                },
+                "babelSynsetID": "bn:00014103n",
+                "DBpediaURL": "http://dbpedia.org/resource/Presidency_of_George_W._Bush",
+                "BabelNetURL": "http://babelnet.org/rdf/s00014103n",
+                "score": 0.9,
+                "coherenceScore": 0.11538461538461539,
+                "globalScore": 0.0012126111560226355,
+                "source": "BABELFY"
+            },
+            {
+                "start": 20,
+                "end": 21,
+                "text": ".-",
+                "isEntity": false
+            },
+            {
+                "start": 23,
+                "end": 31,
+                "text": "lrb,first",
+                "isEntity": false
+            },
+            {
+                "start": 33,
+                "end": 37,
+                "text": "album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 33,
+                    "end": 37
+                },
+                "babelSynsetID": "bn:00002488n",
+                "DBpediaURL": "http://dbpedia.org/resource/Album",
+                "BabelNetURL": "http://babelnet.org/rdf/s00002488n",
+                "score": 0.8264462809917356,
+                "coherenceScore": 0.38461538461538464,
+                "globalScore": 0.06736728644570197,
+                "source": "BABELFY"
+            },
+            {
+                "start": 39,
+                "end": 43,
+                "text": "since",
+                "isEntity": false
+            },
+            {
+                "start": 45,
+                "end": 65,
+                "text": "travelogue,particular",
+                "isEntity": false
+            },
+            {
+                "start": 67,
+                "end": 75,
+                "text": "addresses",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 67,
+                    "end": 75
+                },
+                "babelSynsetID": "bn:00001302n",
+                "DBpediaURL": "http://dbpedia.org/resource/Address_space",
+                "BabelNetURL": "http://babelnet.org/rdf/s00001302n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 77,
+                "end": 98,
+                "text": "disappointments,social",
+                "isEntity": false
+            },
+            {
+                "start": 93,
+                "end": 109,
+                "text": "social commentary",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 93,
+                    "end": 109
+                },
+                "babelSynsetID": "bn:03796643n",
+                "DBpediaURL": "http://dbpedia.org/resource/Social_commentary",
+                "BabelNetURL": "http://babelnet.org/rdf/s03796643n",
+                "score": 1.0,
+                "coherenceScore": 0.07692307692307693,
+                "globalScore": 0.0005389382915656157,
+                "source": "BABELFY"
+            },
+            {
+                "start": 100,
+                "end": 119,
+                "text": "commentary,political",
+                "isEntity": false
+            },
+            {
+                "start": 121,
+                "end": 134,
+                "text": "situation,joni",
+                "isEntity": false
+            },
+            {
+                "start": 131,
+                "end": 143,
+                "text": "joni mitchell",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 21,
+                    "end": 22
+                },
+                "charFragment": {
+                    "start": 131,
+                    "end": 143
+                },
+                "babelSynsetID": "bn:00877188n",
+                "DBpediaURL": "http://dbpedia.org/resource/Joni_Mitchell",
+                "BabelNetURL": "http://babelnet.org/rdf/s00877188n",
+                "score": 0.7159090909090909,
+                "coherenceScore": 0.2692307692307692,
+                "globalScore": 0.008488278092158448,
+                "source": "BABELFY"
+            },
+            {
+                "start": 136,
+                "end": 232,
+                "text": "mitchell,album,thanks,songs,shine,rrb,produced,played,paris,instruments,full,france,bertrand,2002",
+                "isEntity": false
+            }
+        ]
+    ]
+}

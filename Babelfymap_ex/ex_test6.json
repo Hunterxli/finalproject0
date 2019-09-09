@@ -1,0 +1,495 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 6,
+                "text": "morning",
+                "isEntity": false
+            },
+            {
+                "start": 8,
+                "end": 12,
+                "text": "light",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 8,
+                    "end": 12
+                },
+                "babelSynsetID": "bn:00051108n",
+                "DBpediaURL": "http://dbpedia.org/resource/Light",
+                "BabelNetURL": "http://babelnet.org/rdf/s00051108n",
+                "score": 0.829002514668902,
+                "coherenceScore": 0.26136363636363635,
+                "globalScore": 0.014451669467377803,
+                "source": "BABELFY"
+            },
+            {
+                "start": 14,
+                "end": 14,
+                "text": "?",
+                "isEntity": false
+            },
+            {
+                "start": 16,
+                "end": 16,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 17,
+                "end": 25,
+                "text": "'',actual",
+                "isEntity": false
+            },
+            {
+                "start": 27,
+                "end": 34,
+                "text": "incident",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 27,
+                    "end": 34
+                },
+                "babelSynsetID": "bn:00217666n",
+                "DBpediaURL": "http://dbpedia.org/resource/Incident_(Scientology)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00217666n",
+                "score": 0.75,
+                "coherenceScore": 0.03409090909090909,
+                "globalScore": 0.00013151165339373127,
+                "source": "BABELFY"
+            },
+            {
+                "start": 36,
+                "end": 44,
+                "text": "involving",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 36,
+                    "end": 44
+                },
+                "babelSynsetID": "bn:00082822v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00082822v",
+                "score": 0.9459459459459459,
+                "coherenceScore": 0.056818181818181816,
+                "globalScore": 0.0010228684152845766,
+                "source": "BABELFY"
+            },
+            {
+                "start": 46,
+                "end": 58,
+                "text": "stay,actually",
+                "isEntity": false
+            },
+            {
+                "start": 60,
+                "end": 67,
+                "text": "watching",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 60,
+                    "end": 67
+                },
+                "babelSynsetID": "bn:00095665v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00095665v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 69,
+                "end": 76,
+                "text": "american",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 12,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 69,
+                    "end": 76
+                },
+                "babelSynsetID": "bn:00096963a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00096963a",
+                "score": 0.8333333333333334,
+                "coherenceScore": 0.045454545454545456,
+                "globalScore": 0.0002922481186527362,
+                "source": "BABELFY"
+            },
+            {
+                "start": 78,
+                "end": 84,
+                "text": "idol,''",
+                "isEntity": false
+            },
+            {
+                "start": 86,
+                "end": 92,
+                "text": "bentley",
+                "isEntity": false
+            },
+            {
+                "start": 94,
+                "end": 101,
+                "text": "recalled",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 16,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 94,
+                    "end": 101
+                },
+                "babelSynsetID": "bn:00084413v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00084413v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 103,
+                "end": 111,
+                "text": ".``,sixth",
+                "isEntity": false
+            },
+            {
+                "start": 107,
+                "end": 124,
+                "text": "sixth studio album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 20,
+                    "end": 22
+                },
+                "charFragment": {
+                    "start": 107,
+                    "end": 124
+                },
+                "babelSynsetID": "bn:15774669n",
+                "DBpediaURL": "http://dbpedia.org/resource/Ti_Ora_Tha_Vgoume?",
+                "BabelNetURL": "http://babelnet.org/rdf/s15774669n",
+                "score": 1.0,
+                "coherenceScore": 0.011363636363636364,
+                "globalScore": 1.4612405932636809e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 120,
+                "end": 131,
+                "text": "album,pretty",
+                "isEntity": false
+            },
+            {
+                "start": 133,
+                "end": 136,
+                "text": "weak",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 25,
+                    "end": 25
+                },
+                "charFragment": {
+                    "start": 133,
+                    "end": 136
+                },
+                "babelSynsetID": "bn:00113737a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00113737a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 138,
+                "end": 152,
+                "text": "excuses,pumping",
+                "isEntity": false
+            },
+            {
+                "start": 154,
+                "end": 158,
+                "text": "party",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 29,
+                    "end": 29
+                },
+                "charFragment": {
+                    "start": 154,
+                    "end": 158
+                },
+                "babelSynsetID": "bn:00060834n",
+                "DBpediaURL": "http://dbpedia.org/resource/Political_party",
+                "BabelNetURL": "http://babelnet.org/rdf/s00060834n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 160,
+                "end": 168,
+                "text": "song,home",
+                "isEntity": false
+            },
+            {
+                "start": 170,
+                "end": 176,
+                "text": "buddies",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 33,
+                    "end": 33
+                },
+                "charFragment": {
+                    "start": 170,
+                    "end": 176
+                },
+                "babelSynsetID": "bn:00013372n",
+                "DBpediaURL": "http://dbpedia.org/resource/Sidekick",
+                "BabelNetURL": "http://babelnet.org/rdf/s00013372n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 178,
+                "end": 189,
+                "text": ".``,american",
+                "isEntity": false
+            },
+            {
+                "start": 191,
+                "end": 200,
+                "text": "idol,night",
+                "isEntity": false
+            },
+            {
+                "start": 202,
+                "end": 211,
+                "text": ".``,dierks",
+                "isEntity": false
+            },
+            {
+                "start": 213,
+                "end": 227,
+                "text": "bentley,bentley",
+                "isEntity": false
+            },
+            {
+                "start": 229,
+                "end": 245,
+                "text": "explained,nothing",
+                "isEntity": false
+            },
+            {
+                "start": 247,
+                "end": 256,
+                "text": "wrong,make",
+                "isEntity": false
+            },
+            {
+                "start": 253,
+                "end": 260,
+                "text": "make fun",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 53,
+                    "end": 54
+                },
+                "charFragment": {
+                    "start": 253,
+                    "end": 260
+                },
+                "babelSynsetID": "bn:00083536v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00083536v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 258,
+                "end": 265,
+                "text": "fun,home",
+                "isEntity": false
+            },
+            {
+                "start": 267,
+                "end": 277,
+                "text": "slumped,fun",
+                "isEntity": false
+            },
+            {
+                "start": 275,
+                "end": 285,
+                "text": "fun tonight",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 59,
+                    "end": 60
+                },
+                "charFragment": {
+                    "start": 275,
+                    "end": 285
+                },
+                "babelSynsetID": "bn:01232710n",
+                "DBpediaURL": "http://dbpedia.org/resource/Riverdales_(album)",
+                "BabelNetURL": "http://babelnet.org/rdf/s01232710n",
+                "score": 1.0,
+                "coherenceScore": 0.022727272727272728,
+                "globalScore": 5.8449623730547235e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 279,
+                "end": 292,
+                "text": "tonight,friday",
+                "isEntity": false
+            },
+            {
+                "start": 294,
+                "end": 304,
+                "text": "night,first",
+                "isEntity": false
+            },
+            {
+                "start": 306,
+                "end": 319,
+                "text": "single,country",
+                "isEntity": false
+            },
+            {
+                "start": 313,
+                "end": 328,
+                "text": "country musician",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 68,
+                    "end": 69
+                },
+                "charFragment": {
+                    "start": 313,
+                    "end": 328
+                },
+                "babelSynsetID": "bn:00014397n",
+                "DBpediaURL": "http://dbpedia.org/resource/Country_music",
+                "BabelNetURL": "http://babelnet.org/rdf/s00014397n",
+                "score": 1.0,
+                "coherenceScore": 0.45454545454545453,
+                "globalScore": 0.04559070650982684,
+                "source": "BABELFY"
+            },
+            {
+                "start": 321,
+                "end": 334,
+                "text": "musician,could",
+                "isEntity": false
+            },
+            {
+                "start": 336,
+                "end": 341,
+                "text": "n,cold",
+                "isEntity": false
+            },
+            {
+                "start": 338,
+                "end": 346,
+                "text": "cold beer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 74,
+                    "end": 75
+                },
+                "charFragment": {
+                    "start": 338,
+                    "end": 346
+                },
+                "babelSynsetID": "bn:14513260n",
+                "DBpediaURL": "http://dbpedia.org/resource/Colt_Ford_discography",
+                "BabelNetURL": "http://babelnet.org/rdf/s14513260n",
+                "score": 1.0,
+                "coherenceScore": 0.06818181818181818,
+                "globalScore": 0.0005260466135749251,
+                "source": "BABELFY"
+            },
+            {
+                "start": 343,
+                "end": 355,
+                "text": "beer,atlantic",
+                "isEntity": false
+            },
+            {
+                "start": 357,
+                "end": 366,
+                "text": "city,still",
+                "isEntity": false
+            },
+            {
+                "start": 368,
+                "end": 377,
+                "text": "wants,good",
+                "isEntity": false
+            },
+            {
+                "start": 374,
+                "end": 382,
+                "text": "good time",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 83,
+                    "end": 84
+                },
+                "charFragment": {
+                    "start": 374,
+                    "end": 382
+                },
+                "babelSynsetID": "bn:00011138n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00011138n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 379,
+                "end": 390,
+                "text": "time,friends",
+                "isEntity": false
+            },
+            {
+                "start": 392,
+                "end": 649,
+                "text": "turned,'',stay,song,home,buddies,wants,time,friends,wrote,words,without,whilst,whenever,watch,want,tv,trying,town,tivo,spending,sings,show,press,preferring,one,mine,lyrics,kick,grown,go,giving,get,front,fist,exchange,evenings,drag,definitely,based,anybody,``",
+                "isEntity": false
+            }
+        ]
+    ]
+}

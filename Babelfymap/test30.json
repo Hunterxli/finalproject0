@@ -1,0 +1,1021 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 3,
+                "text": "This",
+                "isEntity": false
+            },
+            {
+                "start": 5,
+                "end": 6,
+                "text": "is",
+                "isEntity": false
+            },
+            {
+                "start": 8,
+                "end": 8,
+                "text": "a",
+                "isEntity": false
+            },
+            {
+                "start": 10,
+                "end": 15,
+                "text": "single",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 10,
+                    "end": 15
+                },
+                "babelSynsetID": "bn:00104972a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00104972a",
+                "score": 1.0,
+                "coherenceScore": 0.07692307692307693,
+                "globalScore": 0.0007267441860465116,
+                "source": "BABELFY"
+            },
+            {
+                "start": 17,
+                "end": 20,
+                "text": "from",
+                "isEntity": false
+            },
+            {
+                "start": 22,
+                "end": 33,
+                "text": "Mariah Carey",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 22,
+                    "end": 33
+                },
+                "babelSynsetID": "bn:01220723n",
+                "DBpediaURL": "http://dbpedia.org/resource/Mariah_Carey",
+                "BabelNetURL": "http://babelnet.org/rdf/s01220723n",
+                "score": 0.9850746268656716,
+                "coherenceScore": 0.6153846153846154,
+                "globalScore": 0.19186046511627908,
+                "source": "BABELFY"
+            },
+            {
+                "start": 35,
+                "end": 36,
+                "text": "'s",
+                "isEntity": false
+            },
+            {
+                "start": 38,
+                "end": 41,
+                "text": "13th",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 38,
+                    "end": 41
+                },
+                "babelSynsetID": "bn:00095916a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00095916a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 43,
+                "end": 54,
+                "text": "studio album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 43,
+                    "end": 54
+                },
+                "babelSynsetID": "bn:00002488n",
+                "DBpediaURL": "http://dbpedia.org/resource/Album",
+                "BabelNetURL": "http://babelnet.org/rdf/s00002488n",
+                "score": 1.0,
+                "coherenceScore": 0.6153846153846154,
+                "globalScore": 0.29651162790697677,
+                "source": "BABELFY"
+            },
+            {
+                "start": 56,
+                "end": 70,
+                "text": "Angels Advocate",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 12
+                },
+                "charFragment": {
+                    "start": 56,
+                    "end": 70
+                },
+                "babelSynsetID": "bn:01600311n",
+                "DBpediaURL": "http://dbpedia.org/resource/Memoirs_of_an_Imperfect_Angel",
+                "BabelNetURL": "http://babelnet.org/rdf/s01600311n",
+                "score": 1.0,
+                "coherenceScore": 0.23076923076923078,
+                "globalScore": 0.00872093023255814,
+                "source": "BABELFY"
+            },
+            {
+                "start": 72,
+                "end": 76,
+                "text": "aimed",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 72,
+                    "end": 76
+                },
+                "babelSynsetID": "bn:00082488v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00082488v",
+                "score": 1.0,
+                "coherenceScore": 0.07692307692307693,
+                "globalScore": 0.0007267441860465116,
+                "source": "BABELFY"
+            },
+            {
+                "start": 78,
+                "end": 79,
+                "text": "at",
+                "isEntity": false
+            },
+            {
+                "start": 81,
+                "end": 85,
+                "text": "Urban",
+                "isEntity": false
+            },
+            {
+                "start": 87,
+                "end": 89,
+                "text": "A/C",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 16,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 87,
+                    "end": 89
+                },
+                "babelSynsetID": "bn:00002212n",
+                "DBpediaURL": "http://dbpedia.org/resource/Air_conditioning",
+                "BabelNetURL": "http://babelnet.org/rdf/s00002212n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 91,
+                "end": 103,
+                "text": "radio formats",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 18
+                },
+                "charFragment": {
+                    "start": 91,
+                    "end": 103
+                },
+                "babelSynsetID": "bn:00870255n",
+                "DBpediaURL": "http://dbpedia.org/resource/Radio_format",
+                "BabelNetURL": "http://babelnet.org/rdf/s00870255n",
+                "score": 1.0,
+                "coherenceScore": 0.07692307692307693,
+                "globalScore": 0.0007267441860465116,
+                "source": "BABELFY"
+            },
+            {
+                "start": 105,
+                "end": 105,
+                "text": ".",
+                "isEntity": false
+            }
+        ],
+        [
+            {
+                "start": 0,
+                "end": 2,
+                "text": "The",
+                "isEntity": false
+            },
+            {
+                "start": 4,
+                "end": 7,
+                "text": "song",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 4,
+                    "end": 7
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 0.9703791469194313,
+                "coherenceScore": 0.8125,
+                "globalScore": 0.228515625,
+                "source": "BABELFY"
+            },
+            {
+                "start": 9,
+                "end": 10,
+                "text": "is",
+                "isEntity": false
+            },
+            {
+                "start": 12,
+                "end": 12,
+                "text": "a",
+                "isEntity": false
+            },
+            {
+                "start": 14,
+                "end": 16,
+                "text": "new",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 14,
+                    "end": 16
+                },
+                "babelSynsetID": "bn:00107267a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00107267a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 18,
+                "end": 24,
+                "text": "version",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 18,
+                    "end": 24
+                },
+                "babelSynsetID": "bn:00079827n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00079827n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 26,
+                "end": 27,
+                "text": "of",
+                "isEntity": false
+            },
+            {
+                "start": 29,
+                "end": 29,
+                "text": "a",
+                "isEntity": false
+            },
+            {
+                "start": 31,
+                "end": 35,
+                "text": "track",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 31,
+                    "end": 35
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 0.983451536643026,
+                "coherenceScore": 0.8125,
+                "globalScore": 0.23214285714285715,
+                "source": "BABELFY"
+            },
+            {
+                "start": 37,
+                "end": 40,
+                "text": "from",
+                "isEntity": false
+            },
+            {
+                "start": 42,
+                "end": 46,
+                "text": "Carey",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 42,
+                    "end": 46
+                },
+                "babelSynsetID": "bn:00738423n",
+                "DBpediaURL": "http://dbpedia.org/resource/Carey_(song)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00738423n",
+                "score": 1.0,
+                "coherenceScore": 0.1875,
+                "globalScore": 0.0025111607142857145,
+                "source": "BABELFY"
+            },
+            {
+                "start": 48,
+                "end": 49,
+                "text": "'s",
+                "isEntity": false
+            },
+            {
+                "start": 51,
+                "end": 54,
+                "text": "2009",
+                "isEntity": false
+            },
+            {
+                "start": 56,
+                "end": 57,
+                "text": "LP",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 56,
+                    "end": 57
+                },
+                "babelSynsetID": "bn:00049539n",
+                "DBpediaURL": "http://dbpedia.org/resource/LP_record",
+                "BabelNetURL": "http://babelnet.org/rdf/s00049539n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 59,
+                "end": 58,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 60,
+                "end": 60,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 61,
+                "end": 89,
+                "text": "Memoirs of an Imperfect Angel",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 19
+                },
+                "charFragment": {
+                    "start": 61,
+                    "end": 89
+                },
+                "babelSynsetID": "bn:01600311n",
+                "DBpediaURL": "http://dbpedia.org/resource/Memoirs_of_an_Imperfect_Angel",
+                "BabelNetURL": "http://babelnet.org/rdf/s01600311n",
+                "score": 1.0,
+                "coherenceScore": 0.4375,
+                "globalScore": 0.015625,
+                "source": "BABELFY"
+            },
+            {
+                "start": 91,
+                "end": 90,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 92,
+                "end": 92,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 93,
+                "end": 96,
+                "text": "with",
+                "isEntity": false
+            },
+            {
+                "start": 98,
+                "end": 107,
+                "text": "additional",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 22,
+                    "end": 22
+                },
+                "charFragment": {
+                    "start": 98,
+                    "end": 107
+                },
+                "babelSynsetID": "bn:00096432a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00096432a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 109,
+                "end": 114,
+                "text": "vocals",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 23,
+                    "end": 23
+                },
+                "charFragment": {
+                    "start": 109,
+                    "end": 114
+                },
+                "babelSynsetID": "bn:00080173n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00080173n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 116,
+                "end": 119,
+                "text": "from",
+                "isEntity": false
+            },
+            {
+                "start": 121,
+                "end": 125,
+                "text": "Carey",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 25,
+                    "end": 25
+                },
+                "charFragment": {
+                    "start": 121,
+                    "end": 125
+                },
+                "babelSynsetID": "bn:00738423n",
+                "DBpediaURL": "http://dbpedia.org/resource/Carey_(song)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00738423n",
+                "score": 1.0,
+                "coherenceScore": 0.1875,
+                "globalScore": 0.0025111607142857145,
+                "source": "BABELFY"
+            },
+            {
+                "start": 127,
+                "end": 128,
+                "text": "'s",
+                "isEntity": false
+            },
+            {
+                "start": 130,
+                "end": 135,
+                "text": "fellow",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 27,
+                    "end": 27
+                },
+                "charFragment": {
+                    "start": 130,
+                    "end": 135
+                },
+                "babelSynsetID": "bn:13658184a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s13658184a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 137,
+                "end": 150,
+                "text": "Island Def Jam",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 28,
+                    "end": 30
+                },
+                "charFragment": {
+                    "start": 137,
+                    "end": 150
+                },
+                "babelSynsetID": "bn:00320471n",
+                "DBpediaURL": "http://dbpedia.org/resource/The_Island_Def_Jam_Music_Group",
+                "BabelNetURL": "http://babelnet.org/rdf/s00320471n",
+                "score": 1.0,
+                "coherenceScore": 0.3125,
+                "globalScore": 0.009765625,
+                "source": "BABELFY"
+            },
+            {
+                "start": 152,
+                "end": 157,
+                "text": "artist",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 31,
+                    "end": 31
+                },
+                "charFragment": {
+                    "start": 152,
+                    "end": 157
+                },
+                "babelSynsetID": "bn:00006182n",
+                "DBpediaURL": "http://dbpedia.org/resource/Artist",
+                "BabelNetURL": "http://babelnet.org/rdf/s00006182n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 159,
+                "end": 163,
+                "text": "Ne-Yo",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 32,
+                    "end": 32
+                },
+                "charFragment": {
+                    "start": 159,
+                    "end": 163
+                },
+                "babelSynsetID": "bn:01459907n",
+                "DBpediaURL": "http://dbpedia.org/resource/Ne-Yo",
+                "BabelNetURL": "http://babelnet.org/rdf/s01459907n",
+                "score": 1.0,
+                "coherenceScore": 0.3125,
+                "globalScore": 0.012555803571428572,
+                "source": "BABELFY"
+            },
+            {
+                "start": 165,
+                "end": 165,
+                "text": ".",
+                "isEntity": false
+            }
+        ],
+        [
+            {
+                "start": 0,
+                "end": 14,
+                "text": "Angels Advocate",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 14
+                },
+                "babelSynsetID": "bn:01600311n",
+                "DBpediaURL": "http://dbpedia.org/resource/Memoirs_of_an_Imperfect_Angel",
+                "BabelNetURL": "http://babelnet.org/rdf/s01600311n",
+                "score": 1.0,
+                "coherenceScore": 0.35714285714285715,
+                "globalScore": 0.005585344057193923,
+                "source": "BABELFY"
+            },
+            {
+                "start": 16,
+                "end": 17,
+                "text": "is",
+                "isEntity": false
+            },
+            {
+                "start": 19,
+                "end": 19,
+                "text": "a",
+                "isEntity": false
+            },
+            {
+                "start": 21,
+                "end": 30,
+                "text": "collection",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 4,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 21,
+                    "end": 30
+                },
+                "babelSynsetID": "bn:00000777n",
+                "DBpediaURL": "http://dbpedia.org/resource/Object_composition",
+                "BabelNetURL": "http://babelnet.org/rdf/s00000777n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 32,
+                "end": 33,
+                "text": "of",
+                "isEntity": false
+            },
+            {
+                "start": 35,
+                "end": 41,
+                "text": "remixed",
+                "isEntity": false
+            },
+            {
+                "start": 43,
+                "end": 47,
+                "text": "duets",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 43,
+                    "end": 47
+                },
+                "babelSynsetID": "bn:00012596n",
+                "DBpediaURL": "http://dbpedia.org/resource/Couplet",
+                "BabelNetURL": "http://babelnet.org/rdf/s00012596n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 49,
+                "end": 52,
+                "text": "with",
+                "isEntity": false
+            },
+            {
+                "start": 54,
+                "end": 57,
+                "text": "some",
+                "isEntity": false
+            },
+            {
+                "start": 59,
+                "end": 60,
+                "text": "of",
+                "isEntity": false
+            },
+            {
+                "start": 62,
+                "end": 66,
+                "text": "Carey",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 62,
+                    "end": 66
+                },
+                "babelSynsetID": "bn:00738423n",
+                "DBpediaURL": "http://dbpedia.org/resource/Carey_(song)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00738423n",
+                "score": 1.0,
+                "coherenceScore": 0.21428571428571427,
+                "globalScore": 0.0020107238605898124,
+                "source": "BABELFY"
+            },
+            {
+                "start": 68,
+                "end": 69,
+                "text": "'s",
+                "isEntity": false
+            },
+            {
+                "start": 71,
+                "end": 78,
+                "text": "favorite",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 71,
+                    "end": 78
+                },
+                "babelSynsetID": "bn:00102850a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00102850a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 80,
+                "end": 86,
+                "text": "artists",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 80,
+                    "end": 86
+                },
+                "babelSynsetID": "bn:00006182n",
+                "DBpediaURL": "http://dbpedia.org/resource/Artist",
+                "BabelNetURL": "http://babelnet.org/rdf/s00006182n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 88,
+                "end": 87,
+                "text": "",
+                "isEntity": false
+            },
+            {
+                "start": 89,
+                "end": 89,
+                "text": ",",
+                "isEntity": false
+            },
+            {
+                "start": 90,
+                "end": 99,
+                "text": "performing",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 16,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 90,
+                    "end": 99
+                },
+                "babelSynsetID": "bn:00091551v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00091551v",
+                "score": 1.0,
+                "coherenceScore": 0.21428571428571427,
+                "globalScore": 0.002680965147453083,
+                "source": "BABELFY"
+            },
+            {
+                "start": 101,
+                "end": 104,
+                "text": "some",
+                "isEntity": false
+            },
+            {
+                "start": 106,
+                "end": 111,
+                "text": "tracks",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 18,
+                    "end": 18
+                },
+                "charFragment": {
+                    "start": 106,
+                    "end": 111
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 0.9724473257698542,
+                "coherenceScore": 0.8571428571428571,
+                "globalScore": 0.2680965147453083,
+                "source": "BABELFY"
+            },
+            {
+                "start": 113,
+                "end": 116,
+                "text": "from",
+                "isEntity": false
+            },
+            {
+                "start": 118,
+                "end": 120,
+                "text": "her",
+                "isEntity": false
+            },
+            {
+                "start": 122,
+                "end": 125,
+                "text": "2009",
+                "isEntity": false
+            },
+            {
+                "start": 127,
+                "end": 131,
+                "text": "album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 22,
+                    "end": 22
+                },
+                "charFragment": {
+                    "start": 127,
+                    "end": 131
+                },
+                "babelSynsetID": "bn:00002488n",
+                "DBpediaURL": "http://dbpedia.org/resource/Album",
+                "BabelNetURL": "http://babelnet.org/rdf/s00002488n",
+                "score": 0.9738430583501007,
+                "coherenceScore": 0.7857142857142857,
+                "globalScore": 0.2162645218945487,
+                "source": "BABELFY"
+            },
+            {
+                "start": 133,
+                "end": 161,
+                "text": "Memoirs of an Imperfect Angel",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 23,
+                    "end": 27
+                },
+                "charFragment": {
+                    "start": 133,
+                    "end": 161
+                },
+                "babelSynsetID": "bn:01600311n",
+                "DBpediaURL": "http://dbpedia.org/resource/Memoirs_of_an_Imperfect_Angel",
+                "BabelNetURL": "http://babelnet.org/rdf/s01600311n",
+                "score": 1.0,
+                "coherenceScore": 0.35714285714285715,
+                "globalScore": 0.005585344057193923,
+                "source": "BABELFY"
+            },
+            {
+                "start": 163,
+                "end": 166,
+                "text": "plus",
+                "isEntity": false
+            },
+            {
+                "start": 168,
+                "end": 174,
+                "text": "several",
+                "isEntity": false
+            },
+            {
+                "start": 176,
+                "end": 180,
+                "text": "songs",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 30,
+                    "end": 30
+                },
+                "charFragment": {
+                    "start": 176,
+                    "end": 180
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 0.9465648854961832,
+                "coherenceScore": 0.8571428571428571,
+                "globalScore": 0.24932975871313673,
+                "source": "BABELFY"
+            },
+            {
+                "start": 182,
+                "end": 186,
+                "text": "which",
+                "isEntity": false
+            },
+            {
+                "start": 188,
+                "end": 190,
+                "text": "did",
+                "isEntity": false
+            },
+            {
+                "start": 192,
+                "end": 194,
+                "text": "not",
+                "isEntity": false
+            },
+            {
+                "start": 196,
+                "end": 199,
+                "text": "make",
+                "isEntity": false
+            },
+            {
+                "start": 201,
+                "end": 203,
+                "text": "the",
+                "isEntity": false
+            },
+            {
+                "start": 205,
+                "end": 212,
+                "text": "original",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 36,
+                    "end": 36
+                },
+                "charFragment": {
+                    "start": 205,
+                    "end": 212
+                },
+                "babelSynsetID": "bn:00107979a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00107979a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 214,
+                "end": 220,
+                "text": "listing",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 37,
+                    "end": 37
+                },
+                "charFragment": {
+                    "start": 214,
+                    "end": 220
+                },
+                "babelSynsetID": "bn:00090397v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00090397v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 222,
+                "end": 222,
+                "text": ".",
+                "isEntity": false
+            }
+        ]
+    ]
+}

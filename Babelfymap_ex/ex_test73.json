@@ -1,0 +1,162 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 4,
+                "text": "drums",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 4
+                },
+                "babelSynsetID": "bn:00028891n",
+                "DBpediaURL": "http://dbpedia.org/resource/Drum",
+                "BabelNetURL": "http://babelnet.org/rdf/s00028891n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 6,
+                "end": 13,
+                "text": "frontman",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 6,
+                    "end": 13
+                },
+                "babelSynsetID": "bn:03464733n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lead_vocalist",
+                "BabelNetURL": "http://babelnet.org/rdf/s03464733n",
+                "score": 1.0,
+                "coherenceScore": 0.21052631578947367,
+                "globalScore": 0.007473841554559043,
+                "source": "BABELFY"
+            },
+            {
+                "start": 15,
+                "end": 29,
+                "text": "jonathan pierce",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 15,
+                    "end": 29
+                },
+                "babelSynsetID": "bn:03800441n",
+                "DBpediaURL": "http://dbpedia.org/resource/Drum_kit",
+                "BabelNetURL": "http://babelnet.org/rdf/s03800441n",
+                "score": 0.9820717131474104,
+                "coherenceScore": 0.4473684210526316,
+                "globalScore": 0.0460575485799701,
+                "source": "BABELFY"
+            },
+            {
+                "start": 24,
+                "end": 32,
+                "text": "pierce,``",
+                "isEntity": false
+            },
+            {
+                "start": 34,
+                "end": 43,
+                "text": "portamento",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 34,
+                    "end": 43
+                },
+                "babelSynsetID": "bn:03598246n",
+                "DBpediaURL": "http://dbpedia.org/resource/Portamento",
+                "BabelNetURL": "http://babelnet.org/rdf/s03598246n",
+                "score": 0.9310344827586207,
+                "coherenceScore": 0.15789473684210525,
+                "globalScore": 0.005044843049327354,
+                "source": "BABELFY"
+            },
+            {
+                "start": 45,
+                "end": 52,
+                "text": "'',vocal",
+                "isEntity": false
+            },
+            {
+                "start": 54,
+                "end": 62,
+                "text": "slide,two",
+                "isEntity": false
+            },
+            {
+                "start": 64,
+                "end": 75,
+                "text": "pitches,told",
+                "isEntity": false
+            },
+            {
+                "start": 77,
+                "end": 84,
+                "text": "nme,song",
+                "isEntity": false
+            },
+            {
+                "start": 86,
+                "end": 99,
+                "text": "touches,singer",
+                "isEntity": false
+            },
+            {
+                "start": 101,
+                "end": 115,
+                "text": "decided,musical",
+                "isEntity": false
+            },
+            {
+                "start": 117,
+                "end": 128,
+                "text": "term,certain",
+                "isEntity": false
+            },
+            {
+                "start": 130,
+                "end": 139,
+                "text": "age,animal",
+                "isEntity": false
+            },
+            {
+                "start": 141,
+                "end": 151,
+                "text": "thing,album",
+                "isEntity": false
+            },
+            {
+                "start": 153,
+                "end": 166,
+                "text": "title,strictly",
+                "isEntity": false
+            },
+            {
+                "start": 168,
+                "end": 319,
+                "text": "religious,``,'',religious,yeah,world,thought,take,refers,parents,looking,look,least,learning,know,kid,guess,follow,faith,christianity,bull,break,born,--",
+                "isEntity": false
+            }
+        ]
+    ]
+}

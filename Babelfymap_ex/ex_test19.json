@@ -1,0 +1,258 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 4,
+                "text": "quote",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 4
+                },
+                "babelSynsetID": "bn:00019268n",
+                "DBpediaURL": "http://dbpedia.org/resource/Quotation",
+                "BabelNetURL": "http://babelnet.org/rdf/s00019268n",
+                "score": 0.8,
+                "coherenceScore": 0.045454545454545456,
+                "globalScore": 0.00038595137012736397,
+                "source": "BABELFY"
+            },
+            {
+                "start": 6,
+                "end": 16,
+                "text": "lead singer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 6,
+                    "end": 16
+                },
+                "babelSynsetID": "bn:03464733n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lead_vocalist",
+                "BabelNetURL": "http://babelnet.org/rdf/s03464733n",
+                "score": 1.0,
+                "coherenceScore": 0.20454545454545456,
+                "globalScore": 0.013894249324585103,
+                "source": "BABELFY"
+            },
+            {
+                "start": 18,
+                "end": 29,
+                "text": "corey taylor",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 18,
+                    "end": 29
+                },
+                "babelSynsetID": "bn:03150151n",
+                "DBpediaURL": "http://dbpedia.org/resource/Corey_Taylor",
+                "BabelNetURL": "http://babelnet.org/rdf/s03150151n",
+                "score": 1.0,
+                "coherenceScore": 0.1590909090909091,
+                "globalScore": 0.004727904284060208,
+                "source": "BABELFY"
+            },
+            {
+                "start": 31,
+                "end": 38,
+                "text": "took,see",
+                "isEntity": false
+            },
+            {
+                "start": 40,
+                "end": 49,
+                "text": "california",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 40,
+                    "end": 49
+                },
+                "babelSynsetID": "bn:00014403n",
+                "DBpediaURL": "http://dbpedia.org/resource/California",
+                "BabelNetURL": "http://babelnet.org/rdf/s00014403n",
+                "score": 0.9662162162162162,
+                "coherenceScore": 0.5909090909090909,
+                "globalScore": 0.1379776148205326,
+                "source": "BABELFY"
+            },
+            {
+                "start": 51,
+                "end": 57,
+                "text": "without",
+                "isEntity": false
+            },
+            {
+                "start": 59,
+                "end": 71,
+                "text": "marlon brando",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 59,
+                    "end": 71
+                },
+                "babelSynsetID": "bn:01262363n",
+                "DBpediaURL": "http://dbpedia.org/resource/Marlon_Brando",
+                "BabelNetURL": "http://babelnet.org/rdf/s01262363n",
+                "score": 0.9333333333333333,
+                "coherenceScore": 0.1590909090909091,
+                "globalScore": 0.005403319181783096,
+                "source": "BABELFY"
+            },
+            {
+                "start": 66,
+                "end": 79,
+                "text": "brando,english",
+                "isEntity": false
+            },
+            {
+                "start": 81,
+                "end": 89,
+                "text": "deathcore",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 81,
+                    "end": 89
+                },
+                "babelSynsetID": "bn:01194857n",
+                "DBpediaURL": "http://dbpedia.org/resource/Deathcore",
+                "BabelNetURL": "http://babelnet.org/rdf/s01194857n",
+                "score": 1.0,
+                "coherenceScore": 0.11363636363636363,
+                "globalScore": 0.0033770744886144344,
+                "source": "BABELFY"
+            },
+            {
+                "start": 91,
+                "end": 94,
+                "text": "band",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 15
+                },
+                "charFragment": {
+                    "start": 91,
+                    "end": 94
+                },
+                "babelSynsetID": "bn:00068051n",
+                "DBpediaURL": "http://dbpedia.org/resource/Musical_ensemble",
+                "BabelNetURL": "http://babelnet.org/rdf/s00068051n",
+                "score": 0.8247978436657682,
+                "coherenceScore": 0.4090909090909091,
+                "globalScore": 0.05905055962948669,
+                "source": "BABELFY"
+            },
+            {
+                "start": 96,
+                "end": 105,
+                "text": "bring,live",
+                "isEntity": false
+            },
+            {
+                "start": 107,
+                "end": 109,
+                "text": "set",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 19,
+                    "end": 19
+                },
+                "charFragment": {
+                    "start": 107,
+                    "end": 109
+                },
+                "babelSynsetID": "bn:00090224v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00090224v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 111,
+                "end": 112,
+                "text": ".-",
+                "isEntity": false
+            },
+            {
+                "start": 114,
+                "end": 119,
+                "text": "lrb,.-",
+                "isEntity": false
+            },
+            {
+                "start": 121,
+                "end": 127,
+                "text": "lrb,''-",
+                "isEntity": false
+            },
+            {
+                "start": 129,
+                "end": 138,
+                "text": "lrb,partly",
+                "isEntity": false
+            },
+            {
+                "start": 140,
+                "end": 153,
+                "text": "inspired,often",
+                "isEntity": false
+            },
+            {
+                "start": 155,
+                "end": 167,
+                "text": "included,eyes",
+                "isEntity": false
+            },
+            {
+                "start": 169,
+                "end": 173,
+                "text": "'',ca",
+                "isEntity": false
+            },
+            {
+                "start": 175,
+                "end": 182,
+                "text": "n,phrase",
+                "isEntity": false
+            },
+            {
+                "start": 184,
+                "end": 194,
+                "text": "``,homeless",
+                "isEntity": false
+            },
+            {
+                "start": 196,
+                "end": 377,
+                "text": "guy,corey,california,guy,``,vineland,thanks,street,song,son,seen,saying,ryan,rrb,phantom,nothing,nj,mystery,mallory,lutz,leaves,lancaster,horizon,fl,father,england,covered,cause,alex",
+                "isEntity": false
+            }
+        ]
+    ]
+}

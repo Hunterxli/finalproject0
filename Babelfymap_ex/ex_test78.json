@@ -1,0 +1,198 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 10,
+                "text": "lead singer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 10
+                },
+                "babelSynsetID": "bn:03464733n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lead_vocalist",
+                "BabelNetURL": "http://babelnet.org/rdf/s03464733n",
+                "score": 1.0,
+                "coherenceScore": 0.3225806451612903,
+                "globalScore": 0.013535724644687228,
+                "source": "BABELFY"
+            },
+            {
+                "start": 12,
+                "end": 23,
+                "text": "damon albarn",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 12,
+                    "end": 23
+                },
+                "babelSynsetID": "bn:00118414n",
+                "DBpediaURL": "http://dbpedia.org/resource/Damon_Albarn",
+                "BabelNetURL": "http://babelnet.org/rdf/s00118414n",
+                "score": 1.0,
+                "coherenceScore": 0.3225806451612903,
+                "globalScore": 0.013535724644687228,
+                "source": "BABELFY"
+            },
+            {
+                "start": 25,
+                "end": 35,
+                "text": "wrote,video",
+                "isEntity": false
+            },
+            {
+                "start": 37,
+                "end": 40,
+                "text": "used",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 37,
+                    "end": 40
+                },
+                "babelSynsetID": "bn:13783090v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s13783090v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 42,
+                "end": 51,
+                "text": "night,beds",
+                "isEntity": false
+            },
+            {
+                "start": 53,
+                "end": 54,
+                "text": ".-",
+                "isEntity": false
+            },
+            {
+                "start": 56,
+                "end": 65,
+                "text": "lrb,vision",
+                "isEntity": false
+            },
+            {
+                "start": 60,
+                "end": 73,
+                "text": "vision cameras",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 15,
+                    "end": 16
+                },
+                "charFragment": {
+                    "start": 60,
+                    "end": 73
+                },
+                "babelSynsetID": "bn:03292946n",
+                "DBpediaURL": "http://dbpedia.org/resource/Xbox_Live_Vision",
+                "BabelNetURL": "http://babelnet.org/rdf/s03292946n",
+                "score": 1.0,
+                "coherenceScore": 0.03225806451612903,
+                "globalScore": 9.668374746205163e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 67,
+                "end": 84,
+                "text": "cameras,reportedly",
+                "isEntity": false
+            },
+            {
+                "start": 86,
+                "end": 97,
+                "text": "wept,justine",
+                "isEntity": false
+            },
+            {
+                "start": 91,
+                "end": 108,
+                "text": "justine frischmann",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 21,
+                    "end": 22
+                },
+                "charFragment": {
+                    "start": 91,
+                    "end": 108
+                },
+                "babelSynsetID": "bn:03885856n",
+                "DBpediaURL": "http://dbpedia.org/resource/Justine_Frischmann",
+                "BabelNetURL": "http://babelnet.org/rdf/s03885856n",
+                "score": 1.0,
+                "coherenceScore": 0.25806451612903225,
+                "globalScore": 0.010055109736053369,
+                "source": "BABELFY"
+            },
+            {
+                "start": 99,
+                "end": 114,
+                "text": "frischmann,death",
+                "isEntity": false
+            },
+            {
+                "start": 110,
+                "end": 120,
+                "text": "death knell",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 24,
+                    "end": 25
+                },
+                "charFragment": {
+                    "start": 110,
+                    "end": 120
+                },
+                "babelSynsetID": "bn:00025592n",
+                "DBpediaURL": "http://dbpedia.org/resource/Death_knell",
+                "BabelNetURL": "http://babelnet.org/rdf/s00025592n",
+                "score": 0.8333333333333334,
+                "coherenceScore": 0.16129032258064516,
+                "globalScore": 0.0029005124238615488,
+                "source": "BABELFY"
+            },
+            {
+                "start": 116,
+                "end": 125,
+                "text": "knell,band",
+                "isEntity": false
+            },
+            {
+                "start": 127,
+                "end": 139,
+                "text": "elastica,band",
+                "isEntity": false
+            },
+            {
+                "start": 141,
+                "end": 148,
+                "text": "asleep,4",
+                "isEntity": false
+            },
+            {
+                "start": 150,
+                "end": 220,
+                "text": "members,writing,thanks,show,rrb,romance,paris,france,breakup,bertrand,2",
+                "isEntity": false
+            }
+        ]
+    ]
+}

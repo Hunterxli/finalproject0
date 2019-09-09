@@ -1,0 +1,582 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 12,
+                "text": "japanese film",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 12
+                },
+                "babelSynsetID": "bn:00197489n",
+                "DBpediaURL": "http://dbpedia.org/resource/Cinema_of_Japan",
+                "BabelNetURL": "http://babelnet.org/rdf/s00197489n",
+                "score": 1.0,
+                "coherenceScore": 0.05128205128205128,
+                "globalScore": 0.00021832869384858904,
+                "source": "BABELFY"
+            },
+            {
+                "start": 9,
+                "end": 21,
+                "text": "film director",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 9,
+                    "end": 21
+                },
+                "babelSynsetID": "bn:00027369n",
+                "DBpediaURL": "http://dbpedia.org/resource/Film_director",
+                "BabelNetURL": "http://babelnet.org/rdf/s00027369n",
+                "score": 1.0,
+                "coherenceScore": 0.11538461538461539,
+                "globalScore": 0.0011462256427050926,
+                "source": "BABELFY"
+            },
+            {
+                "start": 23,
+                "end": 35,
+                "text": "takashi miike",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 4
+                },
+                "charFragment": {
+                    "start": 23,
+                    "end": 35
+                },
+                "babelSynsetID": "bn:01385614n",
+                "DBpediaURL": "http://dbpedia.org/resource/Takashi_Miike",
+                "BabelNetURL": "http://babelnet.org/rdf/s01385614n",
+                "score": 1.0,
+                "coherenceScore": 0.07692307692307693,
+                "globalScore": 0.0004912395611593254,
+                "source": "BABELFY"
+            },
+            {
+                "start": 31,
+                "end": 43,
+                "text": "miike,swedish",
+                "isEntity": false
+            },
+            {
+                "start": 45,
+                "end": 53,
+                "text": "producing",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 7
+                },
+                "charFragment": {
+                    "start": 45,
+                    "end": 53
+                },
+                "babelSynsetID": "bn:00084082v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00084082v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 55,
+                "end": 58,
+                "text": "team",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 55,
+                    "end": 58
+                },
+                "babelSynsetID": "bn:00068051n",
+                "DBpediaURL": "http://dbpedia.org/resource/Musical_ensemble",
+                "BabelNetURL": "http://babelnet.org/rdf/s00068051n",
+                "score": 0.9732448199557433,
+                "coherenceScore": 0.5256410256410257,
+                "globalScore": 0.04401142586831141,
+                "source": "BABELFY"
+            },
+            {
+                "start": 60,
+                "end": 77,
+                "text": "christian karlsson",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 60,
+                    "end": 77
+                },
+                "babelSynsetID": "bn:01947502n",
+                "DBpediaURL": "http://dbpedia.org/resource/Bloodshy_&_Avant",
+                "BabelNetURL": "http://babelnet.org/rdf/s01947502n",
+                "score": 1.0,
+                "coherenceScore": 0.1282051282051282,
+                "globalScore": 0.0013645543365536817,
+                "source": "BABELFY"
+            },
+            {
+                "start": 70,
+                "end": 86,
+                "text": "karlsson,american",
+                "isEntity": false
+            },
+            {
+                "start": 88,
+                "end": 95,
+                "text": "vocalist",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 13,
+                    "end": 13
+                },
+                "charFragment": {
+                    "start": 88,
+                    "end": 95
+                },
+                "babelSynsetID": "bn:00071734n",
+                "DBpediaURL": "http://dbpedia.org/resource/Singing",
+                "BabelNetURL": "http://babelnet.org/rdf/s00071734n",
+                "score": 0.7784911717495987,
+                "coherenceScore": 0.44871794871794873,
+                "globalScore": 0.030884413150664994,
+                "source": "BABELFY"
+            },
+            {
+                "start": 97,
+                "end": 108,
+                "text": "andrew wyatt",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 15
+                },
+                "charFragment": {
+                    "start": 97,
+                    "end": 108
+                },
+                "babelSynsetID": "bn:00503843n",
+                "DBpediaURL": "http://dbpedia.org/resource/Andrew_Wyatt",
+                "BabelNetURL": "http://babelnet.org/rdf/s00503843n",
+                "score": 1.0,
+                "coherenceScore": 0.24358974358974358,
+                "globalScore": 0.00518530647890399,
+                "source": "BABELFY"
+            },
+            {
+                "start": 104,
+                "end": 114,
+                "text": "wyatt,indie",
+                "isEntity": false
+            },
+            {
+                "start": 110,
+                "end": 118,
+                "text": "indie pop",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 17,
+                    "end": 18
+                },
+                "charFragment": {
+                    "start": 110,
+                    "end": 118
+                },
+                "babelSynsetID": "bn:03893750n",
+                "DBpediaURL": "http://dbpedia.org/resource/Indie_pop",
+                "BabelNetURL": "http://babelnet.org/rdf/s03893750n",
+                "score": 1.0,
+                "coherenceScore": 0.16666666666666666,
+                "globalScore": 0.002128704765023743,
+                "source": "BABELFY"
+            },
+            {
+                "start": 116,
+                "end": 123,
+                "text": "pop band",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 18,
+                    "end": 19
+                },
+                "charFragment": {
+                    "start": 116,
+                    "end": 123
+                },
+                "babelSynsetID": "bn:00068051n",
+                "DBpediaURL": "http://dbpedia.org/resource/Musical_ensemble",
+                "BabelNetURL": "http://babelnet.org/rdf/s00068051n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 125,
+                "end": 135,
+                "text": "formed,band",
+                "isEntity": false
+            },
+            {
+                "start": 137,
+                "end": 142,
+                "text": "called",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 23,
+                    "end": 23
+                },
+                "charFragment": {
+                    "start": 137,
+                    "end": 142
+                },
+                "babelSynsetID": "bn:00084385v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00084385v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 144,
+                "end": 147,
+                "text": "mike",
+                "isEntity": false
+            },
+            {
+                "start": 149,
+                "end": 156,
+                "text": "snow,old",
+                "isEntity": false
+            },
+            {
+                "start": 154,
+                "end": 163,
+                "text": "old school",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 27,
+                    "end": 28
+                },
+                "charFragment": {
+                    "start": 154,
+                    "end": 163
+                },
+                "babelSynsetID": "bn:00058836n",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00058836n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 158,
+                "end": 169,
+                "text": "school dance",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 28,
+                    "end": 29
+                },
+                "charFragment": {
+                    "start": 158,
+                    "end": 169
+                },
+                "babelSynsetID": "bn:01391639n",
+                "DBpediaURL": "http://dbpedia.org/resource/Dance_party",
+                "BabelNetURL": "http://babelnet.org/rdf/s01391639n",
+                "score": 0.8974358974358975,
+                "coherenceScore": 0.0641025641025641,
+                "globalScore": 0.0003183960118625257,
+                "source": "BABELFY"
+            },
+            {
+                "start": 171,
+                "end": 177,
+                "text": "feel,``",
+                "isEntity": false
+            },
+            {
+                "start": 179,
+                "end": 183,
+                "text": "miike",
+                "isEntity": false
+            },
+            {
+                "start": 185,
+                "end": 186,
+                "text": "''",
+                "isEntity": false
+            },
+            {
+                "start": 188,
+                "end": 197,
+                "text": "coming,led",
+                "isEntity": false
+            },
+            {
+                "start": 199,
+                "end": 203,
+                "text": "house",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 37,
+                    "end": 37
+                },
+                "charFragment": {
+                    "start": 199,
+                    "end": 203
+                },
+                "babelSynsetID": "bn:00044994n",
+                "DBpediaURL": "http://dbpedia.org/resource/House",
+                "BabelNetURL": "http://babelnet.org/rdf/s00044994n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 205,
+                "end": 214,
+                "text": "tune,miike",
+                "isEntity": false
+            },
+            {
+                "start": 210,
+                "end": 219,
+                "text": "miike snow",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 40,
+                    "end": 41
+                },
+                "charFragment": {
+                    "start": 210,
+                    "end": 219
+                },
+                "babelSynsetID": "bn:01610630n",
+                "DBpediaURL": "http://dbpedia.org/resource/Miike_Snow",
+                "BabelNetURL": "http://babelnet.org/rdf/s01610630n",
+                "score": 0.7174887892376681,
+                "coherenceScore": 0.2564102564102564,
+                "globalScore": 0.005822098502629041,
+                "source": "BABELFY"
+            },
+            {
+                "start": 216,
+                "end": 228,
+                "text": "snow,karlsson",
+                "isEntity": false
+            },
+            {
+                "start": 230,
+                "end": 239,
+                "text": "found,band",
+                "isEntity": false
+            },
+            {
+                "start": 241,
+                "end": 252,
+                "text": "consists,old",
+                "isEntity": false
+            },
+            {
+                "start": 254,
+                "end": 270,
+                "text": "computer,winnberg",
+                "isEntity": false
+            },
+            {
+                "start": 272,
+                "end": 280,
+                "text": "told,trio",
+                "isEntity": false
+            },
+            {
+                "start": 282,
+                "end": 293,
+                "text": "named,second",
+                "isEntity": false
+            },
+            {
+                "start": 288,
+                "end": 299,
+                "text": "second album",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 58,
+                    "end": 59
+                },
+                "charFragment": {
+                    "start": 288,
+                    "end": 299
+                },
+                "babelSynsetID": "bn:03795529n",
+                "DBpediaURL": "http://dbpedia.org/resource/Second_Album_(Curved_Air_album)",
+                "BabelNetURL": "http://babelnet.org/rdf/s03795529n",
+                "score": 0.9135135135135135,
+                "coherenceScore": 0.16666666666666666,
+                "globalScore": 0.0015373978858504813,
+                "source": "BABELFY"
+            },
+            {
+                "start": 295,
+                "end": 308,
+                "text": "album,reminded",
+                "isEntity": false
+            },
+            {
+                "start": 310,
+                "end": 318,
+                "text": "us,pontus",
+                "isEntity": false
+            },
+            {
+                "start": 313,
+                "end": 327,
+                "text": "pontus winnberg",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 64,
+                    "end": 65
+                },
+                "charFragment": {
+                    "start": 313,
+                    "end": 327
+                },
+                "babelSynsetID": "bn:01947502n",
+                "DBpediaURL": "http://dbpedia.org/resource/Bloodshy_&_Avant",
+                "BabelNetURL": "http://babelnet.org/rdf/s01947502n",
+                "score": 1.0,
+                "coherenceScore": 0.1282051282051282,
+                "globalScore": 0.0013645543365536817,
+                "source": "BABELFY"
+            },
+            {
+                "start": 320,
+                "end": 333,
+                "text": "winnberg,piano",
+                "isEntity": false
+            },
+            {
+                "start": 329,
+                "end": 340,
+                "text": "piano chords",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 67,
+                    "end": 68
+                },
+                "charFragment": {
+                    "start": 329,
+                    "end": 340
+                },
+                "babelSynsetID": "bn:00018745n",
+                "DBpediaURL": "http://dbpedia.org/resource/Chord_(music)",
+                "BabelNetURL": "http://babelnet.org/rdf/s00018745n",
+                "score": 1.0,
+                "coherenceScore": 0.2564102564102564,
+                "globalScore": 0.0056401579244218835,
+                "source": "BABELFY"
+            },
+            {
+                "start": 335,
+                "end": 346,
+                "text": "chords,kylie",
+                "isEntity": false
+            },
+            {
+                "start": 342,
+                "end": 354,
+                "text": "kylie minogue",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 70,
+                    "end": 71
+                },
+                "charFragment": {
+                    "start": 342,
+                    "end": 354
+                },
+                "babelSynsetID": "bn:14979466n",
+                "DBpediaURL": "http://dbpedia.org/resource/Kylie_Minogue",
+                "BabelNetURL": "http://babelnet.org/rdf/s14979466n",
+                "score": 0.8275862068965517,
+                "coherenceScore": 0.23076923076923078,
+                "globalScore": 0.0052398886523661375,
+                "source": "BABELFY"
+            },
+            {
+                "start": 348,
+                "end": 359,
+                "text": "minogue,gave",
+                "isEntity": false
+            },
+            {
+                "start": 361,
+                "end": 372,
+                "text": "us,explained",
+                "isEntity": false
+            },
+            {
+                "start": 374,
+                "end": 384,
+                "text": ".``,britney",
+                "isEntity": false
+            },
+            {
+                "start": 378,
+                "end": 391,
+                "text": "britney spears",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 80,
+                    "end": 81
+                },
+                "charFragment": {
+                    "start": 378,
+                    "end": 391
+                },
+                "babelSynsetID": "bn:02742549n",
+                "DBpediaURL": "http://dbpedia.org/resource/Britney_Spears",
+                "BabelNetURL": "http://babelnet.org/rdf/s02742549n",
+                "score": 1.0,
+                "coherenceScore": 0.44871794871794873,
+                "globalScore": 0.023561304877826903,
+                "source": "BABELFY"
+            },
+            {
+                "start": 386,
+                "end": 395,
+                "text": "spears,90s",
+                "isEntity": false
+            },
+            {
+                "start": 397,
+                "end": 548,
+                "text": "piano,dance,``,'',worked,work,track,titled,thailand,sun,start,ready,messing,madonna,happy,hands,guise,genesis,friend,extra,devil,bloodshy,avant,air,2007",
+                "isEntity": false
+            }
+        ]
+    ]
+}

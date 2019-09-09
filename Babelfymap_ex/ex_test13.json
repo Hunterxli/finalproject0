@@ -1,0 +1,462 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 7,
+                "text": "animated",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 7
+                },
+                "babelSynsetID": "bn:00096789a",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00096789a",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 9,
+                "end": 19,
+                "text": "music video",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 9,
+                    "end": 19
+                },
+                "babelSynsetID": "bn:03793240n",
+                "DBpediaURL": "http://dbpedia.org/resource/Music_video",
+                "BabelNetURL": "http://babelnet.org/rdf/s03793240n",
+                "score": 1.0,
+                "coherenceScore": 0.3780487804878049,
+                "globalScore": 0.030641999308083888,
+                "source": "BABELFY"
+            },
+            {
+                "start": 21,
+                "end": 27,
+                "text": "follows",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 3,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 21,
+                    "end": 27
+                },
+                "babelSynsetID": "bn:00082223v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00082223v",
+                "score": 0.7428571428571429,
+                "coherenceScore": 0.0975609756097561,
+                "globalScore": 0.0017133160903444753,
+                "source": "BABELFY"
+            },
+            {
+                "start": 29,
+                "end": 32,
+                "text": "four",
+                "isEntity": false
+            },
+            {
+                "start": 34,
+                "end": 46,
+                "text": "misunderstood",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 34,
+                    "end": 46
+                },
+                "babelSynsetID": "bn:00083197v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00083197v",
+                "score": 1.0,
+                "coherenceScore": 0.036585365853658534,
+                "globalScore": 0.00014826773858750268,
+                "source": "BABELFY"
+            },
+            {
+                "start": 48,
+                "end": 60,
+                "text": "monsters,2003",
+                "isEntity": false
+            },
+            {
+                "start": 62,
+                "end": 66,
+                "text": "music",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 8,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 62,
+                    "end": 66
+                },
+                "babelSynsetID": "bn:00056443n",
+                "DBpediaURL": "http://dbpedia.org/resource/Music",
+                "BabelNetURL": "http://babelnet.org/rdf/s00056443n",
+                "score": 0.9686475141020595,
+                "coherenceScore": 0.6341463414634146,
+                "globalScore": 0.12164544241445775,
+                "source": "BABELFY"
+            },
+            {
+                "start": 68,
+                "end": 78,
+                "text": "documentary",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 9,
+                    "end": 9
+                },
+                "charFragment": {
+                    "start": 68,
+                    "end": 78
+                },
+                "babelSynsetID": "bn:00028014n",
+                "DBpediaURL": "http://dbpedia.org/resource/Documentary_film",
+                "BabelNetURL": "http://babelnet.org/rdf/s00028014n",
+                "score": 0.7164179104477612,
+                "coherenceScore": 0.17073170731707318,
+                "globalScore": 0.005535328907266767,
+                "source": "BABELFY"
+            },
+            {
+                "start": 80,
+                "end": 88,
+                "text": "lightning",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 80,
+                    "end": 88
+                },
+                "babelSynsetID": "bn:13665966v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s13665966v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 90,
+                "end": 104,
+                "text": "bolt,previously",
+                "isEntity": false
+            },
+            {
+                "start": 106,
+                "end": 113,
+                "text": "provided",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 106,
+                    "end": 113
+                },
+                "babelSynsetID": "bn:00084692v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00084692v",
+                "score": 0.8181818181818182,
+                "coherenceScore": 0.036585365853658534,
+                "globalScore": 0.00014826773858750268,
+                "source": "BABELFY"
+            },
+            {
+                "start": 115,
+                "end": 121,
+                "text": "several",
+                "isEntity": false
+            },
+            {
+                "start": 123,
+                "end": 140,
+                "text": "illustrations,film",
+                "isEntity": false
+            },
+            {
+                "start": 137,
+                "end": 149,
+                "text": "film director",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 18,
+                    "end": 19
+                },
+                "charFragment": {
+                    "start": 137,
+                    "end": 149
+                },
+                "babelSynsetID": "bn:00027369n",
+                "DBpediaURL": "http://dbpedia.org/resource/Film_director",
+                "BabelNetURL": "http://babelnet.org/rdf/s00027369n",
+                "score": 1.0,
+                "coherenceScore": 0.3170731707317073,
+                "globalScore": 0.017561489926030873,
+                "source": "BABELFY"
+            },
+            {
+                "start": 151,
+                "end": 162,
+                "text": "peter glantz",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 20,
+                    "end": 21
+                },
+                "charFragment": {
+                    "start": 151,
+                    "end": 162
+                },
+                "babelSynsetID": "bn:01451686n",
+                "DBpediaURL": "http://dbpedia.org/resource/Peter_Glantz",
+                "BabelNetURL": "http://babelnet.org/rdf/s01451686n",
+                "score": 1.0,
+                "coherenceScore": 0.08536585365853659,
+                "globalScore": 0.0010378741701125187,
+                "source": "BABELFY"
+            },
+            {
+                "start": 157,
+                "end": 168,
+                "text": "glantz,wilco",
+                "isEntity": false
+            },
+            {
+                "start": 170,
+                "end": 177,
+                "text": "frontman",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 24,
+                    "end": 24
+                },
+                "charFragment": {
+                    "start": 170,
+                    "end": 177
+                },
+                "babelSynsetID": "bn:03464733n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lead_vocalist",
+                "BabelNetURL": "http://babelnet.org/rdf/s03464733n",
+                "score": 1.0,
+                "coherenceScore": 0.15853658536585366,
+                "globalScore": 0.0032124676693958912,
+                "source": "BABELFY"
+            },
+            {
+                "start": 179,
+                "end": 189,
+                "text": "jeff tweedy",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 25,
+                    "end": 26
+                },
+                "charFragment": {
+                    "start": 179,
+                    "end": 189
+                },
+                "babelSynsetID": "bn:03835917n",
+                "DBpediaURL": "http://dbpedia.org/resource/Jeff_Tweedy",
+                "BabelNetURL": "http://babelnet.org/rdf/s03835917n",
+                "score": 1.0,
+                "coherenceScore": 0.0975609756097561,
+                "globalScore": 0.0015815225449333618,
+                "source": "BABELFY"
+            },
+            {
+                "start": 184,
+                "end": 193,
+                "text": "tweedy,sky",
+                "isEntity": false
+            },
+            {
+                "start": 191,
+                "end": 202,
+                "text": "sky blue sky",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 28,
+                    "end": 30
+                },
+                "charFragment": {
+                    "start": 191,
+                    "end": 202
+                },
+                "babelSynsetID": "bn:03792438n",
+                "DBpediaURL": "http://dbpedia.org/resource/Sky_Blue_Sky",
+                "BabelNetURL": "http://babelnet.org/rdf/s03792438n",
+                "score": 1.0,
+                "coherenceScore": 0.0975609756097561,
+                "globalScore": 0.0014497289995222483,
+                "source": "BABELFY"
+            },
+            {
+                "start": 200,
+                "end": 213,
+                "text": "sky,internally",
+                "isEntity": false
+            },
+            {
+                "start": 215,
+                "end": 226,
+                "text": "manufactured",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 33,
+                    "end": 33
+                },
+                "charFragment": {
+                    "start": 215,
+                    "end": 226
+                },
+                "babelSynsetID": "bn:00085678v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00085678v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 228,
+                "end": 239,
+                "text": "abyss,tweedy",
+                "isEntity": false
+            },
+            {
+                "start": 241,
+                "end": 254,
+                "text": "replied,trippy",
+                "isEntity": false
+            },
+            {
+                "start": 256,
+                "end": 266,
+                "text": "art,rolling",
+                "isEntity": false
+            },
+            {
+                "start": 260,
+                "end": 272,
+                "text": "rolling stone",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 42,
+                    "end": 43
+                },
+                "charFragment": {
+                    "start": 260,
+                    "end": 272
+                },
+                "babelSynsetID": "bn:01891254n",
+                "DBpediaURL": "http://dbpedia.org/resource/Rolling_Stone",
+                "BabelNetURL": "http://babelnet.org/rdf/s01891254n",
+                "score": 0.9696969696969697,
+                "coherenceScore": 0.1951219512195122,
+                "globalScore": 0.004744567634800086,
+                "source": "BABELFY"
+            },
+            {
+                "start": 268,
+                "end": 278,
+                "text": "stone,roger",
+                "isEntity": false
+            },
+            {
+                "start": 274,
+                "end": 285,
+                "text": "roger corman",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 45,
+                    "end": 46
+                },
+                "charFragment": {
+                    "start": 274,
+                    "end": 285
+                },
+                "babelSynsetID": "bn:03778701n",
+                "DBpediaURL": "http://dbpedia.org/resource/Roger_Corman",
+                "BabelNetURL": "http://babelnet.org/rdf/s03778701n",
+                "score": 1.0,
+                "coherenceScore": 0.07317073170731707,
+                "globalScore": 0.0007907612724666809,
+                "source": "BABELFY"
+            },
+            {
+                "start": 280,
+                "end": 290,
+                "text": "corman,real",
+                "isEntity": false
+            },
+            {
+                "start": 292,
+                "end": 310,
+                "text": "suffering,nathaniel",
+                "isEntity": false
+            },
+            {
+                "start": 312,
+                "end": 323,
+                "text": "murphy,liner",
+                "isEntity": false
+            },
+            {
+                "start": 325,
+                "end": 338,
+                "text": "booklet,common",
+                "isEntity": false
+            },
+            {
+                "start": 340,
+                "end": 351,
+                "text": "thread,cheap",
+                "isEntity": false
+            },
+            {
+                "start": 353,
+                "end": 370,
+                "text": "disease,painkiller",
+                "isEntity": false
+            },
+            {
+                "start": 372,
+                "end": 383,
+                "text": "addiction,''",
+                "isEntity": false
+            },
+            {
+                "start": 385,
+                "end": 605,
+                "text": "asked,addiction,'',world,works,theater,sunloathe,started,songs,song,self,salad,reunite,resume,power,pity,mocking,memory,lyrics,lot,line,kill,journey,hints,general,face,directed,clip,battled,assistant,angry,amongst,``,2007",
+                "isEntity": false
+            }
+        ]
+    ]
+}

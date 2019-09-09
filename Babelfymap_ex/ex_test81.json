@@ -1,0 +1,162 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 7,
+                "text": "vocalist",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 7
+                },
+                "babelSynsetID": "bn:00071734n",
+                "DBpediaURL": "http://dbpedia.org/resource/Singing",
+                "BabelNetURL": "http://babelnet.org/rdf/s00071734n",
+                "score": 0.782608695652174,
+                "coherenceScore": 0.3103448275862069,
+                "globalScore": 0.05136986301369863,
+                "source": "BABELFY"
+            },
+            {
+                "start": 9,
+                "end": 20,
+                "text": "kevin parker",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 9,
+                    "end": 20
+                },
+                "babelSynsetID": "bn:03000192n",
+                "DBpediaURL": "http://dbpedia.org/resource/Kevin_Parker_(musician)",
+                "BabelNetURL": "http://babelnet.org/rdf/s03000192n",
+                "score": 0.9259259259259259,
+                "coherenceScore": 0.1724137931034483,
+                "globalScore": 0.007134703196347032,
+                "source": "BABELFY"
+            },
+            {
+                "start": 22,
+                "end": 34,
+                "text": "recorded,last",
+                "isEntity": false
+            },
+            {
+                "start": 36,
+                "end": 39,
+                "text": "five",
+                "isEntity": false
+            },
+            {
+                "start": 41,
+                "end": 54,
+                "text": "minutes,sounds",
+                "isEntity": false
+            },
+            {
+                "start": 56,
+                "end": 59,
+                "text": "like",
+                "isEntity": false
+            },
+            {
+                "start": 61,
+                "end": 68,
+                "text": "fun,hear",
+                "isEntity": false
+            },
+            {
+                "start": 70,
+                "end": 75,
+                "text": "people",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 14
+                },
+                "charFragment": {
+                    "start": 70,
+                    "end": 75
+                },
+                "babelSynsetID": "bn:00061450n",
+                "DBpediaURL": "http://dbpedia.org/resource/People",
+                "BabelNetURL": "http://babelnet.org/rdf/s00061450n",
+                "score": 1.0,
+                "coherenceScore": 0.20689655172413793,
+                "globalScore": 0.017123287671232876,
+                "source": "BABELFY"
+            },
+            {
+                "start": 77,
+                "end": 95,
+                "text": "talking,voyeuristic",
+                "isEntity": false
+            },
+            {
+                "start": 97,
+                "end": 108,
+                "text": "thing,listen",
+                "isEntity": false
+            },
+            {
+                "start": 110,
+                "end": 124,
+                "text": "carefully,great",
+                "isEntity": false
+            },
+            {
+                "start": 126,
+                "end": 134,
+                "text": "time,goes",
+                "isEntity": false
+            },
+            {
+                "start": 131,
+                "end": 139,
+                "text": "goes back",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 26,
+                    "end": 27
+                },
+                "charFragment": {
+                    "start": 131,
+                    "end": 139
+                },
+                "babelSynsetID": "bn:00086301v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00086301v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 136,
+                "end": 145,
+                "text": "back,girls",
+                "isEntity": false
+            },
+            {
+                "start": 147,
+                "end": 157,
+                "text": "laughing,ca",
+                "isEntity": false
+            },
+            {
+                "start": 159,
+                "end": 275,
+                "text": "n,like,hear,track,sound,song,something,party,order,nme,listening,left,involved,guffaws,feeling,explained,create,``,''",
+                "isEntity": false
+            }
+        ]
+    ]
+}

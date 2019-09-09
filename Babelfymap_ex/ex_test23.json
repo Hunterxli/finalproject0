@@ -1,0 +1,432 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 7,
+                "text": "producer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 0
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 7
+                },
+                "babelSynsetID": "bn:03326757n",
+                "DBpediaURL": "http://dbpedia.org/resource/Record_producer",
+                "BabelNetURL": "http://babelnet.org/rdf/s03326757n",
+                "score": 0.847723704866562,
+                "coherenceScore": 0.31746031746031744,
+                "globalScore": 0.015226279430424362,
+                "source": "BABELFY"
+            },
+            {
+                "start": 9,
+                "end": 22,
+                "text": "stephen street",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 1,
+                    "end": 2
+                },
+                "charFragment": {
+                    "start": 9,
+                    "end": 22
+                },
+                "babelSynsetID": "bn:03362037n",
+                "DBpediaURL": "http://dbpedia.org/resource/Stephen_Street",
+                "BabelNetURL": "http://babelnet.org/rdf/s03362037n",
+                "score": 1.0,
+                "coherenceScore": 0.06349206349206349,
+                "globalScore": 0.0005639362752009023,
+                "source": "BABELFY"
+            },
+            {
+                "start": 24,
+                "end": 28,
+                "text": "``,''",
+                "isEntity": false
+            },
+            {
+                "start": 30,
+                "end": 36,
+                "text": "doherty",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 30,
+                    "end": 36
+                },
+                "babelSynsetID": "bn:01425570n",
+                "DBpediaURL": "http://dbpedia.org/resource/O'Doherty_family",
+                "BabelNetURL": "http://babelnet.org/rdf/s01425570n",
+                "score": 0.8,
+                "coherenceScore": 0.06349206349206349,
+                "globalScore": 0.00045114902016072186,
+                "source": "BABELFY"
+            },
+            {
+                "start": 38,
+                "end": 47,
+                "text": "originally",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 38,
+                    "end": 47
+                },
+                "babelSynsetID": "bn:00116472r",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00116472r",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 49,
+                "end": 64,
+                "text": "recorded,doherty",
+                "isEntity": false
+            },
+            {
+                "start": 66,
+                "end": 69,
+                "text": "pays",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 10,
+                    "end": 10
+                },
+                "charFragment": {
+                    "start": 66,
+                    "end": 69
+                },
+                "babelSynsetID": "bn:00091493v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00091493v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 71,
+                "end": 81,
+                "text": "tribute,sun",
+                "isEntity": false
+            },
+            {
+                "start": 83,
+                "end": 90,
+                "text": "march 13",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 14,
+                    "end": 15
+                },
+                "charFragment": {
+                    "start": 83,
+                    "end": 90
+                },
+                "babelSynsetID": "bn:01578973n",
+                "DBpediaURL": "http://dbpedia.org/resource/March_13",
+                "BabelNetURL": "http://babelnet.org/rdf/s01578973n",
+                "score": 1.0,
+                "coherenceScore": 0.12698412698412698,
+                "globalScore": 0.003609192161285775,
+                "source": "BABELFY"
+            },
+            {
+                "start": 89,
+                "end": 94,
+                "text": "13,nme",
+                "isEntity": false
+            },
+            {
+                "start": 96,
+                "end": 103,
+                "text": "march 21",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 18,
+                    "end": 19
+                },
+                "charFragment": {
+                    "start": 96,
+                    "end": 103
+                },
+                "babelSynsetID": "bn:01305828n",
+                "DBpediaURL": "http://dbpedia.org/resource/March_21",
+                "BabelNetURL": "http://babelnet.org/rdf/s01305828n",
+                "score": 1.0,
+                "coherenceScore": 0.2222222222222222,
+                "globalScore": 0.008684618638093895,
+                "source": "BABELFY"
+            },
+            {
+                "start": 102,
+                "end": 108,
+                "text": "21,four",
+                "isEntity": false
+            },
+            {
+                "start": 110,
+                "end": 118,
+                "text": "years ago",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 22,
+                    "end": 23
+                },
+                "charFragment": {
+                    "start": 110,
+                    "end": 118
+                },
+                "babelSynsetID": "bn:02774941n",
+                "DBpediaURL": "http://dbpedia.org/resource/Years_Ago",
+                "BabelNetURL": "http://babelnet.org/rdf/s02774941n",
+                "score": 0.8,
+                "coherenceScore": 0.06349206349206349,
+                "globalScore": 0.00045114902016072186,
+                "source": "BABELFY"
+            },
+            {
+                "start": 116,
+                "end": 125,
+                "text": "ago,former",
+                "isEntity": false
+            },
+            {
+                "start": 127,
+                "end": 135,
+                "text": "libertine",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 26,
+                    "end": 26
+                },
+                "charFragment": {
+                    "start": 127,
+                    "end": 135
+                },
+                "babelSynsetID": "bn:00025622n",
+                "DBpediaURL": "http://dbpedia.org/resource/Libertine",
+                "BabelNetURL": "http://babelnet.org/rdf/s00025622n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 137,
+                "end": 148,
+                "text": "added,second",
+                "isEntity": false
+            },
+            {
+                "start": 143,
+                "end": 158,
+                "text": "second world war",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 29,
+                    "end": 31
+                },
+                "charFragment": {
+                    "start": 143,
+                    "end": 158
+                },
+                "babelSynsetID": "bn:00070139n",
+                "DBpediaURL": "http://dbpedia.org/resource/World_War_II",
+                "BabelNetURL": "http://babelnet.org/rdf/s00070139n",
+                "score": 1.0,
+                "coherenceScore": 0.7619047619047619,
+                "globalScore": 0.2003101649513605,
+                "source": "BABELFY"
+            },
+            {
+                "start": 156,
+                "end": 167,
+                "text": "war,probably",
+                "isEntity": false
+            },
+            {
+                "start": 169,
+                "end": 173,
+                "text": "could",
+                "isEntity": false
+            },
+            {
+                "start": 175,
+                "end": 181,
+                "text": "n,based",
+                "isEntity": false
+            },
+            {
+                "start": 183,
+                "end": 186,
+                "text": "song",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 38,
+                    "end": 38
+                },
+                "charFragment": {
+                    "start": 183,
+                    "end": 186
+                },
+                "babelSynsetID": "bn:00072794n",
+                "DBpediaURL": "http://dbpedia.org/resource/Song",
+                "BabelNetURL": "http://babelnet.org/rdf/s00072794n",
+                "score": 0.956820412168793,
+                "coherenceScore": 0.47619047619047616,
+                "globalScore": 0.054983786832087975,
+                "source": "BABELFY"
+            },
+            {
+                "start": 188,
+                "end": 193,
+                "text": "set,``",
+                "isEntity": false
+            },
+            {
+                "start": 195,
+                "end": 203,
+                "text": "amy,would",
+                "isEntity": false
+            },
+            {
+                "start": 205,
+                "end": 210,
+                "text": "n,take",
+                "isEntity": false
+            },
+            {
+                "start": 212,
+                "end": 229,
+                "text": "anything,sheltered",
+                "isEntity": false
+            },
+            {
+                "start": 231,
+                "end": 253,
+                "text": "accommodation,recording",
+                "isEntity": false
+            },
+            {
+                "start": 245,
+                "end": 261,
+                "text": "recording session",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 53,
+                    "end": 54
+                },
+                "charFragment": {
+                    "start": 245,
+                    "end": 261
+                },
+                "babelSynsetID": "bn:00546708n",
+                "DBpediaURL": "http://dbpedia.org/resource/Studio_recording",
+                "BabelNetURL": "http://babelnet.org/rdf/s00546708n",
+                "score": 1.0,
+                "coherenceScore": 0.06349206349206349,
+                "globalScore": 0.0005639362752009023,
+                "source": "BABELFY"
+            },
+            {
+                "start": 255,
+                "end": 268,
+                "text": "session,mobile",
+                "isEntity": false
+            },
+            {
+                "start": 263,
+                "end": 274,
+                "text": "mobile phone",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 56,
+                    "end": 57
+                },
+                "charFragment": {
+                    "start": 263,
+                    "end": 274
+                },
+                "babelSynsetID": "bn:00017029n",
+                "DBpediaURL": "http://dbpedia.org/resource/Mobile_phone",
+                "BabelNetURL": "http://babelnet.org/rdf/s00017029n",
+                "score": 1.0,
+                "coherenceScore": 0.2222222222222222,
+                "globalScore": 0.009868884816015791,
+                "source": "BABELFY"
+            },
+            {
+                "start": 270,
+                "end": 282,
+                "text": "phone,council",
+                "isEntity": false
+            },
+            {
+                "start": 284,
+                "end": 294,
+                "text": "shipped,big",
+                "isEntity": false
+            },
+            {
+                "start": 296,
+                "end": 308,
+                "text": "house,beloved",
+                "isEntity": false
+            },
+            {
+                "start": 310,
+                "end": 324,
+                "text": "grandmother,amy",
+                "isEntity": false
+            },
+            {
+                "start": 322,
+                "end": 334,
+                "text": "amy winehouse",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 68,
+                    "end": 69
+                },
+                "charFragment": {
+                    "start": 322,
+                    "end": 334
+                },
+                "babelSynsetID": "bn:03834936n",
+                "DBpediaURL": "http://dbpedia.org/resource/Amy_Winehouse",
+                "BabelNetURL": "http://babelnet.org/rdf/s03834936n",
+                "score": 1.0,
+                "coherenceScore": 0.12698412698412698,
+                "globalScore": 0.0022557451008036094,
+                "source": "BABELFY"
+            },
+            {
+                "start": 326,
+                "end": 341,
+                "text": "winehouse,always",
+                "isEntity": false
+            },
+            {
+                "start": 343,
+                "end": 496,
+                "text": "said,'',``,war,song,n,west,went,want,told,three,proud,nanna,make,go,get,explained,evacuated,duet,country,britain,brink,anyway,ahead,afforded,acoustic,2009",
+                "isEntity": false
+            }
+        ]
+    ]
+}

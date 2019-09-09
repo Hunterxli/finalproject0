@@ -1,0 +1,687 @@
+{
+    "all_merged_entities": [
+        [
+            {
+                "start": 0,
+                "end": 10,
+                "text": "lead singer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 0,
+                    "end": 1
+                },
+                "charFragment": {
+                    "start": 0,
+                    "end": 10
+                },
+                "babelSynsetID": "bn:03464733n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lead_vocalist",
+                "BabelNetURL": "http://babelnet.org/rdf/s03464733n",
+                "score": 1.0,
+                "coherenceScore": 0.2,
+                "globalScore": 0.0038886433937251434,
+                "source": "BABELFY"
+            },
+            {
+                "start": 12,
+                "end": 23,
+                "text": "david lowery",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 2,
+                    "end": 3
+                },
+                "charFragment": {
+                    "start": 12,
+                    "end": 23
+                },
+                "babelSynsetID": "bn:14807103n",
+                "DBpediaURL": "http://dbpedia.org/resource/David_Lowery_(musician)",
+                "BabelNetURL": "http://babelnet.org/rdf/s14807103n",
+                "score": 0.9742574257425742,
+                "coherenceScore": 0.21818181818181817,
+                "globalScore": 0.005797613787008396,
+                "source": "BABELFY"
+            },
+            {
+                "start": 25,
+                "end": 29,
+                "text": "first",
+                "isEntity": false
+            },
+            {
+                "start": 31,
+                "end": 33,
+                "text": "met",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 5,
+                    "end": 5
+                },
+                "charFragment": {
+                    "start": 31,
+                    "end": 33
+                },
+                "babelSynsetID": "bn:00085339v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00085339v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 35,
+                "end": 43,
+                "text": "guitarist",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 6,
+                    "end": 6
+                },
+                "charFragment": {
+                    "start": 35,
+                    "end": 43
+                },
+                "babelSynsetID": "bn:00042152n",
+                "DBpediaURL": "http://dbpedia.org/resource/Guitarist",
+                "BabelNetURL": "http://babelnet.org/rdf/s00042152n",
+                "score": 0.93296853625171,
+                "coherenceScore": 0.2,
+                "globalScore": 0.004018264840182648,
+                "source": "BABELFY"
+            },
+            {
+                "start": 45,
+                "end": 58,
+                "text": "johnny hickman",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 7,
+                    "end": 8
+                },
+                "charFragment": {
+                    "start": 45,
+                    "end": 58
+                },
+                "babelSynsetID": "bn:00653289n",
+                "DBpediaURL": "http://dbpedia.org/resource/Johnny_Hickman",
+                "BabelNetURL": "http://babelnet.org/rdf/s00653289n",
+                "score": 1.0,
+                "coherenceScore": 0.16363636363636364,
+                "globalScore": 0.0033937251436146707,
+                "source": "BABELFY"
+            },
+            {
+                "start": 52,
+                "end": 68,
+                "text": "hickman,childhood",
+                "isEntity": false
+            },
+            {
+                "start": 70,
+                "end": 74,
+                "text": "spent",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 11,
+                    "end": 11
+                },
+                "charFragment": {
+                    "start": 70,
+                    "end": 74
+                },
+                "babelSynsetID": "bn:00091458v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00091458v",
+                "score": 1.0,
+                "coherenceScore": 0.03636363636363636,
+                "globalScore": 9.427014287818529e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 76,
+                "end": 81,
+                "text": "moving",
+                "isEntity": false
+            },
+            {
+                "start": 83,
+                "end": 93,
+                "text": "around,band",
+                "isEntity": false
+            },
+            {
+                "start": 95,
+                "end": 114,
+                "text": "camper van beethoven",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 16,
+                    "end": 18
+                },
+                "charFragment": {
+                    "start": 95,
+                    "end": 114
+                },
+                "babelSynsetID": "bn:00816744n",
+                "DBpediaURL": "http://dbpedia.org/resource/Camper_Van_Beethoven",
+                "BabelNetURL": "http://babelnet.org/rdf/s00816744n",
+                "score": 0.7032967032967034,
+                "coherenceScore": 0.21818181818181817,
+                "globalScore": 0.004524966858152894,
+                "source": "BABELFY"
+            },
+            {
+                "start": 106,
+                "end": 117,
+                "text": "beethoven,``",
+                "isEntity": false
+            },
+            {
+                "start": 119,
+                "end": 123,
+                "text": "whole",
+                "isEntity": false
+            },
+            {
+                "start": 125,
+                "end": 129,
+                "text": "lotta",
+                "isEntity": false
+            },
+            {
+                "start": 131,
+                "end": 140,
+                "text": "trouble,''",
+                "isEntity": false
+            },
+            {
+                "start": 142,
+                "end": 143,
+                "text": "``",
+                "isEntity": false
+            },
+            {
+                "start": 145,
+                "end": 150,
+                "text": "sunday",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 26,
+                    "end": 26
+                },
+                "charFragment": {
+                    "start": 145,
+                    "end": 150
+                },
+                "babelSynsetID": "bn:00028190n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lord's_Day",
+                "BabelNetURL": "http://babelnet.org/rdf/s00028190n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 152,
+                "end": 159,
+                "text": "train,us",
+                "isEntity": false
+            },
+            {
+                "start": 161,
+                "end": 169,
+                "text": "air force",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 30,
+                    "end": 31
+                },
+                "charFragment": {
+                    "start": 161,
+                    "end": 169
+                },
+                "babelSynsetID": "bn:00002224n",
+                "DBpediaURL": "http://dbpedia.org/resource/Air_force",
+                "BabelNetURL": "http://babelnet.org/rdf/s00002224n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 165,
+                "end": 173,
+                "text": "force,tea",
+                "isEntity": false
+            },
+            {
+                "start": 171,
+                "end": 178,
+                "text": "tea leaf",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 33,
+                    "end": 34
+                },
+                "charFragment": {
+                    "start": 171,
+                    "end": 178
+                },
+                "babelSynsetID": "bn:00076266n",
+                "DBpediaURL": "http://dbpedia.org/resource/Tea",
+                "BabelNetURL": "http://babelnet.org/rdf/s00076266n",
+                "score": 1.0,
+                "coherenceScore": 0.1,
+                "globalScore": 0.0011665930181175431,
+                "source": "BABELFY"
+            },
+            {
+                "start": 175,
+                "end": 184,
+                "text": "leaf green",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 34,
+                    "end": 35
+                },
+                "charFragment": {
+                    "start": 175,
+                    "end": 184
+                },
+                "babelSynsetID": "bn:00018613n",
+                "DBpediaURL": "http://dbpedia.org/resource/Chlorophyll",
+                "BabelNetURL": "http://babelnet.org/rdf/s00018613n",
+                "score": 1.0,
+                "coherenceScore": 0.02727272727272727,
+                "globalScore": 8.837825894829872e-05,
+                "source": "BABELFY"
+            },
+            {
+                "start": 180,
+                "end": 190,
+                "text": "green,album",
+                "isEntity": false
+            },
+            {
+                "start": 192,
+                "end": 203,
+                "text": "kerosene hat",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 38,
+                    "end": 39
+                },
+                "charFragment": {
+                    "start": 192,
+                    "end": 203
+                },
+                "babelSynsetID": "bn:00286320n",
+                "DBpediaURL": "http://dbpedia.org/resource/Kerosene_Hat",
+                "BabelNetURL": "http://babelnet.org/rdf/s00286320n",
+                "score": 1.0,
+                "coherenceScore": 0.2,
+                "globalScore": 0.003759021947267639,
+                "source": "BABELFY"
+            },
+            {
+                "start": 201,
+                "end": 208,
+                "text": "hat,song",
+                "isEntity": false
+            },
+            {
+                "start": 210,
+                "end": 211,
+                "text": "``",
+                "isEntity": false
+            },
+            {
+                "start": 213,
+                "end": 221,
+                "text": "take,song",
+                "isEntity": false
+            },
+            {
+                "start": 223,
+                "end": 225,
+                "text": "saw",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 46,
+                    "end": 46
+                },
+                "charFragment": {
+                    "start": 223,
+                    "end": 225
+                },
+                "babelSynsetID": "bn:00093430v",
+                "DBpediaURL": "",
+                "BabelNetURL": "http://babelnet.org/rdf/s00093430v",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 227,
+                "end": 239,
+                "text": "release,sound",
+                "isEntity": false
+            },
+            {
+                "start": 235,
+                "end": 245,
+                "text": "sound stage",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 49,
+                    "end": 50
+                },
+                "charFragment": {
+                    "start": 235,
+                    "end": 245
+                },
+                "babelSynsetID": "bn:03508718n",
+                "DBpediaURL": "http://dbpedia.org/resource/Sound_stage",
+                "BabelNetURL": "http://babelnet.org/rdf/s03508718n",
+                "score": 1.0,
+                "coherenceScore": 0.05454545454545454,
+                "globalScore": 0.0002474591250552364,
+                "source": "BABELFY"
+            },
+            {
+                "start": 247,
+                "end": 258,
+                "text": "built,tracks",
+                "isEntity": false
+            },
+            {
+                "start": 260,
+                "end": 274,
+                "text": "``,lowery,theme",
+                "isEntity": false
+            },
+            {
+                "start": 270,
+                "end": 279,
+                "text": "theme song",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 58,
+                    "end": 59
+                },
+                "charFragment": {
+                    "start": 270,
+                    "end": 279
+                },
+                "babelSynsetID": "bn:00071549n",
+                "DBpediaURL": "http://dbpedia.org/resource/Theme_music",
+                "BabelNetURL": "http://babelnet.org/rdf/s00071549n",
+                "score": 0.0,
+                "coherenceScore": 0.0,
+                "globalScore": 0.0,
+                "source": "MCS"
+            },
+            {
+                "start": 276,
+                "end": 285,
+                "text": "song,world",
+                "isEntity": false
+            },
+            {
+                "start": 287,
+                "end": 294,
+                "text": "stage,''",
+                "isEntity": false
+            },
+            {
+                "start": 296,
+                "end": 305,
+                "text": "used,white",
+                "isEntity": false
+            },
+            {
+                "start": 307,
+                "end": 321,
+                "text": "video,skinheads",
+                "isEntity": false
+            },
+            {
+                "start": 323,
+                "end": 339,
+                "text": "bowling,september",
+                "isEntity": false
+            },
+            {
+                "start": 331,
+                "end": 342,
+                "text": "september 67",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 72,
+                    "end": 73
+                },
+                "charFragment": {
+                    "start": 331,
+                    "end": 342
+                },
+                "babelSynsetID": "bn:01140027n",
+                "DBpediaURL": "http://dbpedia.org/resource/Shannon_Worrell",
+                "BabelNetURL": "http://babelnet.org/rdf/s01140027n",
+                "score": 1.0,
+                "coherenceScore": 0.14545454545454545,
+                "globalScore": 0.002262483429076447,
+                "source": "BABELFY"
+            },
+            {
+                "start": 341,
+                "end": 348,
+                "text": "67,santa",
+                "isEntity": false
+            },
+            {
+                "start": 350,
+                "end": 357,
+                "text": "cruz,san",
+                "isEntity": false
+            },
+            {
+                "start": 355,
+                "end": 365,
+                "text": "san antonio",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 78,
+                    "end": 79
+                },
+                "charFragment": {
+                    "start": 355,
+                    "end": 365
+                },
+                "babelSynsetID": "bn:00069098n",
+                "DBpediaURL": "http://dbpedia.org/resource/San_Antonio",
+                "BabelNetURL": "http://babelnet.org/rdf/s00069098n",
+                "score": 0.7368421052631579,
+                "coherenceScore": 0.12727272727272726,
+                "globalScore": 0.001237295625276182,
+                "source": "BABELFY"
+            },
+            {
+                "start": 359,
+                "end": 372,
+                "text": "antonio,record",
+                "isEntity": false
+            },
+            {
+                "start": 367,
+                "end": 381,
+                "text": "record producer",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 81,
+                    "end": 82
+                },
+                "charFragment": {
+                    "start": 367,
+                    "end": 381
+                },
+                "babelSynsetID": "bn:03326757n",
+                "DBpediaURL": "http://dbpedia.org/resource/Record_producer",
+                "BabelNetURL": "http://babelnet.org/rdf/s03326757n",
+                "score": 1.0,
+                "coherenceScore": 0.34545454545454546,
+                "globalScore": 0.017687435557519518,
+                "source": "BABELFY"
+            },
+            {
+                "start": 374,
+                "end": 385,
+                "text": "producer,old",
+                "isEntity": false
+            },
+            {
+                "start": 387,
+                "end": 398,
+                "text": "barn,michael",
+                "isEntity": false
+            },
+            {
+                "start": 400,
+                "end": 409,
+                "text": "moore,many",
+                "isEntity": false
+            },
+            {
+                "start": 411,
+                "end": 422,
+                "text": "bands,lauren",
+                "isEntity": false
+            },
+            {
+                "start": 417,
+                "end": 430,
+                "text": "lauren hoffman",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 93,
+                    "end": 94
+                },
+                "charFragment": {
+                    "start": 417,
+                    "end": 430
+                },
+                "babelSynsetID": "bn:01246126n",
+                "DBpediaURL": "http://dbpedia.org/resource/Lauren_Hoffman",
+                "BabelNetURL": "http://babelnet.org/rdf/s01246126n",
+                "score": 1.0,
+                "coherenceScore": 0.15454545454545454,
+                "globalScore": 0.002604212697009869,
+                "source": "BABELFY"
+            },
+            {
+                "start": 424,
+                "end": 435,
+                "text": "hoffman,film",
+                "isEntity": false
+            },
+            {
+                "start": 437,
+                "end": 450,
+                "text": "bowling,famous",
+                "isEntity": false
+            },
+            {
+                "start": 452,
+                "end": 476,
+                "text": "accomplishment,eventually",
+                "isEntity": false
+            },
+            {
+                "start": 478,
+                "end": 492,
+                "text": "landed,counting",
+                "isEntity": false
+            },
+            {
+                "start": 485,
+                "end": 498,
+                "text": "counting crows",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 105,
+                    "end": 106
+                },
+                "charFragment": {
+                    "start": 485,
+                    "end": 498
+                },
+                "babelSynsetID": "bn:01269610n",
+                "DBpediaURL": "http://dbpedia.org/resource/Counting_Crows",
+                "BabelNetURL": "http://babelnet.org/rdf/s01269610n",
+                "score": 1.0,
+                "coherenceScore": 0.16363636363636364,
+                "globalScore": 0.002969509500662837,
+                "source": "BABELFY"
+            },
+            {
+                "start": 494,
+                "end": 510,
+                "text": "crows,compilation",
+                "isEntity": false
+            },
+            {
+                "start": 512,
+                "end": 526,
+                "text": "single,attended",
+                "isEntity": false
+            },
+            {
+                "start": 528,
+                "end": 545,
+                "text": "school,alternative",
+                "isEntity": false
+            },
+            {
+                "start": 535,
+                "end": 551,
+                "text": "alternative music",
+                "isEntity": true,
+                "tokenFragment": {
+                    "start": 114,
+                    "end": 115
+                },
+                "charFragment": {
+                    "start": 535,
+                    "end": 551
+                },
+                "babelSynsetID": "bn:00912356n",
+                "DBpediaURL": "http://dbpedia.org/resource/Alternative_rock",
+                "BabelNetURL": "http://babelnet.org/rdf/s00912356n",
+                "score": 1.0,
+                "coherenceScore": 0.38181818181818183,
+                "globalScore": 0.01583738400353513,
+                "source": "BABELFY"
+            },
+            {
+                "start": 547,
+                "end": 556,
+                "text": "music,also",
+                "isEntity": false
+            },
+            {
+                "start": 558,
+                "end": 568,
+                "text": "worked,1993",
+                "isEntity": false
+            },
+            {
+                "start": 570,
+                "end": 761,
+                "text": "hit,'',uk,together,texas,stationed,sparklehorse,ride,redlands,recorded,put,produced,pioneertown,perhaps,glimpsed,formed,father,cracker,columbine,close,charts,california,born,black,bike,amongst",
+                "isEntity": false
+            }
+        ]
+    ]
+}
